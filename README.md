@@ -55,15 +55,15 @@ The system was tested on Ubuntu 16.0.4
    * Python environment and packages:
    
       * Python 2.7.12
-      * scipy==1.0.0
-      * numpy==1.11.0
-      * fuzzywuzzy==0.16.0
-      * nltk==3.2.5
-      * sent2vec==0.0.0
-      * gensim==3.3.0
-      * Pillow==5.1.0
-      * pyenchant==2.0.0
-      * scikit_learn==0.19.1
+      * scipy 1.0.0
+      * numpy 1.11.0
+      * fuzzywuzzy 0.16.0
+      * nltk 3.2.5
+      * sent2vec 0.0.0
+      * gensim 3.3.0
+      * Pillow 5.1.0
+      * pyenchant 2.0.0
+      * scikit_learn 0.19.1
       
    * Pretrained Sent2vec
       
