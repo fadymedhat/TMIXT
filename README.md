@@ -78,8 +78,8 @@ The system was tested on Ubuntu 16.0.4
    Make sure the previous packages and software is installed correctly. Some are already there in the RecognitionPrinted/bin folder
    e.g. deskew and imgtxtenh. So you do not need to install these two.
    
-   Download the trained models following the text files provided (here)[https://github.com/fadymedhat/TMIXT/tree/master/HOCRParser/rsc]
-   and (here)[https://github.com/fadymedhat/TMIXT/tree/master/RecognitionHand/dir_input/model]
+   Download the trained models following the text files provided [here](https://github.com/fadymedhat/TMIXT/tree/master/HOCRParser/rsc)
+   and [here](https://github.com/fadymedhat/TMIXT/tree/master/RecognitionHand/dir_input/model)
    
 
 # Modules
