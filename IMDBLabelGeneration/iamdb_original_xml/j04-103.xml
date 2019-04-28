@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="j04-103" last-modified="2002-07-17" skew="0" status="final" version="3.0_beta" width="2479" writer-id="413">
+  <machine-printed-part>
+    <machine-print-line text="The bismuth was recovered from the eluate as the phosphate. Results did not differ" />
+    <machine-print-line text="from those obtained by the more convenient method of heating the dissolved chro-" />
+    <machine-print-line text="mates in 2 N hydrochloric acid for fifteen minutes. The more rigorous method of" />
+    <machine-print-line text="securing chemical exchange was unnecessary. Lead-210 when present in effluent is" />
+    <machine-print-line text="likely to be found only at very low concentrations." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-116" asx="0" asy="734" character-width="999" dss="-116" dsx="0" dsy="799" fd0="12474" fd1="2951" fd2="-855" filter-width="3" id="j04-103-00" lbs="-139" lbx="0" lby="787" segmentation="ok" slant="99000" stroke-width="4889" threshold="183" text="The bismuth was recovered from the eluate as the" ubs="-70" ubx="0" uby="762">
+      <word id="j04-103-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="344" y="735" width="50" height="48" />
+        <cmp x="393" y="754" width="63" height="37" />
+      </word>
+      <word id="j04-103-00-01" tag="NN" text="bismuth">
+        <cmp x="519" y="755" width="58" height="36" />
+        <cmp x="565" y="757" width="5" height="4" />
+        <cmp x="570" y="761" width="5" height="3" />
+        <cmp x="581" y="763" width="30" height="28" />
+        <cmp x="614" y="767" width="53" height="20" />
+        <cmp x="676" y="766" width="32" height="23" />
+        <cmp x="714" y="751" width="64" height="40" />
+      </word>
+      <word id="j04-103-00-02" tag="BEDZ" text="was">
+        <cmp x="870" y="760" width="35" height="28" />
+        <cmp x="907" y="765" width="55" height="28" />
+      </word>
+      <word id="j04-103-00-03" tag="VBN" text="recovered">
+        <cmp x="1021" y="760" width="98" height="33" />
+        <cmp x="1124" y="766" width="18" height="24" />
+        <cmp x="1149" y="766" width="28" height="25" />
+        <cmp x="1184" y="762" width="17" height="32" />
+        <cmp x="1204" y="766" width="30" height="24" />
+        <cmp x="1231" y="751" width="29" height="37" />
+      </word>
+      <word id="j04-103-00-04" tag="IN" text="from">
+        <cmp x="1313" y="739" width="35" height="63" />
+        <cmp x="1348" y="763" width="20" height="26" />
+        <cmp x="1371" y="764" width="22" height="28" />
+        <cmp x="1397" y="766" width="46" height="32" />
+      </word>
+      <word id="j04-103-00-05" tag="ATI" text="the">
+        <cmp x="1470" y="750" width="85" height="45" />
+      </word>
+      <word id="j04-103-00-06" tag="NN" text="eluate">
+        <cmp x="1591" y="745" width="39" height="47" />
+        <cmp x="1635" y="764" width="27" height="27" />
+        <cmp x="1666" y="743" width="55" height="49" />
+        <cmp x="1723" y="762" width="30" height="31" />
+      </word>
+      <word id="j04-103-00-07" tag="IN" text="as">
+        <cmp x="1800" y="758" width="59" height="30" />
+      </word>
+      <word id="j04-103-00-08" tag="ATI" text="the">
+        <cmp x="1883" y="743" width="95" height="46" />
+      </word>
+      <lower-contour>
+        <point x="342" y="802" />
+        <point x="1979" y="802" />
+      </lower-contour>
+    </line>
+    <line ass="-1" asx="0" asy="905" character-width="999" dss="-1" dsx="0" dsy="979" fd0="12670" fd1="2959" fd2="-1256" filter-width="3" id="j04-103-01" lbs="-13" lbx="0" lby="970" segmentation="ok" slant="95000" stroke-width="5002" threshold="182" text="phosphate. Results did not differ from those obtained by the more" ubs="23" ubx="0" uby="943">
+      <word id="j04-103-01-00" tag="NN" text="phosphate">
+        <cmp x="327" y="942" width="30" height="31" />
+        <cmp x="361" y="927" width="55" height="47" />
+        <cmp x="423" y="936" width="23" height="30" />
+        <cmp x="450" y="942" width="24" height="37" />
+        <cmp x="479" y="906" width="74" height="65" />
+        <cmp x="550" y="943" width="23" height="24" />
+      </word>
+      <word id="j04-103-01-01" tag="." text=".">
+        <cmp x="588" y="956" width="4" height="7" />
+      </word>
+      <word id="j04-103-01-02" sentence-start="yes" tag="NNS" text="Results">
+        <cmp x="604" y="921" width="33" height="49" />
+        <cmp x="647" y="943" width="40" height="32" />
+        <cmp x="689" y="947" width="22" height="27" />
+        <cmp x="721" y="927" width="74" height="45" />
+      </word>
+      <word id="j04-103-01-03" tag="DOD" text="did">
+        <cmp x="818" y="938" width="40" height="41" />
+        <cmp x="849" y="934" width="8" height="12" />
+        <cmp x="864" y="933" width="24" height="39" />
+      </word>
+      <word id="j04-103-01-04" tag="XNOT" text="not">
+        <cmp x="930" y="943" width="38" height="24" />
+        <cmp x="971" y="930" width="53" height="42" />
+      </word>
+      <word id="j04-103-01-05" tag="VB" text="differ">
+        <cmp x="1056" y="935" width="45" height="37" />
+        <cmp x="1083" y="927" width="4" height="4" />
+        <cmp x="1105" y="922" width="73" height="59" />
+        <cmp x="1182" y="941" width="20" height="25" />
+      </word>
+      <word id="j04-103-01-06" tag="IN" text="from">
+        <cmp x="1232" y="906" width="83" height="73" />
+        <cmp x="1318" y="950" width="42" height="29" />
+      </word>
+      <word id="j04-103-01-07" tag="DTS" text="those">
+        <cmp x="1382" y="930" width="131" height="48" />
+      </word>
+      <word id="j04-103-01-08" tag="VBN" text="obtained">
+        <cmp x="1541" y="945" width="30" height="24" />
+        <cmp x="1579" y="926" width="34" height="44" />
+        <cmp x="1618" y="930" width="35" height="37" />
+        <cmp x="1643" y="939" width="33" height="29" />
+        <cmp x="1676" y="944" width="11" height="25" />
+        <cmp x="1677" y="929" width="4" height="5" />
+        <cmp x="1681" y="935" width="3" height="4" />
+        <cmp x="1694" y="950" width="34" height="19" />
+        <cmp x="1732" y="930" width="49" height="42" />
+      </word>
+      <word id="j04-103-01-09" tag="IN" text="by">
+        <cmp x="1820" y="935" width="29" height="34" />
+        <cmp x="1853" y="943" width="28" height="34" />
+      </word>
+      <word id="j04-103-01-10" tag="ATI" text="the">
+        <cmp x="1920" y="931" width="83" height="42" />
+      </word>
+      <word id="j04-103-01-11" tag="QL" text="more">
+        <cmp x="2029" y="941" width="99" height="31" />
+        <cmp x="2121" y="944" width="34" height="26" />
+      </word>
+      <upper-contour>
+        <point x="342" y="802" />
+        <point x="1979" y="802" />
+      </upper-contour>
+      <lower-contour>
+        <point x="337" y="982" />
+        <point x="1759" y="982" />
+      </lower-contour>
+    </line>
+    <line ass="-94" asx="0" asy="1096" character-width="999" dss="-94" dsx="0" dsy="1181" fd0="12760" fd1="3167" fd2="-1098" filter-width="3" id="j04-103-02" lbs="-63" lbx="0" lby="1147" segmentation="ok" slant="95000" stroke-width="5001" threshold="184" text="convenient method of heating the dissolved chro-" ubs="-157" ubx="0" uby="1120">
+      <word id="j04-103-02-00" tag="JJ" text="convenient">
+        <cmp x="339" y="1116" width="50" height="31" />
+        <cmp x="396" y="1121" width="24" height="24" />
+        <cmp x="426" y="1121" width="17" height="28" />
+        <cmp x="446" y="1122" width="22" height="26" />
+        <cmp x="472" y="1126" width="30" height="21" />
+        <cmp x="513" y="1113" width="5" height="7" />
+        <cmp x="515" y="1125" width="6" height="22" />
+        <cmp x="530" y="1121" width="55" height="30" />
+        <cmp x="585" y="1106" width="25" height="46" />
+      </word>
+      <word id="j04-103-02-01" tag="NN" text="method">
+        <cmp x="655" y="1126" width="47" height="29" />
+        <cmp x="709" y="1127" width="20" height="28" />
+        <cmp x="729" y="1109" width="113" height="44" />
+      </word>
+      <word id="j04-103-02-02" tag="INO" text="of">
+        <cmp x="887" y="1100" width="55" height="61" />
+      </word>
+      <word id="j04-103-02-03" tag="VBG" text="heating">
+        <cmp x="957" y="1113" width="55" height="35" />
+        <cmp x="1011" y="1106" width="62" height="41" />
+        <cmp x="1059" y="1107" width="10" height="9" />
+        <cmp x="1076" y="1126" width="35" height="21" />
+        <cmp x="1118" y="1127" width="45" height="56" />
+      </word>
+      <word id="j04-103-02-04" tag="ATI" text="the">
+        <cmp x="1189" y="1110" width="77" height="41" />
+      </word>
+      <word id="j04-103-02-05" tag="JJ" text="dissolved">
+        <cmp x="1291" y="1110" width="47" height="39" />
+        <cmp x="1326" y="1112" width="10" height="8" />
+        <cmp x="1351" y="1124" width="21" height="27" />
+        <cmp x="1373" y="1118" width="44" height="33" />
+        <cmp x="1424" y="1100" width="42" height="52" />
+        <cmp x="1476" y="1105" width="53" height="46" />
+      </word>
+      <word id="j04-103-02-06" tag="NNS-" text="chro-">
+        <cmp x="1571" y="1120" width="37" height="25" />
+        <cmp x="1609" y="1109" width="60" height="45" />
+        <cmp x="1669" y="1129" width="25" height="23" />
+        <cmp x="1729" y="1137" width="29" height="4" />
+      </word>
+      <upper-contour>
+        <point x="337" y="982" />
+        <point x="1759" y="982" />
+      </upper-contour>
+      <lower-contour>
+        <point x="337" y="1183" />
+        <point x="1759" y="1183" />
+      </lower-contour>
+    </line>
+    <line ass="-173" asx="0" asy="1271" character-width="999" dss="-173" dsx="0" dsy="1344" fd0="12798" fd1="2379" fd2="-1107" filter-width="3" id="j04-103-03" lbs="-128" lbx="0" lby="1327" segmentation="ok" slant="96000" stroke-width="4904" threshold="185" text="mates in 2 N hydrochloric acid for fifteen minutes. The more" ubs="-262" ubx="0" uby="1299">
+      <word id="j04-103-03-00" tag="-NNS" text="mates">
+        <cmp x="312" y="1275" width="150" height="58" />
+      </word>
+      <word id="j04-103-03-01" tag="IN" text="in">
+        <cmp x="486" y="1293" width="11" height="9" />
+        <cmp x="488" y="1306" width="9" height="25" />
+        <cmp x="498" y="1305" width="33" height="21" />
+      </word>
+      <word id="j04-103-03-02" tag="CD" text="2">
+        <cmp x="576" y="1293" width="35" height="38" />
+      </word>
+      <word id="j04-103-03-03" tag="NNU" text="N">
+        <cmp x="642" y="1285" width="31" height="41" />
+      </word>
+      <word id="j04-103-03-04" tag="JJ" text="hydrochloric">
+        <cmp x="705" y="1277" width="23" height="45" />
+        <cmp x="738" y="1300" width="23" height="35" />
+        <cmp x="768" y="1284" width="47" height="43" />
+        <cmp x="819" y="1299" width="24" height="30" />
+        <cmp x="847" y="1294" width="27" height="34" />
+        <cmp x="876" y="1277" width="27" height="49" />
+        <cmp x="916" y="1278" width="8" height="48" />
+        <cmp x="932" y="1300" width="20" height="26" />
+        <cmp x="960" y="1300" width="19" height="27" />
+        <cmp x="978" y="1291" width="6" height="8" />
+        <cmp x="987" y="1308" width="6" height="22" />
+        <cmp x="1004" y="1304" width="18" height="28" />
+      </word>
+      <word id="j04-103-03-05" tag="NN" text="acid">
+        <cmp x="1100" y="1301" width="39" height="26" />
+        <cmp x="1140" y="1302" width="37" height="30" />
+        <cmp x="1168" y="1288" width="5" height="16" />
+        <cmp x="1183" y="1289" width="29" height="39" />
+      </word>
+      <word id="j04-103-03-06" tag="IN" text="for">
+        <cmp x="1249" y="1275" width="65" height="67" />
+      </word>
+      <word id="j04-103-03-07" tag="CD" text="fifteen">
+        <cmp x="1349" y="1275" width="52" height="72" />
+        <cmp x="1412" y="1278" width="83" height="72" />
+        <cmp x="1492" y="1308" width="55" height="31" />
+      </word>
+      <word id="j04-103-03-08" tag="NNS" text="minutes">
+        <cmp x="1588" y="1306" width="64" height="23" />
+        <cmp x="1655" y="1289" width="8" height="11" />
+        <cmp x="1661" y="1309" width="6" height="19" />
+        <cmp x="1672" y="1306" width="39" height="22" />
+        <cmp x="1716" y="1305" width="27" height="24" />
+        <cmp x="1743" y="1278" width="31" height="50" />
+        <cmp x="1771" y="1303" width="50" height="32" />
+      </word>
+      <word id="j04-103-03-09" tag="." text=".">
+        <cmp x="1830" y="1321" width="4" height="3" />
+      </word>
+      <word id="j04-103-03-10" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="1843" y="1289" width="49" height="39" />
+        <cmp x="1899" y="1291" width="62" height="41" />
+      </word>
+      <word id="j04-103-03-11" tag="QL" text="more">
+        <cmp x="2001" y="1306" width="60" height="25" />
+        <cmp x="2066" y="1305" width="53" height="29" />
+        <cmp x="2122" y="1306" width="29" height="26" />
+      </word>
+      <upper-contour>
+        <point x="337" y="1183" />
+        <point x="1759" y="1183" />
+      </upper-contour>
+      <lower-contour>
+        <point x="329" y="1350" />
+        <point x="2152" y="1350" />
+      </lower-contour>
+    </line>
+    <line ass="-164" asx="0" asy="1451" character-width="999" dss="-164" dsx="0" dsy="1544" fd0="13085" fd1="2404" fd2="-1397" filter-width="3" id="j04-103-04" lbs="-147" lbx="0" lby="1506" segmentation="ok" slant="90000" stroke-width="4947" threshold="187" text="rigorous method of securing chemical exchange was unnecessary." ubs="-199" ubx="0" uby="1476">
+      <word id="j04-103-04-00" tag="JJ" text="rigorous">
+        <cmp x="331" y="1471" width="23" height="27" />
+        <cmp x="360" y="1465" width="7" height="6" />
+        <cmp x="364" y="1480" width="6" height="20" />
+        <cmp x="381" y="1475" width="58" height="59" />
+        <cmp x="446" y="1474" width="22" height="31" />
+        <cmp x="470" y="1478" width="22" height="26" />
+        <cmp x="497" y="1476" width="44" height="27" />
+      </word>
+      <word id="j04-103-04-01" tag="NN" text="method">
+        <cmp x="581" y="1476" width="52" height="26" />
+        <cmp x="634" y="1478" width="22" height="25" />
+        <cmp x="664" y="1468" width="84" height="45" />
+        <cmp x="756" y="1473" width="25" height="39" />
+      </word>
+      <word id="j04-103-04-02" tag="INO" text="of">
+        <cmp x="812" y="1481" width="24" height="26" />
+        <cmp x="851" y="1455" width="24" height="61" />
+      </word>
+      <word id="j04-103-04-03" tag="VBG" text="securing">
+        <cmp x="905" y="1475" width="48" height="35" />
+        <cmp x="956" y="1483" width="100" height="34" />
+        <cmp x="1050" y="1472" width="5" height="6" />
+        <cmp x="1066" y="1488" width="34" height="25" />
+        <cmp x="1107" y="1482" width="45" height="56" />
+      </word>
+      <word id="j04-103-04-04" tag="JJ" text="chemical">
+        <cmp x="1193" y="1462" width="128" height="56" />
+        <cmp x="1323" y="1467" width="3" height="6" />
+        <cmp x="1324" y="1486" width="8" height="24" />
+        <cmp x="1339" y="1477" width="62" height="34" />
+        <cmp x="1396" y="1459" width="23" height="45" />
+      </word>
+      <word id="j04-103-04-05" tag="NN" text="exchange">
+        <cmp x="1457" y="1474" width="29" height="34" />
+        <cmp x="1500" y="1481" width="26" height="29" />
+        <cmp x="1530" y="1481" width="31" height="35" />
+        <cmp x="1559" y="1467" width="89" height="48" />
+        <cmp x="1656" y="1484" width="64" height="66" />
+      </word>
+      <word id="j04-103-04-06" tag="BEDZ" text="was">
+        <cmp x="1750" y="1480" width="39" height="28" />
+        <cmp x="1794" y="1481" width="56" height="34" />
+      </word>
+      <word id="j04-103-04-07" tag="JJ" text="unnecessary">
+        <cmp x="1900" y="1481" width="38" height="26" />
+        <cmp x="1944" y="1482" width="81" height="22" />
+        <cmp x="2031" y="1479" width="27" height="24" />
+        <cmp x="2066" y="1479" width="21" height="25" />
+        <cmp x="2088" y="1481" width="25" height="23" />
+        <cmp x="2118" y="1476" width="43" height="29" />
+        <cmp x="2167" y="1477" width="31" height="26" />
+        <cmp x="2203" y="1482" width="54" height="54" />
+      </word>
+      <word id="j04-103-04-08" tag="." text=".">
+        <cmp x="2263" y="1506" width="9" height="6" />
+      </word>
+      <upper-contour>
+        <point x="329" y="1350" />
+        <point x="2152" y="1350" />
+      </upper-contour>
+      <lower-contour>
+        <point x="342" y="1550" />
+        <point x="2199" y="1550" />
+      </lower-contour>
+    </line>
+    <line ass="-44" asx="0" asy="1623" character-width="999" dss="-44" dsx="0" dsy="1711" fd0="12294" fd1="2929" fd2="-688" filter-width="3" id="j04-103-05" lbs="61" lbx="0" lby="1686" segmentation="err" slant="94000" stroke-width="4977" threshold="181" text="Lead-210 when present in effluent is likely to be found" ubs="-257" ubx="0" uby="1656">
+      <word id="j04-103-05-00" sentence-start="yes" tag="NN" text="Lead-210">
+        <cmp x="344" y="1625" width="37" height="62" />
+        <cmp x="378" y="1640" width="111" height="49" />
+        <cmp x="513" y="1666" width="26" height="9" />
+        <cmp x="557" y="1654" width="31" height="30" />
+        <cmp x="607" y="1654" width="5" height="30" />
+        <cmp x="617" y="1659" width="30" height="27" />
+      </word>
+      <word id="j04-103-05-01" tag="WRB" text="when">
+        <cmp x="703" y="1647" width="47" height="37" />
+        <cmp x="751" y="1634" width="73" height="51" />
+      </word>
+      <word id="j04-103-05-02" tag="JJ" text="present">
+        <cmp x="864" y="1657" width="60" height="42" />
+        <cmp x="923" y="1656" width="101" height="35" />
+        <cmp x="1025" y="1647" width="30" height="44" />
+      </word>
+      <word id="j04-103-05-03" tag="IN" text="in">
+        <cmp x="1088" y="1646" width="11" height="11" />
+        <cmp x="1092" y="1662" width="9" height="19" />
+        <cmp x="1108" y="1667" width="38" height="20" />
+      </word>
+      <word id="j04-103-05-04" tag="NN" text="effluent">
+        <cmp x="1188" y="1656" width="33" height="27" />
+        <cmp x="1221" y="1632" width="58" height="73" />
+        <cmp x="1286" y="1633" width="9" height="52" />
+        <cmp x="1304" y="1657" width="26" height="28" />
+        <cmp x="1333" y="1637" width="86" height="49" />
+      </word>
+      <word id="j04-103-05-05" tag="BEZ" text="is">
+        <cmp x="1456" y="1649" width="4" height="8" />
+        <cmp x="1460" y="1662" width="8" height="22" />
+        <cmp x="1481" y="1660" width="25" height="31" />
+      </word>
+      <word id="j04-103-05-06" tag="JJ" text="likely">
+        <cmp x="1541" y="1640" width="40" height="47" />
+        <cmp x="1563" y="1636" width="5" height="18" />
+        <cmp x="1596" y="1635" width="111" height="79" />
+      </word>
+      <word id="j04-103-05-07" tag="TO" text="to">
+        <cmp x="1742" y="1656" width="79" height="40" />
+      </word>
+      <word id="j04-103-05-08" tag="BE" text="be">
+        <cmp x="1849" y="1657" width="3" height="3" />
+        <cmp x="1852" y="1650" width="28" height="40" />
+        <cmp x="1889" y="1666" width="30" height="25" />
+      </word>
+      <word id="j04-103-05-09" tag="VBN" text="found">
+        <cmp x="1956" y="1628" width="104" height="71" />
+        <cmp x="2067" y="1671" width="37" height="15" />
+        <cmp x="2110" y="1647" width="29" height="41" />
+        <cmp x="2191" y="1670" width="8" height="9" />
+      </word>
+      <upper-contour>
+        <point x="342" y="1550" />
+        <point x="2199" y="1550" />
+      </upper-contour>
+      <lower-contour>
+        <point x="342" y="1705" />
+        <point x="1315" y="1705" />
+      </lower-contour>
+    </line>
+    <line ass="-266" asx="0" asy="1796" character-width="999" dss="-266" dsx="0" dsy="1892" fd0="12717" fd1="3069" fd2="-817" filter-width="3" id="j04-103-06" lbs="-229" lbx="0" lby="1862" segmentation="ok" slant="90000" stroke-width="5050" threshold="186" text="only at very low concentrations." ubs="-341" ubx="0" uby="1836">
+      <word id="j04-103-06-00" tag="RB" text="only">
+        <cmp x="335" y="1837" width="58" height="24" />
+        <cmp x="404" y="1809" width="55" height="87" />
+      </word>
+      <word id="j04-103-06-01" tag="IN" text="at">
+        <cmp x="508" y="1799" width="58" height="69" />
+      </word>
+      <word id="j04-103-06-02" tag="QL" text="very">
+        <cmp x="604" y="1847" width="17" height="20" />
+        <cmp x="627" y="1841" width="73" height="43" />
+      </word>
+      <word id="j04-103-06-03" tag="JJ" text="low">
+        <cmp x="733" y="1813" width="88" height="54" />
+      </word>
+      <word id="j04-103-06-04" tag="NNS" text="concentrations">
+        <cmp x="862" y="1836" width="50" height="36" />
+        <cmp x="919" y="1845" width="32" height="21" />
+        <cmp x="958" y="1841" width="23" height="27" />
+        <cmp x="981" y="1841" width="29" height="31" />
+        <cmp x="1012" y="1824" width="98" height="47" />
+        <cmp x="1115" y="1840" width="37" height="25" />
+        <cmp x="1149" y="1811" width="48" height="49" />
+        <cmp x="1187" y="1820" width="8" height="10" />
+        <cmp x="1206" y="1837" width="21" height="30" />
+        <cmp x="1228" y="1847" width="39" height="19" />
+        <cmp x="1275" y="1842" width="14" height="25" />
+      </word>
+      <word id="j04-103-06-05" tag="." text=".">
+        <cmp x="1304" y="1854" width="10" height="11" />
+      </word>
+      <upper-contour>
+        <point x="342" y="1705" />
+        <point x="1315" y="1705" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

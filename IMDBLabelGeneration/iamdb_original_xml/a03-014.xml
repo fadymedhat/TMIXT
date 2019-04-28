@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-15" height="3542" id="a03-014" last-modified="2002-07-17" skew="0" status="final" version="3.0_beta" width="2479" writer-id="043">
+  <machine-printed-part>
+    <machine-print-line text="Two emissaries from the Laotian Government of Prince Boun Oum have arrived in" />
+    <machine-print-line text="Phnom Penh, Cambodia, to invite Prince Souvanna Phouma, the former Prime Min-" />
+    <machine-print-line text="ister, to return to Laos. No details of their mission have been disclosed, but it was" />
+    <machine-print-line text="reported earlier in Laos that Prince Boun Oum was considering asking Prince Sou-" />
+    <machine-print-line text="vanna Phouma to join his Government." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-31" asx="0" asy="677" character-width="999" dss="-31" dsx="0" dsy="855" fd0="13767" fd1="2190" fd2="-1162" filter-width="4" id="a03-014-00" lbs="-103" lbx="0" lby="796" segmentation="ok" slant="66000" stroke-width="5865" threshold="182" text="Two emissaries from the Laotian Government" ubs="112" ubx="0" uby="767">
+      <word id="a03-014-00-00" sentence-start="yes" tag="CD" text="Two">
+        <cmp x="351" y="702" width="138" height="105" />
+      </word>
+      <word id="a03-014-00-01" tag="NNS" text="emissaries">
+        <cmp x="543" y="762" width="378" height="46" />
+        <cmp x="682" y="712" width="9" height="9" />
+      </word>
+      <word id="a03-014-00-02" tag="IN" text="from">
+        <cmp x="966" y="691" width="175" height="166" />
+      </word>
+      <word id="a03-014-00-03" tag="ATI" text="the">
+        <cmp x="1186" y="703" width="120" height="98" />
+      </word>
+      <word id="a03-014-00-04" tag="JNP" text="Laotian">
+        <cmp x="1354" y="678" width="322" height="135" />
+        <cmp x="1636" y="714" width="9" height="6" />
+      </word>
+      <word id="a03-014-00-05" tag="NN" text="Government">
+        <cmp x="1735" y="726" width="416" height="131" />
+      </word>
+      <lower-contour>
+        <point x="349" y="808" />
+        <point x="970" y="857" />
+        <point x="1072" y="814" />
+        <point x="1735" y="858" />
+        <point x="1957" y="858" />
+      </lower-contour>
+    </line>
+    <line ass="-470" asx="0" asy="809" character-width="999" dss="-470" dsx="0" dsy="959" fd0="13615" fd1="2472" fd2="-848" filter-width="3" id="a03-014-01" lbs="-552" lbx="0" lby="923" segmentation="ok" slant="65000" stroke-width="5709" threshold="182" text="of Prince Boun Oum have arrived in" ubs="-305" ubx="0" uby="893">
+      <word id="a03-014-01-00" tag="INO" text="of">
+        <cmp x="344" y="812" width="107" height="151" />
+      </word>
+      <word id="a03-014-01-01" tag="NPT" text="Prince">
+        <cmp x="493" y="824" width="219" height="120" />
+        <cmp x="635" y="847" width="11" height="11" />
+      </word>
+      <word id="a03-014-01-02" tag="NP" text="Boun">
+        <cmp x="769" y="824" width="82" height="111" />
+        <cmp x="824" y="897" width="155" height="44" />
+      </word>
+      <word id="a03-014-01-03" tag="NP" text="Oum">
+        <cmp x="1038" y="856" width="198" height="90" />
+      </word>
+      <word id="a03-014-01-04" tag="HV" text="have">
+        <cmp x="1297" y="829" width="186" height="108" />
+      </word>
+      <word id="a03-014-01-05" tag="VBN" text="arrived">
+        <cmp x="1541" y="867" width="299" height="78" />
+        <cmp x="1715" y="855" width="6" height="9" />
+      </word>
+      <word id="a03-014-01-06" tag="IN" text="in">
+        <cmp x="1862" y="906" width="94" height="52" />
+        <cmp x="1905" y="881" width="13" height="11" />
+      </word>
+      <upper-contour>
+        <point x="349" y="808" />
+        <point x="970" y="857" />
+        <point x="1072" y="814" />
+        <point x="1735" y="858" />
+        <point x="1957" y="858" />
+      </upper-contour>
+      <lower-contour>
+        <point x="344" y="963" />
+        <point x="1957" y="963" />
+      </lower-contour>
+    </line>
+    <line ass="-87" asx="0" asy="1003" character-width="999" dss="-87" dsx="0" dsy="1156" fd0="13601" fd1="2128" fd2="-1349" filter-width="4" id="a03-014-02" lbs="-13" lbx="0" lby="1102" segmentation="ok" slant="64000" stroke-width="5917" threshold="182" text="Phnom Penh, Cambodia, to invite Prince" ubs="-234" ubx="0" uby="1058">
+      <word id="a03-014-02-00" tag="NP" text="Phnom">
+        <cmp x="346" y="1010" width="69" height="115" />
+        <cmp x="364" y="1010" width="226" height="103" />
+      </word>
+      <word id="a03-014-02-01" tag="NP" text="Penh">
+        <cmp x="675" y="1005" width="71" height="94" />
+        <cmp x="687" y="1012" width="173" height="101" />
+      </word>
+      <word id="a03-014-02-02" tag="," text=",">
+        <cmp x="869" y="1101" width="22" height="54" />
+      </word>
+      <word id="a03-014-02-03" tag="NP" text="Cambodia">
+        <cmp x="946" y="1016" width="354" height="97" />
+        <cmp x="1284" y="1018" width="10" height="10" />
+      </word>
+      <word id="a03-014-02-04" tag="," text=",">
+        <cmp x="1310" y="1100" width="28" height="58" />
+      </word>
+      <word id="a03-014-02-05" tag="TO" text="to">
+        <cmp x="1396" y="1014" width="56" height="83" />
+        <cmp x="1414" y="1053" width="79" height="55" />
+      </word>
+      <word id="a03-014-02-06" tag="VB" text="invite">
+        <cmp x="1518" y="1020" width="245" height="99" />
+        <cmp x="1589" y="1011" width="12" height="10" />
+        <cmp x="1711" y="1049" width="9" height="6" />
+        <cmp x="1727" y="1058" width="48" height="60" />
+      </word>
+      <word id="a03-014-02-07" tag="NPT" text="Prince">
+        <cmp x="1846" y="1009" width="226" height="119" />
+        <cmp x="1982" y="1026" width="12" height="6" />
+      </word>
+      <upper-contour>
+        <point x="344" y="963" />
+        <point x="1957" y="963" />
+      </upper-contour>
+      <lower-contour>
+        <point x="344" y="1158" />
+        <point x="2073" y="1158" />
+      </lower-contour>
+    </line>
+    <line ass="-89" asx="0" asy="1174" character-width="999" dss="-89" dsx="0" dsy="1362" fd0="13624" fd1="2105" fd2="-1451" filter-width="4" id="a03-014-03" lbs="-128" lbx="0" lby="1296" segmentation="ok" slant="64000" stroke-width="6036" threshold="182" text="Souvanna Phouma, the former Prime Min-" ubs="-12" ubx="0" uby="1268">
+      <word id="a03-014-03-00" tag="NP" text="Souvanna">
+        <cmp x="342" y="1175" width="407" height="135" />
+      </word>
+      <word id="a03-014-03-01" tag="NP" text="Phouma">
+        <cmp x="822" y="1204" width="67" height="101" />
+        <cmp x="837" y="1210" width="289" height="97" />
+      </word>
+      <word id="a03-014-03-02" tag="," text=",">
+        <cmp x="1148" y="1292" width="22" height="51" />
+      </word>
+      <word id="a03-014-03-03" tag="ATI" text="the">
+        <cmp x="1192" y="1209" width="154" height="99" />
+      </word>
+      <word id="a03-014-03-04" tag="AP" text="former">
+        <cmp x="1407" y="1212" width="243" height="154" />
+      </word>
+      <word id="a03-014-03-05" tag="NPT" text="Prime">
+        <cmp x="1708" y="1203" width="72" height="111" />
+        <cmp x="1723" y="1264" width="180" height="45" />
+        <cmp x="1832" y="1214" width="10" height="13" />
+      </word>
+      <word id="a03-014-03-06" tag="NPT-" text="Min-">
+        <cmp x="1950" y="1227" width="182" height="88" />
+        <cmp x="2090" y="1222" width="29" height="17" />
+        <cmp x="2191" y="1285" width="24" height="8" />
+      </word>
+      <upper-contour>
+        <point x="344" y="1158" />
+        <point x="2073" y="1158" />
+      </upper-contour>
+      <lower-contour>
+        <point x="340" y="1366" />
+        <point x="2165" y="1366" />
+      </lower-contour>
+    </line>
+    <line ass="-1392" asx="0" asy="1336" character-width="999" dss="-1392" dsx="0" dsy="1515" fd0="13893" fd1="2211" fd2="-987" filter-width="4" id="a03-014-04" lbs="-1526" lbx="0" lby="1475" segmentation="ok" slant="56000" stroke-width="6103" threshold="182" text="ister, to return to Laos. No details of" ubs="-1124" ubx="0" uby="1445">
+      <word id="a03-014-04-00" tag="-NPT" text="ister">
+        <cmp x="328" y="1391" width="184" height="105" />
+        <cmp x="407" y="1376" width="10" height="9" />
+      </word>
+      <word id="a03-014-04-01" tag="," text=",">
+        <cmp x="512" y="1479" width="20" height="49" />
+      </word>
+      <word id="a03-014-04-02" tag="TO" text="to">
+        <cmp x="581" y="1387" width="112" height="114" />
+      </word>
+      <word id="a03-014-04-03" tag="VB" text="return">
+        <cmp x="742" y="1398" width="285" height="105" />
+      </word>
+      <word id="a03-014-04-04" tag="IN" text="to">
+        <cmp x="1091" y="1405" width="102" height="107" />
+      </word>
+      <word id="a03-014-04-05" tag="NP" text="Laos">
+        <cmp x="1260" y="1393" width="186" height="128" />
+      </word>
+      <word id="a03-014-04-06" tag="." text=".">
+        <cmp x="1458" y="1509" width="9" height="8" />
+      </word>
+      <word id="a03-014-04-07" sentence-start="yes" tag="ATI" text="No">
+        <cmp x="1526" y="1423" width="142" height="105" />
+      </word>
+      <word id="a03-014-04-08" tag="NNS" text="details">
+        <cmp x="1712" y="1413" width="273" height="110" />
+        <cmp x="1946" y="1415" width="10" height="6" />
+      </word>
+      <word id="a03-014-04-09" tag="INO" text="of">
+        <cmp x="2045" y="1385" width="119" height="162" />
+      </word>
+      <upper-contour>
+        <point x="340" y="1366" />
+        <point x="2165" y="1366" />
+      </upper-contour>
+      <lower-contour>
+        <point x="326" y="1547" />
+        <point x="2165" y="1547" />
+      </lower-contour>
+    </line>
+    <line ass="-710" asx="0" asy="1551" character-width="999" dss="-710" dsx="0" dsy="1720" fd0="13866" fd1="2176" fd2="-1164" filter-width="4" id="a03-014-05" lbs="-620" lbx="0" lby="1668" segmentation="ok" slant="63000" stroke-width="5903" threshold="175" text="their mission have been disclosed, but it" ubs="-890" ubx="0" uby="1626">
+      <word id="a03-014-05-00" tag="PP$" text="their">
+        <cmp x="272" y="1569" width="218" height="114" />
+        <cmp x="467" y="1603" width="9" height="6" />
+      </word>
+      <word id="a03-014-05-01" tag="NN" text="mission">
+        <cmp x="541" y="1635" width="325" height="52" />
+        <cmp x="696" y="1572" width="14" height="7" />
+        <cmp x="804" y="1600" width="9" height="9" />
+      </word>
+      <word id="a03-014-05-02" tag="HV" text="have">
+        <cmp x="943" y="1563" width="184" height="132" />
+      </word>
+      <word id="a03-014-05-03" tag="BEN" text="been">
+        <cmp x="1182" y="1580" width="183" height="114" />
+      </word>
+      <word id="a03-014-05-04" tag="VBN" text="disclosed">
+        <cmp x="1445" y="1596" width="437" height="106" />
+        <cmp x="1591" y="1575" width="11" height="9" />
+      </word>
+      <word id="a03-014-05-05" tag="," text=",">
+        <cmp x="1889" y="1691" width="24" height="53" />
+        <cmp x="1911" y="1686" width="4" height="4" />
+      </word>
+      <word id="a03-014-05-06" tag="CC" text="but">
+        <cmp x="1935" y="1590" width="187" height="114" />
+      </word>
+      <word id="a03-014-05-07" tag="PP3" text="it">
+        <cmp x="2150" y="1595" width="109" height="101" />
+        <cmp x="2211" y="1596" width="16" height="13" />
+      </word>
+      <upper-contour>
+        <point x="326" y="1547" />
+        <point x="2165" y="1547" />
+      </upper-contour>
+      <lower-contour>
+        <point x="299" y="1703" />
+        <point x="1889" y="1745" />
+        <point x="2233" y="1745" />
+      </lower-contour>
+    </line>
+    <line ass="133" asx="0" asy="1737" character-width="999" dss="133" dsx="0" dsy="1922" fd0="13591" fd1="2091" fd2="-1240" filter-width="4" id="a03-014-06" lbs="259" lbx="0" lby="1875" segmentation="ok" slant="68000" stroke-width="6348" threshold="182" text="was reported earlier in Laos that Prince" ubs="-119" ubx="0" uby="1824">
+      <word id="a03-014-06-00" tag="BEDZ" text="was">
+        <cmp x="301" y="1825" width="192" height="58" />
+      </word>
+      <word id="a03-014-06-01" tag="VBN" text="reported">
+        <cmp x="553" y="1760" width="340" height="162" />
+      </word>
+      <word id="a03-014-06-02" tag="RBR" text="earlier">
+        <cmp x="951" y="1778" width="284" height="99" />
+        <cmp x="1181" y="1759" width="9" height="8" />
+      </word>
+      <word id="a03-014-06-03" tag="IN" text="in">
+        <cmp x="1271" y="1831" width="107" height="45" />
+        <cmp x="1329" y="1781" width="11" height="12" />
+      </word>
+      <word id="a03-014-06-04" tag="NP" text="Laos">
+        <cmp x="1469" y="1734" width="198" height="146" />
+      </word>
+      <word id="a03-014-06-05" tag="CS" text="that">
+        <cmp x="1735" y="1769" width="210" height="127" />
+      </word>
+      <word id="a03-014-06-06" tag="NPT" text="Prince">
+        <cmp x="2004" y="1769" width="228" height="123" />
+        <cmp x="2145" y="1766" width="26" height="13" />
+      </word>
+      <upper-contour>
+        <point x="299" y="1703" />
+        <point x="1889" y="1745" />
+        <point x="2233" y="1745" />
+      </upper-contour>
+      <lower-contour>
+        <point x="332" y="1922" />
+        <point x="2218" y="1922" />
+      </lower-contour>
+    </line>
+    <line ass="564" asx="0" asy="1939" character-width="999" dss="564" dsx="0" dsy="2149" fd0="13600" fd1="2535" fd2="-942" filter-width="4" id="a03-014-07" lbs="607" lbx="0" lby="2083" segmentation="ok" slant="72000" stroke-width="6198" threshold="182" text="Boun Oum was considering asking" ubs="477" ubx="0" uby="2038">
+      <word id="a03-014-07-00" tag="NP" text="Boun">
+        <cmp x="334" y="1943" width="69" height="138" />
+        <cmp x="401" y="2033" width="186" height="57" />
+      </word>
+      <word id="a03-014-07-01" tag="NP" text="Oum">
+        <cmp x="684" y="1972" width="227" height="99" />
+      </word>
+      <word id="a03-014-07-02" tag="BEDZ" text="was">
+        <cmp x="982" y="2023" width="204" height="56" />
+      </word>
+      <word id="a03-014-07-03" tag="VBG" text="considering">
+        <cmp x="1270" y="1968" width="541" height="158" />
+        <cmp x="1590" y="1925" width="13" height="9" />
+        <cmp x="1716" y="1986" width="14" height="9" />
+      </word>
+      <word id="a03-014-07-04" tag="VBG" text="asking">
+        <cmp x="1893" y="1947" width="324" height="182" />
+        <cmp x="2141" y="1941" width="20" height="29" />
+      </word>
+      <upper-contour>
+        <point x="332" y="1922" />
+        <point x="2218" y="1922" />
+      </upper-contour>
+      <lower-contour>
+        <point x="332" y="2114" />
+        <point x="1760" y="2127" />
+        <point x="1832" y="2119" />
+        <point x="2152" y="2129" />
+        <point x="2175" y="2129" />
+      </lower-contour>
+    </line>
+    <line ass="421" asx="0" asy="2121" character-width="999" dss="421" dsx="0" dsy="2317" fd0="13712" fd1="2425" fd2="-1147" filter-width="4" id="a03-014-08" lbs="498" lbx="0" lby="2248" segmentation="err" slant="73000" stroke-width="5953" threshold="175" text="Prince Souvanna Phouma to join his" ubs="267" ubx="0" uby="2205">
+      <word id="a03-014-08-00" tag="NPT" text="Prince">
+        <cmp x="331" y="2134" width="62" height="127" />
+        <cmp x="351" y="2192" width="214" height="60" />
+        <cmp x="485" y="2144" width="14" height="11" />
+      </word>
+      <word id="a03-014-08-01" tag="NP" text="Souvanna">
+        <cmp x="639" y="2117" width="430" height="139" />
+      </word>
+      <word id="a03-014-08-02" tag="NP" text="Phouma">
+        <cmp x="1176" y="2139" width="73" height="120" />
+        <cmp x="1202" y="2137" width="331" height="122" />
+      </word>
+      <word id="a03-014-08-03" tag="TO" text="to">
+        <cmp x="1593" y="2149" width="131" height="105" />
+      </word>
+      <word id="a03-014-08-04" tag="VB" text="join">
+        <cmp x="1746" y="2195" width="177" height="111" />
+        <cmp x="1748" y="2192" width="48" height="45" />
+        <cmp x="1832" y="2121" width="11" height="5" />
+        <cmp x="1879" y="2166" width="11" height="10" />
+      </word>
+      <word id="a03-014-08-05" tag="PP$" text="his">
+        <cmp x="1985" y="2144" width="189" height="123" />
+        <cmp x="2134" y="2158" width="16" height="7" />
+      </word>
+      <upper-contour>
+        <point x="332" y="2114" />
+        <point x="1760" y="2127" />
+        <point x="1832" y="2119" />
+        <point x="2152" y="2129" />
+        <point x="2175" y="2129" />
+      </upper-contour>
+      <lower-contour>
+        <point x="329" y="2261" />
+        <point x="928" y="2261" />
+      </lower-contour>
+    </line>
+    <line ass="3951" asx="0" asy="2354" character-width="999" dss="3951" dsx="0" dsy="2511" fd0="13776" fd1="2538" fd2="-1114" filter-width="4" id="a03-014-09" lbs="4510" lbx="0" lby="2477" segmentation="ok" slant="79000" stroke-width="6269" threshold="175" text="Government." ubs="2834" ubx="0" uby="2421">
+      <word id="a03-014-09-00" tag="NN" text="Government">
+        <cmp x="317" y="2307" width="573" height="184" />
+      </word>
+      <word id="a03-014-09-01" tag="." text=".">
+        <cmp x="917" y="2391" width="10" height="13" />
+      </word>
+      <upper-contour>
+        <point x="329" y="2261" />
+        <point x="928" y="2261" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

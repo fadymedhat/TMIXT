@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-24" height="3542" id="k04-028" last-modified="2002-07-17" skew="30" status="final" version="3.0_beta" width="2479" writer-id="442">
+  <machine-printed-part>
+    <machine-print-line text="I like to think it may have fallen from the dark hair of the Empress Messalina, as she" />
+    <machine-print-line text="crouched in terror in the gardens of Lucullus, awaiting the sword of the executioner.&apos;" />
+    <machine-print-line text="&apos;Ah!&apos; exclaimed Farnese, with a snigger. &apos;The old cuckold Claudius had the last word," />
+    <machine-print-line text="after all. He knew how to deal with an adulterous wife, eh, Orsini?&apos;" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="67" asx="0" asy="733" character-width="999" dss="67" dsx="0" dsy="817" fd0="13424" fd1="2748" fd2="-730" filter-width="4" id="k04-028-00" lbs="134" lbx="0" lby="786" segmentation="err" slant="76000" stroke-width="5756" threshold="183" text="I like to think it may have fallen from the dark" ubs="-66" ubx="0" uby="749">
+      <word id="k04-028-00-00" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="410" y="737" width="25" height="50" />
+      </word>
+      <word id="k04-028-00-01" tag="VB" text="like">
+        <cmp x="473" y="738" width="56" height="49" />
+        <cmp x="521" y="741" width="7" height="6" />
+        <cmp x="541" y="736" width="30" height="48" />
+        <cmp x="576" y="748" width="26" height="38" />
+      </word>
+      <word id="k04-028-00-02" tag="TO" text="to">
+        <cmp x="673" y="747" width="25" height="39" />
+        <cmp x="701" y="755" width="30" height="31" />
+      </word>
+      <word id="k04-028-00-03" tag="VB" text="think">
+        <cmp x="787" y="750" width="26" height="36" />
+        <cmp x="820" y="739" width="33" height="49" />
+        <cmp x="859" y="757" width="16" height="29" />
+        <cmp x="867" y="744" width="9" height="6" />
+        <cmp x="883" y="761" width="26" height="26" />
+        <cmp x="917" y="742" width="27" height="45" />
+      </word>
+      <word id="k04-028-00-04" tag="PP3" text="it">
+        <cmp x="999" y="753" width="12" height="32" />
+        <cmp x="1008" y="740" width="8" height="7" />
+        <cmp x="1027" y="748" width="21" height="33" />
+      </word>
+      <word id="k04-028-00-05" tag="MD" text="may">
+        <cmp x="1089" y="749" width="95" height="35" />
+        <cmp x="1178" y="753" width="37" height="63" />
+      </word>
+      <word id="k04-028-00-06" tag="HV" text="have">
+        <cmp x="1281" y="732" width="33" height="54" />
+        <cmp x="1313" y="753" width="27" height="32" />
+        <cmp x="1346" y="741" width="32" height="42" />
+        <cmp x="1378" y="742" width="35" height="40" />
+      </word>
+      <word id="k04-028-00-07" tag="VBN" text="fallen">
+        <cmp x="1421" y="752" width="26" height="33" />
+        <cmp x="1455" y="757" width="25" height="29" />
+      </word>
+      <word id="k04-028-00-08" tag="IN" text="from">
+        <cmp x="1542" y="734" width="41" height="52" />
+        <cmp x="1588" y="752" width="35" height="36" />
+        <cmp x="1622" y="754" width="27" height="32" />
+        <cmp x="1652" y="757" width="47" height="29" />
+      </word>
+      <word id="k04-028-00-09" tag="ATI" text="the">
+        <cmp x="1762" y="748" width="19" height="39" />
+        <cmp x="1792" y="741" width="28" height="41" />
+        <cmp x="1835" y="752" width="28" height="32" />
+      </word>
+      <word id="k04-028-00-10" tag="JJ" text="dark">
+        <cmp x="1895" y="731" width="80" height="51" />
+        <cmp x="1983" y="746" width="28" height="38" />
+        <cmp x="2017" y="735" width="27" height="47" />
+      </word>
+      <lower-contour>
+        <point x="408" y="816" />
+        <point x="2039" y="816" />
+      </lower-contour>
+    </line>
+    <line ass="251" asx="0" asy="912" character-width="999" dss="251" dsx="0" dsy="992" fd0="13908" fd1="2786" fd2="-1109" filter-width="3" id="k04-028-01" lbs="261" lbx="0" lby="968" segmentation="ok" slant="72000" stroke-width="5610" threshold="184" text="hair of the Empress Messalina, as she crouched" ubs="233" ubx="0" uby="936">
+      <word id="k04-028-01-00" tag="NN" text="hair">
+        <cmp x="384" y="918" width="86" height="46" />
+        <cmp x="464" y="917" width="7" height="10" />
+        <cmp x="477" y="924" width="36" height="43" />
+      </word>
+      <word id="k04-028-01-01" tag="INO" text="of">
+        <cmp x="575" y="933" width="30" height="37" />
+        <cmp x="613" y="911" width="36" height="56" />
+      </word>
+      <word id="k04-028-01-02" tag="ATI" text="the">
+        <cmp x="696" y="925" width="25" height="38" />
+        <cmp x="728" y="920" width="25" height="44" />
+        <cmp x="764" y="935" width="27" height="30" />
+      </word>
+      <word id="k04-028-01-03" tag="NPT" text="Empress">
+        <cmp x="820" y="928" width="37" height="41" />
+        <cmp x="863" y="940" width="49" height="26" />
+        <cmp x="907" y="938" width="36" height="51" />
+        <cmp x="944" y="931" width="28" height="33" />
+        <cmp x="976" y="933" width="29" height="30" />
+        <cmp x="1007" y="931" width="25" height="32" />
+        <cmp x="1033" y="931" width="27" height="34" />
+      </word>
+      <word id="k04-028-01-04" tag="NP" text="Messalina">
+        <cmp x="1132" y="912" width="50" height="50" />
+        <cmp x="1192" y="930" width="26" height="31" />
+        <cmp x="1229" y="930" width="22" height="33" />
+        <cmp x="1260" y="932" width="50" height="33" />
+        <cmp x="1319" y="923" width="95" height="42" />
+        <cmp x="1369" y="925" width="6" height="6" />
+        <cmp x="1415" y="933" width="40" height="36" />
+      </word>
+      <word id="k04-028-01-05" tag="," text=",">
+        <cmp x="1458" y="956" width="16" height="23" />
+      </word>
+      <word id="k04-028-01-06" tag="CS" text="as">
+        <cmp x="1492" y="935" width="36" height="30" />
+        <cmp x="1532" y="933" width="28" height="33" />
+      </word>
+      <word id="k04-028-01-07" tag="PP3A" text="she">
+        <cmp x="1604" y="927" width="28" height="35" />
+        <cmp x="1636" y="921" width="27" height="39" />
+        <cmp x="1671" y="933" width="30" height="32" />
+      </word>
+      <word id="k04-028-01-08" tag="VBD" text="crouched">
+        <cmp x="1747" y="921" width="24" height="33" />
+        <cmp x="1784" y="924" width="27" height="33" />
+        <cmp x="1819" y="927" width="23" height="30" />
+        <cmp x="1847" y="928" width="33" height="31" />
+        <cmp x="1853" y="932" width="4" height="3" />
+        <cmp x="1892" y="930" width="20" height="31" />
+        <cmp x="1921" y="921" width="29" height="39" />
+        <cmp x="1956" y="929" width="28" height="31" />
+        <cmp x="1988" y="911" width="50" height="49" />
+      </word>
+      <upper-contour>
+        <point x="408" y="816" />
+        <point x="2039" y="816" />
+      </upper-contour>
+      <lower-contour>
+        <point x="382" y="989" />
+        <point x="1990" y="989" />
+      </lower-contour>
+    </line>
+    <line ass="87" asx="0" asy="1089" character-width="999" dss="87" dsx="0" dsy="1187" fd0="13872" fd1="2944" fd2="-1027" filter-width="3" id="k04-028-02" lbs="-3" lbx="0" lby="1145" segmentation="err" slant="73000" stroke-width="5582" threshold="187" text="in terror in the gardens of Lucullus, awaiting the" ubs="268" ubx="0" uby="1117">
+      <word id="k04-028-02-00" tag="IN" text="in">
+        <cmp x="353" y="1110" width="15" height="33" />
+        <cmp x="365" y="1099" width="6" height="8" />
+        <cmp x="370" y="1114" width="31" height="29" />
+      </word>
+      <word id="k04-028-02-01" tag="NN" text="terror">
+        <cmp x="460" y="1110" width="24" height="40" />
+        <cmp x="498" y="1115" width="27" height="30" />
+        <cmp x="531" y="1112" width="28" height="33" />
+        <cmp x="556" y="1111" width="56" height="36" />
+        <cmp x="620" y="1113" width="29" height="38" />
+      </word>
+      <word id="k04-028-02-02" tag="IN" text="in">
+        <cmp x="702" y="1119" width="17" height="31" />
+        <cmp x="715" y="1102" width="7" height="10" />
+        <cmp x="725" y="1119" width="27" height="30" />
+      </word>
+      <word id="k04-028-02-03" tag="ATI" text="the">
+        <cmp x="800" y="1108" width="21" height="36" />
+        <cmp x="824" y="1101" width="29" height="41" />
+        <cmp x="865" y="1114" width="27" height="32" />
+      </word>
+      <word id="k04-028-02-04" tag="NNS" text="gardens">
+        <cmp x="935" y="1118" width="30" height="62" />
+        <cmp x="975" y="1117" width="30" height="32" />
+        <cmp x="1013" y="1111" width="34" height="37" />
+        <cmp x="1044" y="1098" width="46" height="54" />
+        <cmp x="1094" y="1117" width="26" height="30" />
+        <cmp x="1128" y="1117" width="27" height="30" />
+        <cmp x="1162" y="1113" width="31" height="38" />
+      </word>
+      <word id="k04-028-02-05" tag="INO" text="of">
+        <cmp x="1264" y="1115" width="25" height="29" />
+        <cmp x="1303" y="1089" width="31" height="51" />
+      </word>
+      <word id="k04-028-02-06" tag="NP" text="Lucullus">
+        <cmp x="1388" y="1106" width="26" height="39" />
+        <cmp x="1416" y="1114" width="34" height="30" />
+        <cmp x="1458" y="1115" width="24" height="28" />
+        <cmp x="1483" y="1115" width="38" height="34" />
+        <cmp x="1526" y="1103" width="62" height="44" />
+        <cmp x="1589" y="1120" width="32" height="28" />
+        <cmp x="1632" y="1115" width="29" height="33" />
+      </word>
+      <word id="k04-028-02-07" tag="," text=",">
+        <cmp x="1683" y="1157" width="12" height="11" />
+        <cmp x="1694" y="1148" width="5" height="9" />
+      </word>
+      <word id="k04-028-02-08" tag="VBG" text="awaiting">
+        <cmp x="1725" y="1106" width="86" height="36" />
+        <cmp x="1817" y="1106" width="54" height="32" />
+        <cmp x="1870" y="1097" width="6" height="5" />
+        <cmp x="1876" y="1101" width="23" height="37" />
+        <cmp x="1908" y="1110" width="11" height="31" />
+        <cmp x="1914" y="1096" width="7" height="10" />
+      </word>
+      <word id="k04-028-02-09" tag="ATI" text="the">
+        <cmp x="1923" y="1108" width="66" height="78" />
+      </word>
+      <upper-contour>
+        <point x="382" y="989" />
+        <point x="1990" y="989" />
+      </upper-contour>
+      <lower-contour>
+        <point x="369" y="1186" />
+        <point x="1990" y="1186" />
+      </lower-contour>
+    </line>
+    <line ass="100" asx="0" asy="1266" character-width="999" dss="100" dsx="0" dsy="1346" fd0="13861" fd1="3032" fd2="-840" filter-width="3" id="k04-028-03" lbs="97" lbx="0" lby="1324" segmentation="err" slant="73000" stroke-width="5649" threshold="184" text="sword of the executioner.&apos; &apos;Ah!&apos; exclaimed" ubs="105" ubx="0" uby="1292">
+      <word id="k04-028-03-00" tag="NN" text="sword">
+        <cmp x="371" y="1280" width="21" height="45" />
+        <cmp x="395" y="1279" width="28" height="48" />
+        <cmp x="437" y="1295" width="28" height="26" />
+        <cmp x="488" y="1288" width="30" height="39" />
+        <cmp x="526" y="1289" width="67" height="35" />
+        <cmp x="599" y="1287" width="33" height="36" />
+        <cmp x="630" y="1270" width="47" height="55" />
+      </word>
+      <word id="k04-028-03-01" tag="INO" text="of">
+        <cmp x="754" y="1285" width="25" height="34" />
+        <cmp x="786" y="1266" width="45" height="58" />
+      </word>
+      <word id="k04-028-03-02" tag="ATI" text="the">
+        <cmp x="881" y="1288" width="20" height="39" />
+        <cmp x="911" y="1275" width="25" height="53" />
+        <cmp x="947" y="1290" width="28" height="33" />
+      </word>
+      <word id="k04-028-03-03" tag="NN" text="executioner">
+        <cmp x="1045" y="1283" width="29" height="34" />
+        <cmp x="1078" y="1284" width="29" height="34" />
+        <cmp x="1113" y="1289" width="26" height="31" />
+        <cmp x="1141" y="1290" width="22" height="31" />
+        <cmp x="1166" y="1290" width="35" height="31" />
+        <cmp x="1213" y="1283" width="23" height="38" />
+        <cmp x="1245" y="1292" width="13" height="28" />
+        <cmp x="1255" y="1280" width="6" height="6" />
+        <cmp x="1269" y="1288" width="25" height="32" />
+        <cmp x="1295" y="1292" width="33" height="30" />
+        <cmp x="1342" y="1290" width="28" height="32" />
+        <cmp x="1375" y="1288" width="27" height="35" />
+        <cmp x="1391" y="1312" width="28" height="32" />
+      </word>
+      <word id="k04-028-03-04" tag="." text=".">
+        <cmp x="1431" y="1276" width="10" height="20" />
+      </word>
+      <word id="k04-028-03-05" tag="**&apos;" text="&apos;">
+        <cmp x="1508" y="1266" width="11" height="24" />
+      </word>
+      <word id="k04-028-03-06" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="1529" y="1277" width="32" height="40" />
+      </word>
+      <word id="k04-028-03-07" tag="UH" text="Ah">
+        <cmp x="1575" y="1276" width="26" height="44" />
+      </word>
+      <word id="k04-028-03-08" tag="!" text="!">
+        <cmp x="1619" y="1309" width="12" height="11" />
+        <cmp x="1625" y="1271" width="8" height="31" />
+        <cmp x="1650" y="1266" width="13" height="17" />
+      </word>
+      <word id="k04-028-03-09" tag="**&apos;" text="&apos;">
+        <cmp x="1721" y="1289" width="28" height="33" />
+      </word>
+      <word id="k04-028-03-10" tag="JJ" text="exclaimed">
+        <cmp x="1752" y="1291" width="32" height="32" />
+        <cmp x="1795" y="1292" width="21" height="32" />
+        <cmp x="1826" y="1277" width="37" height="47" />
+        <cmp x="1859" y="1293" width="57" height="34" />
+        <cmp x="1908" y="1280" width="6" height="9" />
+        <cmp x="1925" y="1295" width="39" height="27" />
+        <cmp x="1974" y="1291" width="28" height="31" />
+        <cmp x="2004" y="1276" width="54" height="47" />
+      </word>
+      <upper-contour>
+        <point x="369" y="1186" />
+        <point x="1990" y="1186" />
+      </upper-contour>
+      <lower-contour>
+        <point x="369" y="1344" />
+        <point x="1921" y="1344" />
+      </lower-contour>
+    </line>
+    <line ass="251" asx="0" asy="1453" character-width="999" dss="251" dsx="0" dsy="1547" fd0="13839" fd1="3122" fd2="-941" filter-width="3" id="k04-028-04" lbs="319" lbx="0" lby="1508" segmentation="ok" slant="76000" stroke-width="5634" threshold="184" text="Farnese, with a snigger. &apos;The old cuckold" ubs="117" ubx="0" uby="1473">
+      <word id="k04-028-04-00" tag="NP" text="Farnese">
+        <cmp x="367" y="1453" width="30" height="48" />
+        <cmp x="392" y="1475" width="29" height="30" />
+        <cmp x="430" y="1471" width="30" height="32" />
+        <cmp x="462" y="1477" width="26" height="30" />
+        <cmp x="499" y="1474" width="26" height="31" />
+        <cmp x="527" y="1477" width="23" height="31" />
+        <cmp x="566" y="1475" width="28" height="32" />
+      </word>
+      <word id="k04-028-04-01" tag="," text=",">
+        <cmp x="610" y="1506" width="15" height="22" />
+      </word>
+      <word id="k04-028-04-02" tag="IN" text="with">
+        <cmp x="648" y="1474" width="46" height="34" />
+        <cmp x="700" y="1474" width="10" height="29" />
+        <cmp x="703" y="1462" width="7" height="6" />
+        <cmp x="720" y="1466" width="27" height="37" />
+        <cmp x="751" y="1451" width="27" height="49" />
+      </word>
+      <word id="k04-028-04-03" tag="AT" text="a">
+        <cmp x="836" y="1469" width="39" height="34" />
+      </word>
+      <word id="k04-028-04-04" tag="NN" text="snigger">
+        <cmp x="951" y="1468" width="26" height="38" />
+        <cmp x="986" y="1474" width="55" height="29" />
+        <cmp x="1033" y="1460" width="6" height="8" />
+        <cmp x="1040" y="1475" width="33" height="65" />
+        <cmp x="1076" y="1477" width="26" height="67" />
+        <cmp x="1113" y="1471" width="29" height="31" />
+        <cmp x="1140" y="1469" width="29" height="34" />
+      </word>
+      <word id="k04-028-04-05" tag="." text=".">
+        <cmp x="1174" y="1491" width="12" height="10" />
+      </word>
+      <word id="k04-028-04-06" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="1248" y="1451" width="12" height="22" />
+      </word>
+      <word id="k04-028-04-07" tag="ATI" text="The">
+        <cmp x="1274" y="1452" width="41" height="49" />
+        <cmp x="1311" y="1454" width="30" height="42" />
+        <cmp x="1356" y="1469" width="26" height="30" />
+      </word>
+      <word id="k04-028-04-08" tag="JJ" text="old">
+        <cmp x="1443" y="1471" width="27" height="30" />
+        <cmp x="1472" y="1454" width="41" height="48" />
+        <cmp x="1514" y="1451" width="48" height="51" />
+      </word>
+      <word id="k04-028-04-09" tag="NN" text="cuckold">
+        <cmp x="1638" y="1471" width="25" height="26" />
+        <cmp x="1656" y="1466" width="8" height="7" />
+        <cmp x="1672" y="1472" width="39" height="30" />
+        <cmp x="1729" y="1468" width="22" height="34" />
+        <cmp x="1764" y="1451" width="24" height="50" />
+        <cmp x="1799" y="1456" width="66" height="50" />
+        <cmp x="1869" y="1451" width="51" height="54" />
+      </word>
+      <upper-contour>
+        <point x="369" y="1344" />
+        <point x="1921" y="1344" />
+      </upper-contour>
+      <lower-contour>
+        <point x="371" y="1544" />
+        <point x="1921" y="1544" />
+      </lower-contour>
+    </line>
+    <line ass="-62" asx="0" asy="1627" character-width="999" dss="-62" dsx="0" dsy="1696" fd0="13521" fd1="2732" fd2="-1046" filter-width="3" id="k04-028-05" lbs="-48" lbx="0" lby="1680" segmentation="ok" slant="77000" stroke-width="5634" threshold="183" text="Claudius had the last word, after all. He" ubs="-91" ubx="0" uby="1643">
+      <word id="k04-028-05-00" tag="NP" text="Claudius">
+        <cmp x="373" y="1630" width="34" height="50" />
+        <cmp x="417" y="1630" width="31" height="50" />
+        <cmp x="449" y="1650" width="32" height="32" />
+        <cmp x="487" y="1649" width="34" height="33" />
+        <cmp x="524" y="1634" width="48" height="48" />
+        <cmp x="583" y="1646" width="10" height="33" />
+        <cmp x="586" y="1632" width="5" height="7" />
+        <cmp x="602" y="1643" width="38" height="35" />
+        <cmp x="643" y="1641" width="36" height="43" />
+      </word>
+      <word id="k04-028-05-01" tag="HVD" text="had">
+        <cmp x="767" y="1630" width="67" height="49" />
+        <cmp x="836" y="1630" width="40" height="51" />
+      </word>
+      <word id="k04-028-05-02" tag="ATI" text="the">
+        <cmp x="968" y="1633" width="28" height="48" />
+        <cmp x="1007" y="1630" width="26" height="47" />
+        <cmp x="1045" y="1647" width="25" height="33" />
+      </word>
+      <word id="k04-028-05-03" tag="AP" text="last">
+        <cmp x="1100" y="1636" width="37" height="45" />
+        <cmp x="1137" y="1642" width="68" height="41" />
+        <cmp x="1207" y="1645" width="24" height="39" />
+      </word>
+      <word id="k04-028-05-04" tag="NN" text="word">
+        <cmp x="1287" y="1650" width="49" height="31" />
+        <cmp x="1336" y="1648" width="28" height="34" />
+        <cmp x="1367" y="1643" width="40" height="38" />
+        <cmp x="1405" y="1636" width="53" height="52" />
+      </word>
+      <word id="k04-028-05-05" tag="," text=",">
+        <cmp x="1459" y="1679" width="14" height="19" />
+      </word>
+      <word id="k04-028-05-06" tag="IN" text="after">
+        <cmp x="1504" y="1651" width="30" height="31" />
+        <cmp x="1551" y="1630" width="34" height="56" />
+        <cmp x="1590" y="1644" width="22" height="40" />
+        <cmp x="1624" y="1649" width="27" height="32" />
+        <cmp x="1658" y="1645" width="34" height="36" />
+      </word>
+      <word id="k04-028-05-07" tag="ABN" text="all">
+        <cmp x="1720" y="1647" width="34" height="34" />
+        <cmp x="1759" y="1636" width="39" height="44" />
+        <cmp x="1791" y="1638" width="37" height="43" />
+      </word>
+      <word id="k04-028-05-08" tag="." text=".">
+        <cmp x="1829" y="1670" width="13" height="11" />
+      </word>
+      <word id="k04-028-05-09" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="1893" y="1634" width="35" height="45" />
+        <cmp x="1943" y="1645" width="29" height="35" />
+      </word>
+      <upper-contour>
+        <point x="371" y="1544" />
+        <point x="1921" y="1544" />
+      </upper-contour>
+      <lower-contour>
+        <point x="379" y="1698" />
+        <point x="1973" y="1698" />
+      </lower-contour>
+    </line>
+    <line ass="-75" asx="0" asy="1807" character-width="999" dss="-75" dsx="0" dsy="1866" fd0="13793" fd1="2937" fd2="-1073" filter-width="3" id="k04-028-06" lbs="-93" lbx="0" lby="1858" segmentation="ok" slant="75000" stroke-width="5702" threshold="183" text="knew how to deal with an adulterous wife," ubs="-40" ubx="0" uby="1826">
+      <word id="k04-028-06-00" tag="VBD" text="knew">
+        <cmp x="381" y="1810" width="27" height="48" />
+        <cmp x="412" y="1828" width="28" height="31" />
+        <cmp x="451" y="1828" width="26" height="35" />
+        <cmp x="486" y="1825" width="51" height="38" />
+      </word>
+      <word id="k04-028-06-01" tag="WRB" text="how">
+        <cmp x="609" y="1810" width="61" height="49" />
+        <cmp x="676" y="1824" width="49" height="36" />
+      </word>
+      <word id="k04-028-06-02" tag="TO" text="to">
+        <cmp x="770" y="1824" width="27" height="36" />
+        <cmp x="807" y="1828" width="27" height="31" />
+      </word>
+      <word id="k04-028-06-03" tag="VB" text="deal">
+        <cmp x="873" y="1809" width="53" height="51" />
+        <cmp x="930" y="1826" width="30" height="34" />
+        <cmp x="960" y="1829" width="27" height="30" />
+        <cmp x="996" y="1815" width="42" height="45" />
+      </word>
+      <word id="k04-028-06-04" tag="IN" text="with">
+        <cmp x="1114" y="1824" width="57" height="36" />
+        <cmp x="1174" y="1824" width="12" height="32" />
+        <cmp x="1178" y="1815" width="8" height="6" />
+        <cmp x="1191" y="1822" width="24" height="38" />
+        <cmp x="1222" y="1814" width="27" height="48" />
+      </word>
+      <word id="k04-028-06-05" tag="AT" text="an">
+        <cmp x="1310" y="1827" width="36" height="35" />
+        <cmp x="1354" y="1834" width="31" height="27" />
+      </word>
+      <word id="k04-028-06-06" tag="JJ" text="adulterous">
+        <cmp x="1437" y="1812" width="94" height="52" />
+        <cmp x="1529" y="1828" width="34" height="33" />
+        <cmp x="1568" y="1815" width="40" height="45" />
+        <cmp x="1608" y="1826" width="20" height="35" />
+        <cmp x="1639" y="1832" width="26" height="30" />
+        <cmp x="1666" y="1825" width="35" height="36" />
+        <cmp x="1699" y="1829" width="29" height="29" />
+        <cmp x="1731" y="1830" width="42" height="31" />
+        <cmp x="1776" y="1826" width="29" height="35" />
+      </word>
+      <word id="k04-028-06-07" tag="NN" text="wife">
+        <cmp x="1880" y="1827" width="47" height="31" />
+        <cmp x="1939" y="1828" width="12" height="29" />
+        <cmp x="1945" y="1817" width="6" height="6" />
+        <cmp x="1964" y="1810" width="34" height="53" />
+        <cmp x="2006" y="1828" width="29" height="33" />
+      </word>
+      <word id="k04-028-06-08" tag="," text=",">
+        <cmp x="2039" y="1851" width="16" height="19" />
+      </word>
+      <upper-contour>
+        <point x="379" y="1698" />
+        <point x="1973" y="1698" />
+      </upper-contour>
+      <lower-contour>
+        <point x="379" y="1863" />
+        <point x="756" y="1863" />
+      </lower-contour>
+    </line>
+    <line ass="657" asx="0" asy="1991" character-width="999" dss="657" dsx="0" dsy="2056" fd0="14067" fd1="3334" fd2="-1104" filter-width="4" id="k04-028-07" lbs="503" lbx="0" lby="2043" segmentation="ok" slant="83000" stroke-width="5833" threshold="178" text="eh, Orsini?&apos;" ubs="963" ubx="0" uby="2012">
+      <word id="k04-028-07-00" tag="UH" text="eh">
+        <cmp x="366" y="1997" width="28" height="36" />
+        <cmp x="400" y="1988" width="27" height="44" />
+      </word>
+      <word id="k04-028-07-01" tag="," text=",">
+        <cmp x="441" y="2029" width="14" height="22" />
+      </word>
+      <word id="k04-028-07-02" tag="NP" text="Orsini">
+        <cmp x="482" y="1988" width="34" height="52" />
+        <cmp x="527" y="2005" width="22" height="34" />
+        <cmp x="554" y="2006" width="24" height="33" />
+        <cmp x="589" y="2012" width="12" height="28" />
+        <cmp x="596" y="1997" width="5" height="8" />
+        <cmp x="611" y="2006" width="42" height="39" />
+        <cmp x="662" y="2009" width="14" height="32" />
+        <cmp x="675" y="2001" width="5" height="4" />
+      </word>
+      <word id="k04-028-07-03" tag="?" text="?">
+        <cmp x="704" y="2029" width="10" height="6" />
+        <cmp x="705" y="1988" width="22" height="38" />
+      </word>
+      <word id="k04-028-07-04" tag="**&apos;" text="&apos;">
+        <cmp x="745" y="1988" width="10" height="19" />
+      </word>
+      <upper-contour>
+        <point x="379" y="1863" />
+        <point x="756" y="1863" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="r06-011" last-modified="2002-07-18" skew="-63" status="final" version="3.0_beta" width="2479" writer-id="635">
+  <machine-printed-part>
+    <machine-print-line text="We went in. There were a few people in the bar, elderly, well-off, artistic, who, you" />
+    <machine-print-line text="felt, had made a hard bargain for giving up. &apos;I have furnished rooms,&apos; said Pierre," />
+    <machine-print-line text="&apos;and all mod cons.&apos; The price was 16,000 francs a month. &apos;Yes,&apos; we said immediately," />
+    <machine-print-line text="even before viewing. We were shown around by Pierre." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-1152" asx="0" asy="702" character-width="999" dss="-1152" dsx="0" dsy="796" fd0="13394" fd1="3351" fd2="615" filter-width="4" id="r06-011-00" lbs="-1107" lbx="0" lby="776" segmentation="ok" slant="75000" stroke-width="5954" threshold="184" text="We went in. There were a few people in the bar," ubs="-1243" ubx="0" uby="747">
+      <word id="r06-011-00-00" sentence-start="yes" tag="PP1AS" text="We">
+        <cmp x="331" y="727" width="48" height="58" />
+        <cmp x="382" y="753" width="37" height="31" />
+      </word>
+      <word id="r06-011-00-01" tag="VBD" text="went">
+        <cmp x="469" y="755" width="31" height="28" />
+        <cmp x="509" y="725" width="78" height="66" />
+      </word>
+      <word id="r06-011-00-02" tag="RP" text="in">
+        <cmp x="627" y="771" width="40" height="28" />
+        <cmp x="634" y="762" width="13" height="9" />
+      </word>
+      <word id="r06-011-00-03" tag="." text=".">
+        <cmp x="683" y="788" width="6" height="7" />
+      </word>
+      <word id="r06-011-00-04" sentence-start="yes" tag="EX" text="There">
+        <cmp x="727" y="721" width="42" height="8" />
+        <cmp x="738" y="731" width="15" height="61" />
+        <cmp x="768" y="718" width="147" height="84" />
+      </word>
+      <word id="r06-011-00-05" tag="BED" text="were">
+        <cmp x="979" y="769" width="41" height="25" />
+        <cmp x="1031" y="764" width="82" height="34" />
+      </word>
+      <word id="r06-011-00-06" tag="AP21" text="a">
+        <cmp x="1161" y="766" width="36" height="28" />
+      </word>
+      <word id="r06-011-00-07" tag="AP22" text="few">
+        <cmp x="1230" y="728" width="89" height="83" />
+      </word>
+      <word id="r06-011-00-08" tag="NNS" text="people">
+        <cmp x="1359" y="747" width="180" height="80" />
+      </word>
+      <word id="r06-011-00-09" tag="IN" text="in">
+        <cmp x="1601" y="782" width="41" height="23" />
+        <cmp x="1604" y="754" width="7" height="8" />
+      </word>
+      <word id="r06-011-00-10" tag="ATI" text="the">
+        <cmp x="1696" y="750" width="74" height="52" />
+      </word>
+      <word id="r06-011-00-11" tag="NN" text="bar">
+        <cmp x="1810" y="751" width="97" height="64" />
+      </word>
+      <word id="r06-011-00-12" tag="," text=",">
+        <cmp x="1907" y="805" width="13" height="24" />
+      </word>
+      <lower-contour>
+        <point x="336" y="829" />
+        <point x="1921" y="829" />
+      </lower-contour>
+    </line>
+    <line ass="-539" asx="0" asy="892" character-width="999" dss="-539" dsx="0" dsy="1003" fd0="13802" fd1="2575" fd2="-180" filter-width="4" id="r06-011-01" lbs="-477" lbx="0" lby="967" segmentation="ok" slant="71000" stroke-width="6223" threshold="183" text="elderly, well-off, artistic, who, you felt, had made a hard" ubs="-665" ubx="0" uby="936">
+      <word id="r06-011-01-00" tag="JJ" text="elderly">
+        <cmp x="338" y="896" width="162" height="98" />
+      </word>
+      <word id="r06-011-01-01" tag="," text=",">
+        <cmp x="505" y="968" width="14" height="22" />
+      </word>
+      <word id="r06-011-01-02" tag="JJ" text="well-off">
+        <cmp x="611" y="943" width="39" height="35" />
+        <cmp x="658" y="905" width="70" height="65" />
+        <cmp x="728" y="948" width="19" height="9" />
+        <cmp x="771" y="907" width="86" height="94" />
+      </word>
+      <word id="r06-011-01-03" tag="," text=",">
+        <cmp x="862" y="970" width="21" height="34" />
+      </word>
+      <word id="r06-011-01-04" tag="JJ" text="artistic">
+        <cmp x="931" y="920" width="107" height="56" />
+        <cmp x="1042" y="916" width="65" height="54" />
+        <cmp x="1069" y="917" width="10" height="6" />
+      </word>
+      <word id="r06-011-01-05" tag="," text=",">
+        <cmp x="1102" y="967" width="18" height="29" />
+      </word>
+      <word id="r06-011-01-06" tag="WP" text="who">
+        <cmp x="1154" y="946" width="38" height="25" />
+        <cmp x="1197" y="912" width="43" height="64" />
+      </word>
+      <word id="r06-011-01-07" tag="," text=",">
+        <cmp x="1248" y="970" width="12" height="27" />
+      </word>
+      <word id="r06-011-01-08" tag="PP2" text="you">
+        <cmp x="1285" y="951" width="40" height="65" />
+        <cmp x="1329" y="957" width="56" height="24" />
+        <cmp x="1334" y="963" width="10" height="5" />
+      </word>
+      <word id="r06-011-01-09" tag="VBD" text="felt">
+        <cmp x="1418" y="920" width="104" height="89" />
+      </word>
+      <word id="r06-011-01-10" tag="," text=",">
+        <cmp x="1543" y="980" width="15" height="26" />
+      </word>
+      <word id="r06-011-01-11" tag="HVD" text="had">
+        <cmp x="1582" y="928" width="93" height="54" />
+      </word>
+      <word id="r06-011-01-12" tag="VBN" text="made">
+        <cmp x="1717" y="925" width="146" height="57" />
+      </word>
+      <word id="r06-011-01-13" tag="AT" text="a">
+        <cmp x="1914" y="961" width="35" height="32" />
+      </word>
+      <word id="r06-011-01-14" tag="JJ" text="hard">
+        <cmp x="2003" y="921" width="135" height="67" />
+      </word>
+      <upper-contour>
+        <point x="336" y="829" />
+        <point x="1921" y="829" />
+      </upper-contour>
+      <lower-contour>
+        <point x="342" y="1016" />
+        <point x="2042" y="1016" />
+      </lower-contour>
+    </line>
+    <line ass="-144" asx="0" asy="1063" character-width="999" dss="-144" dsx="0" dsy="1195" fd0="13203" fd1="3129" fd2="279" filter-width="4" id="r06-011-02" lbs="9" lbx="0" lby="1156" segmentation="ok" slant="85000" stroke-width="6004" threshold="184" text="bargain for giving up. &apos;I have furnished rooms,&apos; said" ubs="-451" ubx="0" uby="1118">
+      <word id="r06-011-02-00" tag="NN" text="bargain">
+        <cmp x="344" y="1072" width="88" height="74" />
+        <cmp x="444" y="1121" width="129" height="73" />
+        <cmp x="536" y="1101" width="8" height="7" />
+      </word>
+      <word id="r06-011-02-01" tag="IN" text="for">
+        <cmp x="641" y="1082" width="88" height="86" />
+      </word>
+      <word id="r06-011-02-02" tag="VBG" text="giving">
+        <cmp x="780" y="1112" width="77" height="73" />
+        <cmp x="823" y="1096" width="9" height="9" />
+        <cmp x="869" y="1127" width="88" height="72" />
+        <cmp x="889" y="1104" width="9" height="9" />
+      </word>
+      <word id="r06-011-02-03" tag="RP" text="up">
+        <cmp x="998" y="1127" width="50" height="60" />
+      </word>
+      <word id="r06-011-02-04" tag="." text=".">
+        <cmp x="1065" y="1158" width="7" height="7" />
+      </word>
+      <word id="r06-011-02-05" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="1119" y="1076" width="19" height="17" />
+      </word>
+      <word id="r06-011-02-06" tag="PP1A" text="I">
+        <cmp x="1152" y="1074" width="23" height="64" />
+      </word>
+      <word id="r06-011-02-07" tag="HV" text="have">
+        <cmp x="1206" y="1077" width="81" height="70" />
+        <cmp x="1217" y="1068" width="6" height="7" />
+        <cmp x="1290" y="1120" width="51" height="26" />
+      </word>
+      <word id="r06-011-02-08" tag="JJ" text="furnished">
+        <cmp x="1394" y="1089" width="154" height="88" />
+        <cmp x="1554" y="1094" width="82" height="56" />
+      </word>
+      <word id="r06-011-02-09" tag="NNS" text="rooms">
+        <cmp x="1679" y="1125" width="114" height="41" />
+        <cmp x="1804" y="1141" width="21" height="25" />
+      </word>
+      <word id="r06-011-02-10" tag="," text=",">
+        <cmp x="1836" y="1155" width="19" height="31" />
+      </word>
+      <word id="r06-011-02-11" tag="**&apos;" text="&apos;">
+        <cmp x="1856" y="1104" width="12" height="14" />
+      </word>
+      <word id="r06-011-02-12" tag="VBD" text="said">
+        <cmp x="1908" y="1109" width="134" height="52" />
+      </word>
+      <upper-contour>
+        <point x="342" y="1016" />
+        <point x="2042" y="1016" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="1199" />
+        <point x="2042" y="1199" />
+      </lower-contour>
+    </line>
+    <line ass="-595" asx="0" asy="1249" character-width="999" dss="-595" dsx="0" dsy="1352" fd0="13432" fd1="3312" fd2="329" filter-width="4" id="r06-011-03" lbs="-620" lbx="0" lby="1322" segmentation="err" slant="86000" stroke-width="6023" threshold="184" text="Pierre, &apos;and all mod cons.&apos; The price was 16,000 francs a" ubs="-546" ubx="0" uby="1299">
+      <word id="r06-011-03-00" tag="NP" text="Pierre">
+        <cmp x="351" y="1254" width="17" height="73" />
+        <cmp x="369" y="1283" width="131" height="55" />
+      </word>
+      <word id="r06-011-03-01" tag="," text=",">
+        <cmp x="526" y="1325" width="14" height="21" />
+      </word>
+      <word id="r06-011-03-02" tag="*&apos;" text="&apos;">
+        <cmp x="584" y="1264" width="19" height="23" />
+      </word>
+      <word id="r06-011-03-03" tag="CC" text="and">
+        <cmp x="623" y="1278" width="108" height="52" />
+      </word>
+      <word id="r06-011-03-04" tag="ABN" text="all">
+        <cmp x="774" y="1272" width="76" height="59" />
+      </word>
+      <word id="r06-011-03-05" tag="JJ" text="mod">
+        <cmp x="877" y="1284" width="110" height="49" />
+      </word>
+      <word id="r06-011-03-06" tag="NNS" text="cons">
+        <cmp x="997" y="1304" width="105" height="34" />
+      </word>
+      <word id="r06-011-03-07" tag="." text=".">
+        <cmp x="1116" y="1274" width="19" height="17" />
+      </word>
+      <word id="r06-011-03-08" tag="**&apos;" text="&apos;">
+        <cmp x="1116" y="1330" width="7" height="7" />
+      </word>
+      <word id="r06-011-03-09" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="1175" y="1289" width="33" height="46" />
+        <cmp x="1209" y="1270" width="63" height="67" />
+      </word>
+      <word id="r06-011-03-10" tag="NN" text="price">
+        <cmp x="1311" y="1281" width="65" height="80" />
+        <cmp x="1366" y="1301" width="4" height="4" />
+        <cmp x="1372" y="1286" width="4" height="7" />
+        <cmp x="1384" y="1304" width="64" height="31" />
+      </word>
+      <word id="r06-011-03-11" tag="BEDZ" text="was">
+        <cmp x="1480" y="1304" width="37" height="32" />
+        <cmp x="1522" y="1307" width="49" height="31" />
+      </word>
+      <word id="r06-011-03-12" tag="CD" text="16,000">
+        <cmp x="1617" y="1286" width="45" height="48" />
+        <cmp x="1660" y="1289" width="20" height="49" />
+        <cmp x="1681" y="1283" width="7" height="5" />
+        <cmp x="1683" y="1338" width="10" height="19" />
+        <cmp x="1703" y="1294" width="87" height="46" />
+      </word>
+      <word id="r06-011-03-13" tag="NNS" text="francs">
+        <cmp x="1842" y="1287" width="115" height="86" />
+        <cmp x="1965" y="1318" width="48" height="36" />
+      </word>
+      <word id="r06-011-03-14" tag="AT" text="a">
+        <cmp x="2057" y="1321" width="37" height="31" />
+      </word>
+      <upper-contour>
+        <point x="349" y="1199" />
+        <point x="2042" y="1199" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="1373" />
+        <point x="2018" y="1373" />
+      </lower-contour>
+    </line>
+    <line ass="-434" asx="0" asy="1433" character-width="999" dss="-434" dsx="0" dsy="1541" fd0="13847" fd1="3499" fd2="302" filter-width="4" id="r06-011-04" lbs="-497" lbx="0" lby="1503" segmentation="err" slant="78000" stroke-width="6193" threshold="182" text="month. &apos;Yes,&apos; we said immediately, even before viewing." ubs="-309" ubx="0" uby="1482">
+      <word id="r06-011-04-00" tag="NN" text="month">
+        <cmp x="344" y="1468" width="101" height="35" />
+        <cmp x="450" y="1444" width="44" height="59" />
+      </word>
+      <word id="r06-011-04-01" tag="." text=".">
+        <cmp x="519" y="1501" width="6" height="7" />
+      </word>
+      <word id="r06-011-04-02" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="571" y="1454" width="18" height="26" />
+      </word>
+      <word id="r06-011-04-03" tag="UH" text="Yes">
+        <cmp x="601" y="1453" width="52" height="75" />
+        <cmp x="648" y="1480" width="41" height="33" />
+      </word>
+      <word id="r06-011-04-04" tag="," text=",">
+        <cmp x="711" y="1451" width="18" height="12" />
+      </word>
+      <word id="r06-011-04-05" tag="**&apos;" text="&apos;">
+        <cmp x="734" y="1504" width="12" height="25" />
+      </word>
+      <word id="r06-011-04-06" tag="PP1AS" text="we">
+        <cmp x="776" y="1486" width="27" height="25" />
+        <cmp x="809" y="1488" width="29" height="25" />
+      </word>
+      <word id="r06-011-04-07" tag="VBD" text="said">
+        <cmp x="905" y="1461" width="131" height="58" />
+      </word>
+      <word id="r06-011-04-08" tag="RB" text="immediately">
+        <cmp x="1113" y="1489" width="7" height="32" />
+        <cmp x="1119" y="1471" width="39" height="42" />
+        <cmp x="1163" y="1462" width="113" height="60" />
+        <cmp x="1272" y="1444" width="120" height="91" />
+      </word>
+      <word id="r06-011-04-09" tag="," text=",">
+        <cmp x="1404" y="1512" width="14" height="21" />
+      </word>
+      <word id="r06-011-04-10" tag="RB" text="even">
+        <cmp x="1454" y="1485" width="55" height="28" />
+        <cmp x="1515" y="1487" width="48" height="35" />
+      </word>
+      <word id="r06-011-04-11" tag="IN" text="before">
+        <cmp x="1602" y="1452" width="169" height="88" />
+      </word>
+      <word id="r06-011-04-12" tag="VBG" text="viewing">
+        <cmp x="1828" y="1490" width="33" height="28" />
+        <cmp x="1859" y="1477" width="63" height="41" />
+        <cmp x="1928" y="1491" width="70" height="66" />
+      </word>
+      <word id="r06-011-04-13" tag="." text=".">
+        <cmp x="1943" y="1470" width="9" height="5" />
+      </word>
+      <upper-contour>
+        <point x="349" y="1373" />
+        <point x="2018" y="1373" />
+      </upper-contour>
+      <lower-contour>
+        <point x="342" y="1529" />
+        <point x="1319" y="1529" />
+      </lower-contour>
+    </line>
+    <line ass="-1239" asx="0" asy="1605" character-width="999" dss="-1239" dsx="0" dsy="1693" fd0="13869" fd1="3373" fd2="401" filter-width="4" id="r06-011-05" lbs="-1256" lbx="0" lby="1672" segmentation="ok" slant="73000" stroke-width="6094" threshold="181" text="We were shown around by Pierre." ubs="-1204" ubx="0" uby="1647">
+      <word id="r06-011-05-00" sentence-start="yes" tag="PP1AS" text="We">
+        <cmp x="340" y="1614" width="4" height="8" />
+        <cmp x="340" y="1615" width="39" height="43" />
+        <cmp x="382" y="1636" width="37" height="32" />
+      </word>
+      <word id="r06-011-05-01" tag="BED" text="were">
+        <cmp x="466" y="1650" width="123" height="38" />
+      </word>
+      <word id="r06-011-05-02" tag="VBN" text="shown">
+        <cmp x="646" y="1658" width="29" height="32" />
+        <cmp x="680" y="1645" width="93" height="51" />
+        <cmp x="685" y="1635" width="5" height="9" />
+        <cmp x="780" y="1675" width="25" height="16" />
+      </word>
+      <word id="r06-011-05-03" tag="RP" text="around">
+        <cmp x="857" y="1633" width="200" height="65" />
+      </word>
+      <word id="r06-011-05-04" tag="IN" text="by">
+        <cmp x="1073" y="1635" width="55" height="83" />
+      </word>
+      <word id="r06-011-05-05" tag="NP" text="Pierre">
+        <cmp x="1167" y="1639" width="24" height="51" />
+        <cmp x="1191" y="1672" width="9" height="23" />
+        <cmp x="1200" y="1664" width="96" height="42" />
+      </word>
+      <word id="r06-011-05-06" tag="." text=".">
+        <cmp x="1312" y="1697" width="7" height="7" />
+      </word>
+      <upper-contour>
+        <point x="342" y="1529" />
+        <point x="1319" y="1529" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

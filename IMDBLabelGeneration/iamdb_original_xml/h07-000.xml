@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-04-10" height="3542" id="h07-000" last-modified="2002-07-17" skew="222" status="final" version="3.0_beta" width="2479" writer-id="355">
+  <machine-printed-part>
+    <machine-print-line text="Of over 7,000,000 square feet of factory space built by the development corporations," />
+    <machine-print-line text="about 20 per cent represents extensions built after the firms had become established." />
+    <machine-print-line text="It is the policy of the corporations to charge full rack-rents or ground rents for their" />
+    <machine-print-line text="factories or industrial sites; and rents vary considerably according to the demand for" />
+    <machine-print-line text="factory accommodation." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="29" asx="0" asy="752" character-width="999" dss="29" dsx="0" dsy="828" fd0="13323" fd1="2919" fd2="-37" filter-width="4" id="h07-000-00" lbs="-12" lbx="0" lby="806" segmentation="ok" slant="76000" stroke-width="6171" threshold="151" text="Of over 7,000,000 square feet of factory space built by the" ubs="112" ubx="0" uby="783">
+      <word id="h07-000-00-00" sentence-start="yes" tag="INO" text="Of">
+        <cmp x="338" y="766" width="67" height="45" />
+      </word>
+      <word id="h07-000-00-01" tag="RB" text="over">
+        <cmp x="436" y="778" width="110" height="28" />
+      </word>
+      <word id="h07-000-00-02" tag="CD" text="7,000,000">
+        <cmp x="586" y="756" width="35" height="40" />
+        <cmp x="618" y="796" width="6" height="9" />
+        <cmp x="646" y="770" width="24" height="28" />
+        <cmp x="670" y="768" width="27" height="31" />
+        <cmp x="696" y="770" width="30" height="31" />
+        <cmp x="726" y="800" width="9" height="13" />
+        <cmp x="748" y="778" width="25" height="26" />
+        <cmp x="778" y="774" width="26" height="29" />
+        <cmp x="804" y="774" width="27" height="29" />
+      </word>
+      <word id="h07-000-00-03" tag="JJ" text="square">
+        <cmp x="866" y="783" width="200" height="39" />
+      </word>
+      <word id="h07-000-00-04" tag="NNS" text="feet">
+        <cmp x="1083" y="771" width="114" height="49" />
+      </word>
+      <word id="h07-000-00-05" tag="INO" text="of">
+        <cmp x="1237" y="770" width="53" height="45" />
+      </word>
+      <word id="h07-000-00-06" tag="NN" text="factory">
+        <cmp x="1321" y="765" width="231" height="63" />
+      </word>
+      <word id="h07-000-00-07" tag="NN" text="space">
+        <cmp x="1584" y="780" width="144" height="39" />
+      </word>
+      <word id="h07-000-00-08" tag="VBN" text="built">
+        <cmp x="1744" y="762" width="180" height="41" />
+        <cmp x="1853" y="753" width="8" height="9" />
+      </word>
+      <word id="h07-000-00-09" tag="IN" text="by">
+        <cmp x="1938" y="770" width="70" height="51" />
+      </word>
+      <word id="h07-000-00-10" tag="ATI" text="the">
+        <cmp x="2035" y="764" width="79" height="35" />
+      </word>
+      <lower-contour>
+        <point x="351" y="829" />
+        <point x="2116" y="829" />
+      </lower-contour>
+    </line>
+    <line ass="136" asx="0" asy="940" character-width="999" dss="136" dsx="0" dsy="1003" fd0="13669" fd1="2371" fd2="-93" filter-width="4" id="h07-000-01" lbs="180" lbx="0" lby="987" segmentation="ok" slant="66999" stroke-width="6144" threshold="151" text="development corporations, about 20 per cent represents" ubs="48" ubx="0" uby="960">
+      <word id="h07-000-01-00" tag="NN" text="development">
+        <cmp x="353" y="941" width="407" height="59" />
+      </word>
+      <word id="h07-000-01-01" tag="NNS" text="corporations">
+        <cmp x="793" y="951" width="390" height="37" />
+        <cmp x="1082" y="939" width="7" height="6" />
+      </word>
+      <word id="h07-000-01-02" tag="," text=",">
+        <cmp x="1197" y="976" width="8" height="12" />
+      </word>
+      <word id="h07-000-01-03" tag="RB" text="about">
+        <cmp x="1221" y="941" width="185" height="47" />
+      </word>
+      <word id="h07-000-01-04" tag="CD" text="20">
+        <cmp x="1447" y="943" width="22" height="34" />
+        <cmp x="1483" y="949" width="33" height="30" />
+      </word>
+      <word id="h07-000-01-05" tag="NNU21" text="per">
+        <cmp x="1533" y="962" width="83" height="34" />
+      </word>
+      <word id="h07-000-01-06" tag="NNU22" text="cent">
+        <cmp x="1653" y="945" width="137" height="38" />
+      </word>
+      <word id="h07-000-01-07" tag="VBZ" text="represents">
+        <cmp x="1816" y="939" width="298" height="60" />
+      </word>
+      <upper-contour>
+        <point x="351" y="829" />
+        <point x="2116" y="829" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1002" />
+        <point x="2116" y="1002" />
+      </lower-contour>
+    </line>
+    <line ass="3" asx="0" asy="1098" character-width="999" dss="3" dsx="0" dsy="1172" fd0="13614" fd1="2181" fd2="-50" filter-width="4" id="h07-000-02" lbs="-29" lbx="0" lby="1160" segmentation="ok" slant="66999" stroke-width="6283" threshold="150" text="extensions built after the firms had become established." ubs="68" ubx="0" uby="1140">
+      <word id="h07-000-02-00" tag="NNS" text="extensions">
+        <cmp x="335" y="1121" width="343" height="44" />
+        <cmp x="571" y="1106" width="12" height="11" />
+      </word>
+      <word id="h07-000-02-01" tag="VBN" text="built">
+        <cmp x="706" y="1119" width="199" height="41" />
+        <cmp x="835" y="1099" width="8" height="11" />
+      </word>
+      <word id="h07-000-02-02" tag="CS" text="after">
+        <cmp x="908" y="1122" width="123" height="49" />
+      </word>
+      <word id="h07-000-02-03" tag="ATI" text="the">
+        <cmp x="1055" y="1121" width="71" height="40" />
+      </word>
+      <word id="h07-000-02-04" tag="NNS" text="firms">
+        <cmp x="1163" y="1124" width="170" height="49" />
+        <cmp x="1225" y="1110" width="11" height="8" />
+      </word>
+      <word id="h07-000-02-05" tag="HVD" text="had">
+        <cmp x="1358" y="1123" width="129" height="43" />
+      </word>
+      <word id="h07-000-02-06" tag="VBN" text="become">
+        <cmp x="1506" y="1125" width="188" height="40" />
+      </word>
+      <word id="h07-000-02-07" tag="VBN" text="established">
+        <cmp x="1728" y="1113" width="376" height="51" />
+        <cmp x="1967" y="1121" width="6" height="8" />
+      </word>
+      <word id="h07-000-02-08" tag="." text=".">
+        <cmp x="2118" y="1148" width="13" height="12" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1002" />
+        <point x="2116" y="1002" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1173" />
+        <point x="2120" y="1173" />
+      </lower-contour>
+    </line>
+    <line ass="5" asx="0" asy="1294" character-width="999" dss="5" dsx="0" dsy="1364" fd0="13620" fd1="2397" fd2="-56" filter-width="4" id="h07-000-03" lbs="49" lbx="0" lby="1342" segmentation="ok" slant="90000" stroke-width="6167" threshold="151" text="It is the policy of the corporations to charge full rack-" ubs="-81" ubx="0" uby="1314">
+      <word id="h07-000-03-00" sentence-start="yes" tag="PP3" text="It">
+        <cmp x="349" y="1300" width="69" height="34" />
+      </word>
+      <word id="h07-000-03-01" tag="BEZ" text="is">
+        <cmp x="453" y="1317" width="48" height="21" />
+        <cmp x="456" y="1295" width="8" height="10" />
+      </word>
+      <word id="h07-000-03-02" tag="ATI" text="the">
+        <cmp x="533" y="1299" width="73" height="39" />
+      </word>
+      <word id="h07-000-03-03" tag="NN" text="policy">
+        <cmp x="640" y="1301" width="207" height="60" />
+        <cmp x="768" y="1296" width="7" height="9" />
+      </word>
+      <word id="h07-000-03-04" tag="INO" text="of">
+        <cmp x="882" y="1309" width="57" height="41" />
+      </word>
+      <word id="h07-000-03-05" tag="ATI" text="the">
+        <cmp x="959" y="1304" width="92" height="41" />
+      </word>
+      <word id="h07-000-03-06" tag="NNS" text="corporations">
+        <cmp x="1092" y="1302" width="404" height="47" />
+        <cmp x="1401" y="1297" width="5" height="4" />
+        <cmp x="1402" y="1302" width="5" height="5" />
+      </word>
+      <word id="h07-000-03-07" tag="TO" text="to">
+        <cmp x="1529" y="1299" width="46" height="41" />
+      </word>
+      <word id="h07-000-03-08" tag="VB" text="charge">
+        <cmp x="1602" y="1306" width="178" height="57" />
+      </word>
+      <word id="h07-000-03-09" tag="JJ" text="full">
+        <cmp x="1802" y="1297" width="144" height="56" />
+      </word>
+      <word id="h07-000-03-10" tag="NNS--" text="rack-">
+        <cmp x="1968" y="1299" width="123" height="44" />
+        <cmp x="2099" y="1318" width="20" height="7" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1173" />
+        <point x="2120" y="1173" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1366" />
+        <point x="2120" y="1366" />
+      </lower-contour>
+    </line>
+    <line ass="178" asx="0" asy="1468" character-width="999" dss="178" dsx="0" dsy="1544" fd0="13150" fd1="2304" fd2="111" filter-width="4" id="h07-000-04" lbs="250" lbx="0" lby="1523" segmentation="ok" slant="90000" stroke-width="6102" threshold="146" text="rents or ground rents for their factories or industrial" ubs="34" ubx="0" uby="1496">
+      <word id="h07-000-04-00" tag="-NNS" text="rents">
+        <cmp x="348" y="1493" width="112" height="26" />
+        <cmp x="447" y="1482" width="53" height="36" />
+      </word>
+      <word id="h07-000-04-01" tag="CC" text="or">
+        <cmp x="548" y="1497" width="64" height="25" />
+      </word>
+      <word id="h07-000-04-02" tag="NN" text="ground">
+        <cmp x="626" y="1483" width="230" height="61" />
+      </word>
+      <word id="h07-000-04-03" tag="NNS" text="rents">
+        <cmp x="884" y="1483" width="172" height="39" />
+      </word>
+      <word id="h07-000-04-04" tag="IN" text="for">
+        <cmp x="1088" y="1490" width="96" height="37" />
+        <cmp x="1120" y="1481" width="9" height="8" />
+      </word>
+      <word id="h07-000-04-05" tag="PP$" text="their">
+        <cmp x="1214" y="1479" width="159" height="39" />
+        <cmp x="1338" y="1472" width="5" height="5" />
+      </word>
+      <word id="h07-000-04-06" tag="NNS" text="factories">
+        <cmp x="1404" y="1482" width="298" height="46" />
+        <cmp x="1551" y="1481" width="4" height="4" />
+        <cmp x="1647" y="1470" width="5" height="6" />
+      </word>
+      <word id="h07-000-04-07" tag="CC" text="or">
+        <cmp x="1735" y="1496" width="49" height="24" />
+      </word>
+      <word id="h07-000-04-08" tag="JJ" text="industrial">
+        <cmp x="1822" y="1469" width="338" height="53" />
+        <cmp x="1830" y="1464" width="8" height="8" />
+        <cmp x="2098" y="1475" width="8" height="14" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1366" />
+        <point x="2120" y="1366" />
+      </upper-contour>
+      <lower-contour>
+        <point x="343" y="1544" />
+        <point x="2161" y="1544" />
+      </lower-contour>
+    </line>
+    <line ass="-69" asx="0" asy="1643" character-width="999" dss="-69" dsx="0" dsy="1722" fd0="13607" fd1="2304" fd2="-21" filter-width="4" id="h07-000-05" lbs="-85" lbx="0" lby="1698" segmentation="ok" slant="90000" stroke-width="6164" threshold="144" text="sites; and rents vary considerably according to the demand" ubs="-36" ubx="0" uby="1679">
+      <word id="h07-000-05-00" tag="NNS" text="sites">
+        <cmp x="345" y="1655" width="148" height="46" />
+        <cmp x="401" y="1645" width="7" height="8" />
+      </word>
+      <word id="h07-000-05-01" tag=";" text=";">
+        <cmp x="510" y="1692" width="8" height="15" />
+        <cmp x="513" y="1675" width="8" height="12" />
+      </word>
+      <word id="h07-000-05-02" tag="CC" text="and">
+        <cmp x="549" y="1667" width="112" height="38" />
+      </word>
+      <word id="h07-000-05-03" tag="NNS" text="rents">
+        <cmp x="695" y="1667" width="152" height="37" />
+        <cmp x="844" y="1683" width="11" height="15" />
+      </word>
+      <word id="h07-000-05-04" tag="VB" text="vary">
+        <cmp x="886" y="1678" width="149" height="46" />
+      </word>
+      <word id="h07-000-05-05" tag="RB" text="considerably">
+        <cmp x="1064" y="1655" width="402" height="66" />
+        <cmp x="1075" y="1681" width="5" height="5" />
+        <cmp x="1232" y="1654" width="5" height="7" />
+        <cmp x="1233" y="1649" width="7" height="4" />
+        <cmp x="1280" y="1657" width="8" height="7" />
+      </word>
+      <word id="h07-000-05-06" tag="IN21" text="according">
+        <cmp x="1494" y="1685" width="13" height="18" />
+        <cmp x="1504" y="1667" width="285" height="50" />
+        <cmp x="1710" y="1656" width="5" height="6" />
+      </word>
+      <word id="h07-000-05-07" tag="IN22" text="to">
+        <cmp x="1812" y="1664" width="46" height="40" />
+      </word>
+      <word id="h07-000-05-08" tag="ATI" text="the">
+        <cmp x="1879" y="1662" width="94" height="41" />
+      </word>
+      <word id="h07-000-05-09" tag="NN" text="demand">
+        <cmp x="1991" y="1657" width="238" height="43" />
+      </word>
+      <upper-contour>
+        <point x="343" y="1544" />
+        <point x="2161" y="1544" />
+      </upper-contour>
+      <lower-contour>
+        <point x="360" y="1724" />
+        <point x="1374" y="1724" />
+      </lower-contour>
+    </line>
+    <line ass="241" asx="0" asy="1834" character-width="999" dss="241" dsx="0" dsy="1901" fd0="13262" fd1="3056" fd2="251" filter-width="4" id="h07-000-06" lbs="277" lbx="0" lby="1885" segmentation="ok" slant="90000" stroke-width="6203" threshold="147" text="for factory accommodation." ubs="170" ubx="0" uby="1863">
+      <word id="h07-000-06-00" tag="IN" text="for">
+        <cmp x="362" y="1846" width="82" height="43" />
+      </word>
+      <word id="h07-000-06-01" tag="NN" text="factory">
+        <cmp x="490" y="1844" width="257" height="56" />
+      </word>
+      <word id="h07-000-06-02" tag="NN" text="accommodation">
+        <cmp x="784" y="1839" width="558" height="49" />
+        <cmp x="1226" y="1839" width="10" height="6" />
+        <cmp x="1266" y="1830" width="5" height="11" />
+      </word>
+      <word id="h07-000-06-03" tag="." text=".">
+        <cmp x="1366" y="1869" width="7" height="13" />
+      </word>
+      <upper-contour>
+        <point x="360" y="1724" />
+        <point x="1374" y="1724" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

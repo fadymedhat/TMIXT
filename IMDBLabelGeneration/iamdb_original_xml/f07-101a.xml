@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-04-10" height="3542" id="f07-101a" last-modified="2002-07-17" skew="190" status="final" version="3.0_beta" width="2479" writer-id="294">
+  <machine-printed-part>
+    <machine-print-line text="The same man went to see Carlyle, and, after mentioning that he had dined with" />
+    <machine-print-line text="Longfellow told the sage a very funny story which made Carlyle absolutely laugh; but" />
+    <machine-print-line text="all the Chelsea philosopher did in return was to ask if his guest would have a cup of" />
+    <machine-print-line text="tea!" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="94" asx="0" asy="693" character-width="999" dss="94" dsx="0" dsy="757" fd0="12481" fd1="3413" fd2="-1279" filter-width="4" id="f07-101a-00" lbs="128" lbx="0" lby="747" segmentation="ok" slant="97000" stroke-width="5848" threshold="150" text="THE SAME MAN WENT TO SEE CARLYLE, AND," ubs="25" ubx="0" uby="709">
+      <word id="f07-101a-00-00" sentence-start="yes" tag="ATI" text="THE">
+        <cmp x="331" y="693" width="65" height="9" />
+        <cmp x="363" y="703" width="61" height="54" />
+        <cmp x="423" y="705" width="43" height="10" />
+        <cmp x="426" y="720" width="46" height="33" />
+      </word>
+      <word id="f07-101a-00-01" tag="AP" text="SAME">
+        <cmp x="521" y="694" width="46" height="53" />
+        <cmp x="566" y="700" width="43" height="52" />
+        <cmp x="605" y="703" width="48" height="49" />
+        <cmp x="660" y="708" width="43" height="42" />
+      </word>
+      <word id="f07-101a-00-02" tag="NN" text="MAN">
+        <cmp x="747" y="708" width="34" height="44" />
+        <cmp x="786" y="710" width="47" height="42" />
+        <cmp x="837" y="710" width="49" height="42" />
+      </word>
+      <word id="f07-101a-00-03" tag="VBD" text="WENT">
+        <cmp x="930" y="712" width="54" height="40" />
+        <cmp x="993" y="707" width="50" height="44" />
+        <cmp x="1039" y="708" width="43" height="42" />
+        <cmp x="1074" y="705" width="43" height="42" />
+      </word>
+      <word id="f07-101a-00-04" tag="TO" text="TO">
+        <cmp x="1161" y="702" width="41" height="44" />
+        <cmp x="1195" y="706" width="41" height="37" />
+      </word>
+      <word id="f07-101a-00-05" tag="VB" text="SEE">
+        <cmp x="1296" y="704" width="48" height="40" />
+        <cmp x="1334" y="708" width="7" height="9" />
+        <cmp x="1347" y="711" width="53" height="33" />
+        <cmp x="1349" y="702" width="44" height="8" />
+        <cmp x="1400" y="702" width="54" height="40" />
+      </word>
+      <word id="f07-101a-00-06" tag="NP" text="CARLYLE">
+        <cmp x="1499" y="694" width="54" height="53" />
+        <cmp x="1554" y="701" width="43" height="47" />
+        <cmp x="1608" y="698" width="50" height="48" />
+        <cmp x="1664" y="710" width="42" height="40" />
+        <cmp x="1700" y="705" width="43" height="44" />
+        <cmp x="1748" y="708" width="34" height="39" />
+        <cmp x="1784" y="705" width="47" height="39" />
+      </word>
+      <word id="f07-101a-00-07" tag="," text=",">
+        <cmp x="1850" y="730" width="11" height="19" />
+      </word>
+      <word id="f07-101a-00-08" tag="CC" text="AND">
+        <cmp x="1884" y="699" width="43" height="46" />
+        <cmp x="1932" y="702" width="46" height="41" />
+        <cmp x="1971" y="693" width="56" height="51" />
+      </word>
+      <word id="f07-101a-00-09" tag="," text=",">
+        <cmp x="2033" y="728" width="9" height="14" />
+      </word>
+      <lower-contour>
+        <point x="358" y="756" />
+        <point x="2043" y="756" />
+      </lower-contour>
+    </line>
+    <line ass="280" asx="0" asy="860" character-width="999" dss="280" dsx="0" dsy="930" fd0="12538" fd1="3247" fd2="-1616" filter-width="4" id="f07-101a-01" lbs="230" lbx="0" lby="924" segmentation="ok" slant="101000" stroke-width="5944" threshold="150" text="AFTER MENTIONING THAT HE HAD DINED WITH" ubs="381" ubx="0" uby="888">
+      <word id="f07-101a-01-00" tag="IN" text="AFTER">
+        <cmp x="360" y="879" width="45" height="50" />
+        <cmp x="391" y="878" width="168" height="50" />
+      </word>
+      <word id="f07-101a-01-01" tag="VBG" text="MENTIONING">
+        <cmp x="616" y="883" width="42" height="44" />
+        <cmp x="664" y="889" width="45" height="37" />
+        <cmp x="669" y="883" width="36" height="6" />
+        <cmp x="712" y="887" width="44" height="39" />
+        <cmp x="756" y="879" width="44" height="46" />
+        <cmp x="809" y="879" width="41" height="46" />
+        <cmp x="857" y="879" width="42" height="43" />
+        <cmp x="902" y="880" width="48" height="43" />
+        <cmp x="945" y="857" width="7" height="6" />
+        <cmp x="958" y="883" width="18" height="42" />
+        <cmp x="971" y="882" width="45" height="40" />
+        <cmp x="1020" y="876" width="54" height="45" />
+      </word>
+      <word id="f07-101a-01-02" tag="CS" text="THAT">
+        <cmp x="1126" y="875" width="46" height="46" />
+        <cmp x="1166" y="872" width="51" height="51" />
+        <cmp x="1223" y="876" width="47" height="47" />
+        <cmp x="1257" y="872" width="48" height="40" />
+      </word>
+      <word id="f07-101a-01-03" tag="PP3A" text="HE">
+        <cmp x="1338" y="879" width="56" height="43" />
+        <cmp x="1399" y="888" width="53" height="34" />
+        <cmp x="1405" y="878" width="39" height="6" />
+        <cmp x="1408" y="897" width="34" height="7" />
+      </word>
+      <word id="f07-101a-01-04" tag="HVD" text="HAD">
+        <cmp x="1494" y="882" width="48" height="40" />
+        <cmp x="1548" y="879" width="78" height="42" />
+      </word>
+      <word id="f07-101a-01-05" tag="VBN" text="DINED">
+        <cmp x="1671" y="875" width="58" height="45" />
+        <cmp x="1727" y="864" width="8" height="6" />
+        <cmp x="1735" y="882" width="13" height="38" />
+        <cmp x="1750" y="876" width="136" height="44" />
+      </word>
+      <word id="f07-101a-01-06" tag="IN" text="WITH">
+        <cmp x="1921" y="878" width="54" height="41" />
+        <cmp x="1967" y="864" width="11" height="7" />
+        <cmp x="1978" y="877" width="12" height="42" />
+        <cmp x="1992" y="876" width="33" height="42" />
+        <cmp x="2030" y="873" width="47" height="45" />
+      </word>
+      <upper-contour>
+        <point x="358" y="756" />
+        <point x="2043" y="756" />
+      </upper-contour>
+      <lower-contour>
+        <point x="367" y="927" />
+        <point x="1923" y="927" />
+      </lower-contour>
+    </line>
+    <line ass="358" asx="0" asy="1070" character-width="999" dss="358" dsx="0" dsy="1127" fd0="12394" fd1="3087" fd2="-1412" filter-width="4" id="f07-101a-02" lbs="374" lbx="0" lby="1122" segmentation="ok" slant="96000" stroke-width="5919" threshold="149" text="LONGFELLOW TOLD THE SAGE A VERY" ubs="324" ubx="0" uby="1087">
+      <word id="f07-101a-02-00" tag="NP" text="LONGFELLOW">
+        <cmp x="369" y="1068" width="39" height="55" />
+        <cmp x="407" y="1080" width="39" height="43" />
+        <cmp x="451" y="1081" width="46" height="42" />
+        <cmp x="505" y="1075" width="45" height="48" />
+        <cmp x="553" y="1077" width="115" height="46" />
+        <cmp x="671" y="1082" width="126" height="40" />
+        <cmp x="803" y="1084" width="56" height="37" />
+      </word>
+      <word id="f07-101a-02-01" tag="VBD" text="TOLD">
+        <cmp x="916" y="1077" width="44" height="43" />
+        <cmp x="954" y="1081" width="51" height="39" />
+        <cmp x="1008" y="1079" width="88" height="41" />
+      </word>
+      <word id="f07-101a-02-02" tag="ATI" text="THE">
+        <cmp x="1161" y="1071" width="90" height="46" />
+        <cmp x="1257" y="1075" width="54" height="40" />
+      </word>
+      <word id="f07-101a-02-03" tag="NN" text="SAGE">
+        <cmp x="1382" y="1070" width="98" height="47" />
+        <cmp x="1481" y="1068" width="45" height="48" />
+        <cmp x="1531" y="1077" width="55" height="40" />
+      </word>
+      <word id="f07-101a-02-04" tag="AT" text="A">
+        <cmp x="1648" y="1075" width="52" height="42" />
+      </word>
+      <word id="f07-101a-02-05" tag="QL" text="VERY">
+        <cmp x="1755" y="1080" width="6" height="5" />
+        <cmp x="1756" y="1076" width="30" height="41" />
+        <cmp x="1789" y="1068" width="92" height="48" />
+        <cmp x="1884" y="1074" width="38" height="42" />
+      </word>
+      <upper-contour>
+        <point x="367" y="927" />
+        <point x="1923" y="927" />
+      </upper-contour>
+      <lower-contour>
+        <point x="367" y="1122" />
+        <point x="1860" y="1122" />
+      </lower-contour>
+    </line>
+    <line ass="-772" asx="0" asy="1214" character-width="999" dss="-772" dsx="0" dsy="1283" fd0="12772" fd1="2763" fd2="-1867" filter-width="4" id="f07-101a-03" lbs="-735" lbx="0" lby="1277" segmentation="ok" slant="99000" stroke-width="5982" threshold="150" text="FUNNY STORY WHICH MADE CARLYLE" ubs="-847" ubx="0" uby="1235">
+      <word id="f07-101a-03-00" tag="JJ" text="FUNNY">
+        <cmp x="365" y="1240" width="109" height="50" />
+        <cmp x="480" y="1246" width="56" height="39" />
+        <cmp x="538" y="1241" width="54" height="49" />
+        <cmp x="592" y="1241" width="47" height="51" />
+      </word>
+      <word id="f07-101a-03-01" tag="NN" text="STORY">
+        <cmp x="692" y="1237" width="53" height="54" />
+        <cmp x="740" y="1238" width="44" height="10" />
+        <cmp x="754" y="1249" width="14" height="43" />
+        <cmp x="778" y="1244" width="41" height="43" />
+        <cmp x="823" y="1241" width="48" height="48" />
+        <cmp x="869" y="1236" width="44" height="52" />
+      </word>
+      <word id="f07-101a-03-02" tag="WDT" text="WHICH">
+        <cmp x="982" y="1247" width="110" height="50" />
+        <cmp x="1097" y="1237" width="7" height="8" />
+        <cmp x="1102" y="1255" width="15" height="42" />
+        <cmp x="1122" y="1245" width="78" height="50" />
+        <cmp x="1135" y="1247" width="18" height="19" />
+      </word>
+      <word id="f07-101a-03-03" tag="VBD" text="MADE">
+        <cmp x="1270" y="1249" width="47" height="50" />
+        <cmp x="1324" y="1254" width="42" height="43" />
+        <cmp x="1371" y="1250" width="47" height="48" />
+        <cmp x="1420" y="1251" width="53" height="46" />
+      </word>
+      <word id="f07-101a-03-04" tag="NP" text="CARLYLE">
+        <cmp x="1543" y="1235" width="87" height="67" />
+        <cmp x="1632" y="1258" width="48" height="45" />
+        <cmp x="1687" y="1261" width="40" height="43" />
+        <cmp x="1720" y="1260" width="41" height="44" />
+        <cmp x="1773" y="1260" width="34" height="44" />
+        <cmp x="1805" y="1260" width="53" height="45" />
+      </word>
+      <upper-contour>
+        <point x="367" y="1122" />
+        <point x="1860" y="1122" />
+      </upper-contour>
+      <lower-contour>
+        <point x="373" y="1306" />
+        <point x="1838" y="1306" />
+      </lower-contour>
+    </line>
+    <line ass="84" asx="0" asy="1429" character-width="999" dss="84" dsx="0" dsy="1501" fd0="12456" fd1="3007" fd2="-1073" filter-width="4" id="f07-101a-04" lbs="116" lbx="0" lby="1475" segmentation="ok" slant="105000" stroke-width="5935" threshold="149" text="ABSOLUTELY LAUGH; BUT ALL THE" ubs="19" ubx="0" uby="1437">
+      <word id="f07-101a-04-00" tag="RB" text="ABSOLUTELY">
+        <cmp x="375" y="1429" width="44" height="49" />
+        <cmp x="413" y="1436" width="52" height="41" />
+        <cmp x="460" y="1434" width="97" height="42" />
+        <cmp x="564" y="1433" width="94" height="42" />
+        <cmp x="658" y="1435" width="42" height="42" />
+        <cmp x="706" y="1435" width="56" height="41" />
+        <cmp x="767" y="1434" width="44" height="43" />
+        <cmp x="806" y="1429" width="40" height="48" />
+      </word>
+      <word id="f07-101a-04-01" tag="VB" text="LAUGH">
+        <cmp x="952" y="1428" width="80" height="50" />
+        <cmp x="1032" y="1438" width="48" height="40" />
+        <cmp x="1084" y="1436" width="92" height="42" />
+        <cmp x="1163" y="1432" width="6" height="5" />
+      </word>
+      <word id="f07-101a-04-02" tag=";" text=";">
+        <cmp x="1194" y="1440" width="8" height="10" />
+        <cmp x="1194" y="1471" width="7" height="29" />
+      </word>
+      <word id="f07-101a-04-03" tag="CC" text="BUT">
+        <cmp x="1248" y="1437" width="83" height="40" />
+        <cmp x="1327" y="1440" width="51" height="38" />
+        <cmp x="1370" y="1432" width="43" height="11" />
+        <cmp x="1383" y="1442" width="14" height="35" />
+      </word>
+      <word id="f07-101a-04-04" tag="ABN" text="ALL">
+        <cmp x="1466" y="1429" width="56" height="48" />
+        <cmp x="1523" y="1430" width="43" height="48" />
+        <cmp x="1561" y="1431" width="51" height="46" />
+      </word>
+      <word id="f07-101a-04-05" tag="ATI" text="THE">
+        <cmp x="1666" y="1433" width="62" height="45" />
+        <cmp x="1717" y="1427" width="63" height="50" />
+        <cmp x="1781" y="1427" width="56" height="50" />
+      </word>
+      <upper-contour>
+        <point x="373" y="1306" />
+        <point x="1838" y="1306" />
+      </upper-contour>
+      <lower-contour>
+        <point x="373" y="1500" />
+        <point x="1838" y="1500" />
+      </lower-contour>
+    </line>
+    <line ass="227" asx="0" asy="1583" character-width="999" dss="227" dsx="0" dsy="1665" fd0="12511" fd1="2690" fd2="-1849" filter-width="4" id="f07-101a-05" lbs="158" lbx="0" lby="1649" segmentation="ok" slant="101000" stroke-width="5867" threshold="148" text="CHELSEA PHILOSOPHER DID IN RETURN" ubs="366" ubx="0" uby="1623">
+      <word id="f07-101a-05-00" tag="NP" text="CHELSEA">
+        <cmp x="372" y="1611" width="101" height="47" />
+        <cmp x="477" y="1619" width="63" height="39" />
+        <cmp x="539" y="1615" width="41" height="43" />
+        <cmp x="579" y="1608" width="59" height="47" />
+        <cmp x="594" y="1625" width="5" height="4" />
+        <cmp x="642" y="1612" width="55" height="43" />
+        <cmp x="698" y="1610" width="52" height="48" />
+      </word>
+      <word id="f07-101a-05-01" tag="NN" text="PHILOSOPHER">
+        <cmp x="801" y="1611" width="118" height="45" />
+        <cmp x="879" y="1610" width="8" height="8" />
+        <cmp x="914" y="1581" width="7" height="8" />
+        <cmp x="931" y="1612" width="15" height="39" />
+        <cmp x="956" y="1604" width="84" height="47" />
+        <cmp x="1050" y="1604" width="62" height="51" />
+        <cmp x="1113" y="1611" width="52" height="38" />
+        <cmp x="1169" y="1603" width="109" height="49" />
+        <cmp x="1233" y="1602" width="7" height="7" />
+        <cmp x="1281" y="1602" width="109" height="47" />
+      </word>
+      <word id="f07-101a-05-02" tag="DOD" text="DID">
+        <cmp x="1444" y="1604" width="142" height="47" />
+        <cmp x="1512" y="1593" width="11" height="8" />
+      </word>
+      <word id="f07-101a-05-03" tag="IN" text="IN">
+        <cmp x="1654" y="1592" width="5" height="6" />
+        <cmp x="1658" y="1610" width="8" height="39" />
+        <cmp x="1673" y="1608" width="49" height="43" />
+      </word>
+      <word id="f07-101a-05-04" tag="NN" text="RETURN">
+        <cmp x="1787" y="1600" width="62" height="58" />
+        <cmp x="1851" y="1609" width="47" height="45" />
+        <cmp x="1860" y="1612" width="38" height="7" />
+        <cmp x="1904" y="1607" width="94" height="46" />
+        <cmp x="1917" y="1617" width="16" height="36" />
+        <cmp x="2006" y="1604" width="104" height="50" />
+      </word>
+      <upper-contour>
+        <point x="373" y="1500" />
+        <point x="1838" y="1500" />
+      </upper-contour>
+      <lower-contour>
+        <point x="385" y="1660" />
+        <point x="1941" y="1660" />
+      </lower-contour>
+    </line>
+    <line ass="108" asx="0" asy="1777" character-width="999" dss="108" dsx="0" dsy="1835" fd0="12762" fd1="2974" fd2="-1364" filter-width="4" id="f07-101a-06" lbs="184" lbx="0" lby="1827" segmentation="ok" slant="106000" stroke-width="5926" threshold="148" text="WAS TO ASK IF HIS GUEST WOULD" ubs="-43" ubx="0" uby="1801">
+      <word id="f07-101a-06-00" tag="BEDZ" text="WAS">
+        <cmp x="387" y="1778" width="148" height="57" />
+      </word>
+      <word id="f07-101a-06-01" tag="TO" text="TO">
+        <cmp x="570" y="1786" width="60" height="11" />
+        <cmp x="605" y="1795" width="14" height="37" />
+        <cmp x="628" y="1789" width="46" height="43" />
+      </word>
+      <word id="f07-101a-06-02" tag="VB" text="ASK">
+        <cmp x="742" y="1787" width="109" height="46" />
+        <cmp x="848" y="1792" width="61" height="41" />
+      </word>
+      <word id="f07-101a-06-03" tag="CS" text="IF">
+        <cmp x="963" y="1780" width="13" height="5" />
+        <cmp x="981" y="1796" width="12" height="38" />
+        <cmp x="994" y="1789" width="54" height="44" />
+      </word>
+      <word id="f07-101a-06-04" tag="PP$" text="HIS">
+        <cmp x="1112" y="1785" width="80" height="48" />
+        <cmp x="1193" y="1776" width="10" height="8" />
+        <cmp x="1202" y="1790" width="15" height="39" />
+        <cmp x="1224" y="1785" width="52" height="45" />
+      </word>
+      <word id="f07-101a-06-05" tag="NN" text="GUEST">
+        <cmp x="1339" y="1779" width="55" height="53" />
+        <cmp x="1350" y="1803" width="52" height="25" />
+        <cmp x="1402" y="1783" width="58" height="46" />
+        <cmp x="1459" y="1780" width="148" height="48" />
+      </word>
+      <word id="f07-101a-06-06" tag="MD" text="WOULD">
+        <cmp x="1682" y="1783" width="61" height="47" />
+        <cmp x="1752" y="1783" width="45" height="45" />
+        <cmp x="1799" y="1784" width="50" height="43" />
+        <cmp x="1854" y="1780" width="85" height="50" />
+      </word>
+      <upper-contour>
+        <point x="385" y="1660" />
+        <point x="1941" y="1660" />
+      </upper-contour>
+      <lower-contour>
+        <point x="385" y="1834" />
+        <point x="1395" y="1834" />
+      </lower-contour>
+    </line>
+    <line ass="344" asx="0" asy="1927" character-width="999" dss="344" dsx="0" dsy="2020" fd0="12459" fd1="3134" fd2="-647" filter-width="4" id="f07-101a-07" lbs="418" lbx="0" lby="2016" segmentation="ok" slant="101000" stroke-width="6136" threshold="149" text="HAVE A CUP OF TEA!" ubs="194" ubx="0" uby="1975">
+      <word id="f07-101a-07-00" tag="HV" text="HAVE">
+        <cmp x="380" y="1964" width="125" height="52" />
+        <cmp x="496" y="1972" width="38" height="43" />
+        <cmp x="538" y="1976" width="64" height="40" />
+      </word>
+      <word id="f07-101a-07-01" tag="AT" text="A">
+        <cmp x="665" y="1974" width="57" height="41" />
+      </word>
+      <word id="f07-101a-07-02" tag="NN" text="CUP">
+        <cmp x="788" y="1968" width="99" height="47" />
+        <cmp x="889" y="1967" width="45" height="47" />
+      </word>
+      <word id="f07-101a-07-03" tag="INO" text="OF">
+        <cmp x="996" y="1969" width="102" height="45" />
+      </word>
+      <word id="f07-101a-07-04" tag="NN" text="TEA">
+        <cmp x="1168" y="1966" width="56" height="47" />
+        <cmp x="1223" y="1967" width="63" height="47" />
+        <cmp x="1273" y="1960" width="60" height="53" />
+      </word>
+      <word id="f07-101a-07-05" tag="!" text="!">
+        <cmp x="1368" y="1920" width="18" height="56" />
+        <cmp x="1386" y="2000" width="7" height="6" />
+      </word>
+      <upper-contour>
+        <point x="385" y="1834" />
+        <point x="1395" y="1834" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

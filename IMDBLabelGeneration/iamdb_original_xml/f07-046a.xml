@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-04-10" height="3542" id="f07-046a" last-modified="2002-07-17" skew="127" status="final" version="3.0_beta" width="2479" writer-id="285">
+  <machine-printed-part>
+    <machine-print-line text="Among the natives of Northern Australia lizards roasted on the point of a spear are" />
+    <machine-print-line text="definitely a delicacy while Mediterranean peoples have a high opinion of the octopus" />
+    <machine-print-line text="as an article of diet. So have the Japanese and the Chinese. The Celestials, apart" />
+    <machine-print-line text="from eating it fresh, squash it, press it and dry it, in which form, dusted over with" />
+    <machine-print-line text="flour, you will find a stack of it in almost any provision shop." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="289" asx="0" asy="628" character-width="999" dss="289" dsx="0" dsy="776" fd0="13143" fd1="2457" fd2="-1122" filter-width="3" id="f07-046a-00" lbs="298" lbx="0" lby="720" segmentation="ok" slant="95000" stroke-width="5486" threshold="189" text="Among the natives of Northern Australia lizards" ubs="270" ubx="0" uby="688">
+      <word id="f07-046a-00-00" sentence-start="yes" tag="IN" text="Among">
+        <cmp x="349" y="674" width="34" height="89" />
+        <cmp x="392" y="700" width="62" height="42" />
+        <cmp x="460" y="695" width="58" height="36" />
+        <cmp x="526" y="691" width="33" height="83" />
+      </word>
+      <word id="f07-046a-00-01" tag="ATI" text="the">
+        <cmp x="595" y="643" width="107" height="86" />
+      </word>
+      <word id="f07-046a-00-02" tag="NNS" text="natives">
+        <cmp x="758" y="680" width="84" height="30" />
+        <cmp x="821" y="625" width="72" height="80" />
+        <cmp x="826" y="674" width="3" height="4" />
+        <cmp x="873" y="679" width="6" height="19" />
+        <cmp x="892" y="665" width="26" height="39" />
+        <cmp x="924" y="662" width="57" height="40" />
+      </word>
+      <word id="f07-046a-00-03" tag="INO" text="of">
+        <cmp x="1046" y="664" width="89" height="90" />
+      </word>
+      <word id="f07-046a-00-04" tag="JJ" text="Northern">
+        <cmp x="1174" y="642" width="86" height="80" />
+        <cmp x="1246" y="686" width="22" height="31" />
+        <cmp x="1280" y="682" width="37" height="32" />
+        <cmp x="1299" y="644" width="113" height="70" />
+        <cmp x="1417" y="683" width="24" height="26" />
+        <cmp x="1441" y="678" width="30" height="34" />
+      </word>
+      <word id="f07-046a-00-05" tag="NP" text="Australia">
+        <cmp x="1530" y="620" width="182" height="98" />
+        <cmp x="1709" y="676" width="31" height="38" />
+        <cmp x="1744" y="632" width="161" height="76" />
+        <cmp x="1831" y="643" width="12" height="12" />
+      </word>
+      <word id="f07-046a-00-06" tag="NNS" text="lizards">
+        <cmp x="1960" y="639" width="23" height="67" />
+        <cmp x="2005" y="688" width="12" height="27" />
+        <cmp x="2007" y="653" width="7" height="12" />
+        <cmp x="2037" y="690" width="30" height="30" />
+        <cmp x="2073" y="688" width="42" height="35" />
+        <cmp x="2121" y="655" width="162" height="71" />
+      </word>
+      <lower-contour>
+        <point x="347" y="773" />
+        <point x="1998" y="773" />
+      </lower-contour>
+    </line>
+    <line ass="535" asx="0" asy="831" character-width="999" dss="535" dsx="0" dsy="953" fd0="13318" fd1="2566" fd2="-473" filter-width="3" id="f07-046a-01" lbs="572" lbx="0" lby="901" segmentation="ok" slant="106000" stroke-width="5331" threshold="189" text="roasted on the point of a spear are" ubs="462" ubx="0" uby="869">
+      <word id="f07-046a-01-00" tag="VBN" text="roasted">
+        <cmp x="321" y="858" width="49" height="34" />
+        <cmp x="378" y="865" width="23" height="26" />
+        <cmp x="404" y="826" width="187" height="72" />
+      </word>
+      <word id="f07-046a-01-01" tag="IN" text="on">
+        <cmp x="650" y="872" width="83" height="37" />
+      </word>
+      <word id="f07-046a-01-02" tag="ATI" text="the">
+        <cmp x="766" y="828" width="141" height="77" />
+        <cmp x="797" y="891" width="5" height="4" />
+      </word>
+      <word id="f07-046a-01-03" tag="NN" text="point">
+        <cmp x="976" y="871" width="42" height="71" />
+        <cmp x="1035" y="826" width="168" height="76" />
+        <cmp x="1082" y="827" width="8" height="19" />
+      </word>
+      <word id="f07-046a-01-04" tag="INO" text="of">
+        <cmp x="1271" y="842" width="94" height="101" />
+      </word>
+      <word id="f07-046a-01-05" tag="AT" text="a">
+        <cmp x="1405" y="856" width="66" height="30" />
+      </word>
+      <word id="f07-046a-01-06" tag="NN" text="spear">
+        <cmp x="1528" y="832" width="52" height="52" />
+        <cmp x="1585" y="831" width="84" height="105" />
+        <cmp x="1680" y="830" width="50" height="36" />
+        <cmp x="1732" y="835" width="39" height="35" />
+      </word>
+      <word id="f07-046a-01-07" tag="BER" text="are">
+        <cmp x="1848" y="858" width="104" height="42" />
+        <cmp x="1953" y="852" width="45" height="37" />
+      </word>
+      <upper-contour>
+        <point x="347" y="773" />
+        <point x="1998" y="773" />
+      </upper-contour>
+      <lower-contour>
+        <point x="319" y="943" />
+        <point x="1998" y="943" />
+      </lower-contour>
+    </line>
+    <line ass="78" asx="0" asy="1018" character-width="999" dss="78" dsx="0" dsy="1167" fd0="13622" fd1="2495" fd2="-1053" filter-width="3" id="f07-046a-02" lbs="87" lbx="0" lby="1100" segmentation="ok" slant="110000" stroke-width="5471" threshold="188" text="definitely a delicacy while Mediterranean" ubs="59" ubx="0" uby="1073">
+      <word id="f07-046a-02-00" tag="RB" text="definitely">
+        <cmp x="320" y="1034" width="252" height="100" />
+        <cmp x="459" y="1024" width="5" height="13" />
+        <cmp x="524" y="1040" width="7" height="14" />
+        <cmp x="569" y="1024" width="52" height="75" />
+        <cmp x="624" y="1018" width="159" height="111" />
+      </word>
+      <word id="f07-046a-02-01" tag="AT" text="a">
+        <cmp x="820" y="1075" width="62" height="21" />
+      </word>
+      <word id="f07-046a-02-02" tag="NN" text="delicacy">
+        <cmp x="948" y="1029" width="164" height="83" />
+        <cmp x="1077" y="1041" width="7" height="12" />
+        <cmp x="1118" y="1065" width="35" height="37" />
+        <cmp x="1151" y="1069" width="54" height="28" />
+        <cmp x="1207" y="1066" width="141" height="101" />
+      </word>
+      <word id="f07-046a-02-03" tag="CS" text="while">
+        <cmp x="1371" y="1061" width="61" height="31" />
+        <cmp x="1442" y="1021" width="174" height="73" />
+      </word>
+      <word id="f07-046a-02-04" tag="NP" text="Mediterranean">
+        <cmp x="1676" y="1028" width="96" height="91" />
+        <cmp x="1686" y="1093" width="16" height="19" />
+        <cmp x="1784" y="1040" width="107" height="69" />
+        <cmp x="1860" y="1042" width="8" height="14" />
+        <cmp x="1878" y="1030" width="83" height="73" />
+        <cmp x="1889" y="1068" width="9" height="8" />
+        <cmp x="1962" y="1068" width="31" height="30" />
+        <cmp x="2001" y="1066" width="28" height="32" />
+        <cmp x="2038" y="1070" width="47" height="31" />
+        <cmp x="2087" y="1064" width="36" height="38" />
+        <cmp x="2135" y="1064" width="50" height="38" />
+        <cmp x="2189" y="1070" width="49" height="30" />
+        <cmp x="2238" y="1065" width="68" height="38" />
+      </word>
+      <upper-contour>
+        <point x="319" y="943" />
+        <point x="1998" y="943" />
+      </upper-contour>
+      <lower-contour>
+        <point x="331" y="1167" />
+        <point x="2307" y="1167" />
+      </lower-contour>
+    </line>
+    <line ass="273" asx="0" asy="1210" character-width="999" dss="273" dsx="0" dsy="1345" fd0="13248" fd1="2713" fd2="-477" filter-width="3" id="f07-046a-03" lbs="341" lbx="0" lby="1288" segmentation="ok" slant="107000" stroke-width="5415" threshold="188" text="peoples have a high opinion of the octopus" ubs="135" ubx="0" uby="1248">
+      <word id="f07-046a-03-00" tag="NNS" text="peoples">
+        <cmp x="333" y="1241" width="135" height="84" />
+        <cmp x="482" y="1244" width="32" height="88" />
+        <cmp x="502" y="1222" width="28" height="68" />
+        <cmp x="530" y="1245" width="86" height="38" />
+      </word>
+      <word id="f07-046a-03-01" tag="HV" text="have">
+        <cmp x="687" y="1208" width="146" height="73" />
+        <cmp x="847" y="1240" width="47" height="38" />
+      </word>
+      <word id="f07-046a-03-02" tag="AT" text="a">
+        <cmp x="958" y="1246" width="67" height="29" />
+      </word>
+      <word id="f07-046a-03-03" tag="JJ" text="high">
+        <cmp x="1083" y="1210" width="57" height="67" />
+        <cmp x="1129" y="1218" width="5" height="8" />
+        <cmp x="1140" y="1237" width="15" height="35" />
+        <cmp x="1166" y="1205" width="103" height="116" />
+      </word>
+      <word id="f07-046a-03-04" tag="NN" text="opinion">
+        <cmp x="1333" y="1247" width="36" height="35" />
+        <cmp x="1379" y="1238" width="77" height="94" />
+        <cmp x="1417" y="1211" width="7" height="16" />
+        <cmp x="1464" y="1240" width="84" height="38" />
+        <cmp x="1504" y="1208" width="11" height="19" />
+        <cmp x="1549" y="1241" width="32" height="33" />
+        <cmp x="1583" y="1235" width="71" height="29" />
+      </word>
+      <word id="f07-046a-03-05" tag="INO" text="of">
+        <cmp x="1714" y="1222" width="86" height="102" />
+      </word>
+      <word id="f07-046a-03-06" tag="ATI" text="the">
+        <cmp x="1855" y="1209" width="124" height="83" />
+      </word>
+      <word id="f07-046a-03-07" tag="NN" text="octopus">
+        <cmp x="2022" y="1247" width="41" height="41" />
+        <cmp x="2073" y="1248" width="41" height="33" />
+        <cmp x="2095" y="1205" width="55" height="77" />
+        <cmp x="2149" y="1245" width="33" height="40" />
+        <cmp x="2193" y="1235" width="130" height="101" />
+      </word>
+      <upper-contour>
+        <point x="331" y="1167" />
+        <point x="2307" y="1167" />
+      </upper-contour>
+      <lower-contour>
+        <point x="331" y="1338" />
+        <point x="2324" y="1338" />
+      </lower-contour>
+    </line>
+    <line ass="108" asx="0" asy="1369" character-width="999" dss="108" dsx="0" dsy="1519" fd0="13749" fd1="2762" fd2="-223" filter-width="3" id="f07-046a-04" lbs="187" lbx="0" lby="1458" segmentation="err" slant="108000" stroke-width="5568" threshold="188" text="as an article of diet. So have the Japanese" ubs="-49" ubx="0" uby="1423">
+      <word id="f07-046a-04-00" tag="IN" text="as">
+        <cmp x="328" y="1422" width="72" height="48" />
+      </word>
+      <word id="f07-046a-04-01" tag="AT" text="an">
+        <cmp x="472" y="1428" width="114" height="35" />
+      </word>
+      <word id="f07-046a-04-02" tag="NN" text="article">
+        <cmp x="672" y="1422" width="59" height="33" />
+        <cmp x="727" y="1418" width="38" height="31" />
+        <cmp x="760" y="1368" width="58" height="87" />
+        <cmp x="814" y="1422" width="16" height="30" />
+        <cmp x="837" y="1392" width="6" height="7" />
+        <cmp x="847" y="1420" width="20" height="31" />
+        <cmp x="873" y="1381" width="73" height="76" />
+      </word>
+      <word id="f07-046a-04-03" tag="INO" text="of">
+        <cmp x="1028" y="1402" width="90" height="95" />
+      </word>
+      <word id="f07-046a-04-04" tag="NN" text="diet">
+        <cmp x="1181" y="1367" width="189" height="88" />
+        <cmp x="1241" y="1369" width="14" height="15" />
+        <cmp x="1360" y="1440" width="23" height="56" />
+      </word>
+      <word id="f07-046a-04-05" tag="." text=".">
+        <cmp x="1445" y="1382" width="68" height="86" />
+      </word>
+      <word id="f07-046a-04-06" sentence-start="yes" tag="PN" text="So">
+        <cmp x="1517" y="1431" width="28" height="32" />
+      </word>
+      <word id="f07-046a-04-07" tag="HV" text="have">
+        <cmp x="1593" y="1392" width="144" height="69" />
+        <cmp x="1754" y="1421" width="57" height="34" />
+      </word>
+      <word id="f07-046a-04-08" tag="ATI" text="the">
+        <cmp x="1830" y="1385" width="109" height="80" />
+        <cmp x="1950" y="1412" width="39" height="38" />
+      </word>
+      <word id="f07-046a-04-09" tag="NNPS" text="Japanese">
+        <cmp x="2025" y="1372" width="57" height="90" />
+        <cmp x="2082" y="1425" width="94" height="90" />
+        <cmp x="2091" y="1427" width="9" height="5" />
+        <cmp x="2179" y="1425" width="35" height="33" />
+        <cmp x="2222" y="1414" width="144" height="56" />
+      </word>
+      <upper-contour>
+        <point x="331" y="1338" />
+        <point x="2324" y="1338" />
+      </upper-contour>
+      <lower-contour>
+        <point x="326" y="1497" />
+        <point x="2034" y="1497" />
+      </lower-contour>
+    </line>
+    <line ass="342" asx="0" asy="1552" character-width="999" dss="342" dsx="0" dsy="1701" fd0="13259" fd1="2485" fd2="-502" filter-width="3" id="f07-046a-05" lbs="286" lbx="0" lby="1639" segmentation="ok" slant="111000" stroke-width="5326" threshold="187" text="and the Chinese. The Celestials, apart" ubs="453" ubx="0" uby="1611">
+      <word id="f07-046a-05-00" tag="CC" text="and">
+        <cmp x="323" y="1608" width="112" height="42" />
+        <cmp x="434" y="1566" width="54" height="79" />
+      </word>
+      <word id="f07-046a-05-01" tag="ATI" text="the">
+        <cmp x="537" y="1571" width="144" height="67" />
+      </word>
+      <word id="f07-046a-05-02" tag="NNPS" text="Chinese">
+        <cmp x="742" y="1585" width="55" height="67" />
+        <cmp x="786" y="1573" width="78" height="69" />
+        <cmp x="821" y="1582" width="7" height="14" />
+        <cmp x="868" y="1615" width="40" height="30" />
+        <cmp x="913" y="1587" width="128" height="52" />
+      </word>
+      <word id="f07-046a-05-03" tag="." text=".">
+        <cmp x="1064" y="1635" width="6" height="6" />
+      </word>
+      <word id="f07-046a-05-04" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="1090" y="1545" width="167" height="123" />
+      </word>
+      <word id="f07-046a-05-05" tag="NNS" text="Celestials">
+        <cmp x="1318" y="1567" width="182" height="77" />
+        <cmp x="1472" y="1545" width="93" height="77" />
+        <cmp x="1525" y="1567" width="6" height="7" />
+        <cmp x="1530" y="1597" width="13" height="31" />
+        <cmp x="1555" y="1545" width="113" height="81" />
+      </word>
+      <word id="f07-046a-05-06" tag="," text=",">
+        <cmp x="1691" y="1616" width="15" height="42" />
+      </word>
+      <word id="f07-046a-05-07" tag="IN21" text="apart">
+        <cmp x="1785" y="1603" width="54" height="30" />
+        <cmp x="1839" y="1598" width="49" height="93" />
+        <cmp x="1902" y="1551" width="131" height="84" />
+      </word>
+      <upper-contour>
+        <point x="326" y="1497" />
+        <point x="2034" y="1497" />
+      </upper-contour>
+      <lower-contour>
+        <point x="321" y="1692" />
+        <point x="2034" y="1692" />
+      </lower-contour>
+    </line>
+    <line ass="-107" asx="0" asy="1717" character-width="999" dss="-107" dsx="0" dsy="1880" fd0="13744" fd1="2783" fd2="-355" filter-width="3" id="f07-046a-06" lbs="-124" lbx="0" lby="1804" segmentation="err" slant="101000" stroke-width="5659" threshold="184" text="from eating it fresh, squash it, press" ubs="-74" ubx="0" uby="1774">
+      <word id="f07-046a-06-00" tag="IN22" text="from">
+        <cmp x="316" y="1750" width="48" height="132" />
+        <cmp x="375" y="1780" width="30" height="34" />
+        <cmp x="413" y="1775" width="94" height="34" />
+      </word>
+      <word id="f07-046a-06-01" tag="VBG" text="eating">
+        <cmp x="606" y="1724" width="160" height="84" />
+        <cmp x="754" y="1771" width="10" height="26" />
+        <cmp x="765" y="1737" width="8" height="11" />
+        <cmp x="777" y="1771" width="38" height="32" />
+        <cmp x="822" y="1771" width="43" height="85" />
+      </word>
+      <word id="f07-046a-06-02" tag="PP3" text="it">
+        <cmp x="930" y="1798" width="5" height="6" />
+        <cmp x="935" y="1740" width="93" height="70" />
+        <cmp x="939" y="1734" width="8" height="14" />
+      </word>
+      <word id="f07-046a-06-03" tag="JJ" text="fresh">
+        <cmp x="1139" y="1754" width="50" height="98" />
+        <cmp x="1198" y="1774" width="30" height="34" />
+        <cmp x="1228" y="1725" width="130" height="76" />
+        <cmp x="1369" y="1784" width="28" height="62" />
+      </word>
+      <word id="f07-046a-06-04" tag="," text=",">
+        <cmp x="1460" y="1759" width="51" height="47" />
+      </word>
+      <word id="f07-046a-06-05" tag="VB" text="squash">
+        <cmp x="1515" y="1721" width="261" height="155" />
+      </word>
+      <word id="f07-046a-06-06" tag="PP3" text="it">
+        <cmp x="1841" y="1730" width="95" height="75" />
+        <cmp x="1843" y="1727" width="17" height="19" />
+        <cmp x="1910" y="1796" width="28" height="30" />
+      </word>
+      <word id="f07-046a-06-07" tag="," text=",">
+        <cmp x="2000" y="1777" width="52" height="82" />
+      </word>
+      <word id="f07-046a-06-08" tag="VB" text="press">
+        <cmp x="2068" y="1774" width="21" height="37" />
+        <cmp x="2106" y="1761" width="111" height="43" />
+      </word>
+      <upper-contour>
+        <point x="321" y="1692" />
+        <point x="2034" y="1692" />
+      </upper-contour>
+      <lower-contour>
+        <point x="314" y="1881" />
+        <point x="2166" y="1881" />
+      </lower-contour>
+    </line>
+    <line ass="124" asx="0" asy="1915" character-width="999" dss="124" dsx="0" dsy="2052" fd0="13690" fd1="2707" fd2="-163" filter-width="3" id="f07-046a-07" lbs="110" lbx="0" lby="2000" segmentation="err" slant="106000" stroke-width="5612" threshold="184" text="it and dry it, in which form, dusted" ubs="150" ubx="0" uby="1971">
+      <word id="f07-046a-07-00" tag="PP3" text="it">
+        <cmp x="303" y="1943" width="18" height="23" />
+        <cmp x="303" y="1969" width="29" height="42" />
+        <cmp x="314" y="1933" width="71" height="86" />
+      </word>
+      <word id="f07-046a-07-01" tag="CC" text="and">
+        <cmp x="430" y="1941" width="164" height="71" />
+      </word>
+      <word id="f07-046a-07-02" tag="VB" text="dry">
+        <cmp x="684" y="1945" width="178" height="107" />
+      </word>
+      <word id="f07-046a-07-03" tag="PP3" text="it">
+        <cmp x="909" y="1922" width="15" height="19" />
+        <cmp x="921" y="1923" width="86" height="73" />
+        <cmp x="1015" y="1971" width="10" height="52" />
+      </word>
+      <word id="f07-046a-07-04" tag="," text=",">
+        <cmp x="1071" y="1922" width="9" height="23" />
+      </word>
+      <word id="f07-046a-07-05" tag="IN" text="in">
+        <cmp x="1078" y="1961" width="98" height="33" />
+      </word>
+      <word id="f07-046a-07-06" tag="WDT" text="which">
+        <cmp x="1249" y="1959" width="73" height="36" />
+        <cmp x="1322" y="1913" width="86" height="73" />
+        <cmp x="1367" y="1925" width="5" height="16" />
+        <cmp x="1419" y="1961" width="29" height="38" />
+        <cmp x="1442" y="1927" width="44" height="68" />
+        <cmp x="1450" y="1988" width="3" height="3" />
+      </word>
+      <word id="f07-046a-07-07" tag="NN" text="form">
+        <cmp x="1572" y="1943" width="53" height="98" />
+        <cmp x="1634" y="1956" width="31" height="30" />
+        <cmp x="1677" y="1950" width="25" height="35" />
+        <cmp x="1713" y="1954" width="62" height="32" />
+      </word>
+      <word id="f07-046a-07-08" tag="," text=",">
+        <cmp x="1803" y="1973" width="18" height="60" />
+      </word>
+      <word id="f07-046a-07-09" tag="VBN" text="dusted">
+        <cmp x="1885" y="1920" width="226" height="88" />
+        <cmp x="2118" y="1921" width="47" height="73" />
+      </word>
+      <upper-contour>
+        <point x="314" y="1881" />
+        <point x="2166" y="1881" />
+      </upper-contour>
+      <lower-contour>
+        <point x="301" y="2052" />
+        <point x="2166" y="2052" />
+      </lower-contour>
+    </line>
+    <line ass="751" asx="0" asy="2109" character-width="999" dss="751" dsx="0" dsy="2244" fd0="13622" fd1="2353" fd2="-708" filter-width="3" id="f07-046a-08" lbs="930" lbx="0" lby="2198" segmentation="err" slant="103000" stroke-width="5489" threshold="185" text="over with flour, you will find a stack" ubs="393" ubx="0" uby="2151">
+      <word id="f07-046a-08-00" tag="RP" text="over">
+        <cmp x="291" y="2139" width="90" height="53" />
+        <cmp x="391" y="2138" width="49" height="34" />
+        <cmp x="444" y="2150" width="44" height="31" />
+      </word>
+      <word id="f07-046a-08-01" tag="IN" text="with">
+        <cmp x="555" y="2137" width="68" height="46" />
+        <cmp x="635" y="2117" width="10" height="11" />
+        <cmp x="637" y="2104" width="99" height="88" />
+      </word>
+      <word id="f07-046a-08-02" tag="NN" text="flour">
+        <cmp x="787" y="2108" width="79" height="120" />
+        <cmp x="875" y="2157" width="35" height="31" />
+        <cmp x="922" y="2144" width="47" height="35" />
+      </word>
+      <word id="f07-046a-08-03" tag="," text=",">
+        <cmp x="974" y="2147" width="36" height="33" />
+        <cmp x="1009" y="2169" width="26" height="61" />
+      </word>
+      <word id="f07-046a-08-04" tag="PP2" text="you">
+        <cmp x="1085" y="2146" width="83" height="85" />
+        <cmp x="1171" y="2144" width="113" height="35" />
+      </word>
+      <word id="f07-046a-08-05" tag="MD" text="will">
+        <cmp x="1353" y="2142" width="63" height="41" />
+        <cmp x="1423" y="2107" width="5" height="7" />
+        <cmp x="1439" y="2149" width="15" height="26" />
+        <cmp x="1460" y="2094" width="73" height="79" />
+      </word>
+      <word id="f07-046a-08-06" tag="VB" text="find">
+        <cmp x="1603" y="2101" width="201" height="118" />
+        <cmp x="1648" y="2089" width="11" height="18" />
+      </word>
+      <word id="f07-046a-08-07" tag="AT" text="a">
+        <cmp x="1874" y="2139" width="65" height="31" />
+      </word>
+      <word id="f07-046a-08-08" tag="NN" text="stack">
+        <cmp x="2003" y="2093" width="117" height="83" />
+        <cmp x="2120" y="2138" width="54" height="33" />
+        <cmp x="2176" y="2095" width="60" height="72" />
+        <cmp x="2211" y="2092" width="7" height="7" />
+        <cmp x="2223" y="2111" width="61" height="48" />
+      </word>
+      <upper-contour>
+        <point x="301" y="2052" />
+        <point x="2166" y="2052" />
+      </upper-contour>
+      <lower-contour>
+        <point x="314" y="2231" />
+        <point x="2195" y="2231" />
+      </lower-contour>
+    </line>
+    <line ass="913" asx="0" asy="2292" character-width="999" dss="913" dsx="0" dsy="2425" fd0="14155" fd1="2801" fd2="68" filter-width="3" id="f07-046a-09" lbs="1000" lbx="0" lby="2380" segmentation="ok" slant="123000" stroke-width="5619" threshold="183" text="of it in almost any provision shop." ubs="739" ubx="0" uby="2348">
+      <word id="f07-046a-09-00" tag="INO" text="of">
+        <cmp x="316" y="2313" width="76" height="93" />
+      </word>
+      <word id="f07-046a-09-01" tag="PP3" text="it">
+        <cmp x="482" y="2293" width="9" height="15" />
+        <cmp x="494" y="2286" width="89" height="83" />
+      </word>
+      <word id="f07-046a-09-02" tag="IN" text="in">
+        <cmp x="625" y="2283" width="7" height="17" />
+        <cmp x="641" y="2330" width="98" height="39" />
+      </word>
+      <word id="f07-046a-09-03" tag="RB" text="almost">
+        <cmp x="831" y="2295" width="167" height="73" />
+        <cmp x="1008" y="2281" width="139" height="88" />
+      </word>
+      <word id="f07-046a-09-04" tag="DTI" text="any">
+        <cmp x="1199" y="2319" width="192" height="82" />
+      </word>
+      <word id="f07-046a-09-05" tag="NN" text="provision">
+        <cmp x="1484" y="2315" width="60" height="76" />
+        <cmp x="1556" y="2321" width="33" height="33" />
+        <cmp x="1596" y="2322" width="32" height="27" />
+        <cmp x="1642" y="2317" width="3" height="3" />
+        <cmp x="1645" y="2313" width="31" height="32" />
+        <cmp x="1669" y="2283" width="7" height="14" />
+        <cmp x="1689" y="2319" width="20" height="27" />
+        <cmp x="1710" y="2301" width="91" height="48" />
+        <cmp x="1753" y="2273" width="9" height="18" />
+        <cmp x="1809" y="2304" width="79" height="33" />
+      </word>
+      <word id="f07-046a-09-06" tag="NN" text="shop">
+        <cmp x="1960" y="2303" width="33" height="39" />
+        <cmp x="1996" y="2267" width="59" height="81" />
+        <cmp x="2076" y="2312" width="30" height="32" />
+        <cmp x="2114" y="2304" width="53" height="89" />
+      </word>
+      <word id="f07-046a-09-07" tag="." text=".">
+        <cmp x="2182" y="2335" width="12" height="11" />
+      </word>
+      <upper-contour>
+        <point x="314" y="2231" />
+        <point x="2195" y="2231" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

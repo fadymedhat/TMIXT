@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-17" height="3542" id="e04-086" last-modified="2002-07-24" skew="0" status="final" version="3.0_beta" width="2479" writer-id="240">
+  <machine-printed-part>
+    <machine-print-line text="The chine is the long stringer on each side which is joined to both transoms and lies" />
+    <machine-print-line text="in the grooves cut in the moulds. Each chine is made of oak, ash, spruce or any long" />
+    <machine-print-line text="grained flexible wood. I prefer spruce when available. As will be seen in the plan, the" />
+    <machine-print-line text="transoms have a frame 1 in. by 1 in. on each side." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-63" asx="0" asy="709" character-width="999" dss="-63" dsx="0" dsy="832" fd0="13115" fd1="3128" fd2="-86" filter-width="3" id="e04-086-00" lbs="0" lbx="0" lby="784" segmentation="ok" slant="90000" stroke-width="5263" threshold="165" text="The chine is the long stringer on each side which" ubs="-188" ubx="0" uby="757">
+      <word id="e04-086-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="331" y="721" width="60" height="54" />
+        <cmp x="395" y="710" width="66" height="72" />
+      </word>
+      <word id="e04-086-00-01" tag="NN" text="chine">
+        <cmp x="517" y="758" width="31" height="33" />
+        <cmp x="554" y="712" width="26" height="80" />
+        <cmp x="601" y="759" width="118" height="27" />
+      </word>
+      <word id="e04-086-00-02" tag="BEZ" text="is">
+        <cmp x="761" y="764" width="7" height="25" />
+        <cmp x="769" y="733" width="9" height="15" />
+        <cmp x="770" y="760" width="33" height="43" />
+      </word>
+      <word id="e04-086-00-03" tag="ATI" text="the">
+        <cmp x="863" y="712" width="27" height="75" />
+        <cmp x="893" y="726" width="54" height="60" />
+      </word>
+      <word id="e04-086-00-04" tag="JJ" text="long">
+        <cmp x="993" y="721" width="11" height="65" />
+        <cmp x="1011" y="764" width="87" height="71" />
+      </word>
+      <word id="e04-086-00-05" tag="NN" text="stringer">
+        <cmp x="1135" y="758" width="41" height="34" />
+        <cmp x="1186" y="713" width="33" height="75" />
+        <cmp x="1198" y="762" width="116" height="33" />
+        <cmp x="1295" y="764" width="54" height="69" />
+        <cmp x="1352" y="783" width="13" height="7" />
+        <cmp x="1366" y="763" width="89" height="23" />
+      </word>
+      <word id="e04-086-00-06" tag="IN" text="on">
+        <cmp x="1491" y="762" width="69" height="27" />
+      </word>
+      <word id="e04-086-00-07" tag="DT" text="each">
+        <cmp x="1601" y="755" width="56" height="29" />
+        <cmp x="1658" y="757" width="66" height="28" />
+        <cmp x="1735" y="721" width="34" height="66" />
+      </word>
+      <word id="e04-086-00-08" tag="NN" text="side">
+        <cmp x="1820" y="751" width="57" height="37" />
+        <cmp x="1883" y="767" width="23" height="24" />
+        <cmp x="1885" y="734" width="7" height="8" />
+        <cmp x="1909" y="726" width="50" height="66" />
+      </word>
+      <word id="e04-086-00-09" tag="WDT" text="which">
+        <cmp x="1979" y="763" width="54" height="33" />
+        <cmp x="2037" y="726" width="38" height="62" />
+        <cmp x="2079" y="751" width="3" height="4" />
+        <cmp x="2079" y="763" width="23" height="25" />
+        <cmp x="2109" y="716" width="39" height="75" />
+      </word>
+      <lower-contour>
+        <point x="342" y="835" />
+        <point x="2111" y="835" />
+      </lower-contour>
+    </line>
+    <line ass="-263" asx="0" asy="884" character-width="999" dss="-263" dsx="0" dsy="997" fd0="13397" fd1="2988" fd2="142" filter-width="3" id="e04-086-01" lbs="-239" lbx="0" lby="960" segmentation="err" slant="89000" stroke-width="5274" threshold="165" text="is joined to both transoms and lies in the grooves" ubs="-310" ubx="0" uby="933">
+      <word id="e04-086-01-00" tag="BEZ" text="is">
+        <cmp x="344" y="926" width="6" height="34" />
+        <cmp x="345" y="902" width="11" height="16" />
+        <cmp x="362" y="929" width="23" height="33" />
+      </word>
+      <word id="e04-086-01-01" tag="VBN" text="joined">
+        <cmp x="399" y="936" width="40" height="63" />
+        <cmp x="455" y="936" width="118" height="29" />
+        <cmp x="586" y="933" width="20" height="24" />
+        <cmp x="609" y="901" width="13" height="61" />
+      </word>
+      <word id="e04-086-01-02" tag="IN" text="to">
+        <cmp x="661" y="899" width="32" height="71" />
+        <cmp x="693" y="938" width="34" height="28" />
+      </word>
+      <word id="e04-086-01-03" tag="ABX" text="both">
+        <cmp x="772" y="897" width="29" height="70" />
+        <cmp x="805" y="931" width="33" height="33" />
+        <cmp x="846" y="889" width="29" height="69" />
+        <cmp x="883" y="894" width="35" height="63" />
+      </word>
+      <word id="e04-086-01-04" tag="NNS" text="transoms">
+        <cmp x="977" y="899" width="35" height="68" />
+        <cmp x="1003" y="943" width="23" height="21" />
+        <cmp x="1037" y="944" width="76" height="25" />
+        <cmp x="1111" y="938" width="37" height="34" />
+        <cmp x="1156" y="938" width="39" height="33" />
+        <cmp x="1196" y="937" width="69" height="29" />
+        <cmp x="1205" y="944" width="8" height="5" />
+        <cmp x="1253" y="937" width="38" height="36" />
+      </word>
+      <word id="e04-086-01-05" tag="CC" text="and">
+        <cmp x="1336" y="941" width="70" height="26" />
+        <cmp x="1416" y="907" width="43" height="61" />
+      </word>
+      <word id="e04-086-01-06" tag="NNS" text="lies">
+        <cmp x="1509" y="907" width="28" height="56" />
+        <cmp x="1536" y="915" width="8" height="6" />
+        <cmp x="1550" y="943" width="31" height="26" />
+        <cmp x="1577" y="939" width="24" height="32" />
+      </word>
+      <word id="e04-086-01-07" tag="IN" text="in">
+        <cmp x="1638" y="939" width="63" height="25" />
+        <cmp x="1644" y="907" width="5" height="7" />
+      </word>
+      <word id="e04-086-01-08" tag="ATI" text="the">
+        <cmp x="1755" y="909" width="19" height="57" />
+        <cmp x="1762" y="902" width="4" height="5" />
+        <cmp x="1784" y="900" width="63" height="62" />
+        <cmp x="1849" y="938" width="58" height="64" />
+        <cmp x="1907" y="948" width="46" height="22" />
+      </word>
+      <word id="e04-086-01-09" tag="NNS" text="grooves">
+        <cmp x="1967" y="936" width="122" height="30" />
+        <cmp x="2060" y="941" width="50" height="35" />
+      </word>
+      <upper-contour>
+        <point x="342" y="835" />
+        <point x="2111" y="835" />
+      </upper-contour>
+      <lower-contour>
+        <point x="342" y="1002" />
+        <point x="2111" y="1002" />
+      </lower-contour>
+    </line>
+    <line ass="-145" asx="0" asy="1067" character-width="999" dss="-145" dsx="0" dsy="1187" fd0="13501" fd1="2894" fd2="-58" filter-width="3" id="e04-086-02" lbs="-147" lbx="0" lby="1140" segmentation="err" slant="77000" stroke-width="5243" threshold="167" text="cut in the moulds. Each chine is made of oak," ubs="-141" ubx="0" uby="1117">
+      <word id="e04-086-02-00" tag="VBN" text="cut">
+        <cmp x="343" y="1088" width="103" height="60" />
+      </word>
+      <word id="e04-086-02-01" tag="IN" text="in">
+        <cmp x="501" y="1111" width="55" height="32" />
+      </word>
+      <word id="e04-086-02-02" tag="ATI" text="the">
+        <cmp x="619" y="1084" width="30" height="60" />
+        <cmp x="647" y="1077" width="61" height="69" />
+      </word>
+      <word id="e04-086-02-03" tag="NNS" text="moulds">
+        <cmp x="766" y="1121" width="86" height="31" />
+        <cmp x="866" y="1113" width="64" height="29" />
+        <cmp x="938" y="1071" width="20" height="72" />
+        <cmp x="964" y="1078" width="38" height="65" />
+        <cmp x="997" y="1115" width="36" height="33" />
+      </word>
+      <word id="e04-086-02-04" tag="." text=".">
+        <cmp x="1060" y="1135" width="33" height="11" />
+      </word>
+      <word id="e04-086-02-05" sentence-start="yes" tag="DT" text="Each">
+        <cmp x="1138" y="1087" width="53" height="59" />
+        <cmp x="1182" y="1113" width="85" height="27" />
+        <cmp x="1273" y="1075" width="47" height="63" />
+      </word>
+      <word id="e04-086-02-06" tag="NN" text="chine">
+        <cmp x="1370" y="1103" width="32" height="37" />
+        <cmp x="1406" y="1073" width="152" height="70" />
+      </word>
+      <word id="e04-086-02-07" tag="BEZ" text="is">
+        <cmp x="1600" y="1114" width="12" height="29" />
+        <cmp x="1615" y="1100" width="8" height="8" />
+        <cmp x="1616" y="1113" width="30" height="39" />
+      </word>
+      <word id="e04-086-02-08" tag="VBN" text="made">
+        <cmp x="1680" y="1124" width="58" height="24" />
+        <cmp x="1749" y="1122" width="33" height="24" />
+        <cmp x="1788" y="1081" width="50" height="64" />
+        <cmp x="1839" y="1117" width="34" height="27" />
+      </word>
+      <word id="e04-086-02-09" tag="INO" text="of">
+        <cmp x="1910" y="1084" width="75" height="101" />
+      </word>
+      <word id="e04-086-02-10" tag="NN" text="oak">
+        <cmp x="2019" y="1122" width="67" height="26" />
+        <cmp x="2087" y="1089" width="43" height="59" />
+        <cmp x="2101" y="1149" width="42" height="44" />
+      </word>
+      <word id="e04-086-02-11" tag="," text=",">
+        <cmp x="2103" y="1136" width="9" height="20" />
+      </word>
+      <upper-contour>
+        <point x="342" y="1002" />
+        <point x="2111" y="1002" />
+      </upper-contour>
+      <lower-contour>
+        <point x="341" y="1193" />
+        <point x="2110" y="1193" />
+      </lower-contour>
+    </line>
+    <line ass="-94" asx="0" asy="1258" character-width="999" dss="-94" dsx="0" dsy="1369" fd0="13258" fd1="2579" fd2="-235" filter-width="3" id="e04-086-03" lbs="-36" lbx="0" lby="1327" segmentation="ok" slant="90000" stroke-width="5146" threshold="166" text="ash, spruce or any long grained flexible wood. I" ubs="-210" ubx="0" uby="1299">
+      <word id="e04-086-03-00" tag="NN" text="ash">
+        <cmp x="337" y="1298" width="53" height="35" />
+        <cmp x="403" y="1261" width="37" height="62" />
+      </word>
+      <word id="e04-086-03-01" tag="," text=",">
+        <cmp x="454" y="1315" width="30" height="41" />
+      </word>
+      <word id="e04-086-03-02" tag="NN" text="spruce">
+        <cmp x="536" y="1298" width="37" height="40" />
+        <cmp x="575" y="1299" width="120" height="68" />
+        <cmp x="699" y="1299" width="62" height="26" />
+      </word>
+      <word id="e04-086-03-03" tag="CC" text="or">
+        <cmp x="816" y="1290" width="71" height="32" />
+      </word>
+      <word id="e04-086-03-04" tag="DTI" text="any">
+        <cmp x="937" y="1296" width="33" height="29" />
+        <cmp x="971" y="1297" width="79" height="75" />
+      </word>
+      <word id="e04-086-03-05" tag="JJ" text="long">
+        <cmp x="1076" y="1261" width="18" height="66" />
+        <cmp x="1094" y="1296" width="65" height="27" />
+        <cmp x="1148" y="1301" width="27" height="37" />
+      </word>
+      <word id="e04-086-03-06" tag="JJ" text="grained">
+        <cmp x="1208" y="1304" width="44" height="60" />
+        <cmp x="1252" y="1307" width="68" height="24" />
+        <cmp x="1336" y="1303" width="57" height="30" />
+        <cmp x="1392" y="1301" width="95" height="29" />
+        <cmp x="1485" y="1268" width="19" height="62" />
+      </word>
+      <word id="e04-086-03-07" tag="JJ" text="flexible">
+        <cmp x="1533" y="1278" width="39" height="92" />
+        <cmp x="1578" y="1275" width="20" height="60" />
+        <cmp x="1600" y="1302" width="26" height="26" />
+        <cmp x="1620" y="1300" width="50" height="38" />
+        <cmp x="1669" y="1306" width="13" height="22" />
+        <cmp x="1682" y="1285" width="8" height="6" />
+        <cmp x="1698" y="1262" width="27" height="68" />
+        <cmp x="1729" y="1265" width="44" height="64" />
+      </word>
+      <word id="e04-086-03-08" tag="NN" text="wood">
+        <cmp x="1814" y="1295" width="128" height="34" />
+        <cmp x="1949" y="1270" width="51" height="57" />
+      </word>
+      <word id="e04-086-03-09" tag="." text=".">
+        <cmp x="2015" y="1326" width="34" height="7" />
+      </word>
+      <word id="e04-086-03-10" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="2064" y="1270" width="45" height="65" />
+      </word>
+      <upper-contour>
+        <point x="341" y="1193" />
+        <point x="2110" y="1193" />
+      </upper-contour>
+      <lower-contour>
+        <point x="345" y="1372" />
+        <point x="2095" y="1372" />
+      </lower-contour>
+    </line>
+    <line ass="-131" asx="0" asy="1424" character-width="999" dss="-131" dsx="0" dsy="1556" fd0="12893" fd1="2750" fd2="-361" filter-width="3" id="e04-086-04" lbs="-148" lbx="0" lby="1501" segmentation="ok" slant="85000" stroke-width="5174" threshold="164" text="prefer spruce when available. As will be seen" ubs="-97" ubx="0" uby="1479">
+      <word id="e04-086-04-00" tag="VB" text="prefer">
+        <cmp x="347" y="1480" width="98" height="78" />
+        <cmp x="451" y="1450" width="103" height="99" />
+      </word>
+      <word id="e04-086-04-01" tag="NN" text="spruce">
+        <cmp x="604" y="1471" width="26" height="37" />
+        <cmp x="633" y="1478" width="130" height="72" />
+        <cmp x="765" y="1482" width="73" height="23" />
+      </word>
+      <word id="e04-086-04-02" tag="WRB" text="when">
+        <cmp x="890" y="1476" width="32" height="29" />
+        <cmp x="923" y="1472" width="25" height="22" />
+        <cmp x="958" y="1427" width="130" height="80" />
+      </word>
+      <word id="e04-086-04-03" tag="JJ" text="available">
+        <cmp x="1141" y="1475" width="57" height="35" />
+        <cmp x="1200" y="1475" width="74" height="29" />
+        <cmp x="1264" y="1452" width="4" height="12" />
+        <cmp x="1286" y="1434" width="12" height="64" />
+        <cmp x="1299" y="1480" width="35" height="23" />
+        <cmp x="1354" y="1434" width="39" height="76" />
+        <cmp x="1398" y="1432" width="69" height="70" />
+      </word>
+      <word id="e04-086-04-04" tag="." text=".">
+        <cmp x="1489" y="1496" width="28" height="9" />
+      </word>
+      <word id="e04-086-04-05" sentence-start="yes" tag="CS" text="As">
+        <cmp x="1573" y="1443" width="34" height="58" />
+        <cmp x="1601" y="1473" width="36" height="30" />
+      </word>
+      <word id="e04-086-04-06" tag="MD" text="will">
+        <cmp x="1662" y="1474" width="60" height="36" />
+        <cmp x="1711" y="1454" width="12" height="6" />
+        <cmp x="1723" y="1435" width="26" height="71" />
+        <cmp x="1741" y="1438" width="30" height="74" />
+      </word>
+      <word id="e04-086-04-07" tag="BE" text="be">
+        <cmp x="1806" y="1444" width="64" height="66" />
+      </word>
+      <word id="e04-086-04-08" tag="VBN" text="seen">
+        <cmp x="1924" y="1477" width="170" height="34" />
+      </word>
+      <upper-contour>
+        <point x="345" y="1372" />
+        <point x="2095" y="1372" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="1558" />
+        <point x="2030" y="1558" />
+      </lower-contour>
+    </line>
+    <line ass="59" asx="0" asy="1613" character-width="999" dss="59" dsx="0" dsy="1731" fd0="13227" fd1="3543" fd2="302" filter-width="3" id="e04-086-05" lbs="116" lbx="0" lby="1685" segmentation="err" slant="82000" stroke-width="5237" threshold="162" text="in the plan, the transoms have a frame 1 in. by 1 in." ubs="-55" ubx="0" uby="1658">
+      <word id="e04-086-05-00" tag="IN" text="in">
+        <cmp x="351" y="1654" width="61" height="39" />
+      </word>
+      <word id="e04-086-05-01" tag="ATI" text="the">
+        <cmp x="456" y="1614" width="23" height="64" />
+        <cmp x="477" y="1615" width="53" height="63" />
+      </word>
+      <word id="e04-086-05-02" tag="NN" text="plan">
+        <cmp x="576" y="1663" width="31" height="68" />
+        <cmp x="616" y="1620" width="16" height="80" />
+        <cmp x="637" y="1662" width="113" height="28" />
+      </word>
+      <word id="e04-086-05-03" tag="," text=",">
+        <cmp x="749" y="1679" width="30" height="43" />
+      </word>
+      <word id="e04-086-05-04" tag="ATI" text="the">
+        <cmp x="823" y="1614" width="22" height="62" />
+        <cmp x="850" y="1620" width="59" height="63" />
+      </word>
+      <word id="e04-086-05-05" tag="NNS" text="transoms">
+        <cmp x="972" y="1613" width="40" height="74" />
+        <cmp x="995" y="1669" width="3" height="3" />
+        <cmp x="1000" y="1649" width="32" height="26" />
+        <cmp x="1047" y="1648" width="101" height="40" />
+        <cmp x="1164" y="1653" width="79" height="32" />
+        <cmp x="1235" y="1654" width="36" height="37" />
+      </word>
+      <word id="e04-086-05-06" tag="HV" text="have">
+        <cmp x="1339" y="1621" width="29" height="67" />
+        <cmp x="1349" y="1615" width="3" height="3" />
+        <cmp x="1375" y="1660" width="34" height="29" />
+        <cmp x="1411" y="1657" width="64" height="28" />
+      </word>
+      <word id="e04-086-05-07" tag="AT" text="a">
+        <cmp x="1513" y="1660" width="52" height="24" />
+      </word>
+      <word id="e04-086-05-08" tag="NN" text="frame">
+        <cmp x="1593" y="1623" width="73" height="105" />
+      </word>
+      <word id="e04-086-05-09" tag="CD1" text="1">
+        <cmp x="1677" y="1652" width="153" height="31" />
+      </word>
+      <word id="e04-086-05-10" tag="NNU" text="in.">
+        <cmp x="1875" y="1625" width="29" height="53" />
+        <cmp x="1943" y="1659" width="48" height="28" />
+      </word>
+      <word id="e04-086-05-11" tag="IN" text="by">
+        <cmp x="1945" y="1626" width="4" height="10" />
+      </word>
+      <word id="e04-086-05-12" tag="CD1" text="1" />
+      <word id="e04-086-05-13" tag="NNU" text="in.">
+        <cmp x="2015" y="1676" width="14" height="9" />
+      </word>
+      <upper-contour>
+        <point x="349" y="1558" />
+        <point x="2030" y="1558" />
+      </upper-contour>
+      <lower-contour>
+        <point x="357" y="1731" />
+        <point x="964" y="1731" />
+      </lower-contour>
+    </line>
+    <line ass="-516" asx="0" asy="1789" character-width="999" dss="-516" dsx="0" dsy="1865" fd0="13706" fd1="3732" fd2="716" filter-width="3" id="e04-086-06" lbs="-338" lbx="0" lby="1857" segmentation="ok" slant="85000" stroke-width="4970" threshold="165" text="on each side." ubs="-870" ubx="0" uby="1827">
+      <word id="e04-086-06-00" tag="IN" text="on">
+        <cmp x="359" y="1826" width="76" height="35" />
+      </word>
+      <word id="e04-086-06-01" tag="DT" text="each">
+        <cmp x="520" y="1842" width="25" height="21" />
+        <cmp x="549" y="1835" width="50" height="25" />
+        <cmp x="605" y="1832" width="27" height="27" />
+        <cmp x="642" y="1798" width="45" height="64" />
+      </word>
+      <word id="e04-086-06-02" tag="NN" text="side">
+        <cmp x="757" y="1829" width="37" height="43" />
+        <cmp x="801" y="1832" width="14" height="31" />
+        <cmp x="815" y="1811" width="8" height="12" />
+        <cmp x="832" y="1835" width="21" height="24" />
+        <cmp x="861" y="1798" width="42" height="61" />
+      </word>
+      <word id="e04-086-06-03" tag="." text=".">
+        <cmp x="941" y="1852" width="22" height="8" />
+      </word>
+      <upper-contour>
+        <point x="357" y="1731" />
+        <point x="964" y="1731" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

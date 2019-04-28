@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-15" height="3542" id="b05-067" last-modified="2002-07-24" skew="63" status="final" version="3.0_beta" width="2479" writer-id="118">
+  <machine-printed-part>
+    <machine-print-line text="&quot;I drew a certain solace from the fact that I did what I could despite my low rank.&quot;" />
+    <machine-print-line text="Eichmann is on dangerous ground when he pleads that he was only a small unit on" />
+    <machine-print-line text="the base of the triangle that led to Hitler, Himmler, Hess and Goering at the apex." />
+    <machine-print-line text="In examination he betrayed an expert and intimate knowledge of every link in the" />
+    <machine-print-line text="chain of command that led to the top." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-20" asx="0" asy="723" character-width="999" dss="-20" dsx="0" dsy="801" fd0="14089" fd1="2368" fd2="119" filter-width="4" id="b05-067-00" lbs="-15" lbx="0" lby="781" segmentation="ok" slant="49000" stroke-width="5823" threshold="186" text="&quot;I drew a certain solace from the fact that I did what I" ubs="-31" ubx="0" uby="760">
+      <word id="b05-067-00-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="374" y="725" width="15" height="13" />
+      </word>
+      <word id="b05-067-00-01" tag="PP1A" text="I">
+        <cmp x="396" y="739" width="51" height="45" />
+      </word>
+      <word id="b05-067-00-02" tag="VBD" text="drew">
+        <cmp x="478" y="767" width="16" height="22" />
+        <cmp x="494" y="736" width="109" height="46" />
+      </word>
+      <word id="b05-067-00-03" tag="AT" text="a">
+        <cmp x="648" y="760" width="28" height="25" />
+      </word>
+      <word id="b05-067-00-04" tag="JJ" text="certain">
+        <cmp x="741" y="738" width="167" height="46" />
+        <cmp x="884" y="737" width="7" height="12" />
+      </word>
+      <word id="b05-067-00-05" tag="NN" text="solace">
+        <cmp x="970" y="731" width="81" height="51" />
+        <cmp x="1056" y="761" width="41" height="21" />
+      </word>
+      <word id="b05-067-00-06" tag="IN" text="from">
+        <cmp x="1126" y="732" width="117" height="69" />
+      </word>
+      <word id="b05-067-00-07" tag="ATI" text="the">
+        <cmp x="1282" y="738" width="60" height="49" />
+      </word>
+      <word id="b05-067-00-08" tag="NN" text="fact">
+        <cmp x="1375" y="737" width="69" height="66" />
+        <cmp x="1410" y="741" width="93" height="43" />
+      </word>
+      <word id="b05-067-00-09" tag="CS" text="that">
+        <cmp x="1541" y="736" width="105" height="43" />
+      </word>
+      <word id="b05-067-00-10" tag="PP1A" text="I">
+        <cmp x="1678" y="751" width="57" height="37" />
+      </word>
+      <word id="b05-067-00-11" tag="DOD" text="did">
+        <cmp x="1753" y="751" width="100" height="45" />
+        <cmp x="1816" y="752" width="10" height="8" />
+      </word>
+      <word id="b05-067-00-12" tag="WDT" text="what">
+        <cmp x="1871" y="745" width="138" height="50" />
+      </word>
+      <word id="b05-067-00-13" tag="PP1A" text="I">
+        <cmp x="2039" y="747" width="58" height="39" />
+      </word>
+      <lower-contour>
+        <point x="377" y="803" />
+        <point x="2098" y="803" />
+      </lower-contour>
+    </line>
+    <line ass="-301" asx="0" asy="901" character-width="999" dss="-301" dsx="0" dsy="993" fd0="13873" fd1="2075" fd2="-375" filter-width="4" id="b05-067-01" lbs="-424" lbx="0" lby="954" segmentation="err" slant="29999" stroke-width="5831" threshold="182" text="could despite my low rank.&quot; Eichmann is on dangerous ground" ubs="-57" ubx="0" uby="944">
+      <word id="b05-067-01-00" tag="MD" text="could">
+        <cmp x="379" y="918" width="144" height="49" />
+        <cmp x="398" y="943" width="4" height="4" />
+        <cmp x="401" y="934" width="4" height="8" />
+      </word>
+      <word id="b05-067-01-01" tag="IN" text="despite">
+        <cmp x="564" y="919" width="160" height="67" />
+        <cmp x="682" y="928" width="6" height="8" />
+      </word>
+      <word id="b05-067-01-02" tag="PP$" text="my">
+        <cmp x="771" y="934" width="71" height="65" />
+        <cmp x="884" y="909" width="93" height="53" />
+      </word>
+      <word id="b05-067-01-03" tag="JJ" text="low">
+        <cmp x="1016" y="915" width="123" height="51" />
+        <cmp x="1189" y="909" width="19" height="13" />
+      </word>
+      <word id="b05-067-01-04" tag="NN" text="rank">
+        <cmp x="1145" y="963" width="6" height="6" />
+      </word>
+      <word id="b05-067-01-05" tag="." text="." />
+      <word id="b05-067-01-06" tag="**&apos;" text="&quot;">
+        <cmp x="1247" y="921" width="43" height="43" />
+      </word>
+      <word id="b05-067-01-07" sentence-start="yes" tag="NP" text="Eichmann">
+        <cmp x="1291" y="922" width="54" height="42" />
+        <cmp x="1301" y="925" width="12" height="8" />
+        <cmp x="1312" y="941" width="4" height="4" />
+        <cmp x="1335" y="942" width="115" height="25" />
+      </word>
+      <word id="b05-067-01-08" tag="BEZ" text="is">
+        <cmp x="1503" y="942" width="34" height="22" />
+        <cmp x="1522" y="927" width="6" height="11" />
+      </word>
+      <word id="b05-067-01-09" tag="IN" text="on">
+        <cmp x="1574" y="946" width="52" height="22" />
+      </word>
+      <word id="b05-067-01-10" tag="JJ" text="dangerous">
+        <cmp x="1669" y="927" width="50" height="43" />
+        <cmp x="1701" y="947" width="196" height="55" />
+      </word>
+      <word id="b05-067-01-11" tag="NN" text="ground">
+        <cmp x="1928" y="925" width="183" height="63" />
+        <cmp x="2036" y="928" width="4" height="4" />
+      </word>
+      <upper-contour>
+        <point x="377" y="803" />
+        <point x="2098" y="803" />
+      </upper-contour>
+      <lower-contour>
+        <point x="377" y="1003" />
+        <point x="2048" y="1003" />
+      </lower-contour>
+    </line>
+    <line ass="-98" asx="0" asy="1092" character-width="999" dss="-98" dsx="0" dsy="1186" fd0="14338" fd1="2755" fd2="142" filter-width="4" id="b05-067-02" lbs="-152" lbx="0" lby="1140" segmentation="ok" slant="52000" stroke-width="6021" threshold="186" text="when he pleads that he was only a small unit on the base" ubs="8" ubx="0" uby="1121">
+      <word id="b05-067-02-00" tag="WRB" text="when">
+        <cmp x="372" y="1097" width="102" height="47" />
+      </word>
+      <word id="b05-067-02-01" tag="PP3A" text="he">
+        <cmp x="527" y="1100" width="54" height="46" />
+      </word>
+      <word id="b05-067-02-02" tag="VBZ" text="pleads">
+        <cmp x="606" y="1100" width="162" height="74" />
+        <cmp x="753" y="1118" width="20" height="19" />
+      </word>
+      <word id="b05-067-02-03" tag="CS" text="that">
+        <cmp x="818" y="1095" width="107" height="48" />
+      </word>
+      <word id="b05-067-02-04" tag="PP3A" text="he">
+        <cmp x="968" y="1095" width="48" height="48" />
+      </word>
+      <word id="b05-067-02-05" tag="BEDZ" text="was">
+        <cmp x="1058" y="1123" width="79" height="27" />
+      </word>
+      <word id="b05-067-02-06" tag="RB" text="only">
+        <cmp x="1175" y="1104" width="110" height="86" />
+      </word>
+      <word id="b05-067-02-07" tag="AT" text="a">
+        <cmp x="1339" y="1123" width="29" height="18" />
+      </word>
+      <word id="b05-067-02-08" tag="JJ" text="small">
+        <cmp x="1424" y="1123" width="24" height="25" />
+        <cmp x="1449" y="1107" width="113" height="43" />
+      </word>
+      <word id="b05-067-02-09" tag="NN" text="unit">
+        <cmp x="1593" y="1108" width="108" height="37" />
+        <cmp x="1662" y="1112" width="8" height="8" />
+      </word>
+      <word id="b05-067-02-10" tag="IN" text="on">
+        <cmp x="1725" y="1120" width="57" height="27" />
+      </word>
+      <word id="b05-067-02-11" tag="ATI" text="the">
+        <cmp x="1824" y="1099" width="70" height="47" />
+      </word>
+      <word id="b05-067-02-12" tag="NN" text="base">
+        <cmp x="1943" y="1105" width="61" height="42" />
+        <cmp x="2003" y="1121" width="44" height="24" />
+      </word>
+      <upper-contour>
+        <point x="377" y="1003" />
+        <point x="2048" y="1003" />
+      </upper-contour>
+      <lower-contour>
+        <point x="375" y="1190" />
+        <point x="2025" y="1190" />
+      </lower-contour>
+    </line>
+    <line ass="-493" asx="0" asy="1259" character-width="999" dss="-493" dsx="0" dsy="1355" fd0="14188" fd1="2143" fd2="-743" filter-width="4" id="b05-067-03" lbs="-548" lbx="0" lby="1310" segmentation="ok" slant="53000" stroke-width="5913" threshold="186" text="of the triangle that led to Hitler, Himmler, Hess and Goering" ubs="-383" ubx="0" uby="1284">
+      <word id="b05-067-03-00" tag="INO" text="of">
+        <cmp x="377" y="1263" width="61" height="74" />
+      </word>
+      <word id="b05-067-03-01" tag="ATI" text="the">
+        <cmp x="460" y="1266" width="64" height="48" />
+      </word>
+      <word id="b05-067-03-02" tag="NN" text="triangle">
+        <cmp x="563" y="1266" width="51" height="50" />
+        <cmp x="606" y="1271" width="114" height="77" />
+        <cmp x="614" y="1277" width="6" height="7" />
+      </word>
+      <word id="b05-067-03-03" tag="WP" text="that">
+        <cmp x="771" y="1271" width="114" height="49" />
+      </word>
+      <word id="b05-067-03-04" tag="VBD" text="led">
+        <cmp x="924" y="1275" width="93" height="47" />
+      </word>
+      <word id="b05-067-03-05" tag="IN" text="to">
+        <cmp x="1055" y="1272" width="51" height="52" />
+      </word>
+      <word id="b05-067-03-06" tag="NP" text="Hitler">
+        <cmp x="1135" y="1280" width="147" height="52" />
+      </word>
+      <word id="b05-067-03-07" tag="," text=",">
+        <cmp x="1286" y="1319" width="18" height="22" />
+      </word>
+      <word id="b05-067-03-08" tag="NP" text="Himmler">
+        <cmp x="1347" y="1279" width="192" height="47" />
+        <cmp x="1412" y="1282" width="5" height="6" />
+      </word>
+      <word id="b05-067-03-09" tag="," text=",">
+        <cmp x="1551" y="1313" width="22" height="25" />
+      </word>
+      <word id="b05-067-03-10" tag="NP" text="Hess">
+        <cmp x="1604" y="1278" width="52" height="46" />
+        <cmp x="1653" y="1296" width="49" height="31" />
+      </word>
+      <word id="b05-067-03-11" tag="CC" text="and">
+        <cmp x="1744" y="1286" width="105" height="40" />
+      </word>
+      <word id="b05-067-03-12" tag="NP" text="Goering">
+        <cmp x="1851" y="1281" width="173" height="92" />
+        <cmp x="1985" y="1280" width="5" height="9" />
+      </word>
+      <upper-contour>
+        <point x="375" y="1190" />
+        <point x="2025" y="1190" />
+      </upper-contour>
+      <lower-contour>
+        <point x="379" y="1373" />
+        <point x="2011" y="1373" />
+      </lower-contour>
+    </line>
+    <line ass="-544" asx="0" asy="1439" character-width="999" dss="-544" dsx="0" dsy="1529" fd0="13940" fd1="2224" fd2="-239" filter-width="4" id="b05-067-04" lbs="-572" lbx="0" lby="1487" segmentation="ok" slant="48000" stroke-width="5790" threshold="182" text="at the apex. In examination he betrayed an expert and" ubs="-488" ubx="0" uby="1470">
+      <word id="b05-067-04-00" tag="IN" text="at">
+        <cmp x="381" y="1453" width="64" height="41" />
+      </word>
+      <word id="b05-067-04-01" tag="ATI" text="the">
+        <cmp x="480" y="1451" width="72" height="45" />
+      </word>
+      <word id="b05-067-04-02" tag="NN" text="apex">
+        <cmp x="591" y="1470" width="88" height="46" />
+        <cmp x="682" y="1475" width="31" height="17" />
+      </word>
+      <word id="b05-067-04-03" tag="." text=".">
+        <cmp x="724" y="1488" width="7" height="6" />
+      </word>
+      <word id="b05-067-04-04" sentence-start="yes" tag="IN" text="In">
+        <cmp x="802" y="1480" width="4" height="5" />
+        <cmp x="807" y="1452" width="57" height="43" />
+      </word>
+      <word id="b05-067-04-05" tag="NN" text="examination">
+        <cmp x="908" y="1477" width="158" height="31" />
+        <cmp x="1049" y="1460" width="5" height="12" />
+        <cmp x="1069" y="1456" width="105" height="50" />
+        <cmp x="1139" y="1462" width="7" height="12" />
+      </word>
+      <word id="b05-067-04-06" tag="PP3A" text="he">
+        <cmp x="1232" y="1451" width="53" height="51" />
+      </word>
+      <word id="b05-067-04-07" tag="VBD" text="betrayed">
+        <cmp x="1312" y="1456" width="226" height="88" />
+      </word>
+      <word id="b05-067-04-08" tag="AT" text="an">
+        <cmp x="1580" y="1482" width="71" height="24" />
+      </word>
+      <word id="b05-067-04-09" tag="JJ" text="expert">
+        <cmp x="1685" y="1466" width="164" height="66" />
+      </word>
+      <word id="b05-067-04-10" tag="CC" text="and">
+        <cmp x="1877" y="1462" width="133" height="45" />
+      </word>
+      <upper-contour>
+        <point x="379" y="1373" />
+        <point x="2011" y="1373" />
+      </upper-contour>
+      <lower-contour>
+        <point x="379" y="1544" />
+        <point x="2011" y="1544" />
+      </lower-contour>
+    </line>
+    <line ass="-460" asx="0" asy="1619" character-width="999" dss="-460" dsx="0" dsy="1707" fd0="14017" fd1="2270" fd2="-286" filter-width="4" id="b05-067-05" lbs="-512" lbx="0" lby="1664" segmentation="ok" slant="50000" stroke-width="5799" threshold="182" text="intimate knowledge of every link in the chain of command that" ubs="-358" ubx="0" uby="1646">
+      <word id="b05-067-05-00" tag="JJ" text="intimate">
+        <cmp x="369" y="1626" width="191" height="50" />
+        <cmp x="390" y="1630" width="7" height="10" />
+        <cmp x="474" y="1631" width="7" height="9" />
+      </word>
+      <word id="b05-067-05-01" tag="NN" text="knowledge">
+        <cmp x="624" y="1626" width="219" height="56" />
+        <cmp x="810" y="1658" width="67" height="53" />
+      </word>
+      <word id="b05-067-05-02" tag="INO" text="of">
+        <cmp x="930" y="1638" width="70" height="78" />
+      </word>
+      <word id="b05-067-05-03" tag="AT" text="every">
+        <cmp x="1034" y="1660" width="113" height="56" />
+      </word>
+      <word id="b05-067-05-04" tag="NN" text="link">
+        <cmp x="1209" y="1631" width="102" height="51" />
+        <cmp x="1270" y="1644" width="6" height="8" />
+      </word>
+      <word id="b05-067-05-05" tag="IN" text="in">
+        <cmp x="1368" y="1656" width="45" height="25" />
+        <cmp x="1392" y="1642" width="9" height="13" />
+      </word>
+      <word id="b05-067-05-06" tag="ATI" text="the">
+        <cmp x="1457" y="1634" width="59" height="46" />
+      </word>
+      <word id="b05-067-05-07" tag="NN" text="chain">
+        <cmp x="1560" y="1640" width="127" height="45" />
+        <cmp x="1665" y="1650" width="4" height="7" />
+      </word>
+      <word id="b05-067-05-08" tag="INO" text="of">
+        <cmp x="1737" y="1633" width="66" height="72" />
+      </word>
+      <word id="b05-067-05-09" tag="NN" text="command">
+        <cmp x="1819" y="1665" width="26" height="24" />
+        <cmp x="1839" y="1651" width="217" height="36" />
+      </word>
+      <word id="b05-067-05-10" tag="WP" text="that">
+        <cmp x="2099" y="1639" width="113" height="43" />
+      </word>
+      <upper-contour>
+        <point x="379" y="1544" />
+        <point x="2011" y="1544" />
+      </upper-contour>
+      <lower-contour>
+        <point x="367" y="1682" />
+        <point x="807" y="1682" />
+      </lower-contour>
+    </line>
+    <line ass="-1933" asx="0" asy="1790" character-width="999" dss="-1933" dsx="0" dsy="1853" fd0="14054" fd1="2317" fd2="63" filter-width="4" id="b05-067-06" lbs="-1849" lbx="0" lby="1840" segmentation="ok" slant="47000" stroke-width="6042" threshold="186" text="led to the top." ubs="-2101" ubx="0" uby="1800">
+      <word id="b05-067-06-00" tag="VBD" text="led">
+        <cmp x="366" y="1805" width="100" height="54" />
+      </word>
+      <word id="b05-067-06-01" tag="IN" text="to">
+        <cmp x="517" y="1811" width="56" height="45" />
+      </word>
+      <word id="b05-067-06-02" tag="ATI" text="the">
+        <cmp x="604" y="1813" width="61" height="44" />
+      </word>
+      <word id="b05-067-06-03" tag="NN" text="top">
+        <cmp x="703" y="1813" width="79" height="66" />
+      </word>
+      <word id="b05-067-06-04" tag="." text=".">
+        <cmp x="800" y="1855" width="7" height="8" />
+      </word>
+      <upper-contour>
+        <point x="367" y="1682" />
+        <point x="807" y="1682" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

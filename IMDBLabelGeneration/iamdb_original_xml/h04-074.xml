@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-24" height="3542" id="h04-074" last-modified="2002-07-17" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="382">
+  <machine-printed-part>
+    <machine-print-line text="79. Table 30 shows the energy value and nutrient content of the diets of households" />
+    <machine-print-line text="of different composition. The averages showed little change compared with those for" />
+    <machine-print-line text="the previous year, except for generally increased intakes of vitamins C and D. Since" />
+    <machine-print-line text="physiological requirements vary widely with age, sex and level of activity, comparisons" />
+    <machine-print-line text="between families of different composition are only apposite when considered in relation" />
+    <machine-print-line text="to needs." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-848" asx="0" asy="705" character-width="999" dss="-848" dsx="0" dsy="862" fd0="13896" fd1="2069" fd2="-2295" filter-width="4" id="h04-074-00" lbs="-892" lbx="0" lby="789" segmentation="err" slant="62000" stroke-width="5780" threshold="164" text="79. Table 30 shows the energy value and nutrient content of" ubs="-762" ubx="0" uby="759">
+      <word id="h04-074-00-00" sentence-start="yes" tag="CD" text="79">
+        <cmp x="362" y="725" width="55" height="69" />
+        <cmp x="402" y="739" width="40" height="65" />
+      </word>
+      <word id="h04-074-00-01" tag="." text=".">
+        <cmp x="446" y="789" width="5" height="5" />
+      </word>
+      <word id="h04-074-00-02" tag="NN" text="Table">
+        <cmp x="496" y="715" width="105" height="82" />
+        <cmp x="594" y="715" width="68" height="85" />
+      </word>
+      <word id="h04-074-00-03" tag="CD" text="30">
+        <cmp x="688" y="759" width="40" height="45" />
+        <cmp x="729" y="754" width="43" height="46" />
+      </word>
+      <word id="h04-074-00-04" tag="VBZ" text="shows">
+        <cmp x="777" y="735" width="126" height="71" />
+        <cmp x="908" y="774" width="15" height="29" />
+      </word>
+      <word id="h04-074-00-05" tag="ATI" text="the">
+        <cmp x="947" y="735" width="91" height="72" />
+      </word>
+      <word id="h04-074-00-06" tag="NN" text="energy">
+        <cmp x="1057" y="769" width="63" height="36" />
+        <cmp x="1116" y="768" width="62" height="39" />
+        <cmp x="1129" y="777" width="132" height="103" />
+        <cmp x="1267" y="773" width="29" height="35" />
+        <cmp x="1282" y="731" width="99" height="85" />
+      </word>
+      <word id="h04-074-00-07" tag="NN" text="value">
+        <cmp x="1384" y="781" width="29" height="31" />
+        <cmp x="1430" y="777" width="68" height="37" />
+        <cmp x="1497" y="740" width="61" height="77" />
+      </word>
+      <word id="h04-074-00-08" tag="CC" text="and">
+        <cmp x="1555" y="786" width="80" height="35" />
+      </word>
+      <word id="h04-074-00-09" tag="JJ" text="nutrient">
+        <cmp x="1628" y="746" width="75" height="74" />
+        <cmp x="1692" y="789" width="17" height="25" />
+        <cmp x="1707" y="752" width="97" height="66" />
+        <cmp x="1710" y="772" width="7" height="6" />
+      </word>
+      <word id="h04-074-00-10" tag="NN" text="content">
+        <cmp x="1823" y="782" width="56" height="37" />
+        <cmp x="1871" y="754" width="144" height="68" />
+      </word>
+      <word id="h04-074-00-11" tag="INO" text="of">
+        <cmp x="2026" y="789" width="34" height="29" />
+        <cmp x="2062" y="749" width="48" height="72" />
+      </word>
+      <lower-contour>
+        <point x="360" y="880" />
+        <point x="2111" y="880" />
+      </lower-contour>
+    </line>
+    <line ass="-1019" asx="0" asy="869" character-width="999" dss="-1019" dsx="0" dsy="1048" fd0="13900" fd1="2241" fd2="-1947" filter-width="4" id="h04-074-01" lbs="-914" lbx="0" lby="966" segmentation="ok" slant="63000" stroke-width="5819" threshold="164" text="the diets of households of different composition. The averages" ubs="-1230" ubx="0" uby="928">
+      <word id="h04-074-01-00" tag="ATI" text="the">
+        <cmp x="331" y="894" width="90" height="84" />
+      </word>
+      <word id="h04-074-01-01" tag="NNS" text="diets">
+        <cmp x="445" y="897" width="56" height="77" />
+        <cmp x="498" y="926" width="7" height="7" />
+        <cmp x="499" y="898" width="65" height="76" />
+        <cmp x="555" y="941" width="21" height="35" />
+      </word>
+      <word id="h04-074-01-02" tag="INO" text="of">
+        <cmp x="609" y="943" width="30" height="35" />
+        <cmp x="642" y="901" width="44" height="81" />
+      </word>
+      <word id="h04-074-01-03" tag="NNS" text="households">
+        <cmp x="698" y="903" width="91" height="80" />
+        <cmp x="784" y="945" width="56" height="37" />
+        <cmp x="842" y="910" width="74" height="71" />
+        <cmp x="907" y="901" width="103" height="89" />
+        <cmp x="993" y="950" width="20" height="33" />
+      </word>
+      <word id="h04-074-01-04" tag="INO" text="of">
+        <cmp x="1038" y="957" width="33" height="34" />
+        <cmp x="1076" y="915" width="42" height="73" />
+      </word>
+      <word id="h04-074-01-05" tag="JJ" text="different">
+        <cmp x="1128" y="911" width="63" height="80" />
+        <cmp x="1193" y="917" width="45" height="70" />
+        <cmp x="1222" y="917" width="48" height="68" />
+        <cmp x="1243" y="951" width="56" height="37" />
+        <cmp x="1286" y="910" width="104" height="77" />
+      </word>
+      <word id="h04-074-01-06" tag="NN" text="composition">
+        <cmp x="1406" y="954" width="56" height="39" />
+        <cmp x="1457" y="959" width="40" height="32" />
+        <cmp x="1470" y="960" width="57" height="71" />
+        <cmp x="1525" y="964" width="31" height="30" />
+        <cmp x="1553" y="960" width="44" height="33" />
+        <cmp x="1592" y="921" width="60" height="76" />
+        <cmp x="1594" y="954" width="5" height="11" />
+        <cmp x="1646" y="961" width="62" height="47" />
+        <cmp x="1650" y="946" width="11" height="8" />
+      </word>
+      <word id="h04-074-01-07" tag="." text=".">
+        <cmp x="1715" y="990" width="8" height="7" />
+      </word>
+      <word id="h04-074-01-08" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="1759" y="900" width="75" height="104" />
+        <cmp x="1801" y="927" width="70" height="76" />
+      </word>
+      <word id="h04-074-01-09" tag="NNS" text="averages">
+        <cmp x="1886" y="965" width="71" height="34" />
+        <cmp x="1944" y="964" width="123" height="121" />
+        <cmp x="2067" y="973" width="35" height="29" />
+        <cmp x="2103" y="972" width="22" height="32" />
+      </word>
+      <upper-contour>
+        <point x="360" y="880" />
+        <point x="2111" y="880" />
+      </upper-contour>
+      <lower-contour>
+        <point x="329" y="1031" />
+        <point x="1985" y="1085" />
+        <point x="2116" y="1085" />
+      </lower-contour>
+    </line>
+    <line ass="-1002" asx="0" asy="1058" character-width="999" dss="-1002" dsx="0" dsy="1227" fd0="14073" fd1="2972" fd2="-1964" filter-width="4" id="h04-074-02" lbs="-930" lbx="0" lby="1148" segmentation="ok" slant="59999" stroke-width="6016" threshold="163" text="showed little change compared with those for the previous year," ubs="-1146" ubx="0" uby="1111">
+      <word id="h04-074-02-00" tag="VBD" text="showed">
+        <cmp x="327" y="1109" width="30" height="40" />
+        <cmp x="362" y="1065" width="97" height="94" />
+        <cmp x="455" y="1079" width="83" height="83" />
+      </word>
+      <word id="h04-074-02-01" tag="AP" text="little">
+        <cmp x="553" y="1084" width="57" height="85" />
+        <cmp x="605" y="1088" width="97" height="75" />
+        <cmp x="608" y="1110" width="7" height="7" />
+      </word>
+      <word id="h04-074-02-02" tag="NN" text="change">
+        <cmp x="725" y="1089" width="127" height="82" />
+        <cmp x="817" y="1131" width="65" height="112" />
+        <cmp x="878" y="1134" width="32" height="28" />
+      </word>
+      <word id="h04-074-02-03" tag="VBN" text="compared">
+        <cmp x="940" y="1128" width="56" height="39" />
+        <cmp x="991" y="1132" width="41" height="34" />
+        <cmp x="1002" y="1138" width="56" height="67" />
+        <cmp x="1056" y="1135" width="64" height="34" />
+        <cmp x="1114" y="1098" width="93" height="70" />
+      </word>
+      <word id="h04-074-02-04" tag="IN" text="with">
+        <cmp x="1218" y="1135" width="53" height="37" />
+        <cmp x="1263" y="1126" width="27" height="48" />
+        <cmp x="1278" y="1103" width="72" height="70" />
+      </word>
+      <word id="h04-074-02-05" tag="DTS" text="those">
+        <cmp x="1367" y="1096" width="143" height="78" />
+      </word>
+      <word id="h04-074-02-06" tag="IN" text="for">
+        <cmp x="1543" y="1102" width="77" height="77" />
+      </word>
+      <word id="h04-074-02-07" tag="ATI" text="the">
+        <cmp x="1634" y="1111" width="92" height="66" />
+      </word>
+      <word id="h04-074-02-08" tag="JJ" text="previous">
+        <cmp x="1726" y="1144" width="59" height="63" />
+        <cmp x="1783" y="1140" width="37" height="38" />
+        <cmp x="1808" y="1144" width="60" height="33" />
+        <cmp x="1865" y="1148" width="65" height="34" />
+        <cmp x="1872" y="1132" width="7" height="7" />
+        <cmp x="1921" y="1146" width="24" height="33" />
+      </word>
+      <word id="h04-074-02-09" tag="NN" text="year">
+        <cmp x="1943" y="1150" width="68" height="91" />
+        <cmp x="2003" y="1141" width="112" height="45" />
+      </word>
+      <word id="h04-074-02-10" tag="," text=",">
+        <cmp x="2083" y="1189" width="13" height="16" />
+      </word>
+      <upper-contour>
+        <point x="329" y="1031" />
+        <point x="1985" y="1085" />
+        <point x="2116" y="1085" />
+      </upper-contour>
+      <lower-contour>
+        <point x="325" y="1243" />
+        <point x="2024" y="1243" />
+      </lower-contour>
+    </line>
+    <line ass="-702" asx="0" asy="1254" character-width="999" dss="-702" dsx="0" dsy="1403" fd0="14095" fd1="2265" fd2="-2046" filter-width="4" id="h04-074-03" lbs="-593" lbx="0" lby="1331" segmentation="err" slant="62000" stroke-width="5913" threshold="164" text="except for generally increased intakes of vitamins C and D." ubs="-920" ubx="0" uby="1296">
+      <word id="h04-074-03-00" tag="IN21" text="except">
+        <cmp x="316" y="1297" width="29" height="45" />
+        <cmp x="345" y="1299" width="37" height="38" />
+        <cmp x="379" y="1303" width="29" height="32" />
+        <cmp x="408" y="1301" width="59" height="85" />
+        <cmp x="465" y="1271" width="47" height="68" />
+      </word>
+      <word id="h04-074-03-01" tag="IN22" text="for">
+        <cmp x="549" y="1261" width="75" height="82" />
+      </word>
+      <word id="h04-074-03-02" tag="RB" text="generally">
+        <cmp x="605" y="1307" width="61" height="105" />
+        <cmp x="666" y="1303" width="107" height="36" />
+        <cmp x="760" y="1263" width="135" height="149" />
+        <cmp x="902" y="1309" width="16" height="29" />
+        <cmp x="918" y="1311" width="35" height="34" />
+        <cmp x="919" y="1293" width="7" height="7" />
+        <cmp x="950" y="1311" width="51" height="33" />
+      </word>
+      <word id="h04-074-03-03" tag="JJ" text="increased">
+        <cmp x="998" y="1312" width="64" height="34" />
+        <cmp x="1060" y="1270" width="120" height="78" />
+      </word>
+      <word id="h04-074-03-04" tag="NNS" text="intakes">
+        <cmp x="1179" y="1278" width="153" height="75" />
+        <cmp x="1201" y="1302" width="5" height="8" />
+        <cmp x="1323" y="1321" width="31" height="28" />
+        <cmp x="1350" y="1320" width="24" height="30" />
+      </word>
+      <word id="h04-074-03-05" tag="INO" text="of">
+        <cmp x="1402" y="1322" width="34" height="31" />
+        <cmp x="1438" y="1282" width="44" height="70" />
+      </word>
+      <word id="h04-074-03-06" tag="NNS" text="vitamins">
+        <cmp x="1508" y="1321" width="29" height="26" />
+        <cmp x="1531" y="1324" width="16" height="23" />
+        <cmp x="1539" y="1273" width="126" height="81" />
+        <cmp x="1548" y="1305" width="6" height="6" />
+        <cmp x="1660" y="1323" width="56" height="32" />
+        <cmp x="1682" y="1307" width="7" height="8" />
+        <cmp x="1712" y="1322" width="27" height="35" />
+      </word>
+      <word id="h04-074-03-07" tag="ZZ" text="C">
+        <cmp x="1770" y="1296" width="64" height="66" />
+      </word>
+      <word id="h04-074-03-08" tag="CC" text="and">
+        <cmp x="1832" y="1286" width="137" height="75" />
+      </word>
+      <word id="h04-074-03-09" tag="ZZ" text="D">
+        <cmp x="1963" y="1298" width="53" height="65" />
+      </word>
+      <word id="h04-074-03-10" tag="." text=".">
+        <cmp x="2017" y="1356" width="7" height="6" />
+      </word>
+      <upper-contour>
+        <point x="325" y="1243" />
+        <point x="2024" y="1243" />
+      </upper-contour>
+      <lower-contour>
+        <point x="324" y="1412" />
+        <point x="2024" y="1412" />
+      </lower-contour>
+    </line>
+    <line ass="-1709" asx="0" asy="1406" character-width="999" dss="-1709" dsx="0" dsy="1572" fd0="14113" fd1="2069" fd2="-2352" filter-width="4" id="h04-074-04" lbs="-1692" lbx="0" lby="1494" segmentation="err" slant="59000" stroke-width="5717" threshold="164" text="Since physiological requirements vary widely with age, sex" ubs="-1744" ubx="0" uby="1466">
+      <word id="h04-074-04-00" sentence-start="yes" tag="CS" text="Since">
+        <cmp x="326" y="1424" width="65" height="91" />
+        <cmp x="379" y="1482" width="57" height="36" />
+        <cmp x="394" y="1467" width="6" height="11" />
+        <cmp x="436" y="1483" width="48" height="34" />
+      </word>
+      <word id="h04-074-04-01" tag="JJ" text="physiological">
+        <cmp x="483" y="1446" width="120" height="133" />
+        <cmp x="602" y="1488" width="28" height="32" />
+        <cmp x="628" y="1493" width="15" height="26" />
+        <cmp x="646" y="1471" width="9" height="13" />
+        <cmp x="648" y="1490" width="28" height="28" />
+        <cmp x="668" y="1438" width="74" height="88" />
+        <cmp x="710" y="1488" width="69" height="107" />
+        <cmp x="779" y="1493" width="15" height="24" />
+        <cmp x="792" y="1475" width="9" height="8" />
+        <cmp x="795" y="1430" width="123" height="95" />
+      </word>
+      <word id="h04-074-04-02" tag="NNS" text="requirements">
+        <cmp x="917" y="1489" width="29" height="37" />
+        <cmp x="937" y="1491" width="55" height="82" />
+        <cmp x="987" y="1493" width="46" height="36" />
+        <cmp x="1030" y="1481" width="6" height="7" />
+        <cmp x="1032" y="1490" width="83" height="39" />
+      </word>
+      <word id="h04-074-04-03" tag="VB" text="vary">
+        <cmp x="1112" y="1443" width="102" height="83" />
+        <cmp x="1191" y="1495" width="27" height="32" />
+      </word>
+      <word id="h04-074-04-04" tag="RB" text="widely">
+        <cmp x="1265" y="1496" width="26" height="33" />
+        <cmp x="1283" y="1494" width="68" height="37" />
+        <cmp x="1303" y="1498" width="69" height="109" />
+      </word>
+      <word id="h04-074-04-05" tag="IN" text="with">
+        <cmp x="1403" y="1502" width="55" height="36" />
+        <cmp x="1455" y="1455" width="168" height="145" />
+        <cmp x="1457" y="1490" width="8" height="13" />
+        <cmp x="1641" y="1502" width="50" height="36" />
+        <cmp x="1683" y="1508" width="16" height="26" />
+        <cmp x="1693" y="1465" width="76" height="74" />
+        <cmp x="1701" y="1490" width="6" height="9" />
+      </word>
+      <word id="h04-074-04-06" tag="NN" text="age">
+        <cmp x="1792" y="1504" width="108" height="106" />
+      </word>
+      <word id="h04-074-04-07" tag="," text=",">
+        <cmp x="1893" y="1539" width="8" height="13" />
+      </word>
+      <word id="h04-074-04-08" tag="NN" text="sex">
+        <cmp x="1936" y="1508" width="105" height="39" />
+      </word>
+      <upper-contour>
+        <point x="324" y="1412" />
+        <point x="2024" y="1412" />
+      </upper-contour>
+      <lower-contour>
+        <point x="324" y="1610" />
+        <point x="2042" y="1610" />
+      </lower-contour>
+    </line>
+    <line ass="-649" asx="0" asy="1609" character-width="999" dss="-649" dsx="0" dsy="1769" fd0="14109" fd1="2887" fd2="-1845" filter-width="4" id="h04-074-05" lbs="-559" lbx="0" lby="1694" segmentation="err" slant="59999" stroke-width="5821" threshold="163" text="and level of activity, comparisons between families of different" ubs="-830" ubx="0" uby="1657">
+      <word id="h04-074-05-00" tag="CC" text="and">
+        <cmp x="289" y="1631" width="113" height="73" />
+      </word>
+      <word id="h04-074-05-01" tag="NN" text="level">
+        <cmp x="422" y="1614" width="95" height="83" />
+        <cmp x="506" y="1620" width="73" height="81" />
+      </word>
+      <word id="h04-074-05-02" tag="INO" text="of">
+        <cmp x="585" y="1627" width="86" height="73" />
+      </word>
+      <word id="h04-074-05-03" tag="NN" text="activity">
+        <cmp x="688" y="1668" width="38" height="32" />
+        <cmp x="721" y="1629" width="67" height="75" />
+        <cmp x="785" y="1654" width="9" height="9" />
+        <cmp x="785" y="1668" width="36" height="37" />
+        <cmp x="807" y="1675" width="19" height="25" />
+        <cmp x="819" y="1634" width="86" height="146" />
+        <cmp x="831" y="1651" width="6" height="9" />
+        <cmp x="901" y="1700" width="12" height="20" />
+      </word>
+      <word id="h04-074-05-04" tag="," text=",">
+        <cmp x="950" y="1669" width="62" height="39" />
+      </word>
+      <word id="h04-074-05-05" tag="NNS" text="comparisons">
+        <cmp x="1005" y="1673" width="44" height="35" />
+        <cmp x="1010" y="1674" width="74" height="88" />
+        <cmp x="1081" y="1673" width="70" height="33" />
+        <cmp x="1141" y="1676" width="19" height="29" />
+        <cmp x="1155" y="1672" width="83" height="44" />
+        <cmp x="1161" y="1656" width="7" height="8" />
+        <cmp x="1238" y="1680" width="17" height="30" />
+      </word>
+      <word id="h04-074-05-06" tag="IN" text="between">
+        <cmp x="1279" y="1628" width="136" height="88" />
+        <cmp x="1417" y="1681" width="79" height="65" />
+      </word>
+      <word id="h04-074-05-07" tag="NNS" text="families">
+        <cmp x="1524" y="1644" width="112" height="72" />
+        <cmp x="1629" y="1635" width="79" height="84" />
+        <cmp x="1656" y="1666" width="6" height="9" />
+        <cmp x="1691" y="1686" width="34" height="28" />
+        <cmp x="1693" y="1677" width="8" height="7" />
+        <cmp x="1724" y="1684" width="21" height="33" />
+      </word>
+      <word id="h04-074-05-08" tag="INO" text="of">
+        <cmp x="1772" y="1687" width="29" height="29" />
+        <cmp x="1805" y="1641" width="49" height="79" />
+      </word>
+      <word id="h04-074-05-09" tag="JJ" text="different">
+        <cmp x="1852" y="1640" width="69" height="82" />
+        <cmp x="1916" y="1674" width="8" height="8" />
+        <cmp x="1922" y="1647" width="47" height="67" />
+        <cmp x="1950" y="1650" width="96" height="70" />
+        <cmp x="2035" y="1643" width="111" height="79" />
+      </word>
+      <upper-contour>
+        <point x="324" y="1610" />
+        <point x="2042" y="1610" />
+      </upper-contour>
+      <lower-contour>
+        <point x="287" y="1780" />
+        <point x="2003" y="1780" />
+      </lower-contour>
+    </line>
+    <line ass="-706" asx="0" asy="1787" character-width="999" dss="-706" dsx="0" dsy="1940" fd0="14094" fd1="2307" fd2="-1902" filter-width="4" id="h04-074-06" lbs="-691" lbx="0" lby="1870" segmentation="err" slant="61000" stroke-width="5783" threshold="163" text="composition are only apposite when considered in relation" ubs="-736" ubx="0" uby="1839">
+      <word id="h04-074-06-00" tag="NN" text="composition">
+        <cmp x="283" y="1827" width="81" height="49" />
+        <cmp x="337" y="1840" width="55" height="72" />
+        <cmp x="392" y="1844" width="29" height="28" />
+        <cmp x="420" y="1838" width="29" height="35" />
+        <cmp x="448" y="1844" width="14" height="28" />
+        <cmp x="459" y="1793" width="64" height="84" />
+        <cmp x="464" y="1825" width="6" height="10" />
+        <cmp x="523" y="1846" width="57" height="65" />
+        <cmp x="524" y="1824" width="11" height="7" />
+      </word>
+      <word id="h04-074-06-01" tag="BER" text="are">
+        <cmp x="628" y="1839" width="97" height="39" />
+      </word>
+      <word id="h04-074-06-02" tag="RB" text="only">
+        <cmp x="759" y="1800" width="183" height="151" />
+        <cmp x="945" y="1854" width="31" height="31" />
+      </word>
+      <word id="h04-074-06-03" tag="JJ" text="apposite">
+        <cmp x="948" y="1852" width="61" height="81" />
+        <cmp x="982" y="1852" width="57" height="80" />
+        <cmp x="1040" y="1854" width="27" height="27" />
+        <cmp x="1058" y="1850" width="42" height="35" />
+        <cmp x="1096" y="1806" width="65" height="81" />
+        <cmp x="1105" y="1838" width="6" height="12" />
+      </word>
+      <word id="h04-074-06-04" tag="WRB" text="when">
+        <cmp x="1187" y="1847" width="47" height="40" />
+        <cmp x="1227" y="1810" width="96" height="118" />
+      </word>
+      <word id="h04-074-06-05" tag="VBN" text="considered">
+        <cmp x="1355" y="1854" width="83" height="41" />
+        <cmp x="1434" y="1859" width="29" height="31" />
+        <cmp x="1462" y="1863" width="15" height="27" />
+        <cmp x="1478" y="1842" width="11" height="16" />
+        <cmp x="1479" y="1815" width="70" height="80" />
+        <cmp x="1550" y="1811" width="124" height="83" />
+      </word>
+      <word id="h04-074-06-06" tag="IN" text="in">
+        <cmp x="1686" y="1869" width="21" height="27" />
+        <cmp x="1705" y="1864" width="37" height="29" />
+        <cmp x="1710" y="1850" width="8" height="8" />
+      </word>
+      <word id="h04-074-06-07" tag="NN" text="relation">
+        <cmp x="1764" y="1859" width="52" height="37" />
+        <cmp x="1805" y="1819" width="140" height="84" />
+        <cmp x="1934" y="1869" width="68" height="69" />
+        <cmp x="1947" y="1849" width="8" height="8" />
+      </word>
+      <upper-contour>
+        <point x="287" y="1780" />
+        <point x="2003" y="1780" />
+      </upper-contour>
+      <lower-contour>
+        <point x="282" y="1912" />
+        <point x="557" y="1912" />
+      </lower-contour>
+    </line>
+    <line ass="-790" asx="0" asy="1971" character-width="999" dss="-790" dsx="0" dsy="2054" fd0="13871" fd1="2571" fd2="-1253" filter-width="4" id="h04-074-07" lbs="-377" lbx="0" lby="2048" segmentation="ok" slant="65000" stroke-width="6067" threshold="162" text="to needs." ubs="-1617" ubx="0" uby="2005">
+      <word id="h04-074-07-00" tag="IN" text="to">
+        <cmp x="284" y="1975" width="65" height="84" />
+      </word>
+      <word id="h04-074-07-01" tag="NNS" text="needs">
+        <cmp x="394" y="1977" width="144" height="79" />
+        <cmp x="521" y="2022" width="27" height="28" />
+      </word>
+      <word id="h04-074-07-02" tag="." text=".">
+        <cmp x="550" y="2045" width="6" height="6" />
+      </word>
+      <upper-contour>
+        <point x="282" y="1912" />
+        <point x="557" y="1912" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

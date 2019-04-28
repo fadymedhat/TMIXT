@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="m06-042" last-modified="2002-07-17" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="552">
+  <machine-printed-part>
+    <machine-print-line text="When you come here, when you come to the True World, you become a true human." />
+    <machine-print-line text="The grub of the tigerfly is not a tigerfly until it changes. So humans change.&apos; &apos;I cannot" />
+    <machine-print-line text="know what he says,&apos; Haris said stubbornly, throwing himself down. But Lily-yo and" />
+    <machine-print-line text="Flor were listening." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-608" asx="0" asy="734" character-width="999" dss="-608" dsx="0" dsy="829" fd0="13593" fd1="3877" fd2="-65" filter-width="3" id="m06-042-00" lbs="-606" lbx="0" lby="795" segmentation="ok" slant="99000" stroke-width="5200" threshold="161" text="When you come here, when you come to the True" ubs="-611" ubx="0" uby="764">
+      <word id="m06-042-00-00" sentence-start="yes" tag="WRB" text="When">
+        <cmp x="345" y="756" width="46" height="46" />
+        <cmp x="385" y="753" width="76" height="49" />
+        <cmp x="464" y="771" width="30" height="35" />
+      </word>
+      <word id="m06-042-00-01" tag="PP2" text="you">
+        <cmp x="547" y="769" width="37" height="62" />
+        <cmp x="584" y="769" width="25" height="33" />
+        <cmp x="612" y="771" width="45" height="30" />
+      </word>
+      <word id="m06-042-00-02" tag="VB" text="come">
+        <cmp x="720" y="769" width="34" height="36" />
+        <cmp x="754" y="770" width="36" height="29" />
+        <cmp x="796" y="768" width="96" height="34" />
+      </word>
+      <word id="m06-042-00-03" tag="RN" text="here">
+        <cmp x="953" y="753" width="42" height="50" />
+        <cmp x="995" y="772" width="56" height="34" />
+        <cmp x="1052" y="772" width="37" height="31" />
+      </word>
+      <word id="m06-042-00-04" tag="," text=",">
+        <cmp x="1097" y="798" width="6" height="19" />
+      </word>
+      <word id="m06-042-00-05" tag="WRB" text="when">
+        <cmp x="1159" y="776" width="46" height="26" />
+        <cmp x="1207" y="753" width="72" height="55" />
+        <cmp x="1284" y="783" width="34" height="29" />
+      </word>
+      <word id="m06-042-00-06" tag="PP2" text="you">
+        <cmp x="1380" y="783" width="31" height="61" />
+        <cmp x="1419" y="789" width="22" height="30" />
+        <cmp x="1452" y="787" width="44" height="27" />
+      </word>
+      <word id="m06-042-00-07" tag="VB" text="come">
+        <cmp x="1550" y="780" width="40" height="37" />
+        <cmp x="1586" y="781" width="85" height="34" />
+        <cmp x="1671" y="782" width="43" height="29" />
+      </word>
+      <word id="m06-042-00-08" tag="IN" text="to">
+        <cmp x="1765" y="755" width="56" height="62" />
+      </word>
+      <word id="m06-042-00-09" tag="ATI" text="the">
+        <cmp x="1868" y="758" width="26" height="54" />
+        <cmp x="1900" y="765" width="40" height="46" />
+        <cmp x="1940" y="785" width="51" height="31" />
+      </word>
+      <word id="m06-042-00-10" tag="JJ" text="True">
+        <cmp x="2029" y="756" width="36" height="15" />
+        <cmp x="2042" y="773" width="11" height="46" />
+        <cmp x="2063" y="784" width="29" height="33" />
+        <cmp x="2094" y="788" width="45" height="33" />
+        <cmp x="2142" y="789" width="32" height="31" />
+      </word>
+      <lower-contour>
+        <point x="345" y="844" />
+        <point x="2046" y="844" />
+      </lower-contour>
+    </line>
+    <line ass="-503" asx="0" asy="919" character-width="999" dss="-503" dsx="0" dsy="1016" fd0="13355" fd1="3520" fd2="-330" filter-width="3" id="m06-042-01" lbs="-488" lbx="0" lby="980" segmentation="err" slant="103000" stroke-width="5285" threshold="160" text="World, you become a true human. The grub of the" ubs="-531" ubx="0" uby="947">
+      <word id="m06-042-01-00" tag="NN" text="World">
+        <cmp x="347" y="934" width="47" height="43" />
+        <cmp x="399" y="952" width="28" height="31" />
+        <cmp x="430" y="948" width="27" height="31" />
+        <cmp x="459" y="931" width="17" height="47" />
+        <cmp x="479" y="925" width="44" height="56" />
+        <cmp x="527" y="973" width="11" height="24" />
+      </word>
+      <word id="m06-042-01-01" tag="," text=",">
+        <cmp x="576" y="957" width="36" height="51" />
+      </word>
+      <word id="m06-042-01-02" tag="PP2" text="you">
+        <cmp x="610" y="959" width="27" height="29" />
+        <cmp x="637" y="961" width="43" height="28" />
+      </word>
+      <word id="m06-042-01-03" tag="VB" text="become">
+        <cmp x="736" y="936" width="31" height="50" />
+        <cmp x="770" y="958" width="27" height="27" />
+        <cmp x="802" y="959" width="29" height="29" />
+        <cmp x="830" y="958" width="82" height="33" />
+        <cmp x="909" y="955" width="39" height="34" />
+      </word>
+      <word id="m06-042-01-04" tag="AT" text="a">
+        <cmp x="997" y="956" width="43" height="32" />
+      </word>
+      <word id="m06-042-01-05" tag="JJ" text="true">
+        <cmp x="1079" y="932" width="115" height="60" />
+      </word>
+      <word id="m06-042-01-06" tag="NN" text="human">
+        <cmp x="1230" y="936" width="179" height="59" />
+      </word>
+      <word id="m06-042-01-07" tag="." text=".">
+        <cmp x="1425" y="989" width="5" height="5" />
+      </word>
+      <word id="m06-042-01-08" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="1460" y="938" width="36" height="52" />
+        <cmp x="1498" y="938" width="46" height="53" />
+        <cmp x="1541" y="965" width="38" height="29" />
+      </word>
+      <word id="m06-042-01-09" tag="NN" text="grub">
+        <cmp x="1631" y="961" width="36" height="70" />
+        <cmp x="1666" y="960" width="72" height="31" />
+        <cmp x="1735" y="945" width="40" height="48" />
+      </word>
+      <word id="m06-042-01-10" tag="INO" text="of">
+        <cmp x="1819" y="964" width="36" height="28" />
+        <cmp x="1857" y="936" width="25" height="74" />
+      </word>
+      <word id="m06-042-01-11" tag="ATI" text="the">
+        <cmp x="1933" y="943" width="20" height="51" />
+        <cmp x="1957" y="942" width="47" height="52" />
+        <cmp x="2004" y="965" width="41" height="33" />
+      </word>
+      <upper-contour>
+        <point x="345" y="844" />
+        <point x="2046" y="844" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1031" />
+        <point x="2046" y="1031" />
+      </lower-contour>
+    </line>
+    <line ass="-400" asx="0" asy="1099" character-width="999" dss="-400" dsx="0" dsy="1200" fd0="13433" fd1="2904" fd2="-1170" filter-width="3" id="m06-042-02" lbs="-264" lbx="0" lby="1167" segmentation="ok" slant="98000" stroke-width="5161" threshold="160" text="tigerfly is not a tigerfly until it changes. So humans" ubs="-672" ubx="0" uby="1123">
+      <word id="m06-042-02-00" tag="NN" text="tigerfly">
+        <cmp x="349" y="1109" width="40" height="48" />
+        <cmp x="374" y="1109" width="16" height="19" />
+        <cmp x="392" y="1130" width="44" height="69" />
+        <cmp x="426" y="1135" width="53" height="29" />
+        <cmp x="481" y="1109" width="30" height="66" />
+        <cmp x="513" y="1111" width="14" height="44" />
+        <cmp x="534" y="1140" width="38" height="49" />
+      </word>
+      <word id="m06-042-02-01" tag="BEZ" text="is">
+        <cmp x="618" y="1114" width="6" height="8" />
+        <cmp x="623" y="1132" width="8" height="27" />
+        <cmp x="633" y="1126" width="37" height="40" />
+      </word>
+      <word id="m06-042-02-02" tag="XNOT" text="not">
+        <cmp x="721" y="1132" width="43" height="33" />
+        <cmp x="763" y="1118" width="55" height="52" />
+      </word>
+      <word id="m06-042-02-03" tag="AT" text="a">
+        <cmp x="867" y="1142" width="42" height="27" />
+      </word>
+      <word id="m06-042-02-04" tag="NN" text="tigerfly">
+        <cmp x="942" y="1111" width="42" height="53" />
+        <cmp x="977" y="1119" width="7" height="11" />
+        <cmp x="987" y="1138" width="38" height="69" />
+        <cmp x="1021" y="1139" width="39" height="33" />
+        <cmp x="1058" y="1145" width="21" height="27" />
+        <cmp x="1076" y="1109" width="21" height="73" />
+        <cmp x="1105" y="1115" width="11" height="50" />
+        <cmp x="1126" y="1145" width="34" height="48" />
+      </word>
+      <word id="m06-042-02-05" tag="CS" text="until">
+        <cmp x="1208" y="1143" width="34" height="31" />
+        <cmp x="1242" y="1142" width="36" height="29" />
+        <cmp x="1278" y="1113" width="36" height="52" />
+        <cmp x="1304" y="1120" width="8" height="11" />
+        <cmp x="1320" y="1109" width="10" height="55" />
+      </word>
+      <word id="m06-042-02-06" tag="PP3" text="it">
+        <cmp x="1391" y="1126" width="7" height="7" />
+        <cmp x="1395" y="1140" width="7" height="26" />
+        <cmp x="1405" y="1112" width="32" height="55" />
+      </word>
+      <word id="m06-042-02-07" tag="VBZ" text="changes">
+        <cmp x="1475" y="1121" width="71" height="57" />
+        <cmp x="1541" y="1144" width="34" height="30" />
+        <cmp x="1577" y="1141" width="32" height="33" />
+        <cmp x="1609" y="1142" width="44" height="64" />
+        <cmp x="1648" y="1141" width="30" height="28" />
+        <cmp x="1675" y="1137" width="35" height="33" />
+      </word>
+      <word id="m06-042-02-08" tag="." text=".">
+        <cmp x="1727" y="1162" width="3" height="5" />
+      </word>
+      <word id="m06-042-02-09" sentence-start="yes" tag="RB" text="So">
+        <cmp x="1785" y="1119" width="66" height="58" />
+      </word>
+      <word id="m06-042-02-10" tag="NNS" text="humans">
+        <cmp x="1916" y="1134" width="40" height="42" />
+        <cmp x="1954" y="1147" width="33" height="29" />
+        <cmp x="1986" y="1141" width="77" height="39" />
+        <cmp x="2066" y="1146" width="60" height="33" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1031" />
+        <point x="2046" y="1031" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1207" />
+        <point x="2122" y="1207" />
+      </lower-contour>
+    </line>
+    <line ass="-506" asx="0" asy="1269" character-width="999" dss="-506" dsx="0" dsy="1367" fd0="13439" fd1="3735" fd2="-326" filter-width="3" id="m06-042-03" lbs="-656" lbx="0" lby="1335" segmentation="ok" slant="99000" stroke-width="5181" threshold="160" text="change.&apos; &apos;I cannot know what he says,&apos; Haris said" ubs="-205" ubx="0" uby="1313">
+      <word id="m06-042-03-00" tag="VB" text="change">
+        <cmp x="342" y="1286" width="63" height="52" />
+        <cmp x="402" y="1312" width="40" height="29" />
+        <cmp x="445" y="1311" width="36" height="29" />
+        <cmp x="480" y="1311" width="32" height="61" />
+        <cmp x="516" y="1315" width="30" height="27" />
+      </word>
+      <word id="m06-042-03-01" tag="." text=".">
+        <cmp x="555" y="1337" width="7" height="6" />
+      </word>
+      <word id="m06-042-03-02" tag="**&apos;" text="&apos;">
+        <cmp x="580" y="1286" width="6" height="17" />
+      </word>
+      <word id="m06-042-03-03" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="655" y="1296" width="8" height="23" />
+      </word>
+      <word id="m06-042-03-04" tag="PP1A" text="I">
+        <cmp x="678" y="1292" width="15" height="46" />
+      </word>
+      <word id="m06-042-03-05" tag="MDX" text="cannot">
+        <cmp x="763" y="1316" width="29" height="33" />
+        <cmp x="798" y="1319" width="37" height="29" />
+        <cmp x="839" y="1322" width="33" height="28" />
+        <cmp x="871" y="1322" width="40" height="27" />
+        <cmp x="913" y="1323" width="31" height="25" />
+        <cmp x="943" y="1296" width="27" height="51" />
+      </word>
+      <word id="m06-042-03-06" tag="VB" text="know">
+        <cmp x="1020" y="1298" width="100" height="59" />
+        <cmp x="1125" y="1327" width="44" height="23" />
+      </word>
+      <word id="m06-042-03-07" tag="WDT" text="what">
+        <cmp x="1219" y="1319" width="46" height="32" />
+        <cmp x="1262" y="1291" width="114" height="60" />
+      </word>
+      <word id="m06-042-03-08" tag="PP3A" text="he">
+        <cmp x="1416" y="1301" width="45" height="50" />
+        <cmp x="1455" y="1322" width="33" height="27" />
+      </word>
+      <word id="m06-042-03-09" tag="VBZ" text="says">
+        <cmp x="1532" y="1320" width="76" height="34" />
+        <cmp x="1613" y="1329" width="15" height="20" />
+        <cmp x="1614" y="1329" width="35" height="53" />
+        <cmp x="1650" y="1318" width="26" height="36" />
+      </word>
+      <word id="m06-042-03-10" tag="," text=",">
+        <cmp x="1702" y="1348" width="8" height="22" />
+      </word>
+      <word id="m06-042-03-11" tag="**&apos;" text="&apos;">
+        <cmp x="1738" y="1286" width="7" height="22" />
+      </word>
+      <word id="m06-042-03-12" tag="NP" text="Haris">
+        <cmp x="1785" y="1299" width="43" height="52" />
+        <cmp x="1833" y="1318" width="72" height="37" />
+        <cmp x="1897" y="1309" width="10" height="12" />
+        <cmp x="1911" y="1323" width="33" height="33" />
+      </word>
+      <word id="m06-042-03-13" tag="VBD" text="said">
+        <cmp x="1992" y="1314" width="83" height="40" />
+        <cmp x="2064" y="1299" width="10" height="11" />
+        <cmp x="2079" y="1296" width="42" height="53" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1207" />
+        <point x="2122" y="1207" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1382" />
+        <point x="2040" y="1382" />
+      </lower-contour>
+    </line>
+    <line ass="-492" asx="0" asy="1454" character-width="999" dss="-492" dsx="0" dsy="1559" fd0="13515" fd1="3017" fd2="-1001" filter-width="3" id="m06-042-04" lbs="-458" lbx="0" lby="1519" segmentation="ok" slant="101000" stroke-width="5269" threshold="159" text="stubbornly, throwing himself down. But Lily-yo and" ubs="-561" ubx="0" uby="1489">
+      <word id="m06-042-04-00" tag="RB" text="stubbornly">
+        <cmp x="353" y="1482" width="32" height="42" />
+        <cmp x="378" y="1471" width="73" height="51" />
+        <cmp x="448" y="1467" width="35" height="56" />
+        <cmp x="487" y="1469" width="30" height="53" />
+        <cmp x="523" y="1494" width="28" height="32" />
+        <cmp x="551" y="1494" width="28" height="26" />
+        <cmp x="578" y="1494" width="42" height="28" />
+        <cmp x="619" y="1467" width="14" height="52" />
+        <cmp x="637" y="1494" width="32" height="50" />
+      </word>
+      <word id="m06-042-04-01" tag="," text=",">
+        <cmp x="691" y="1512" width="11" height="24" />
+      </word>
+      <word id="m06-042-04-02" tag="VBG" text="throwing">
+        <cmp x="726" y="1470" width="69" height="53" />
+        <cmp x="798" y="1496" width="19" height="29" />
+        <cmp x="819" y="1494" width="82" height="34" />
+        <cmp x="902" y="1503" width="7" height="22" />
+        <cmp x="909" y="1474" width="6" height="5" />
+        <cmp x="921" y="1501" width="33" height="28" />
+        <cmp x="955" y="1500" width="35" height="68" />
+      </word>
+      <word id="m06-042-04-03" tag="PPL" text="himself">
+        <cmp x="1034" y="1472" width="39" height="51" />
+        <cmp x="1071" y="1473" width="7" height="12" />
+        <cmp x="1073" y="1500" width="7" height="15" />
+        <cmp x="1084" y="1490" width="44" height="35" />
+        <cmp x="1132" y="1491" width="60" height="38" />
+        <cmp x="1189" y="1479" width="18" height="44" />
+        <cmp x="1207" y="1466" width="28" height="75" />
+      </word>
+      <word id="m06-042-04-04" tag="RP" text="down">
+        <cmp x="1275" y="1472" width="68" height="60" />
+        <cmp x="1345" y="1502" width="44" height="24" />
+        <cmp x="1389" y="1498" width="36" height="30" />
+      </word>
+      <word id="m06-042-04-05" tag="." text=".">
+        <cmp x="1442" y="1513" width="11" height="5" />
+      </word>
+      <word id="m06-042-04-06" sentence-start="yes" tag="CC" text="But">
+        <cmp x="1481" y="1479" width="44" height="53" />
+        <cmp x="1529" y="1479" width="67" height="56" />
+      </word>
+      <word id="m06-042-04-07" tag="NP" text="Lily-yo">
+        <cmp x="1659" y="1486" width="30" height="43" />
+        <cmp x="1691" y="1475" width="6" height="8" />
+        <cmp x="1698" y="1506" width="6" height="20" />
+        <cmp x="1712" y="1479" width="14" height="44" />
+        <cmp x="1739" y="1508" width="30" height="50" />
+        <cmp x="1782" y="1518" width="24" height="7" />
+        <cmp x="1825" y="1507" width="26" height="55" />
+        <cmp x="1857" y="1505" width="28" height="33" />
+      </word>
+      <word id="m06-042-04-08" tag="CC" text="and">
+        <cmp x="1928" y="1505" width="34" height="31" />
+        <cmp x="1962" y="1499" width="33" height="37" />
+        <cmp x="1997" y="1484" width="42" height="57" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1382" />
+        <point x="2040" y="1382" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1568" />
+        <point x="1008" y="1568" />
+      </lower-contour>
+    </line>
+    <line ass="-1454" asx="0" asy="1624" character-width="999" dss="-1454" dsx="0" dsy="1727" fd0="13530" fd1="3119" fd2="-1294" filter-width="3" id="m06-042-05" lbs="-1608" lbx="0" lby="1683" segmentation="ok" slant="103000" stroke-width="5051" threshold="161" text="Flor were listening." ubs="-1145" ubx="0" uby="1660">
+      <word id="m06-042-05-00" tag="NP" text="Flor">
+        <cmp x="319" y="1647" width="52" height="48" />
+        <cmp x="373" y="1645" width="53" height="54" />
+        <cmp x="428" y="1669" width="26" height="30" />
+      </word>
+      <word id="m06-042-05-01" tag="BED" text="were">
+        <cmp x="517" y="1676" width="44" height="27" />
+        <cmp x="560" y="1669" width="50" height="35" />
+        <cmp x="616" y="1671" width="41" height="33" />
+      </word>
+      <word id="m06-042-05-02" tag="VBG" text="listening">
+        <cmp x="723" y="1645" width="21" height="54" />
+        <cmp x="741" y="1653" width="10" height="9" />
+        <cmp x="747" y="1675" width="11" height="23" />
+        <cmp x="764" y="1668" width="29" height="38" />
+        <cmp x="788" y="1645" width="59" height="61" />
+        <cmp x="850" y="1676" width="32" height="31" />
+        <cmp x="895" y="1653" width="10" height="14" />
+        <cmp x="898" y="1680" width="5" height="24" />
+        <cmp x="913" y="1680" width="36" height="34" />
+        <cmp x="949" y="1681" width="37" height="70" />
+      </word>
+      <word id="m06-042-05-03" tag="." text=".">
+        <cmp x="1003" y="1708" width="5" height="5" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1568" />
+        <point x="1008" y="1568" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

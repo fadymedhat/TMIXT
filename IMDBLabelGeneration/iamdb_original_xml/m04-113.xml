@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="m04-113" last-modified="2002-07-17" skew="63" status="final" version="3.0_beta" width="2479" writer-id="547">
+  <machine-printed-part>
+    <machine-print-line text="Dai, meanwhile, was pedalling furiously on the road. Not a sign of the bus. He" />
+    <machine-print-line text="passed The Traveller&apos;s Joy. At last he caught up Mr. Roberts, walking very dogged" />
+    <machine-print-line text="towards Llangrwl. &amp;quot;Afternoon, Mr. Roberts,&amp;quot; he called, polite, as he shot past. His" />
+    <machine-print-line text="spirits were rising. He had seen no sign of an accident. Therefore Mr. Roberts must" />
+    <machine-print-line text="have been mistaken. He would find the bus safe and sound in Llangrwl, and his dear" />
+    <machine-print-line text="Morfydd quietly having tea in her own home." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="147" asx="0" asy="809" character-width="999" dss="147" dsx="0" dsy="947" fd0="13846" fd1="2225" fd2="-911" filter-width="4" id="m04-113-00" lbs="153" lbx="0" lby="881" segmentation="ok" slant="59000" stroke-width="6474" threshold="177" text="Dai, meanwhile, was pedalling" ubs="133" ubx="0" uby="852">
+      <word id="m04-113-00-00" sentence-start="yes" tag="NP" text="Dai">
+        <cmp x="361" y="809" width="140" height="78" />
+        <cmp x="509" y="830" width="6" height="14" />
+        <cmp x="512" y="826" width="10" height="7" />
+      </word>
+      <word id="m04-113-00-01" tag="," text=",">
+        <cmp x="518" y="869" width="20" height="32" />
+      </word>
+      <word id="m04-113-00-02" tag="RB" text="meanwhile">
+        <cmp x="588" y="810" width="549" height="77" />
+        <cmp x="1051" y="829" width="5" height="10" />
+      </word>
+      <word id="m04-113-00-03" tag="," text=",">
+        <cmp x="1166" y="863" width="21" height="35" />
+      </word>
+      <word id="m04-113-00-04" tag="BEDZ" text="was">
+        <cmp x="1229" y="840" width="189" height="40" />
+      </word>
+      <word id="m04-113-00-05" tag="VBG" text="pedalling">
+        <cmp x="1460" y="809" width="502" height="135" />
+        <cmp x="1807" y="828" width="13" height="16" />
+      </word>
+      <lower-contour>
+        <point x="353" y="944" />
+        <point x="1963" y="944" />
+      </lower-contour>
+    </line>
+    <line ass="-60" asx="0" asy="976" character-width="999" dss="-60" dsx="0" dsy="1121" fd0="13367" fd1="2266" fd2="-890" filter-width="4" id="m04-113-01" lbs="-143" lbx="0" lby="1055" segmentation="ok" slant="66999" stroke-width="6654" threshold="172" text="furiously on the road. Not a sign of" ubs="106" ubx="0" uby="1030">
+      <word id="m04-113-01-00" tag="RB" text="furiously">
+        <cmp x="335" y="990" width="515" height="133" />
+        <cmp x="552" y="1009" width="13" height="15" />
+      </word>
+      <word id="m04-113-01-01" tag="IN" text="on">
+        <cmp x="884" y="1022" width="120" height="40" />
+      </word>
+      <word id="m04-113-01-02" tag="ATI" text="the">
+        <cmp x="1023" y="988" width="155" height="75" />
+      </word>
+      <word id="m04-113-01-03" tag="NN" text="road">
+        <cmp x="1214" y="987" width="248" height="73" />
+      </word>
+      <word id="m04-113-01-04" tag="." text=".">
+        <cmp x="1465" y="1042" width="13" height="18" />
+      </word>
+      <word id="m04-113-01-05" sentence-start="yes" tag="XNOT" text="Not">
+        <cmp x="1533" y="979" width="178" height="80" />
+      </word>
+      <word id="m04-113-01-06" tag="AT" text="a">
+        <cmp x="1748" y="1022" width="52" height="36" />
+      </word>
+      <word id="m04-113-01-07" tag="NN" text="sign">
+        <cmp x="1827" y="1024" width="217" height="77" />
+        <cmp x="1923" y="1001" width="7" height="8" />
+      </word>
+      <word id="m04-113-01-08" tag="INO" text="of">
+        <cmp x="2086" y="979" width="112" height="132" />
+      </word>
+      <upper-contour>
+        <point x="353" y="944" />
+        <point x="1963" y="944" />
+      </upper-contour>
+      <lower-contour>
+        <point x="333" y="1123" />
+        <point x="2101" y="1123" />
+      </lower-contour>
+    </line>
+    <line ass="409" asx="0" asy="1166" character-width="999" dss="409" dsx="0" dsy="1293" fd0="13422" fd1="2307" fd2="-650" filter-width="4" id="m04-113-02" lbs="404" lbx="0" lby="1246" segmentation="ok" slant="62000" stroke-width="6454" threshold="173" text="the bus. He passed The Traveller&apos;s" ubs="418" ubx="0" uby="1221">
+      <word id="m04-113-02-00" tag="ATI" text="the">
+        <cmp x="328" y="1163" width="161" height="83" />
+      </word>
+      <word id="m04-113-02-01" tag="NN" text="bus">
+        <cmp x="522" y="1168" width="71" height="80" />
+        <cmp x="589" y="1214" width="5" height="8" />
+        <cmp x="595" y="1202" width="119" height="39" />
+      </word>
+      <word id="m04-113-02-02" tag="." text=".">
+        <cmp x="731" y="1231" width="14" height="18" />
+      </word>
+      <word id="m04-113-02-03" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="811" y="1164" width="111" height="88" />
+      </word>
+      <word id="m04-113-02-04" tag="VBD" text="passed">
+        <cmp x="953" y="1174" width="369" height="114" />
+      </word>
+      <word id="m04-113-02-05" tag="ATI" text="The">
+        <cmp x="1376" y="1174" width="76" height="69" />
+        <cmp x="1381" y="1182" width="169" height="70" />
+      </word>
+      <word id="m04-113-02-06" tag="NN$" text="Traveller&apos;s">
+        <cmp x="1598" y="1163" width="62" height="16" />
+        <cmp x="1601" y="1163" width="385" height="75" />
+        <cmp x="2024" y="1179" width="17" height="27" />
+        <cmp x="2042" y="1205" width="58" height="26" />
+        <cmp x="2076" y="1227" width="5" height="4" />
+      </word>
+      <upper-contour>
+        <point x="333" y="1123" />
+        <point x="2101" y="1123" />
+      </upper-contour>
+      <lower-contour>
+        <point x="332" y="1288" />
+        <point x="2101" y="1288" />
+      </lower-contour>
+    </line>
+    <line ass="683" asx="0" asy="1343" character-width="999" dss="683" dsx="0" dsy="1483" fd0="13601" fd1="2018" fd2="-971" filter-width="4" id="m04-113-03" lbs="791" lbx="0" lby="1437" segmentation="ok" slant="53000" stroke-width="6610" threshold="173" text="Joy. At last he caught up Mr. Roberts," ubs="466" ubx="0" uby="1398">
+      <word id="m04-113-03-00" tag="NN" text="Joy">
+        <cmp x="334" y="1355" width="175" height="124" />
+      </word>
+      <word id="m04-113-03-01" tag="." text=".">
+        <cmp x="524" y="1418" width="13" height="16" />
+      </word>
+      <word id="m04-113-03-02" sentence-start="yes" tag="RB21" text="At">
+        <cmp x="579" y="1337" width="115" height="89" />
+      </word>
+      <word id="m04-113-03-03" tag="RB22" text="last">
+        <cmp x="702" y="1340" width="190" height="83" />
+      </word>
+      <word id="m04-113-03-04" tag="PP3A" text="he">
+        <cmp x="896" y="1350" width="119" height="70" />
+      </word>
+      <word id="m04-113-03-05" tag="VBD" text="caught">
+        <cmp x="1069" y="1356" width="322" height="108" />
+      </word>
+      <word id="m04-113-03-06" tag="RP" text="up">
+        <cmp x="1402" y="1380" width="168" height="82" />
+      </word>
+      <word id="m04-113-03-07" tag="NPT" text="Mr.">
+        <cmp x="1599" y="1341" width="146" height="84" />
+        <cmp x="1738" y="1414" width="9" height="10" />
+      </word>
+      <word id="m04-113-03-08" tag="NP" text="Roberts">
+        <cmp x="1803" y="1337" width="307" height="84" />
+      </word>
+      <word id="m04-113-03-09" tag="," text=",">
+        <cmp x="2126" y="1401" width="22" height="34" />
+      </word>
+      <upper-contour>
+        <point x="332" y="1288" />
+        <point x="2101" y="1288" />
+      </upper-contour>
+      <lower-contour>
+        <point x="336" y="1479" />
+        <point x="2149" y="1479" />
+      </lower-contour>
+    </line>
+    <line ass="497" asx="0" asy="1525" character-width="999" dss="497" dsx="0" dsy="1673" fd0="13301" fd1="2031" fd2="-1358" filter-width="4" id="m04-113-04" lbs="568" lbx="0" lby="1613" segmentation="ok" slant="56000" stroke-width="6582" threshold="168" text="walking very dogged towards Llangrwl." ubs="356" ubx="0" uby="1582">
+      <word id="m04-113-04-00" tag="VBG" text="walking">
+        <cmp x="338" y="1520" width="402" height="131" />
+        <cmp x="539" y="1532" width="4" height="9" />
+        <cmp x="614" y="1537" width="9" height="15" />
+      </word>
+      <word id="m04-113-04-01" tag="QL" text="very">
+        <cmp x="777" y="1550" width="178" height="99" />
+      </word>
+      <word id="m04-113-04-02" tag="JJ" text="dogged">
+        <cmp x="982" y="1524" width="346" height="118" />
+      </word>
+      <word id="m04-113-04-03" tag="IN" text="towards">
+        <cmp x="1351" y="1521" width="402" height="80" />
+      </word>
+      <word id="m04-113-04-04" tag="NP" text="Llangrwl">
+        <cmp x="1780" y="1520" width="473" height="137" />
+      </word>
+      <word id="m04-113-04-05" tag="." text=".">
+        <cmp x="2255" y="1590" width="16" height="15" />
+      </word>
+      <upper-contour>
+        <point x="336" y="1479" />
+        <point x="2149" y="1479" />
+      </upper-contour>
+      <lower-contour>
+        <point x="352" y="1657" />
+        <point x="2272" y="1657" />
+      </lower-contour>
+    </line>
+    <line ass="488" asx="0" asy="1705" character-width="999" dss="488" dsx="0" dsy="1824" fd0="13599" fd1="2166" fd2="-775" filter-width="4" id="m04-113-05" lbs="536" lbx="0" lby="1789" segmentation="ok" slant="64000" stroke-width="6735" threshold="169" text="&amp;quot;Afternoon, Mr. Roberts,&amp;quot; he called, polite," ubs="393" ubx="0" uby="1756">
+      <word id="m04-113-05-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="354" y="1706" width="17" height="28" />
+        <cmp x="371" y="1708" width="17" height="20" />
+      </word>
+      <word id="m04-113-05-01" tag="NN" text="Afternoon">
+        <cmp x="375" y="1701" width="481" height="116" />
+      </word>
+      <word id="m04-113-05-02" tag="," text=",">
+        <cmp x="873" y="1764" width="18" height="27" />
+      </word>
+      <word id="m04-113-05-03" tag="NPT" text="Mr.">
+        <cmp x="917" y="1704" width="142" height="76" />
+        <cmp x="1056" y="1772" width="8" height="11" />
+      </word>
+      <word id="m04-113-05-04" tag="NP" text="Roberts">
+        <cmp x="1126" y="1701" width="148" height="78" />
+        <cmp x="1273" y="1710" width="151" height="72" />
+      </word>
+      <word id="m04-113-05-05" tag="," text=",">
+        <cmp x="1440" y="1766" width="18" height="28" />
+      </word>
+      <word id="m04-113-05-06" tag="**&apos;" text="&quot;">
+        <cmp x="1489" y="1705" width="13" height="20" />
+        <cmp x="1505" y="1711" width="14" height="18" />
+      </word>
+      <word id="m04-113-05-07" tag="PP3A" text="he">
+        <cmp x="1542" y="1701" width="111" height="75" />
+      </word>
+      <word id="m04-113-05-08" tag="VBD" text="called">
+        <cmp x="1684" y="1703" width="264" height="78" />
+      </word>
+      <word id="m04-113-05-09" tag="," text=",">
+        <cmp x="1950" y="1759" width="15" height="25" />
+      </word>
+      <word id="m04-113-05-10" tag="JJ" text="polite">
+        <cmp x="2001" y="1710" width="267" height="98" />
+        <cmp x="2198" y="1713" width="9" height="18" />
+      </word>
+      <word id="m04-113-05-11" tag="," text=",">
+        <cmp x="2285" y="1764" width="20" height="31" />
+      </word>
+      <upper-contour>
+        <point x="352" y="1657" />
+        <point x="2272" y="1657" />
+      </upper-contour>
+      <lower-contour>
+        <point x="352" y="1817" />
+        <point x="2238" y="1817" />
+      </lower-contour>
+    </line>
+    <line ass="152" asx="0" asy="1887" character-width="999" dss="152" dsx="0" dsy="2017" fd0="13671" fd1="2394" fd2="-430" filter-width="4" id="m04-113-06" lbs="104" lbx="0" lby="1956" segmentation="ok" slant="57000" stroke-width="6517" threshold="174" text="as he shot past. His spirits were rising." ubs="247" ubx="0" uby="1932">
+      <word id="m04-113-06-00" tag="CS" text="as">
+        <cmp x="339" y="1919" width="86" height="44" />
+      </word>
+      <word id="m04-113-06-01" tag="PP3A" text="he">
+        <cmp x="456" y="1886" width="118" height="78" />
+      </word>
+      <word id="m04-113-06-02" tag="VBD" text="shot">
+        <cmp x="608" y="1895" width="233" height="69" />
+      </word>
+      <word id="m04-113-06-03" tag="RP" text="past">
+        <cmp x="862" y="1896" width="231" height="105" />
+      </word>
+      <word id="m04-113-06-04" tag="." text=".">
+        <cmp x="1087" y="1953" width="9" height="11" />
+      </word>
+      <word id="m04-113-06-05" sentence-start="yes" tag="PP$" text="His">
+        <cmp x="1152" y="1889" width="158" height="82" />
+        <cmp x="1263" y="1900" width="14" height="19" />
+      </word>
+      <word id="m04-113-06-06" tag="NNS" text="spirits">
+        <cmp x="1341" y="1891" width="309" height="112" />
+        <cmp x="1506" y="1896" width="8" height="9" />
+        <cmp x="1509" y="1906" width="4" height="7" />
+        <cmp x="1574" y="1904" width="9" height="17" />
+      </word>
+      <word id="m04-113-06-07" tag="BED" text="were">
+        <cmp x="1694" y="1912" width="204" height="46" />
+      </word>
+      <word id="m04-113-06-08" tag="VBG" text="rising">
+        <cmp x="1930" y="1918" width="289" height="94" />
+        <cmp x="2009" y="1893" width="13" height="19" />
+        <cmp x="2108" y="1897" width="8" height="27" />
+      </word>
+      <word id="m04-113-06-09" tag="." text=".">
+        <cmp x="2221" y="1950" width="16" height="13" />
+      </word>
+      <upper-contour>
+        <point x="352" y="1817" />
+        <point x="2238" y="1817" />
+      </upper-contour>
+      <lower-contour>
+        <point x="344" y="2003" />
+        <point x="2056" y="2003" />
+      </lower-contour>
+    </line>
+    <line ass="287" asx="0" asy="2060" character-width="999" dss="287" dsx="0" dsy="2193" fd0="13111" fd1="2171" fd2="-520" filter-width="4" id="m04-113-07" lbs="284" lbx="0" lby="2138" segmentation="ok" slant="66000" stroke-width="6532" threshold="172" text="He had seen no sign of an accident." ubs="293" ubx="0" uby="2112">
+      <word id="m04-113-07-00" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="346" y="2058" width="100" height="87" />
+      </word>
+      <word id="m04-113-07-01" tag="HVD" text="had">
+        <cmp x="461" y="2058" width="190" height="84" />
+      </word>
+      <word id="m04-113-07-02" tag="VBN" text="seen">
+        <cmp x="661" y="2095" width="217" height="47" />
+      </word>
+      <word id="m04-113-07-03" tag="ATI" text="no">
+        <cmp x="920" y="2103" width="134" height="28" />
+      </word>
+      <word id="m04-113-07-04" tag="NN" text="sign">
+        <cmp x="1071" y="2108" width="84" height="32" />
+        <cmp x="1148" y="2111" width="147" height="76" />
+        <cmp x="1162" y="2074" width="9" height="9" />
+        <cmp x="1166" y="2083" width="5" height="7" />
+      </word>
+      <word id="m04-113-07-05" tag="INO" text="of">
+        <cmp x="1333" y="2058" width="94" height="130" />
+      </word>
+      <word id="m04-113-07-06" tag="AT" text="an">
+        <cmp x="1447" y="2102" width="135" height="39" />
+      </word>
+      <word id="m04-113-07-07" tag="NN" text="accident">
+        <cmp x="1622" y="2073" width="419" height="67" />
+        <cmp x="1808" y="2076" width="14" height="18" />
+      </word>
+      <word id="m04-113-07-08" tag="." text=".">
+        <cmp x="2043" y="2128" width="12" height="12" />
+      </word>
+      <upper-contour>
+        <point x="344" y="2003" />
+        <point x="2056" y="2003" />
+      </upper-contour>
+      <lower-contour>
+        <point x="344" y="2188" />
+        <point x="2056" y="2188" />
+      </lower-contour>
+    </line>
+    <line ass="83" asx="0" asy="2238" character-width="999" dss="83" dsx="0" dsy="2351" fd0="13079" fd1="2176" fd2="-1007" filter-width="4" id="m04-113-08" lbs="91" lbx="0" lby="2315" segmentation="ok" slant="62000" stroke-width="6577" threshold="171" text="Therefore Mr. Roberts must have been mistaken." ubs="67" ubx="0" uby="2285">
+      <word id="m04-113-08-00" sentence-start="yes" tag="RB" text="Therefore">
+        <cmp x="337" y="2248" width="75" height="30" />
+        <cmp x="345" y="2238" width="367" height="113" />
+      </word>
+      <word id="m04-113-08-01" tag="NPT" text="Mr.">
+        <cmp x="730" y="2238" width="145" height="81" />
+        <cmp x="879" y="2304" width="8" height="11" />
+      </word>
+      <word id="m04-113-08-02" tag="NP" text="Roberts">
+        <cmp x="924" y="2237" width="237" height="81" />
+      </word>
+      <word id="m04-113-08-03" tag="MD" text="must">
+        <cmp x="1199" y="2256" width="265" height="64" />
+      </word>
+      <word id="m04-113-08-04" tag="HV" text="have">
+        <cmp x="1474" y="2241" width="212" height="77" />
+      </word>
+      <word id="m04-113-08-05" tag="BEN" text="been">
+        <cmp x="1702" y="2241" width="59" height="72" />
+        <cmp x="1762" y="2272" width="158" height="42" />
+      </word>
+      <word id="m04-113-08-06" tag="VBN" text="mistaken">
+        <cmp x="1935" y="2237" width="419" height="80" />
+        <cmp x="2053" y="2258" width="5" height="10" />
+      </word>
+      <word id="m04-113-08-07" tag="." text=".">
+        <cmp x="2370" y="2309" width="10" height="14" />
+      </word>
+      <upper-contour>
+        <point x="344" y="2188" />
+        <point x="2056" y="2188" />
+      </upper-contour>
+      <lower-contour>
+        <point x="335" y="2351" />
+        <point x="2251" y="2351" />
+      </lower-contour>
+    </line>
+    <line ass="25" asx="0" asy="2415" character-width="999" dss="25" dsx="0" dsy="2532" fd0="13321" fd1="2170" fd2="-573" filter-width="4" id="m04-113-09" lbs="49" lbx="0" lby="2494" segmentation="ok" slant="62000" stroke-width="6530" threshold="174" text="He would find the bus safe and sound in" ubs="-20" ubx="0" uby="2465">
+      <word id="m04-113-09-00" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="329" y="2415" width="92" height="89" />
+      </word>
+      <word id="m04-113-09-01" tag="MD" text="would">
+        <cmp x="447" y="2423" width="282" height="71" />
+      </word>
+      <word id="m04-113-09-02" tag="VB" text="find">
+        <cmp x="735" y="2421" width="239" height="112" />
+        <cmp x="832" y="2428" width="8" height="21" />
+      </word>
+      <word id="m04-113-09-03" tag="ATI" text="the">
+        <cmp x="992" y="2424" width="155" height="74" />
+      </word>
+      <word id="m04-113-09-04" tag="NN" text="bus">
+        <cmp x="1171" y="2419" width="63" height="75" />
+        <cmp x="1229" y="2450" width="107" height="49" />
+        <cmp x="1312" y="2489" width="9" height="7" />
+      </word>
+      <word id="m04-113-09-05" tag="JJ" text="safe">
+        <cmp x="1374" y="2415" width="189" height="116" />
+      </word>
+      <word id="m04-113-09-06" tag="CC" text="and">
+        <cmp x="1595" y="2439" width="190" height="60" />
+      </word>
+      <word id="m04-113-09-07" tag="JJ" text="sound">
+        <cmp x="1820" y="2429" width="291" height="66" />
+      </word>
+      <word id="m04-113-09-08" tag="IN" text="in">
+        <cmp x="2119" y="2459" width="131" height="39" />
+        <cmp x="2166" y="2428" width="12" height="17" />
+      </word>
+      <upper-contour>
+        <point x="335" y="2351" />
+        <point x="2251" y="2351" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="2533" />
+        <point x="2194" y="2533" />
+      </lower-contour>
+    </line>
+    <line ass="435" asx="0" asy="2601" character-width="999" dss="435" dsx="0" dsy="2743" fd0="13154" fd1="1820" fd2="-1059" filter-width="4" id="m04-113-10" lbs="305" lbx="0" lby="2684" segmentation="ok" slant="59000" stroke-width="6638" threshold="170" text="Llangrwl, and his dear Morfydd quietly" ubs="696" ubx="0" uby="2657">
+      <word id="m04-113-10-00" tag="NP" text="Llangrwl">
+        <cmp x="322" y="2598" width="420" height="129" />
+      </word>
+      <word id="m04-113-10-01" tag="," text=",">
+        <cmp x="749" y="2653" width="22" height="36" />
+      </word>
+      <word id="m04-113-10-02" tag="CC" text="and">
+        <cmp x="813" y="2615" width="188" height="61" />
+      </word>
+      <word id="m04-113-10-03" tag="PP$" text="his">
+        <cmp x="1013" y="2604" width="153" height="73" />
+        <cmp x="1124" y="2609" width="10" height="10" />
+        <cmp x="1131" y="2620" width="4" height="4" />
+      </word>
+      <word id="m04-113-10-04" tag="JJ" text="dear">
+        <cmp x="1197" y="2605" width="202" height="74" />
+      </word>
+      <word id="m04-113-10-05" tag="NP" text="Morfydd">
+        <cmp x="1440" y="2596" width="375" height="122" />
+      </word>
+      <word id="m04-113-10-06" tag="RB" text="quietly">
+        <cmp x="1846" y="2596" width="347" height="131" />
+        <cmp x="1995" y="2606" width="11" height="17" />
+      </word>
+      <upper-contour>
+        <point x="327" y="2533" />
+        <point x="2194" y="2533" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

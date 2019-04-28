@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="p03-027" last-modified="2002-07-17" skew="127" status="final" version="3.0_beta" width="2479" writer-id="616">
+  <machine-printed-part>
+    <machine-print-line text="She couldn&apos;t remember what they had been talking about or which &apos;lark&apos; she would" />
+    <machine-print-line text="have to stop, only that significant tiny word shouted into her very soul a horn of" />
+    <machine-print-line text="warning, and with it was coupled a disembodied fragment of information, which now" />
+    <machine-print-line text="took on an ominous significance: Nigel had been seen in Farlingham on an occasion he" />
+    <machine-print-line text="had sworn he had been standing in for Luke Parsons at his surgery in Little Phelpham." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="652" asx="0" asy="723" character-width="999" dss="652" dsx="0" dsy="877" fd0="12917" fd1="2594" fd2="-1909" filter-width="3" id="p03-027-00" lbs="636" lbx="0" lby="802" segmentation="err" slant="76000" stroke-width="5634" threshold="203" text="She couldn&apos;t remember what they had been talking about or" ubs="686" ubx="0" uby="757">
+      <word id="p03-027-00-00" sentence-start="yes" tag="PP3A" text="She">
+        <cmp x="360" y="718" width="74" height="96" />
+      </word>
+      <word id="p03-027-00-01" tag="MDX" text="couldn&apos;t">
+        <cmp x="487" y="751" width="61" height="49" />
+        <cmp x="561" y="734" width="12" height="64" />
+        <cmp x="569" y="737" width="66" height="63" />
+        <cmp x="659" y="736" width="5" height="21" />
+        <cmp x="671" y="728" width="22" height="74" />
+      </word>
+      <word id="p03-027-00-02" tag="VB" text="remember">
+        <cmp x="733" y="744" width="160" height="55" />
+        <cmp x="901" y="732" width="74" height="61" />
+      </word>
+      <word id="p03-027-00-03" tag="WDT" text="what">
+        <cmp x="1032" y="738" width="40" height="60" />
+        <cmp x="1072" y="726" width="55" height="68" />
+        <cmp x="1143" y="716" width="19" height="66" />
+      </word>
+      <word id="p03-027-00-04" tag="PP3AS" text="they">
+        <cmp x="1215" y="716" width="99" height="140" />
+      </word>
+      <word id="p03-027-00-05" tag="HVD" text="had">
+        <cmp x="1366" y="712" width="98" height="84" />
+      </word>
+      <word id="p03-027-00-06" tag="BEN" text="been">
+        <cmp x="1516" y="722" width="100" height="73" />
+      </word>
+      <word id="p03-027-00-07" tag="VBG" text="talking">
+        <cmp x="1657" y="705" width="76" height="80" />
+        <cmp x="1722" y="715" width="36" height="72" />
+        <cmp x="1751" y="726" width="24" height="61" />
+        <cmp x="1765" y="734" width="53" height="124" />
+      </word>
+      <word id="p03-027-00-08" tag="IN" text="about">
+        <cmp x="1865" y="736" width="32" height="50" />
+        <cmp x="1898" y="720" width="32" height="68" />
+        <cmp x="1926" y="735" width="56" height="48" />
+        <cmp x="1995" y="714" width="27" height="66" />
+      </word>
+      <word id="p03-027-00-09" tag="CC" text="or">
+        <cmp x="2054" y="734" width="51" height="57" />
+      </word>
+      <lower-contour>
+        <point x="356" y="813" />
+        <point x="1291" y="859" />
+        <point x="2105" y="859" />
+      </lower-contour>
+    </line>
+    <line ass="277" asx="0" asy="827" character-width="999" dss="277" dsx="0" dsy="1068" fd0="12587" fd1="2653" fd2="-1632" filter-width="3" id="p03-027-01" lbs="337" lbx="0" lby="972" segmentation="err" slant="77000" stroke-width="5537" threshold="203" text="which &apos;lark&apos; she would have to stop, only that significant tiny" ubs="158" ubx="0" uby="926">
+      <word id="p03-027-01-00" tag="WDT" text="which">
+        <cmp x="358" y="926" width="31" height="57" />
+        <cmp x="394" y="908" width="53" height="73" />
+        <cmp x="446" y="928" width="21" height="46" />
+        <cmp x="464" y="901" width="34" height="83" />
+      </word>
+      <word id="p03-027-01-01" tag="*&apos;" text="&apos;">
+        <cmp x="573" y="900" width="17" height="29" />
+      </word>
+      <word id="p03-027-01-02" tag="NN" text="lark">
+        <cmp x="615" y="890" width="53" height="86" />
+        <cmp x="674" y="903" width="35" height="79" />
+        <cmp x="723" y="893" width="15" height="35" />
+      </word>
+      <word id="p03-027-01-03" tag="**&apos;" text="&apos;">
+        <cmp x="774" y="916" width="31" height="64" />
+      </word>
+      <word id="p03-027-01-04" tag="PP3A" text="she">
+        <cmp x="803" y="900" width="51" height="77" />
+      </word>
+      <word id="p03-027-01-05" tag="MD" text="would">
+        <cmp x="903" y="918" width="38" height="58" />
+        <cmp x="943" y="907" width="111" height="71" />
+      </word>
+      <word id="p03-027-01-06" tag="HV" text="have">
+        <cmp x="1134" y="904" width="116" height="81" />
+        <cmp x="1279" y="822" width="12" height="31" />
+      </word>
+      <word id="p03-027-01-07" tag="TO" text="to">
+        <cmp x="1286" y="899" width="41" height="74" />
+      </word>
+      <word id="p03-027-01-08" tag="VB" text="stop">
+        <cmp x="1372" y="903" width="91" height="104" />
+      </word>
+      <word id="p03-027-01-09" tag="," text=",">
+        <cmp x="1484" y="951" width="11" height="44" />
+      </word>
+      <word id="p03-027-01-10" tag="CC" text="only">
+        <cmp x="1518" y="910" width="63" height="58" />
+        <cmp x="1587" y="893" width="46" height="124" />
+      </word>
+      <word id="p03-027-01-11" tag="DT" text="that">
+        <cmp x="1680" y="881" width="73" height="83" />
+        <cmp x="1756" y="947" width="3" height="3" />
+        <cmp x="1759" y="889" width="27" height="74" />
+      </word>
+      <word id="p03-027-01-12" tag="JJ" text="significant">
+        <cmp x="1833" y="910" width="33" height="65" />
+        <cmp x="1859" y="914" width="26" height="126" />
+        <cmp x="1888" y="923" width="56" height="42" />
+        <cmp x="1947" y="907" width="6" height="10" />
+        <cmp x="1950" y="884" width="38" height="121" />
+        <cmp x="1991" y="908" width="7" height="23" />
+        <cmp x="1996" y="921" width="26" height="46" />
+        <cmp x="2014" y="920" width="74" height="44" />
+        <cmp x="2100" y="886" width="32" height="73" />
+      </word>
+      <word id="p03-027-01-13" tag="JJ" text="tiny">
+        <cmp x="2142" y="886" width="36" height="89" />
+        <cmp x="2178" y="926" width="68" height="133" />
+        <cmp x="2180" y="909" width="6" height="9" />
+      </word>
+      <upper-contour>
+        <point x="356" y="813" />
+        <point x="1291" y="859" />
+        <point x="2105" y="859" />
+      </upper-contour>
+      <lower-contour>
+        <point x="363" y="1041" />
+        <point x="2100" y="1041" />
+      </lower-contour>
+    </line>
+    <line ass="500" asx="0" asy="1077" character-width="999" dss="500" dsx="0" dsy="1240" fd0="12623" fd1="2420" fd2="-1683" filter-width="4" id="p03-027-02" lbs="461" lbx="0" lby="1160" segmentation="ok" slant="79000" stroke-width="5785" threshold="203" text="word shouted into her very soul a horn of warning, and" ubs="576" ubx="0" uby="1111">
+      <word id="p03-027-02-00" tag="NN" text="word">
+        <cmp x="365" y="1102" width="35" height="58" />
+        <cmp x="400" y="1099" width="48" height="64" />
+        <cmp x="442" y="1077" width="35" height="84" />
+      </word>
+      <word id="p03-027-02-01" tag="VBD" text="shouted">
+        <cmp x="539" y="1082" width="104" height="82" />
+        <cmp x="643" y="1114" width="13" height="38" />
+        <cmp x="667" y="1076" width="70" height="88" />
+      </word>
+      <word id="p03-027-02-02" tag="IN" text="into">
+        <cmp x="794" y="1118" width="9" height="42" />
+        <cmp x="802" y="1093" width="7" height="24" />
+        <cmp x="805" y="1099" width="32" height="55" />
+        <cmp x="840" y="1083" width="39" height="66" />
+      </word>
+      <word id="p03-027-02-03" tag="PP$" text="her">
+        <cmp x="918" y="1082" width="72" height="69" />
+      </word>
+      <word id="p03-027-02-04" tag="AP" text="very">
+        <cmp x="1058" y="1095" width="92" height="125" />
+      </word>
+      <word id="p03-027-02-05" tag="NN" text="soul">
+        <cmp x="1197" y="1069" width="103" height="82" />
+      </word>
+      <word id="p03-027-02-06" tag="AT" text="a">
+        <cmp x="1336" y="1097" width="35" height="57" />
+      </word>
+      <word id="p03-027-02-07" tag="NN" text="horn">
+        <cmp x="1437" y="1069" width="104" height="84" />
+      </word>
+      <word id="p03-027-02-08" tag="INO" text="of">
+        <cmp x="1576" y="1063" width="71" height="130" />
+      </word>
+      <word id="p03-027-02-09" tag="NN" text="warning">
+        <cmp x="1676" y="1095" width="98" height="53" />
+        <cmp x="1772" y="1091" width="61" height="50" />
+        <cmp x="1832" y="1096" width="59" height="129" />
+        <cmp x="1838" y="1087" width="5" height="5" />
+        <cmp x="1840" y="1075" width="7" height="9" />
+      </word>
+      <word id="p03-027-02-10" tag="," text=",">
+        <cmp x="1924" y="1125" width="10" height="41" />
+      </word>
+      <word id="p03-027-02-11" tag="CC" text="and">
+        <cmp x="1973" y="1071" width="126" height="77" />
+      </word>
+      <upper-contour>
+        <point x="363" y="1041" />
+        <point x="2100" y="1041" />
+      </upper-contour>
+      <lower-contour>
+        <point x="377" y="1226" />
+        <point x="2100" y="1226" />
+      </lower-contour>
+    </line>
+    <line ass="601" asx="0" asy="1254" character-width="999" dss="601" dsx="0" dsy="1427" fd0="13027" fd1="1829" fd2="-2530" filter-width="3" id="p03-027-03" lbs="628" lbx="0" lby="1342" segmentation="ok" slant="74000" stroke-width="5605" threshold="203" text="with it was coupled a disembodied fragment of information," ubs="548" ubx="0" uby="1288">
+      <word id="p03-027-03-00" tag="IN" text="with">
+        <cmp x="379" y="1277" width="46" height="65" />
+        <cmp x="424" y="1271" width="4" height="14" />
+        <cmp x="433" y="1259" width="53" height="75" />
+      </word>
+      <word id="p03-027-03-01" tag="PP3" text="it">
+        <cmp x="527" y="1286" width="9" height="57" />
+        <cmp x="533" y="1271" width="8" height="14" />
+        <cmp x="545" y="1251" width="18" height="94" />
+      </word>
+      <word id="p03-027-03-02" tag="BEDZ" text="was">
+        <cmp x="631" y="1271" width="43" height="62" />
+        <cmp x="667" y="1277" width="53" height="56" />
+      </word>
+      <word id="p03-027-03-03" tag="VBN" text="coupled">
+        <cmp x="782" y="1277" width="76" height="58" />
+        <cmp x="853" y="1278" width="37" height="90" />
+        <cmp x="893" y="1251" width="75" height="87" />
+      </word>
+      <word id="p03-027-03-04" tag="AT" text="a">
+        <cmp x="1008" y="1285" width="31" height="55" />
+      </word>
+      <word id="p03-027-03-05" tag="JJ" text="disembodied">
+        <cmp x="1107" y="1261" width="68" height="73" />
+        <cmp x="1176" y="1271" width="69" height="53" />
+        <cmp x="1240" y="1283" width="23" height="44" />
+        <cmp x="1273" y="1258" width="17" height="62" />
+        <cmp x="1283" y="1275" width="24" height="52" />
+        <cmp x="1308" y="1277" width="25" height="54" />
+        <cmp x="1332" y="1261" width="52" height="64" />
+        <cmp x="1387" y="1251" width="66" height="82" />
+        <cmp x="1393" y="1258" width="5" height="14" />
+      </word>
+      <word id="p03-027-03-06" tag="NN" text="fragment">
+        <cmp x="1481" y="1240" width="55" height="128" />
+        <cmp x="1523" y="1271" width="37" height="51" />
+        <cmp x="1539" y="1283" width="38" height="128" />
+        <cmp x="1587" y="1272" width="117" height="58" />
+        <cmp x="1712" y="1246" width="28" height="73" />
+      </word>
+      <word id="p03-027-03-07" tag="INO" text="of">
+        <cmp x="1764" y="1236" width="64" height="130" />
+      </word>
+      <word id="p03-027-03-08" tag="NN" text="information">
+        <cmp x="1860" y="1253" width="21" height="65" />
+        <cmp x="1868" y="1267" width="39" height="61" />
+        <cmp x="1901" y="1237" width="75" height="135" />
+        <cmp x="1970" y="1265" width="84" height="56" />
+        <cmp x="2054" y="1249" width="39" height="71" />
+        <cmp x="2095" y="1262" width="65" height="63" />
+        <cmp x="2096" y="1252" width="15" height="32" />
+      </word>
+      <word id="p03-027-03-09" tag="," text=",">
+        <cmp x="2173" y="1306" width="16" height="45" />
+      </word>
+      <upper-contour>
+        <point x="377" y="1226" />
+        <point x="2100" y="1226" />
+      </upper-contour>
+      <lower-contour>
+        <point x="377" y="1411" />
+        <point x="2189" y="1411" />
+      </lower-contour>
+    </line>
+    <line ass="212" asx="0" asy="1421" character-width="999" dss="212" dsx="0" dsy="1587" fd0="12501" fd1="2313" fd2="-2052" filter-width="3" id="p03-027-04" lbs="90" lbx="0" lby="1503" segmentation="err" slant="77000" stroke-width="5699" threshold="191" text="which now took on an ominous significance: Nigel had been" ubs="456" ubx="0" uby="1466">
+      <word id="p03-027-04-00" tag="WDT" text="which">
+        <cmp x="379" y="1461" width="29" height="56" />
+        <cmp x="409" y="1448" width="4" height="7" />
+        <cmp x="409" y="1436" width="54" height="80" />
+        <cmp x="461" y="1444" width="7" height="7" />
+        <cmp x="470" y="1435" width="53" height="88" />
+      </word>
+      <word id="p03-027-04-01" tag="RN" text="now">
+        <cmp x="581" y="1453" width="98" height="56" />
+      </word>
+      <word id="p03-027-04-02" tag="VBD" text="took">
+        <cmp x="734" y="1423" width="64" height="95" />
+        <cmp x="734" y="1491" width="3" height="4" />
+        <cmp x="837" y="1430" width="65" height="77" />
+      </word>
+      <word id="p03-027-04-03" tag="RP" text="on">
+        <cmp x="904" y="1436" width="36" height="72" />
+      </word>
+      <word id="p03-027-04-04" tag="AT" text="an">
+        <cmp x="982" y="1454" width="73" height="55" />
+      </word>
+      <word id="p03-027-04-05" tag="JJ" text="ominous">
+        <cmp x="1107" y="1454" width="90" height="58" />
+        <cmp x="1197" y="1463" width="13" height="42" />
+        <cmp x="1211" y="1444" width="5" height="11" />
+        <cmp x="1211" y="1458" width="37" height="48" />
+        <cmp x="1250" y="1446" width="57" height="60" />
+        <cmp x="1314" y="1451" width="30" height="60" />
+      </word>
+      <word id="p03-027-04-06" tag="NN" text="significance">
+        <cmp x="1385" y="1449" width="46" height="62" />
+        <cmp x="1417" y="1451" width="25" height="132" />
+        <cmp x="1445" y="1456" width="60" height="54" />
+        <cmp x="1507" y="1447" width="5" height="12" />
+        <cmp x="1510" y="1428" width="37" height="122" />
+        <cmp x="1552" y="1454" width="82" height="55" />
+        <cmp x="1555" y="1432" width="6" height="14" />
+        <cmp x="1632" y="1465" width="16" height="45" />
+        <cmp x="1649" y="1457" width="50" height="54" />
+      </word>
+      <word id="p03-027-04-07" tag=":" text=":">
+        <cmp x="1733" y="1468" width="7" height="8" />
+        <cmp x="1733" y="1484" width="7" height="6" />
+      </word>
+      <word id="p03-027-04-08" tag="NP" text="Nigel">
+        <cmp x="1768" y="1423" width="64" height="88" />
+        <cmp x="1823" y="1436" width="3" height="5" />
+        <cmp x="1831" y="1423" width="81" height="151" />
+        <cmp x="1833" y="1424" width="7" height="6" />
+      </word>
+      <word id="p03-027-04-09" tag="HVD" text="had">
+        <cmp x="1943" y="1415" width="31" height="91" />
+        <cmp x="1965" y="1431" width="107" height="74" />
+      </word>
+      <word id="p03-027-04-10" tag="BEN" text="been">
+        <cmp x="2107" y="1418" width="80" height="85" />
+        <cmp x="2187" y="1445" width="36" height="62" />
+      </word>
+      <upper-contour>
+        <point x="377" y="1411" />
+        <point x="2189" y="1411" />
+      </upper-contour>
+      <lower-contour>
+        <point x="401" y="1583" />
+        <point x="2223" y="1583" />
+      </lower-contour>
+    </line>
+    <line ass="345" asx="0" asy="1603" character-width="999" dss="345" dsx="0" dsy="1772" fd0="12941" fd1="2142" fd2="-1885" filter-width="4" id="p03-027-05" lbs="334" lbx="0" lby="1694" segmentation="ok" slant="75000" stroke-width="5940" threshold="203" text="seen in Farlingham on an occasion he had sworn he had" ubs="366" ubx="0" uby="1643">
+      <word id="p03-027-05-00" tag="VBN" text="seen">
+        <cmp x="403" y="1629" width="103" height="71" />
+      </word>
+      <word id="p03-027-05-01" tag="IN" text="in">
+        <cmp x="562" y="1652" width="13" height="49" />
+        <cmp x="573" y="1630" width="8" height="13" />
+        <cmp x="577" y="1640" width="33" height="52" />
+      </word>
+      <word id="p03-027-05-02" tag="NP" text="Farlingham">
+        <cmp x="674" y="1608" width="72" height="96" />
+        <cmp x="755" y="1600" width="35" height="87" />
+        <cmp x="787" y="1636" width="35" height="53" />
+        <cmp x="788" y="1622" width="5" height="11" />
+        <cmp x="807" y="1644" width="33" height="123" />
+        <cmp x="858" y="1600" width="70" height="91" />
+        <cmp x="927" y="1629" width="53" height="58" />
+      </word>
+      <word id="p03-027-05-03" tag="IN" text="on">
+        <cmp x="1024" y="1630" width="67" height="63" />
+      </word>
+      <word id="p03-027-05-04" tag="AT" text="an">
+        <cmp x="1147" y="1635" width="76" height="55" />
+      </word>
+      <word id="p03-027-05-05" tag="NN" text="occasion">
+        <cmp x="1280" y="1633" width="35" height="59" />
+        <cmp x="1313" y="1634" width="71" height="52" />
+        <cmp x="1389" y="1629" width="48" height="59" />
+        <cmp x="1437" y="1625" width="60" height="57" />
+      </word>
+      <word id="p03-027-05-06" tag="PP3A" text="he">
+        <cmp x="1533" y="1604" width="56" height="85" />
+      </word>
+      <word id="p03-027-05-07" tag="HVD" text="had">
+        <cmp x="1649" y="1605" width="117" height="86" />
+      </word>
+      <word id="p03-027-05-08" tag="VBN" text="sworn">
+        <cmp x="1796" y="1630" width="71" height="61" />
+        <cmp x="1863" y="1629" width="79" height="62" />
+      </word>
+      <word id="p03-027-05-09" tag="PP3A" text="he">
+        <cmp x="2004" y="1610" width="62" height="75" />
+      </word>
+      <word id="p03-027-05-10" tag="HVD" text="had">
+        <cmp x="2111" y="1600" width="128" height="83" />
+      </word>
+      <upper-contour>
+        <point x="401" y="1583" />
+        <point x="2223" y="1583" />
+      </upper-contour>
+      <lower-contour>
+        <point x="415" y="1767" />
+        <point x="2072" y="1767" />
+      </lower-contour>
+    </line>
+    <line ass="481" asx="0" asy="1786" character-width="999" dss="481" dsx="0" dsy="1967" fd0="12713" fd1="2310" fd2="-1642" filter-width="4" id="p03-027-06" lbs="508" lbx="0" lby="1872" segmentation="ok" slant="80000" stroke-width="5863" threshold="203" text="been standing in for Luke Parsons at his surgery in" ubs="429" ubx="0" uby="1824">
+      <word id="p03-027-06-00" tag="BEN" text="been">
+        <cmp x="417" y="1794" width="105" height="91" />
+      </word>
+      <word id="p03-027-06-01" tag="VBG" text="standing">
+        <cmp x="589" y="1816" width="31" height="61" />
+        <cmp x="621" y="1790" width="143" height="76" />
+        <cmp x="771" y="1819" width="59" height="134" />
+      </word>
+      <word id="p03-027-06-02" tag="RP" text="in">
+        <cmp x="897" y="1814" width="40" height="53" />
+        <cmp x="904" y="1792" width="11" height="11" />
+      </word>
+      <word id="p03-027-06-03" tag="IN" text="for">
+        <cmp x="992" y="1777" width="71" height="135" />
+      </word>
+      <word id="p03-027-06-04" tag="NP" text="Luke">
+        <cmp x="1118" y="1784" width="56" height="88" />
+        <cmp x="1184" y="1793" width="50" height="79" />
+      </word>
+      <word id="p03-027-06-05" tag="NP" text="Parsons">
+        <cmp x="1299" y="1782" width="74" height="82" />
+        <cmp x="1376" y="1800" width="84" height="56" />
+        <cmp x="1467" y="1806" width="27" height="55" />
+      </word>
+      <word id="p03-027-06-06" tag="IN" text="at">
+        <cmp x="1540" y="1806" width="40" height="63" />
+        <cmp x="1586" y="1780" width="28" height="80" />
+      </word>
+      <word id="p03-027-06-07" tag="PP$" text="his">
+        <cmp x="1658" y="1777" width="64" height="92" />
+        <cmp x="1721" y="1807" width="30" height="60" />
+        <cmp x="1724" y="1790" width="6" height="27" />
+      </word>
+      <word id="p03-027-06-08" tag="NN" text="surgery">
+        <cmp x="1795" y="1807" width="61" height="65" />
+        <cmp x="1862" y="1811" width="114" height="141" />
+      </word>
+      <word id="p03-027-06-09" tag="IN" text="in">
+        <cmp x="2018" y="1801" width="26" height="69" />
+        <cmp x="2033" y="1807" width="38" height="58" />
+      </word>
+      <upper-contour>
+        <point x="415" y="1767" />
+        <point x="2072" y="1767" />
+      </upper-contour>
+      <lower-contour>
+        <point x="426" y="1953" />
+        <point x="913" y="1953" />
+      </lower-contour>
+    </line>
+    <line ass="834" asx="0" asy="1969" character-width="999" dss="834" dsx="0" dsy="2097" fd0="12347" fd1="2059" fd2="-2691" filter-width="4" id="p03-027-07" lbs="1317" lbx="0" lby="2065" segmentation="ok" slant="82000" stroke-width="5775" threshold="203" text="Little Phelpham." ubs="-131" ubx="0" uby="1989">
+      <word id="p03-027-07-00" tag="NP" text="Little">
+        <cmp x="428" y="1970" width="32" height="90" />
+        <cmp x="454" y="1983" width="8" height="14" />
+        <cmp x="468" y="1964" width="72" height="88" />
+      </word>
+      <word id="p03-027-07-01" tag="NP" text="Phelpham">
+        <cmp x="604" y="1961" width="120" height="98" />
+        <cmp x="715" y="1978" width="120" height="111" />
+        <cmp x="835" y="1991" width="57" height="55" />
+      </word>
+      <word id="p03-027-07-02" tag="." text=".">
+        <cmp x="906" y="2037" width="7" height="8" />
+      </word>
+      <upper-contour>
+        <point x="426" y="1953" />
+        <point x="913" y="1953" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

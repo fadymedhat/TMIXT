@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-17" height="3542" id="e02-094" last-modified="2002-07-17" skew="-95" status="final" version="3.0_beta" width="2479" writer-id="227">
+  <machine-printed-part>
+    <machine-print-line text="Lastly, we suggest certain power tools and machines, the choice of which will depend" />
+    <machine-print-line text="partly upon the space available in the workshop, the amount one is prepared to pay," />
+    <machine-print-line text="and the type of work a man normally does. First, however, a word of advice generally." />
+    <machine-print-line text="Do not buy so-called cheap tools or machines. They never are cheap in the long run." />
+    <machine-print-line text="They may be inaccurate, the steel may be soft (or possibly too hard) so that the edge" />
+    <machine-print-line text="either crumbles or is brittle, or they may not be robust enough for the work they" />
+    <machine-print-line text="have to do." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-55" asx="0" asy="894" character-width="999" dss="-55" dsx="0" dsy="1010" fd0="13662" fd1="3246" fd2="-55" filter-width="4" id="e02-094-00" lbs="3" lbx="0" lby="958" segmentation="ok" slant="68999" stroke-width="6709" threshold="156" text="Lastly, we suggest certain power tools and" ubs="-171" ubx="0" uby="923">
+      <word id="e02-094-00-00" sentence-start="yes" tag="RB" text="Lastly">
+        <cmp x="352" y="900" width="27" height="66" />
+        <cmp x="384" y="927" width="32" height="29" />
+        <cmp x="419" y="921" width="30" height="36" />
+        <cmp x="456" y="904" width="90" height="81" />
+      </word>
+      <word id="e02-094-00-01" tag="," text=",">
+        <cmp x="582" y="944" width="17" height="34" />
+      </word>
+      <word id="e02-094-00-02" tag="PP1AS" text="we">
+        <cmp x="665" y="920" width="80" height="42" />
+      </word>
+      <word id="e02-094-00-03" tag="VB" text="suggest">
+        <cmp x="824" y="913" width="32" height="45" />
+        <cmp x="861" y="919" width="33" height="33" />
+        <cmp x="885" y="924" width="51" height="75" />
+        <cmp x="932" y="924" width="67" height="74" />
+        <cmp x="1004" y="925" width="28" height="32" />
+        <cmp x="1051" y="914" width="29" height="36" />
+      </word>
+      <word id="e02-094-00-04" tag="JJ" text="certain">
+        <cmp x="1163" y="920" width="75" height="40" />
+        <cmp x="1255" y="902" width="37" height="57" />
+        <cmp x="1290" y="920" width="70" height="38" />
+        <cmp x="1367" y="916" width="65" height="41" />
+      </word>
+      <word id="e02-094-00-05" tag="NN" text="power">
+        <cmp x="1496" y="930" width="58" height="83" />
+        <cmp x="1556" y="934" width="31" height="30" />
+        <cmp x="1600" y="927" width="112" height="36" />
+      </word>
+      <word id="e02-094-00-06" tag="NNS" text="tools">
+        <cmp x="1798" y="896" width="70" height="62" />
+        <cmp x="1873" y="907" width="70" height="55" />
+        <cmp x="1949" y="932" width="27" height="28" />
+      </word>
+      <word id="e02-094-00-07" tag="CC" text="and">
+        <cmp x="2064" y="930" width="68" height="34" />
+        <cmp x="2150" y="919" width="59" height="40" />
+      </word>
+      <lower-contour>
+        <point x="350" y="1013" />
+        <point x="1918" y="1013" />
+      </lower-contour>
+    </line>
+    <line ass="-32" asx="0" asy="1071" character-width="999" dss="-32" dsx="0" dsy="1172" fd0="13756" fd1="3368" fd2="248" filter-width="4" id="e02-094-01" lbs="46" lbx="0" lby="1139" segmentation="ok" slant="70000" stroke-width="6852" threshold="159" text="machines, the choice of which will" ubs="-190" ubx="0" uby="1103">
+      <word id="e02-094-01-00" tag="NNS" text="machines">
+        <cmp x="341" y="1097" width="69" height="42" />
+        <cmp x="419" y="1104" width="34" height="33" />
+        <cmp x="460" y="1081" width="75" height="58" />
+        <cmp x="543" y="1098" width="99" height="42" />
+        <cmp x="647" y="1107" width="31" height="32" />
+      </word>
+      <word id="e02-094-01-01" tag="," text=",">
+        <cmp x="717" y="1134" width="17" height="38" />
+      </word>
+      <word id="e02-094-01-02" tag="ATI" text="the">
+        <cmp x="807" y="1085" width="117" height="60" />
+      </word>
+      <word id="e02-094-01-03" tag="NN" text="choice">
+        <cmp x="1016" y="1089" width="78" height="51" />
+        <cmp x="1102" y="1107" width="58" height="34" />
+        <cmp x="1161" y="1096" width="9" height="6" />
+        <cmp x="1170" y="1102" width="58" height="42" />
+      </word>
+      <word id="e02-094-01-04" tag="INO" text="of">
+        <cmp x="1302" y="1110" width="30" height="33" />
+        <cmp x="1341" y="1092" width="30" height="76" />
+      </word>
+      <word id="e02-094-01-05" tag="WDT" text="which">
+        <cmp x="1477" y="1108" width="56" height="34" />
+        <cmp x="1544" y="1091" width="57" height="51" />
+        <cmp x="1604" y="1103" width="9" height="8" />
+        <cmp x="1621" y="1097" width="77" height="53" />
+      </word>
+      <word id="e02-094-01-06" tag="MD" text="will">
+        <cmp x="1801" y="1104" width="65" height="34" />
+        <cmp x="1873" y="1093" width="8" height="6" />
+        <cmp x="1885" y="1090" width="22" height="50" />
+        <cmp x="1900" y="1092" width="17" height="44" />
+      </word>
+      <upper-contour>
+        <point x="350" y="1013" />
+        <point x="1918" y="1013" />
+      </upper-contour>
+      <lower-contour>
+        <point x="352" y="1173" />
+        <point x="1918" y="1173" />
+      </lower-contour>
+    </line>
+    <line ass="-310" asx="0" asy="1252" character-width="999" dss="-310" dsx="0" dsy="1358" fd0="13656" fd1="2922" fd2="-184" filter-width="4" id="e02-094-02" lbs="-343" lbx="0" lby="1312" segmentation="ok" slant="71000" stroke-width="6709" threshold="159" text="depend partly upon the space available" ubs="-244" ubx="0" uby="1282">
+      <word id="e02-094-02-00" tag="VB" text="depend">
+        <cmp x="354" y="1254" width="69" height="57" />
+        <cmp x="432" y="1280" width="38" height="77" />
+        <cmp x="472" y="1283" width="56" height="33" />
+        <cmp x="552" y="1269" width="52" height="44" />
+      </word>
+      <word id="e02-094-02-01" tag="RB" text="partly">
+        <cmp x="701" y="1278" width="53" height="72" />
+        <cmp x="757" y="1287" width="53" height="31" />
+        <cmp x="825" y="1268" width="93" height="90" />
+      </word>
+      <word id="e02-094-02-02" tag="IN" text="upon">
+        <cmp x="1019" y="1283" width="37" height="33" />
+        <cmp x="1059" y="1289" width="50" height="73" />
+        <cmp x="1115" y="1289" width="79" height="32" />
+      </word>
+      <word id="e02-094-02-03" tag="ATI" text="the">
+        <cmp x="1297" y="1275" width="103" height="52" />
+      </word>
+      <word id="e02-094-02-04" tag="NN" text="space">
+        <cmp x="1528" y="1282" width="31" height="38" />
+        <cmp x="1554" y="1284" width="53" height="83" />
+        <cmp x="1607" y="1288" width="29" height="33" />
+        <cmp x="1661" y="1288" width="68" height="35" />
+      </word>
+      <word id="e02-094-02-05" tag="JJ" text="available">
+        <cmp x="1866" y="1280" width="41" height="40" />
+        <cmp x="1923" y="1285" width="36" height="35" />
+        <cmp x="1958" y="1284" width="47" height="41" />
+        <cmp x="2011" y="1294" width="15" height="28" />
+        <cmp x="2028" y="1268" width="7" height="7" />
+        <cmp x="2054" y="1271" width="26" height="57" />
+        <cmp x="2072" y="1291" width="39" height="34" />
+        <cmp x="2125" y="1270" width="101" height="60" />
+      </word>
+      <upper-contour>
+        <point x="352" y="1173" />
+        <point x="1918" y="1173" />
+      </upper-contour>
+      <lower-contour>
+        <point x="352" y="1368" />
+        <point x="2105" y="1368" />
+      </lower-contour>
+    </line>
+    <line ass="45" asx="0" asy="1438" character-width="999" dss="45" dsx="0" dsy="1538" fd0="13375" fd1="2891" fd2="198" filter-width="4" id="e02-094-03" lbs="63" lbx="0" lby="1497" segmentation="ok" slant="68999" stroke-width="6876" threshold="155" text="in the workshop, the amount one" ubs="9" ubx="0" uby="1460">
+      <word id="e02-094-03-00" tag="IN" text="in">
+        <cmp x="349" y="1453" width="67" height="42" />
+        <cmp x="385" y="1439" width="10" height="6" />
+      </word>
+      <word id="e02-094-03-01" tag="ATI" text="the">
+        <cmp x="569" y="1447" width="100" height="54" />
+      </word>
+      <word id="e02-094-03-02" tag="NN" text="workshop">
+        <cmp x="791" y="1457" width="52" height="42" />
+        <cmp x="852" y="1465" width="27" height="32" />
+        <cmp x="883" y="1470" width="17" height="25" />
+        <cmp x="919" y="1441" width="30" height="57" />
+        <cmp x="965" y="1453" width="34" height="43" />
+        <cmp x="1001" y="1445" width="44" height="53" />
+        <cmp x="1054" y="1469" width="22" height="27" />
+        <cmp x="1084" y="1461" width="64" height="78" />
+      </word>
+      <word id="e02-094-03-03" tag="," text=",">
+        <cmp x="1181" y="1477" width="27" height="43" />
+      </word>
+      <word id="e02-094-03-04" tag="ATI" text="the">
+        <cmp x="1289" y="1443" width="106" height="57" />
+      </word>
+      <word id="e02-094-03-05" tag="NN" text="amount">
+        <cmp x="1547" y="1452" width="135" height="42" />
+        <cmp x="1690" y="1457" width="43" height="31" />
+        <cmp x="1730" y="1457" width="71" height="34" />
+        <cmp x="1828" y="1444" width="31" height="51" />
+      </word>
+      <word id="e02-094-03-06" tag="CD1" text="one">
+        <cmp x="1978" y="1447" width="126" height="58" />
+      </word>
+      <upper-contour>
+        <point x="352" y="1368" />
+        <point x="2105" y="1368" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1539" />
+        <point x="2105" y="1539" />
+      </lower-contour>
+    </line>
+    <line ass="-159" asx="0" asy="1610" character-width="999" dss="-159" dsx="0" dsy="1735" fd0="13592" fd1="3127" fd2="-3" filter-width="4" id="e02-094-04" lbs="-106" lbx="0" lby="1679" segmentation="ok" slant="68000" stroke-width="6812" threshold="155" text="is prepared to pay, and the type of" ubs="-264" ubx="0" uby="1641">
+      <word id="e02-094-04-00" tag="BEZ" text="is">
+        <cmp x="315" y="1634" width="33" height="39" />
+        <cmp x="347" y="1625" width="9" height="7" />
+        <cmp x="359" y="1632" width="24" height="34" />
+      </word>
+      <word id="e02-094-04-01" tag="VBN" text="prepared">
+        <cmp x="465" y="1635" width="47" height="71" />
+        <cmp x="510" y="1635" width="49" height="39" />
+        <cmp x="559" y="1640" width="50" height="68" />
+        <cmp x="614" y="1644" width="55" height="33" />
+        <cmp x="680" y="1643" width="27" height="36" />
+        <cmp x="721" y="1638" width="49" height="44" />
+      </word>
+      <word id="e02-094-04-02" tag="TO" text="to">
+        <cmp x="929" y="1629" width="62" height="51" />
+      </word>
+      <word id="e02-094-04-03" tag="VB" text="pay">
+        <cmp x="1096" y="1639" width="55" height="75" />
+        <cmp x="1146" y="1649" width="103" height="90" />
+      </word>
+      <word id="e02-094-04-04" tag="," text=",">
+        <cmp x="1301" y="1668" width="24" height="41" />
+      </word>
+      <word id="e02-094-04-05" tag="CC" text="and">
+        <cmp x="1415" y="1639" width="86" height="42" />
+        <cmp x="1512" y="1628" width="61" height="49" />
+      </word>
+      <word id="e02-094-04-06" tag="ATI" text="the">
+        <cmp x="1671" y="1615" width="115" height="60" />
+      </word>
+      <word id="e02-094-04-07" tag="NN" text="type">
+        <cmp x="1897" y="1626" width="63" height="98" />
+        <cmp x="1969" y="1641" width="83" height="59" />
+      </word>
+      <word id="e02-094-04-08" tag="INO" text="of">
+        <cmp x="2138" y="1629" width="62" height="78" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1539" />
+        <point x="2105" y="1539" />
+      </upper-contour>
+      <lower-contour>
+        <point x="321" y="1740" />
+        <point x="2165" y="1740" />
+      </lower-contour>
+    </line>
+    <line ass="-28" asx="0" asy="1798" character-width="999" dss="-28" dsx="0" dsy="1907" fd0="14041" fd1="3414" fd2="219" filter-width="4" id="e02-094-05" lbs="-67" lbx="0" lby="1855" segmentation="ok" slant="68999" stroke-width="6801" threshold="162" text="work a man normally does. First," ubs="47" ubx="0" uby="1825">
+      <word id="e02-094-05-00" tag="NN" text="work">
+        <cmp x="323" y="1813" width="46" height="43" />
+        <cmp x="373" y="1821" width="30" height="34" />
+        <cmp x="406" y="1799" width="68" height="58" />
+      </word>
+      <word id="e02-094-05-01" tag="AT" text="a">
+        <cmp x="636" y="1809" width="47" height="42" />
+      </word>
+      <word id="e02-094-05-02" tag="NN" text="man">
+        <cmp x="828" y="1818" width="75" height="41" />
+        <cmp x="919" y="1825" width="114" height="36" />
+      </word>
+      <word id="e02-094-05-03" tag="RB" text="normally">
+        <cmp x="1196" y="1822" width="47" height="42" />
+        <cmp x="1253" y="1828" width="27" height="31" />
+        <cmp x="1284" y="1826" width="34" height="33" />
+        <cmp x="1320" y="1832" width="68" height="27" />
+        <cmp x="1415" y="1828" width="38" height="30" />
+        <cmp x="1465" y="1807" width="23" height="50" />
+        <cmp x="1482" y="1804" width="23" height="53" />
+        <cmp x="1498" y="1829" width="49" height="78" />
+      </word>
+      <word id="e02-094-05-04" tag="DOZ" text="does">
+        <cmp x="1639" y="1802" width="54" height="49" />
+        <cmp x="1693" y="1820" width="27" height="31" />
+        <cmp x="1727" y="1814" width="36" height="41" />
+        <cmp x="1772" y="1817" width="32" height="39" />
+      </word>
+      <word id="e02-094-05-05" tag="." text=".">
+        <cmp x="1825" y="1851" width="9" height="8" />
+      </word>
+      <word id="e02-094-05-06" sentence-start="yes" tag="RB" text="First">
+        <cmp x="1954" y="1810" width="61" height="8" />
+        <cmp x="1961" y="1823" width="31" height="42" />
+        <cmp x="2006" y="1822" width="7" height="5" />
+        <cmp x="2011" y="1833" width="25" height="28" />
+        <cmp x="2037" y="1830" width="34" height="31" />
+        <cmp x="2081" y="1817" width="28" height="43" />
+      </word>
+      <word id="e02-094-05-07" tag="," text=",">
+        <cmp x="2134" y="1858" width="30" height="32" />
+      </word>
+      <upper-contour>
+        <point x="321" y="1740" />
+        <point x="2165" y="1740" />
+      </upper-contour>
+      <lower-contour>
+        <point x="338" y="1908" />
+        <point x="2165" y="1908" />
+      </lower-contour>
+    </line>
+    <line ass="-422" asx="0" asy="1959" character-width="999" dss="-422" dsx="0" dsy="2072" fd0="13652" fd1="3078" fd2="141" filter-width="4" id="e02-094-06" lbs="-391" lbx="0" lby="2025" segmentation="ok" slant="68999" stroke-width="6911" threshold="162" text="however, a word of advice generally." ubs="-484" ubx="0" uby="1992">
+      <word id="e02-094-06-00" tag="RB" text="however">
+        <cmp x="340" y="1963" width="33" height="70" />
+        <cmp x="374" y="1996" width="26" height="35" />
+        <cmp x="413" y="1993" width="50" height="37" />
+        <cmp x="466" y="1991" width="43" height="41" />
+        <cmp x="509" y="2009" width="5" height="5" />
+        <cmp x="513" y="1993" width="87" height="40" />
+      </word>
+      <word id="e02-094-06-01" tag="," text=",">
+        <cmp x="645" y="2012" width="27" height="37" />
+      </word>
+      <word id="e02-094-06-02" tag="AT" text="a">
+        <cmp x="768" y="1992" width="35" height="38" />
+      </word>
+      <word id="e02-094-06-03" tag="NN" text="word">
+        <cmp x="941" y="1991" width="63" height="41" />
+        <cmp x="1008" y="1998" width="30" height="33" />
+        <cmp x="1042" y="2004" width="28" height="28" />
+        <cmp x="1078" y="1987" width="53" height="45" />
+      </word>
+      <word id="e02-094-06-04" tag="INO" text="of">
+        <cmp x="1272" y="1998" width="30" height="34" />
+        <cmp x="1310" y="1984" width="34" height="68" />
+      </word>
+      <word id="e02-094-06-05" tag="NN" text="advice">
+        <cmp x="1476" y="2004" width="39" height="35" />
+        <cmp x="1530" y="1984" width="59" height="52" />
+        <cmp x="1598" y="2002" width="57" height="36" />
+        <cmp x="1667" y="1996" width="10" height="9" />
+        <cmp x="1680" y="2001" width="58" height="35" />
+      </word>
+      <word id="e02-094-06-06" tag="RB" text="generally">
+        <cmp x="1851" y="2002" width="211" height="74" />
+        <cmp x="2084" y="2018" width="27" height="23" />
+        <cmp x="2133" y="1996" width="21" height="46" />
+        <cmp x="2152" y="1993" width="58" height="96" />
+      </word>
+      <word id="e02-094-06-07" tag="." text=".">
+        <cmp x="2246" y="2029" width="7" height="8" />
+      </word>
+      <upper-contour>
+        <point x="338" y="1908" />
+        <point x="2165" y="1908" />
+      </upper-contour>
+      <lower-contour>
+        <point x="350" y="2089" />
+        <point x="2176" y="2089" />
+      </lower-contour>
+    </line>
+    <line ass="-90" asx="0" asy="2157" character-width="999" dss="-90" dsx="0" dsy="2256" fd0="13354" fd1="3034" fd2="330" filter-width="4" id="e02-094-07" lbs="-73" lbx="0" lby="2213" segmentation="ok" slant="66999" stroke-width="7094" threshold="157" text="Do not buy so-called cheap tools or" ubs="-125" ubx="0" uby="2180">
+      <word id="e02-094-07-00" sentence-start="yes" tag="DO" text="Do">
+        <cmp x="352" y="2159" width="40" height="64" />
+        <cmp x="396" y="2191" width="20" height="29" />
+      </word>
+      <word id="e02-094-07-01" tag="XNOT" text="not">
+        <cmp x="545" y="2174" width="44" height="41" />
+        <cmp x="595" y="2180" width="30" height="32" />
+        <cmp x="642" y="2164" width="22" height="46" />
+      </word>
+      <word id="e02-094-07-02" tag="VB" text="buy">
+        <cmp x="804" y="2161" width="32" height="54" />
+        <cmp x="846" y="2182" width="73" height="73" />
+      </word>
+      <word id="e02-094-07-03" tag="JJB" text="so-called">
+        <cmp x="1060" y="2174" width="27" height="36" />
+        <cmp x="1087" y="2184" width="21" height="33" />
+        <cmp x="1146" y="2187" width="26" height="10" />
+        <cmp x="1216" y="2177" width="58" height="37" />
+        <cmp x="1287" y="2169" width="21" height="44" />
+        <cmp x="1310" y="2166" width="55" height="46" />
+        <cmp x="1367" y="2178" width="43" height="34" />
+      </word>
+      <word id="e02-094-07-04" tag="JJ" text="cheap">
+        <cmp x="1537" y="2161" width="113" height="59" />
+        <cmp x="1663" y="2187" width="32" height="28" />
+        <cmp x="1698" y="2191" width="65" height="69" />
+      </word>
+      <word id="e02-094-07-05" tag="NNS" text="tools">
+        <cmp x="1862" y="2166" width="58" height="50" />
+        <cmp x="1935" y="2181" width="29" height="31" />
+        <cmp x="1971" y="2168" width="24" height="46" />
+        <cmp x="1994" y="2180" width="31" height="33" />
+      </word>
+      <word id="e02-094-07-06" tag="CC" text="or">
+        <cmp x="2102" y="2190" width="34" height="31" />
+        <cmp x="2149" y="2198" width="26" height="29" />
+      </word>
+      <upper-contour>
+        <point x="350" y="2089" />
+        <point x="2176" y="2089" />
+      </upper-contour>
+      <lower-contour>
+        <point x="350" y="2260" />
+        <point x="2176" y="2260" />
+      </lower-contour>
+    </line>
+    <line ass="-283" asx="0" asy="2323" character-width="999" dss="-283" dsx="0" dsy="2431" fd0="13256" fd1="2802" fd2="285" filter-width="5" id="e02-094-08" lbs="-257" lbx="0" lby="2386" segmentation="ok" slant="63000" stroke-width="7155" threshold="158" text="machines. They never are cheap in the" ubs="-333" ubx="0" uby="2352">
+      <word id="e02-094-08-00" tag="NNS" text="machines">
+        <cmp x="349" y="2352" width="69" height="39" />
+        <cmp x="427" y="2358" width="29" height="33" />
+        <cmp x="478" y="2342" width="73" height="44" />
+        <cmp x="558" y="2349" width="77" height="37" />
+        <cmp x="642" y="2350" width="25" height="36" />
+      </word>
+      <word id="e02-094-08-01" tag="." text=".">
+        <cmp x="725" y="2387" width="7" height="7" />
+      </word>
+      <word id="e02-094-08-02" sentence-start="yes" tag="PP3AS" text="They">
+        <cmp x="871" y="2346" width="25" height="42" />
+        <cmp x="880" y="2328" width="169" height="109" />
+      </word>
+      <word id="e02-094-08-03" tag="RB" text="never">
+        <cmp x="1140" y="2362" width="202" height="38" />
+      </word>
+      <word id="e02-094-08-04" tag="BER" text="are">
+        <cmp x="1465" y="2353" width="114" height="41" />
+      </word>
+      <word id="e02-094-08-05" tag="JJ" text="cheap">
+        <cmp x="1680" y="2343" width="105" height="56" />
+        <cmp x="1797" y="2366" width="29" height="31" />
+        <cmp x="1831" y="2365" width="64" height="59" />
+      </word>
+      <word id="e02-094-08-06" tag="IN" text="in">
+        <cmp x="1967" y="2362" width="78" height="35" />
+        <cmp x="2027" y="2342" width="12" height="9" />
+      </word>
+      <word id="e02-094-08-07" tag="ATI" text="the">
+        <cmp x="2125" y="2342" width="93" height="52" />
+      </word>
+      <upper-contour>
+        <point x="350" y="2260" />
+        <point x="2176" y="2260" />
+      </upper-contour>
+      <lower-contour>
+        <point x="366" y="2437" />
+        <point x="2219" y="2437" />
+      </lower-contour>
+    </line>
+    <line ass="-519" asx="0" asy="2498" character-width="999" dss="-519" dsx="0" dsy="2600" fd0="13622" fd1="3132" fd2="399" filter-width="5" id="e02-094-09" lbs="-546" lbx="0" lby="2559" segmentation="ok" slant="63000" stroke-width="7249" threshold="162" text="long run. They may be inaccurate," ubs="-466" ubx="0" uby="2532">
+      <word id="e02-094-09-00" tag="JJ" text="long">
+        <cmp x="368" y="2514" width="109" height="56" />
+        <cmp x="491" y="2536" width="34" height="67" />
+      </word>
+      <word id="e02-094-09-01" tag="NN" text="run">
+        <cmp x="646" y="2522" width="34" height="48" />
+        <cmp x="685" y="2527" width="118" height="38" />
+      </word>
+      <word id="e02-094-09-02" tag="." text=".">
+        <cmp x="858" y="2559" width="7" height="6" />
+      </word>
+      <word id="e02-094-09-03" sentence-start="yes" tag="PP3AS" text="They">
+        <cmp x="986" y="2507" width="137" height="103" />
+      </word>
+      <word id="e02-094-09-04" tag="MD" text="may">
+        <cmp x="1255" y="2523" width="67" height="41" />
+        <cmp x="1337" y="2536" width="103" height="78" />
+      </word>
+      <word id="e02-094-09-05" tag="BE" text="be">
+        <cmp x="1522" y="2521" width="112" height="64" />
+      </word>
+      <word id="e02-094-09-06" tag="JJ" text="inaccurate">
+        <cmp x="1751" y="2552" width="18" height="27" />
+        <cmp x="1779" y="2534" width="36" height="42" />
+        <cmp x="1839" y="2544" width="32" height="29" />
+        <cmp x="1884" y="2541" width="30" height="33" />
+        <cmp x="1922" y="2537" width="77" height="37" />
+        <cmp x="2011" y="2550" width="28" height="21" />
+        <cmp x="2034" y="2550" width="62" height="28" />
+        <cmp x="2099" y="2534" width="61" height="49" />
+      </word>
+      <word id="e02-094-09-07" tag="," text=",">
+        <cmp x="2212" y="2573" width="31" height="35" />
+      </word>
+      <upper-contour>
+        <point x="366" y="2437" />
+        <point x="2219" y="2437" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

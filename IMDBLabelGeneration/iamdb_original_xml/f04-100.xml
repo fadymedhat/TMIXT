@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-18" height="3542" id="f04-100" last-modified="2002-07-17" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="193">
+  <machine-printed-part>
+    <machine-print-line text="Medical evidence established that Mary Money had been dead for about an hour" />
+    <machine-print-line text="before her body was discovered, and this matched reasonably well with the timetable" />
+    <machine-print-line text="of the train in question. More important evidence came from a signalman at Purley" />
+    <machine-print-line text="Oaks, who had seen, as the train passed his box, a couple struggling in a first-class" />
+    <machine-print-line text="compartment; but he seemed to have been used to seeing couples engaged in close" />
+    <machine-print-line text="embraces, for he had not attached any importance to the scene at the time." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-159" asx="0" asy="751" character-width="999" dss="-159" dsx="0" dsy="855" fd0="13355" fd1="2423" fd2="-861" filter-width="4" id="f04-100-00" lbs="-113" lbx="0" lby="818" segmentation="ok" slant="89000" stroke-width="6180" threshold="169" text="Medical evidence established that Mary" ubs="-251" ubx="0" uby="784">
+      <word id="f04-100-00-00" sentence-start="yes" tag="JJ" text="Medical">
+        <cmp x="391" y="756" width="146" height="65" />
+        <cmp x="529" y="772" width="7" height="10" />
+        <cmp x="545" y="755" width="116" height="68" />
+      </word>
+      <word id="f04-100-00-01" tag="NN" text="evidence">
+        <cmp x="707" y="771" width="247" height="60" />
+        <cmp x="802" y="756" width="6" height="10" />
+        <cmp x="964" y="785" width="81" height="36" />
+      </word>
+      <word id="f04-100-00-02" tag="VBD" text="established">
+        <cmp x="1094" y="755" width="417" height="78" />
+        <cmp x="1328" y="758" width="8" height="12" />
+      </word>
+      <word id="f04-100-00-03" tag="CS" text="that">
+        <cmp x="1597" y="759" width="161" height="63" />
+      </word>
+      <word id="f04-100-00-04" tag="NP" text="Mary">
+        <cmp x="1824" y="767" width="199" height="94" />
+      </word>
+      <lower-contour>
+        <point x="389" y="833" />
+        <point x="1966" y="833" />
+      </lower-contour>
+    </line>
+    <line ass="-61" asx="0" asy="936" character-width="999" dss="-61" dsx="0" dsy="1033" fd0="12941" fd1="2288" fd2="-587" filter-width="4" id="f04-100-01" lbs="-34" lbx="0" lby="1005" segmentation="ok" slant="90000" stroke-width="6964" threshold="173" text="Money had been dead for about an" ubs="-115" ubx="0" uby="971">
+      <word id="f04-100-01-00" tag="NP" text="Money">
+        <cmp x="391" y="943" width="47" height="72" />
+        <cmp x="444" y="973" width="148" height="62" />
+      </word>
+      <word id="f04-100-01-01" tag="HVD" text="had">
+        <cmp x="656" y="938" width="157" height="72" />
+      </word>
+      <word id="f04-100-01-02" tag="BEN" text="been">
+        <cmp x="851" y="941" width="180" height="64" />
+      </word>
+      <word id="f04-100-01-03" tag="JJ" text="dead">
+        <cmp x="1086" y="941" width="194" height="67" />
+      </word>
+      <word id="f04-100-01-04" tag="IN" text="for">
+        <cmp x="1359" y="941" width="121" height="67" />
+      </word>
+      <word id="f04-100-01-05" tag="RB" text="about">
+        <cmp x="1527" y="938" width="273" height="80" />
+      </word>
+      <word id="f04-100-01-06" tag="AT" text="an">
+        <cmp x="1850" y="974" width="91" height="34" />
+        <cmp x="1942" y="986" width="23" height="26" />
+      </word>
+      <upper-contour>
+        <point x="389" y="833" />
+        <point x="1966" y="833" />
+      </upper-contour>
+      <lower-contour>
+        <point x="389" y="1035" />
+        <point x="1966" y="1035" />
+      </lower-contour>
+    </line>
+    <line ass="-351" asx="0" asy="1103" character-width="999" dss="-351" dsx="0" dsy="1211" fd0="12426" fd1="2219" fd2="-596" filter-width="4" id="f04-100-02" lbs="-391" lbx="0" lby="1172" segmentation="ok" slant="89000" stroke-width="6384" threshold="174" text="hour before her body was discovered," ubs="-271" ubx="0" uby="1142">
+      <word id="f04-100-02-00" tag="NN" text="hour">
+        <cmp x="388" y="1120" width="93" height="63" />
+        <cmp x="482" y="1150" width="123" height="33" />
+      </word>
+      <word id="f04-100-02-01" tag="CS" text="before">
+        <cmp x="666" y="1110" width="239" height="80" />
+      </word>
+      <word id="f04-100-02-02" tag="PP$" text="her">
+        <cmp x="949" y="1115" width="115" height="59" />
+      </word>
+      <word id="f04-100-02-03" tag="NN" text="body">
+        <cmp x="1110" y="1110" width="183" height="106" />
+      </word>
+      <word id="f04-100-02-04" tag="BEDZ" text="was">
+        <cmp x="1345" y="1141" width="45" height="37" />
+        <cmp x="1391" y="1137" width="104" height="42" />
+        <cmp x="1495" y="1139" width="27" height="47" />
+      </word>
+      <word id="f04-100-02-05" tag="VBN" text="discovered">
+        <cmp x="1581" y="1127" width="430" height="69" />
+        <cmp x="1678" y="1116" width="4" height="6" />
+      </word>
+      <word id="f04-100-02-06" tag="," text=",">
+        <cmp x="2015" y="1193" width="29" height="30" />
+      </word>
+      <upper-contour>
+        <point x="389" y="1035" />
+        <point x="1966" y="1035" />
+      </upper-contour>
+      <lower-contour>
+        <point x="386" y="1224" />
+        <point x="2045" y="1224" />
+      </lower-contour>
+    </line>
+    <line ass="-31" asx="0" asy="1272" character-width="999" dss="-31" dsx="0" dsy="1399" fd0="12687" fd1="1935" fd2="-916" filter-width="4" id="f04-100-03" lbs="-91" lbx="0" lby="1357" segmentation="ok" slant="79000" stroke-width="6790" threshold="176" text="and this matched reasonably well with" ubs="87" ubx="0" uby="1327">
+      <word id="f04-100-03-00" tag="CC" text="and">
+        <cmp x="385" y="1302" width="148" height="69" />
+      </word>
+      <word id="f04-100-03-01" tag="DT" text="this">
+        <cmp x="604" y="1289" width="157" height="74" />
+        <cmp x="701" y="1299" width="7" height="6" />
+      </word>
+      <word id="f04-100-03-02" tag="VBD" text="matched">
+        <cmp x="816" y="1273" width="360" height="96" />
+      </word>
+      <word id="f04-100-03-03" tag="RB" text="reasonably">
+        <cmp x="1223" y="1317" width="246" height="47" />
+        <cmp x="1479" y="1289" width="176" height="112" />
+      </word>
+      <word id="f04-100-03-04" tag="RB" text="well">
+        <cmp x="1701" y="1292" width="205" height="80" />
+      </word>
+      <word id="f04-100-03-05" tag="IN" text="with">
+        <cmp x="1951" y="1298" width="184" height="63" />
+        <cmp x="2064" y="1287" width="7" height="8" />
+      </word>
+      <upper-contour>
+        <point x="386" y="1224" />
+        <point x="2045" y="1224" />
+      </upper-contour>
+      <lower-contour>
+        <point x="383" y="1401" />
+        <point x="2034" y="1401" />
+      </lower-contour>
+    </line>
+    <line ass="-176" asx="0" asy="1465" character-width="999" dss="-176" dsx="0" dsy="1580" fd0="13180" fd1="3206" fd2="-45" filter-width="4" id="f04-100-04" lbs="-45" lbx="0" lby="1542" segmentation="ok" slant="90000" stroke-width="6368" threshold="174" text="the timetable of the train in question." ubs="-440" ubx="0" uby="1504">
+      <word id="f04-100-04-00" tag="ATI" text="the">
+        <cmp x="380" y="1471" width="120" height="76" />
+      </word>
+      <word id="f04-100-04-01" tag="NN" text="timetable">
+        <cmp x="558" y="1476" width="399" height="78" />
+        <cmp x="643" y="1477" width="4" height="8" />
+      </word>
+      <word id="f04-100-04-02" tag="INO" text="of">
+        <cmp x="1009" y="1474" width="100" height="84" />
+      </word>
+      <word id="f04-100-04-03" tag="ATI" text="the">
+        <cmp x="1157" y="1472" width="96" height="65" />
+      </word>
+      <word id="f04-100-04-04" tag="NN" text="train">
+        <cmp x="1296" y="1471" width="180" height="67" />
+        <cmp x="1428" y="1471" width="8" height="15" />
+      </word>
+      <word id="f04-100-04-05" tag="IN" text="in">
+        <cmp x="1514" y="1513" width="112" height="32" />
+        <cmp x="1583" y="1475" width="9" height="9" />
+      </word>
+      <word id="f04-100-04-06" tag="NN" text="question">
+        <cmp x="1678" y="1518" width="51" height="69" />
+        <cmp x="1728" y="1490" width="170" height="71" />
+        <cmp x="1900" y="1497" width="8" height="17" />
+        <cmp x="1903" y="1516" width="89" height="35" />
+      </word>
+      <word id="f04-100-04-07" tag="." text=".">
+        <cmp x="2029" y="1545" width="5" height="6" />
+      </word>
+      <upper-contour>
+        <point x="383" y="1401" />
+        <point x="2034" y="1401" />
+      </upper-contour>
+      <lower-contour>
+        <point x="378" y="1587" />
+        <point x="2024" y="1587" />
+      </lower-contour>
+    </line>
+    <line ass="-196" asx="0" asy="1648" character-width="999" dss="-196" dsx="0" dsy="1753" fd0="12968" fd1="2468" fd2="-386" filter-width="4" id="f04-100-05" lbs="-144" lbx="0" lby="1719" segmentation="ok" slant="83000" stroke-width="6820" threshold="172" text="More important evidence came from a" ubs="-299" ubx="0" uby="1686">
+      <word id="f04-100-05-00" sentence-start="yes" tag="AP" text="More">
+        <cmp x="367" y="1659" width="184" height="66" />
+      </word>
+      <word id="f04-100-05-01" tag="JJ" text="important">
+        <cmp x="609" y="1692" width="8" height="34" />
+        <cmp x="614" y="1657" width="5" height="7" />
+        <cmp x="616" y="1652" width="421" height="105" />
+      </word>
+      <word id="f04-100-05-02" tag="NN" text="evidence">
+        <cmp x="1092" y="1670" width="299" height="61" />
+        <cmp x="1244" y="1663" width="9" height="14" />
+        <cmp x="1394" y="1689" width="80" height="37" />
+      </word>
+      <word id="f04-100-05-03" tag="VBD" text="came">
+        <cmp x="1524" y="1690" width="214" height="40" />
+      </word>
+      <word id="f04-100-05-04" tag="IN" text="from">
+        <cmp x="1779" y="1671" width="162" height="65" />
+      </word>
+      <word id="f04-100-05-05" tag="AT" text="a">
+        <cmp x="1980" y="1690" width="43" height="45" />
+      </word>
+      <upper-contour>
+        <point x="378" y="1587" />
+        <point x="2024" y="1587" />
+      </upper-contour>
+      <lower-contour>
+        <point x="382" y="1757" />
+        <point x="2024" y="1757" />
+      </lower-contour>
+    </line>
+    <line ass="-6" asx="0" asy="1825" character-width="999" dss="-6" dsx="0" dsy="1949" fd0="13059" fd1="2236" fd2="-453" filter-width="4" id="f04-100-06" lbs="7" lbx="0" lby="1899" segmentation="ok" slant="72000" stroke-width="6844" threshold="171" text="signalman at Purley Oaks, who had" ubs="-36" ubx="0" uby="1869">
+      <word id="f04-100-06-00" tag="NN" text="signalman">
+        <cmp x="384" y="1842" width="356" height="109" />
+        <cmp x="534" y="1830" width="9" height="17" />
+        <cmp x="746" y="1867" width="75" height="33" />
+        <cmp x="832" y="1873" width="15" height="20" />
+      </word>
+      <word id="f04-100-06-01" tag="IN" text="at">
+        <cmp x="893" y="1826" width="111" height="77" />
+      </word>
+      <word id="f04-100-06-02" tag="NP" text="Purley">
+        <cmp x="1065" y="1826" width="272" height="101" />
+      </word>
+      <word id="f04-100-06-03" tag="NP" text="Oaks">
+        <cmp x="1411" y="1832" width="209" height="75" />
+      </word>
+      <word id="f04-100-06-04" tag="," text=",">
+        <cmp x="1659" y="1899" width="19" height="36" />
+      </word>
+      <word id="f04-100-06-05" tag="WP" text="who">
+        <cmp x="1703" y="1845" width="174" height="61" />
+      </word>
+      <word id="f04-100-06-06" tag="HVD" text="had">
+        <cmp x="1921" y="1845" width="168" height="68" />
+      </word>
+      <upper-contour>
+        <point x="382" y="1757" />
+        <point x="2024" y="1757" />
+      </upper-contour>
+      <lower-contour>
+        <point x="382" y="1951" />
+        <point x="2062" y="1951" />
+      </lower-contour>
+    </line>
+    <line ass="-82" asx="0" asy="1999" character-width="999" dss="-82" dsx="0" dsy="2116" fd0="12162" fd1="2902" fd2="54" filter-width="4" id="f04-100-07" lbs="-87" lbx="0" lby="2074" segmentation="ok" slant="82000" stroke-width="6979" threshold="174" text="seen, as the train passed his box, a" ubs="-72" ubx="0" uby="2045">
+      <word id="f04-100-07-00" tag="VBN" text="seen">
+        <cmp x="375" y="2038" width="180" height="55" />
+      </word>
+      <word id="f04-100-07-01" tag="," text=",">
+        <cmp x="599" y="2073" width="16" height="32" />
+      </word>
+      <word id="f04-100-07-02" tag="CS" text="as">
+        <cmp x="636" y="2044" width="100" height="44" />
+      </word>
+      <word id="f04-100-07-03" tag="ATI" text="the">
+        <cmp x="770" y="2001" width="150" height="76" />
+      </word>
+      <word id="f04-100-07-04" tag="NN" text="train">
+        <cmp x="973" y="2009" width="221" height="61" />
+        <cmp x="1138" y="2005" width="8" height="7" />
+      </word>
+      <word id="f04-100-07-05" tag="VBD" text="passed">
+        <cmp x="1244" y="2020" width="264" height="96" />
+      </word>
+      <word id="f04-100-07-06" tag="PP$" text="his">
+        <cmp x="1565" y="2016" width="150" height="70" />
+        <cmp x="1673" y="2005" width="17" height="18" />
+      </word>
+      <word id="f04-100-07-07" tag="NN" text="box">
+        <cmp x="1757" y="2020" width="170" height="62" />
+      </word>
+      <word id="f04-100-07-08" tag="," text=",">
+        <cmp x="1953" y="2084" width="24" height="35" />
+      </word>
+      <word id="f04-100-07-09" tag="AT" text="a">
+        <cmp x="2017" y="2055" width="44" height="45" />
+      </word>
+      <upper-contour>
+        <point x="382" y="1951" />
+        <point x="2062" y="1951" />
+      </upper-contour>
+      <lower-contour>
+        <point x="391" y="2116" />
+        <point x="1883" y="2116" />
+      </lower-contour>
+    </line>
+    <line ass="-190" asx="0" asy="2181" character-width="999" dss="-190" dsx="0" dsy="2296" fd0="12509" fd1="2175" fd2="-426" filter-width="4" id="f04-100-08" lbs="-169" lbx="0" lby="2259" segmentation="ok" slant="76000" stroke-width="6962" threshold="172" text="couple struggling in a first-class" ubs="-232" ubx="0" uby="2219">
+      <word id="f04-100-08-00" tag="NN" text="couple">
+        <cmp x="393" y="2183" width="295" height="95" />
+      </word>
+      <word id="f04-100-08-01" tag="NN" text="struggling">
+        <cmp x="734" y="2191" width="179" height="73" />
+        <cmp x="909" y="2195" width="229" height="106" />
+        <cmp x="1089" y="2191" width="8" height="9" />
+      </word>
+      <word id="f04-100-08-02" tag="IN" text="in">
+        <cmp x="1188" y="2231" width="99" height="34" />
+        <cmp x="1216" y="2192" width="6" height="15" />
+      </word>
+      <word id="f04-100-08-03" tag="AT" text="a">
+        <cmp x="1341" y="2222" width="42" height="42" />
+      </word>
+      <word id="f04-100-08-04" tag="JJ" text="first-class">
+        <cmp x="1443" y="2193" width="178" height="74" />
+        <cmp x="1554" y="2197" width="7" height="9" />
+        <cmp x="1650" y="2234" width="31" height="9" />
+        <cmp x="1700" y="2208" width="182" height="61" />
+      </word>
+      <upper-contour>
+        <point x="391" y="2116" />
+        <point x="1883" y="2116" />
+      </upper-contour>
+      <lower-contour>
+        <point x="395" y="2301" />
+        <point x="1883" y="2301" />
+      </lower-contour>
+    </line>
+    <line ass="-590" asx="0" asy="2358" character-width="999" dss="-590" dsx="0" dsy="2458" fd0="12753" fd1="2356" fd2="-309" filter-width="4" id="f04-100-09" lbs="-639" lbx="0" lby="2423" segmentation="ok" slant="80000" stroke-width="6459" threshold="170" text="compartment; but he seemed to have" ubs="-493" ubx="0" uby="2397">
+      <word id="f04-100-09-00" tag="NN" text="compartment">
+        <cmp x="397" y="2407" width="39" height="44" />
+        <cmp x="448" y="2407" width="116" height="38" />
+        <cmp x="565" y="2368" width="385" height="96" />
+      </word>
+      <word id="f04-100-09-01" tag=";" text=";">
+        <cmp x="963" y="2412" width="23" height="51" />
+        <cmp x="975" y="2393" width="6" height="9" />
+      </word>
+      <word id="f04-100-09-02" tag="CC" text="but">
+        <cmp x="1015" y="2373" width="160" height="58" />
+      </word>
+      <word id="f04-100-09-03" tag="PP3A" text="he">
+        <cmp x="1194" y="2376" width="89" height="63" />
+        <cmp x="1203" y="2425" width="6" height="11" />
+      </word>
+      <word id="f04-100-09-04" tag="VBD" text="seemed">
+        <cmp x="1315" y="2391" width="262" height="63" />
+      </word>
+      <word id="f04-100-09-05" tag="TO" text="to">
+        <cmp x="1634" y="2379" width="77" height="59" />
+      </word>
+      <word id="f04-100-09-06" tag="HV" text="have">
+        <cmp x="1740" y="2390" width="258" height="65" />
+      </word>
+      <upper-contour>
+        <point x="395" y="2301" />
+        <point x="1883" y="2301" />
+      </upper-contour>
+      <lower-contour>
+        <point x="395" y="2465" />
+        <point x="1999" y="2465" />
+      </lower-contour>
+    </line>
+    <line ass="-330" asx="0" asy="2546" character-width="999" dss="-330" dsx="0" dsy="2658" fd0="13136" fd1="3043" fd2="-385" filter-width="4" id="f04-100-10" lbs="-369" lbx="0" lby="2613" segmentation="ok" slant="90000" stroke-width="6202" threshold="174" text="been used to seeing couples engaged in" ubs="-253" ubx="0" uby="2588">
+      <word id="f04-100-10-00" tag="BEN" text="been">
+        <cmp x="390" y="2571" width="213" height="56" />
+        <cmp x="417" y="2586" width="5" height="9" />
+      </word>
+      <word id="f04-100-10-01" tag="JJ" text="used">
+        <cmp x="677" y="2551" width="175" height="67" />
+      </word>
+      <word id="f04-100-10-02" tag="IN" text="to">
+        <cmp x="898" y="2559" width="70" height="56" />
+      </word>
+      <word id="f04-100-10-03" tag="VBG" text="seeing">
+        <cmp x="1010" y="2583" width="251" height="83" />
+        <cmp x="1162" y="2559" width="7" height="13" />
+      </word>
+      <word id="f04-100-10-04" tag="NNS" text="couples">
+        <cmp x="1338" y="2559" width="268" height="85" />
+      </word>
+      <word id="f04-100-10-05" tag="VBN" text="engaged">
+        <cmp x="1648" y="2588" width="105" height="39" />
+        <cmp x="1718" y="2569" width="235" height="101" />
+      </word>
+      <word id="f04-100-10-06" tag="IN" text="in">
+        <cmp x="1986" y="2597" width="83" height="30" />
+        <cmp x="1996" y="2578" width="7" height="7" />
+      </word>
+      <upper-contour>
+        <point x="395" y="2465" />
+        <point x="1999" y="2465" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

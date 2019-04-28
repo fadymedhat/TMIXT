@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="p01-174" last-modified="2002-07-25" skew="30" status="final" version="3.0_beta" width="2479" writer-id="592">
+  <machine-printed-part>
+    <machine-print-line text="&quot;Yes. I travelled down from London as the dawn was breaking, and the thought came" />
+    <machine-print-line text="to me I&apos;d like to take a look at the church. I&apos;ve never been inside. Very remiss of" />
+    <machine-print-line text="me,&quot; said Mr. Copthorne. The verger led the way in. &quot;The stained glass windows," />
+    <machine-print-line text="sir, they date back to the fourteenth century.&quot;" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-394" asx="0" asy="734" character-width="999" dss="-394" dsx="0" dsy="895" fd0="13906" fd1="2584" fd2="-1175" filter-width="3" id="p01-174-00" lbs="-423" lbx="0" lby="816" segmentation="ok" slant="58000" stroke-width="5503" threshold="189" text="&quot;Yes. I travelled down from London" ubs="-337" ubx="0" uby="801">
+      <word id="p01-174-00-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="317" y="809" width="14" height="31" />
+        <cmp x="328" y="825" width="4" height="5" />
+        <cmp x="331" y="797" width="3" height="3" />
+        <cmp x="338" y="809" width="9" height="34" />
+      </word>
+      <word id="p01-174-00-01" tag="UH" text="Yes">
+        <cmp x="367" y="745" width="100" height="81" />
+        <cmp x="384" y="750" width="168" height="150" />
+      </word>
+      <word id="p01-174-00-02" tag="." text=".">
+        <cmp x="568" y="820" width="8" height="5" />
+      </word>
+      <word id="p01-174-00-03" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="623" y="760" width="58" height="57" />
+      </word>
+      <word id="p01-174-00-04" tag="VBD" text="travelled">
+        <cmp x="692" y="753" width="427" height="77" />
+        <cmp x="983" y="805" width="3" height="3" />
+      </word>
+      <word id="p01-174-00-05" tag="RP" text="down">
+        <cmp x="1145" y="771" width="278" height="69" />
+      </word>
+      <word id="p01-174-00-06" tag="IN" text="from">
+        <cmp x="1455" y="745" width="242" height="114" />
+      </word>
+      <word id="p01-174-00-07" tag="NP" text="London">
+        <cmp x="1753" y="750" width="173" height="84" />
+        <cmp x="1918" y="781" width="206" height="59" />
+      </word>
+      <lower-contour>
+        <point x="332" y="900" />
+        <point x="2124" y="900" />
+      </lower-contour>
+    </line>
+    <line ass="-482" asx="0" asy="913" character-width="999" dss="-482" dsx="0" dsy="1087" fd0="13097" fd1="2764" fd2="-281" filter-width="3" id="p01-174-01" lbs="-450" lbx="0" lby="993" segmentation="ok" slant="36000" stroke-width="5456" threshold="189" text="as the dawn was breaking, and" ubs="-547" ubx="0" uby="973">
+      <word id="p01-174-01-00" tag="CS" text="as">
+        <cmp x="334" y="961" width="131" height="40" />
+      </word>
+      <word id="p01-174-01-01" tag="ATI" text="the">
+        <cmp x="483" y="918" width="171" height="88" />
+      </word>
+      <word id="p01-174-01-02" tag="NN" text="dawn">
+        <cmp x="680" y="934" width="294" height="72" />
+      </word>
+      <word id="p01-174-01-03" tag="BEDZ" text="was">
+        <cmp x="1018" y="983" width="218" height="26" />
+      </word>
+      <word id="p01-174-01-04" tag="VBG" text="breaking">
+        <cmp x="1261" y="924" width="427" height="89" />
+        <cmp x="1588" y="991" width="149" height="111" />
+        <cmp x="1664" y="975" width="14" height="18" />
+      </word>
+      <word id="p01-174-01-05" tag="," text=",">
+        <cmp x="1766" y="1003" width="26" height="30" />
+      </word>
+      <word id="p01-174-01-06" tag="CC" text="and">
+        <cmp x="1834" y="973" width="123" height="33" />
+        <cmp x="1958" y="998" width="7" height="3" />
+        <cmp x="1975" y="962" width="168" height="66" />
+      </word>
+      <upper-contour>
+        <point x="332" y="900" />
+        <point x="2124" y="900" />
+      </upper-contour>
+      <lower-contour>
+        <point x="332" y="1011" />
+        <point x="1588" y="1102" />
+        <point x="2144" y="1102" />
+      </lower-contour>
+    </line>
+    <line ass="-22" asx="0" asy="1095" character-width="999" dss="-22" dsx="0" dsy="1240" fd0="13207" fd1="2486" fd2="-620" filter-width="4" id="p01-174-02" lbs="50" lbx="0" lby="1177" segmentation="err" slant="29999" stroke-width="5745" threshold="188" text="the thought came to me I&apos;d like" ubs="-169" ubx="0" uby="1154">
+      <word id="p01-174-02-00" tag="ATI" text="the">
+        <cmp x="314" y="1096" width="187" height="93" />
+      </word>
+      <word id="p01-174-02-01" tag="NN" text="thought">
+        <cmp x="558" y="1099" width="545" height="143" />
+      </word>
+      <word id="p01-174-02-02" tag="VBD" text="came">
+        <cmp x="1106" y="1146" width="245" height="37" />
+      </word>
+      <word id="p01-174-02-03" tag="IN" text="to">
+        <cmp x="1386" y="1124" width="107" height="64" />
+      </word>
+      <word id="p01-174-02-04" tag="PP1O" text="me">
+        <cmp x="1529" y="1160" width="141" height="36" />
+        <cmp x="1729" y="1133" width="74" height="59" />
+      </word>
+      <word id="p01-174-02-05" tag="PP1A" text="I">
+        <cmp x="1817" y="1131" width="20" height="16" />
+      </word>
+      <word id="p01-174-02-06" tag="HVD" text="&apos;d">
+        <cmp x="1802" y="1121" width="134" height="66" />
+      </word>
+      <word id="p01-174-02-07" tag="VB" text="like">
+        <cmp x="1915" y="1130" width="262" height="79" />
+        <cmp x="2061" y="1142" width="6" height="9" />
+      </word>
+      <upper-contour>
+        <point x="332" y="1011" />
+        <point x="1588" y="1102" />
+        <point x="2144" y="1102" />
+      </upper-contour>
+      <lower-contour>
+        <point x="312" y="1242" />
+        <point x="2178" y="1242" />
+      </lower-contour>
+    </line>
+    <line ass="-792" asx="0" asy="1254" character-width="999" dss="-792" dsx="0" dsy="1359" fd0="12998" fd1="2594" fd2="-324" filter-width="3" id="p01-174-03" lbs="-697" lbx="0" lby="1345" segmentation="err" slant="31000" stroke-width="5604" threshold="188" text="to take a look at the church. I&apos;ve" ubs="-984" ubx="0" uby="1322">
+      <word id="p01-174-03-00" tag="TO" text="to">
+        <cmp x="310" y="1260" width="114" height="85" />
+      </word>
+      <word id="p01-174-03-01" tag="VB" text="take">
+        <cmp x="471" y="1270" width="216" height="88" />
+      </word>
+      <word id="p01-174-03-02" tag="AT" text="a">
+        <cmp x="731" y="1326" width="56" height="25" />
+      </word>
+      <word id="p01-174-03-03" tag="NN" text="look">
+        <cmp x="830" y="1290" width="285" height="79" />
+      </word>
+      <word id="p01-174-03-04" tag="IN" text="at">
+        <cmp x="1126" y="1291" width="200" height="86" />
+      </word>
+      <word id="p01-174-03-05" tag="ATI" text="the">
+        <cmp x="1308" y="1292" width="212" height="80" />
+      </word>
+      <word id="p01-174-03-06" tag="NN" text="church">
+        <cmp x="1541" y="1300" width="426" height="71" />
+        <cmp x="1988" y="1361" width="9" height="8" />
+      </word>
+      <word id="p01-174-03-07" tag="." text=".">
+        <cmp x="2035" y="1302" width="69" height="58" />
+      </word>
+      <word id="p01-174-03-08" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="2107" y="1310" width="35" height="21" />
+      </word>
+      <word id="p01-174-03-09" tag="HV" text="&apos;ve">
+        <cmp x="2114" y="1341" width="139" height="37" />
+      </word>
+      <upper-contour>
+        <point x="312" y="1242" />
+        <point x="2178" y="1242" />
+      </upper-contour>
+      <lower-contour>
+        <point x="311" y="1378" />
+        <point x="2254" y="1378" />
+      </lower-contour>
+    </line>
+    <line ass="-243" asx="0" asy="1469" character-width="999" dss="-243" dsx="0" dsy="1591" fd0="12241" fd1="2639" fd2="-789" filter-width="3" id="p01-174-04" lbs="-204" lbx="0" lby="1536" segmentation="err" slant="37000" stroke-width="5503" threshold="181" text="never been inside. Very remiss of" ubs="-321" ubx="0" uby="1518">
+      <word id="p01-174-04-00" tag="RB" text="never">
+        <cmp x="313" y="1510" width="309" height="39" />
+      </word>
+      <word id="p01-174-04-01" tag="BEN" text="been">
+        <cmp x="666" y="1480" width="318" height="69" />
+      </word>
+      <word id="p01-174-04-02" tag="RP" text="inside">
+        <cmp x="1015" y="1497" width="424" height="55" />
+        <cmp x="1111" y="1503" width="12" height="7" />
+      </word>
+      <word id="p01-174-04-03" tag="." text=".">
+        <cmp x="1290" y="1496" width="12" height="15" />
+      </word>
+      <word id="p01-174-04-04" sentence-start="yes" tag="QL" text="Very">
+        <cmp x="1475" y="1542" width="8" height="8" />
+      </word>
+      <word id="p01-174-04-05" tag="JJ" text="remiss">
+        <cmp x="1534" y="1484" width="275" height="116" />
+        <cmp x="1862" y="1509" width="330" height="43" />
+        <cmp x="2105" y="1511" width="11" height="8" />
+      </word>
+      <word id="p01-174-04-06" tag="INO" text="of">
+        <cmp x="2203" y="1479" width="178" height="111" />
+      </word>
+      <upper-contour>
+        <point x="311" y="1378" />
+        <point x="2254" y="1378" />
+      </upper-contour>
+      <lower-contour>
+        <point x="319" y="1600" />
+        <point x="2368" y="1600" />
+      </lower-contour>
+    </line>
+    <line ass="-302" asx="0" asy="1641" character-width="999" dss="-302" dsx="0" dsy="1775" fd0="12776" fd1="2625" fd2="-557" filter-width="3" id="p01-174-05" lbs="-288" lbx="0" lby="1713" segmentation="err" slant="29000" stroke-width="5533" threshold="182" text="me,&quot; said Mr. Copthorne. The verger" ubs="-331" ubx="0" uby="1698">
+      <word id="p01-174-05-00" tag="PP1O" text="me">
+        <cmp x="321" y="1683" width="159" height="34" />
+      </word>
+      <word id="p01-174-05-01" tag="," text=",">
+        <cmp x="506" y="1703" width="20" height="32" />
+        <cmp x="595" y="1646" width="22" height="18" />
+      </word>
+      <word id="p01-174-05-02" tag="**&apos;" text="&quot;">
+        <cmp x="614" y="1653" width="9" height="17" />
+      </word>
+      <word id="p01-174-05-03" tag="VBD" text="said">
+        <cmp x="642" y="1670" width="277" height="57" />
+        <cmp x="841" y="1677" width="13" height="6" />
+      </word>
+      <word id="p01-174-05-04" tag="NPT" text="Mr.">
+        <cmp x="943" y="1648" width="232" height="80" />
+        <cmp x="959" y="1706" width="9" height="4" />
+        <cmp x="1170" y="1715" width="7" height="6" />
+      </word>
+      <word id="p01-174-05-05" tag="NP" text="Copthorne">
+        <cmp x="1226" y="1664" width="552" height="93" />
+      </word>
+      <word id="p01-174-05-06" tag="." text=".">
+        <cmp x="1803" y="1721" width="8" height="6" />
+      </word>
+      <word id="p01-174-05-07" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="1859" y="1672" width="189" height="61" />
+        <cmp x="1883" y="1672" width="67" height="12" />
+        <cmp x="1906" y="1684" width="5" height="3" />
+      </word>
+      <word id="p01-174-05-08" tag="NN" text="verger">
+        <cmp x="2087" y="1701" width="145" height="30" />
+        <cmp x="2167" y="1710" width="200" height="78" />
+      </word>
+      <upper-contour>
+        <point x="319" y="1600" />
+        <point x="2368" y="1600" />
+      </upper-contour>
+      <lower-contour>
+        <point x="319" y="1788" />
+        <point x="2272" y="1788" />
+      </lower-contour>
+    </line>
+    <line ass="-893" asx="0" asy="1816" character-width="999" dss="-893" dsx="0" dsy="1952" fd0="12594" fd1="1673" fd2="-874" filter-width="3" id="p01-174-06" lbs="-929" lbx="0" lby="1870" segmentation="ok" slant="29000" stroke-width="5669" threshold="186" text="led the way in. &quot;The stained glass" ubs="-820" ubx="0" uby="1857">
+      <word id="p01-174-06-00" tag="VBD" text="led">
+        <cmp x="306" y="1825" width="194" height="62" />
+      </word>
+      <word id="p01-174-06-01" tag="ATI" text="the">
+        <cmp x="529" y="1825" width="192" height="74" />
+      </word>
+      <word id="p01-174-06-02" tag="NN" text="way">
+        <cmp x="760" y="1869" width="254" height="98" />
+      </word>
+      <word id="p01-174-06-03" tag="RP" text="in">
+        <cmp x="1029" y="1877" width="128" height="21" />
+        <cmp x="1102" y="1853" width="21" height="8" />
+      </word>
+      <word id="p01-174-06-04" tag="." text=".">
+        <cmp x="1178" y="1885" width="7" height="7" />
+      </word>
+      <word id="p01-174-06-05" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="1223" y="1879" width="42" height="25" />
+      </word>
+      <word id="p01-174-06-06" tag="ATI" text="The">
+        <cmp x="1292" y="1838" width="208" height="69" />
+        <cmp x="1312" y="1845" width="62" height="13" />
+        <cmp x="1411" y="1861" width="6" height="5" />
+        <cmp x="1422" y="1856" width="6" height="3" />
+      </word>
+      <word id="p01-174-06-07" tag="JJ" text="stained">
+        <cmp x="1535" y="1840" width="401" height="74" />
+        <cmp x="1756" y="1855" width="19" height="6" />
+      </word>
+      <word id="p01-174-06-08" tag="NN" text="glass">
+        <cmp x="1908" y="1851" width="363" height="111" />
+      </word>
+      <upper-contour>
+        <point x="319" y="1788" />
+        <point x="2272" y="1788" />
+      </upper-contour>
+      <lower-contour>
+        <point x="305" y="1967" />
+        <point x="2141" y="1967" />
+      </lower-contour>
+    </line>
+    <line ass="-456" asx="0" asy="2006" character-width="999" dss="-456" dsx="0" dsy="2110" fd0="12352" fd1="2449" fd2="-707" filter-width="3" id="p01-174-07" lbs="-441" lbx="0" lby="2068" segmentation="err" slant="29000" stroke-width="5710" threshold="184" text="windows, sir, they date back to" ubs="-486" ubx="0" uby="2049">
+      <word id="p01-174-07-00" tag="NNS" text="windows">
+        <cmp x="307" y="2022" width="475" height="60" />
+        <cmp x="466" y="2026" width="9" height="9" />
+      </word>
+      <word id="p01-174-07-01" tag="," text=",">
+        <cmp x="798" y="2069" width="19" height="23" />
+      </word>
+      <word id="p01-174-07-02" tag="NN" text="sir">
+        <cmp x="875" y="2058" width="156" height="26" />
+      </word>
+      <word id="p01-174-07-03" tag="," text=",">
+        <cmp x="987" y="2041" width="16" height="11" />
+      </word>
+      <word id="p01-174-07-04" tag="PP3AS" text="they">
+        <cmp x="1048" y="2070" width="35" height="32" />
+      </word>
+      <word id="p01-174-07-05" tag="VB" text="date">
+        <cmp x="1118" y="2073" width="3" height="4" />
+        <cmp x="1123" y="2025" width="256" height="97" />
+        <cmp x="1416" y="2022" width="259" height="61" />
+      </word>
+      <word id="p01-174-07-06" tag="RP" text="back">
+        <cmp x="1684" y="2022" width="319" height="67" />
+      </word>
+      <word id="p01-174-07-07" tag="IN" text="to">
+        <cmp x="1992" y="2022" width="148" height="75" />
+      </word>
+      <upper-contour>
+        <point x="305" y="1967" />
+        <point x="2141" y="1967" />
+      </upper-contour>
+      <lower-contour>
+        <point x="316" y="2122" />
+        <point x="1785" y="2122" />
+      </lower-contour>
+    </line>
+    <line ass="-709" asx="0" asy="2160" character-width="999" dss="-709" dsx="0" dsy="2302" fd0="12973" fd1="2532" fd2="-940" filter-width="4" id="p01-174-08" lbs="-435" lbx="0" lby="2251" segmentation="err" slant="41000" stroke-width="5889" threshold="177" text="the fourteenth century.&quot;" ubs="-1257" ubx="0" uby="2219">
+      <word id="p01-174-08-00" tag="ATI" text="the">
+        <cmp x="318" y="2165" width="181" height="93" />
+      </word>
+      <word id="p01-174-08-01" tag="OD" text="fourteenth">
+        <cmp x="582" y="2175" width="635" height="102" />
+      </word>
+      <word id="p01-174-08-02" tag="NN" text="century">
+        <cmp x="1244" y="2210" width="418" height="112" />
+        <cmp x="1491" y="2203" width="27" height="23" />
+        <cmp x="1708" y="2265" width="8" height="8" />
+      </word>
+      <word id="p01-174-08-03" tag="." text=".">
+        <cmp x="1749" y="2193" width="35" height="30" />
+      </word>
+      <word id="p01-174-08-04" tag="**&apos;" text="&quot;" />
+      <upper-contour>
+        <point x="316" y="2122" />
+        <point x="1785" y="2122" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

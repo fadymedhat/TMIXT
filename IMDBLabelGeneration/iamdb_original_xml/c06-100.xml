@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-17" height="3542" id="c06-100" last-modified="2002-07-17" skew="95" status="final" version="3.0_beta" width="2479" writer-id="123">
+  <machine-printed-part>
+    <machine-print-line text="So all ends as you know it will, with the middle-aged romancers respectably wed and" />
+    <machine-print-line text="Master Darin going steady with the delectable Sandra Dee (to whom, I believe, he" />
+    <machine-print-line text="is married in real life). Miss Dee, incidentally, who keeps turning up as the typical" />
+    <machine-print-line text="teenager in all the &amp;quot;good girl&amp;quot; parts (Tuesday Weld gets the &amp;quot;bad girl&amp;quot; ones), is" />
+    <machine-print-line text="becoming quite an accomplished actress." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="145" asx="0" asy="915" character-width="999" dss="145" dsx="0" dsy="996" fd0="14300" fd1="2570" fd2="-655" filter-width="3" id="c06-100-00" lbs="193" lbx="0" lby="971" segmentation="ok" slant="65000" stroke-width="5691" threshold="186" text="So all ends as you know it will, with the" ubs="49" ubx="0" uby="936">
+      <word id="c06-100-00-00" sentence-start="yes" tag="RB" text="So">
+        <cmp x="330" y="922" width="39" height="46" />
+        <cmp x="360" y="936" width="34" height="40" />
+      </word>
+      <word id="c06-100-00-01" tag="ABN" text="all">
+        <cmp x="468" y="923" width="89" height="46" />
+      </word>
+      <word id="c06-100-00-02" tag="VBZ" text="ends">
+        <cmp x="605" y="930" width="69" height="41" />
+        <cmp x="680" y="920" width="76" height="49" />
+      </word>
+      <word id="c06-100-00-03" tag="CS" text="as">
+        <cmp x="830" y="929" width="68" height="39" />
+      </word>
+      <word id="c06-100-00-04" tag="PP2" text="you">
+        <cmp x="938" y="935" width="142" height="57" />
+      </word>
+      <word id="c06-100-00-05" tag="VB" text="know">
+        <cmp x="1116" y="919" width="79" height="45" />
+        <cmp x="1205" y="935" width="87" height="34" />
+      </word>
+      <word id="c06-100-00-06" tag="PP3" text="it">
+        <cmp x="1339" y="917" width="65" height="54" />
+        <cmp x="1362" y="918" width="6" height="6" />
+      </word>
+      <word id="c06-100-00-07" tag="MD" text="will">
+        <cmp x="1444" y="924" width="140" height="44" />
+        <cmp x="1526" y="913" width="8" height="7" />
+      </word>
+      <word id="c06-100-00-08" tag="," text=",">
+        <cmp x="1592" y="963" width="22" height="29" />
+      </word>
+      <word id="c06-100-00-09" tag="IN" text="with">
+        <cmp x="1670" y="919" width="153" height="47" />
+        <cmp x="1747" y="912" width="4" height="4" />
+      </word>
+      <word id="c06-100-00-10" tag="ATI" text="the">
+        <cmp x="1875" y="917" width="105" height="50" />
+      </word>
+      <lower-contour>
+        <point x="341" y="992" />
+        <point x="1980" y="992" />
+      </lower-contour>
+    </line>
+    <line ass="-95" asx="0" asy="1094" character-width="999" dss="-95" dsx="0" dsy="1172" fd0="13888" fd1="2174" fd2="-1098" filter-width="3" id="c06-100-01" lbs="-94" lbx="0" lby="1143" segmentation="ok" slant="64000" stroke-width="5542" threshold="182" text="middle-aged romancers respectably wed and" ubs="-98" ubx="0" uby="1116">
+      <word id="c06-100-01-00" tag="JJ" text="middle-aged">
+        <cmp x="343" y="1097" width="254" height="50" />
+        <cmp x="445" y="1096" width="5" height="5" />
+        <cmp x="636" y="1130" width="30" height="6" />
+        <cmp x="677" y="1117" width="39" height="31" />
+        <cmp x="719" y="1109" width="119" height="65" />
+      </word>
+      <word id="c06-100-01-01" tag="NNS" text="romancers">
+        <cmp x="876" y="1112" width="120" height="38" />
+        <cmp x="1013" y="1116" width="85" height="30" />
+        <cmp x="1111" y="1115" width="95" height="31" />
+      </word>
+      <word id="c06-100-01-02" tag="RB" text="respectably">
+        <cmp x="1288" y="1116" width="77" height="35" />
+        <cmp x="1366" y="1121" width="53" height="44" />
+        <cmp x="1418" y="1118" width="69" height="32" />
+        <cmp x="1500" y="1102" width="158" height="74" />
+      </word>
+      <word id="c06-100-01-03" tag="VBN" text="wed">
+        <cmp x="1709" y="1109" width="144" height="45" />
+      </word>
+      <word id="c06-100-01-04" tag="CC" text="and">
+        <cmp x="1892" y="1119" width="87" height="26" />
+        <cmp x="1984" y="1107" width="58" height="41" />
+      </word>
+      <upper-contour>
+        <point x="341" y="992" />
+        <point x="1980" y="992" />
+      </upper-contour>
+      <lower-contour>
+        <point x="341" y="1176" />
+        <point x="1971" y="1176" />
+      </lower-contour>
+    </line>
+    <line ass="-34" asx="0" asy="1275" character-width="999" dss="-34" dsx="0" dsy="1355" fd0="14263" fd1="2210" fd2="-1203" filter-width="3" id="c06-100-02" lbs="-85" lbx="0" lby="1324" segmentation="err" slant="63000" stroke-width="5637" threshold="182" text="Master Darin going steady with the delectable" ubs="68" ubx="0" uby="1297">
+      <word id="c06-100-02-00" tag="NPT" text="Master">
+        <cmp x="343" y="1276" width="56" height="49" />
+        <cmp x="393" y="1296" width="67" height="31" />
+        <cmp x="460" y="1277" width="76" height="50" />
+      </word>
+      <word id="c06-100-02-01" tag="NP" text="Darin">
+        <cmp x="598" y="1278" width="185" height="56" />
+        <cmp x="730" y="1277" width="4" height="6" />
+      </word>
+      <word id="c06-100-02-02" tag="VBG" text="going">
+        <cmp x="830" y="1294" width="132" height="52" />
+        <cmp x="953" y="1305" width="31" height="51" />
+      </word>
+      <word id="c06-100-02-03" tag="RB" text="steady">
+        <cmp x="1072" y="1291" width="27" height="34" />
+        <cmp x="1106" y="1276" width="41" height="50" />
+        <cmp x="1151" y="1298" width="35" height="31" />
+        <cmp x="1192" y="1285" width="79" height="68" />
+      </word>
+      <word id="c06-100-02-04" tag="IN" text="with">
+        <cmp x="1342" y="1279" width="151" height="47" />
+        <cmp x="1419" y="1277" width="6" height="5" />
+      </word>
+      <word id="c06-100-02-05" tag="ATI" text="the">
+        <cmp x="1542" y="1278" width="49" height="47" />
+        <cmp x="1585" y="1300" width="49" height="27" />
+      </word>
+      <word id="c06-100-02-06" tag="JJ" text="delectable">
+        <cmp x="1674" y="1280" width="296" height="51" />
+      </word>
+      <upper-contour>
+        <point x="341" y="1176" />
+        <point x="1971" y="1176" />
+      </upper-contour>
+      <lower-contour>
+        <point x="346" y="1356" />
+        <point x="1971" y="1356" />
+      </lower-contour>
+    </line>
+    <line ass="-482" asx="0" asy="1444" character-width="999" dss="-482" dsx="0" dsy="1514" fd0="13746" fd1="2410" fd2="-463" filter-width="3" id="c06-100-03" lbs="-502" lbx="0" lby="1499" segmentation="ok" slant="68999" stroke-width="5444" threshold="182" text="Sandra Dee (to whom, I believe, he is married" ubs="-441" ubx="0" uby="1472">
+      <word id="c06-100-03-00" tag="NP" text="Sandra">
+        <cmp x="348" y="1455" width="43" height="44" />
+        <cmp x="380" y="1460" width="201" height="45" />
+      </word>
+      <word id="c06-100-03-01" tag="NP" text="Dee">
+        <cmp x="632" y="1465" width="106" height="42" />
+      </word>
+      <word id="c06-100-03-02" tag="(" text="(">
+        <cmp x="790" y="1459" width="28" height="46" />
+      </word>
+      <word id="c06-100-03-03" tag="IN" text="to">
+        <cmp x="831" y="1457" width="55" height="50" />
+      </word>
+      <word id="c06-100-03-04" tag="WPO" text="whom">
+        <cmp x="937" y="1481" width="50" height="29" />
+        <cmp x="995" y="1466" width="31" height="47" />
+        <cmp x="1035" y="1480" width="89" height="31" />
+      </word>
+      <word id="c06-100-03-05" tag="," text=",">
+        <cmp x="1156" y="1504" width="15" height="20" />
+      </word>
+      <word id="c06-100-03-06" tag="PP1A" text="I">
+        <cmp x="1223" y="1463" width="35" height="49" />
+      </word>
+      <word id="c06-100-03-07" tag="VB" text="believe">
+        <cmp x="1301" y="1457" width="207" height="57" />
+        <cmp x="1411" y="1463" width="5" height="5" />
+      </word>
+      <word id="c06-100-03-08" tag="," text=",">
+        <cmp x="1538" y="1501" width="14" height="22" />
+      </word>
+      <word id="c06-100-03-09" tag="PP3A" text="he">
+        <cmp x="1581" y="1462" width="89" height="51" />
+      </word>
+      <word id="c06-100-03-10" tag="BEZ" text="is">
+        <cmp x="1714" y="1484" width="47" height="30" />
+        <cmp x="1744" y="1459" width="5" height="6" />
+      </word>
+      <word id="c06-100-03-11" tag="VBN" text="married">
+        <cmp x="1803" y="1483" width="55" height="33" />
+        <cmp x="1864" y="1483" width="125" height="33" />
+        <cmp x="1974" y="1467" width="6" height="5" />
+        <cmp x="1993" y="1479" width="57" height="39" />
+      </word>
+      <upper-contour>
+        <point x="346" y="1356" />
+        <point x="1971" y="1356" />
+      </upper-contour>
+      <lower-contour>
+        <point x="346" y="1524" />
+        <point x="2051" y="1524" />
+      </lower-contour>
+    </line>
+    <line ass="-304" asx="0" asy="1624" character-width="999" dss="-304" dsx="0" dsy="1706" fd0="13986" fd1="2688" fd2="-422" filter-width="3" id="c06-100-04" lbs="-335" lbx="0" lby="1683" segmentation="ok" slant="66999" stroke-width="5698" threshold="182" text="in real life). Miss Dee, incidentally, who keeps" ubs="-241" ubx="0" uby="1657">
+      <word id="c06-100-04-00" tag="IN" text="in">
+        <cmp x="334" y="1657" width="75" height="30" />
+        <cmp x="348" y="1627" width="6" height="5" />
+      </word>
+      <word id="c06-100-04-01" tag="JJ" text="real">
+        <cmp x="456" y="1649" width="49" height="39" />
+        <cmp x="505" y="1652" width="70" height="37" />
+      </word>
+      <word id="c06-100-04-02" tag="NN" text="life">
+        <cmp x="634" y="1640" width="101" height="60" />
+        <cmp x="674" y="1638" width="5" height="7" />
+      </word>
+      <word id="c06-100-04-03" tag=")" text=")">
+        <cmp x="756" y="1642" width="37" height="49" />
+      </word>
+      <word id="c06-100-04-04" tag="." text=".">
+        <cmp x="796" y="1676" width="8" height="9" />
+      </word>
+      <word id="c06-100-04-05" sentence-start="yes" tag="NPT" text="Miss">
+        <cmp x="855" y="1641" width="116" height="49" />
+        <cmp x="949" y="1635" width="4" height="3" />
+        <cmp x="971" y="1665" width="34" height="18" />
+      </word>
+      <word id="c06-100-04-06" tag="NP" text="Dee">
+        <cmp x="1055" y="1645" width="108" height="42" />
+      </word>
+      <word id="c06-100-04-07" tag="," text=",">
+        <cmp x="1189" y="1682" width="15" height="20" />
+      </word>
+      <word id="c06-100-04-08" tag="RB" text="incidentally">
+        <cmp x="1238" y="1663" width="62" height="29" />
+        <cmp x="1269" y="1645" width="5" height="4" />
+        <cmp x="1312" y="1655" width="155" height="39" />
+        <cmp x="1352" y="1650" width="6" height="6" />
+        <cmp x="1480" y="1647" width="159" height="69" />
+      </word>
+      <word id="c06-100-04-09" tag="," text=",">
+        <cmp x="1661" y="1677" width="20" height="25" />
+      </word>
+      <word id="c06-100-04-10" tag="WP" text="who">
+        <cmp x="1728" y="1657" width="51" height="32" />
+        <cmp x="1789" y="1642" width="28" height="46" />
+        <cmp x="1828" y="1664" width="27" height="27" />
+      </word>
+      <word id="c06-100-04-11" tag="VBZ" text="keeps">
+        <cmp x="1894" y="1638" width="136" height="70" />
+        <cmp x="2031" y="1662" width="25" height="30" />
+      </word>
+      <upper-contour>
+        <point x="346" y="1524" />
+        <point x="2051" y="1524" />
+      </upper-contour>
+      <lower-contour>
+        <point x="332" y="1716" />
+        <point x="1968" y="1716" />
+      </lower-contour>
+    </line>
+    <line ass="276" asx="0" asy="1817" character-width="999" dss="276" dsx="0" dsy="1896" fd0="13804" fd1="2976" fd2="-466" filter-width="4" id="c06-100-05" lbs="217" lbx="0" lby="1871" segmentation="ok" slant="66999" stroke-width="5797" threshold="182" text="turning up as the typical teenager in all the" ubs="394" ubx="0" uby="1845">
+      <word id="c06-100-05-00" tag="VBG" text="turning">
+        <cmp x="334" y="1815" width="192" height="54" />
+        <cmp x="486" y="1821" width="5" height="4" />
+        <cmp x="530" y="1844" width="27" height="51" />
+      </word>
+      <word id="c06-100-05-01" tag="RP" text="up">
+        <cmp x="601" y="1842" width="20" height="26" />
+        <cmp x="620" y="1839" width="62" height="49" />
+      </word>
+      <word id="c06-100-05-02" tag="IN" text="as">
+        <cmp x="743" y="1836" width="60" height="33" />
+      </word>
+      <word id="c06-100-05-03" tag="ATI" text="the">
+        <cmp x="848" y="1820" width="94" height="49" />
+      </word>
+      <word id="c06-100-05-04" tag="JJ" text="typical">
+        <cmp x="1003" y="1812" width="106" height="76" />
+        <cmp x="1108" y="1832" width="127" height="37" />
+        <cmp x="1131" y="1822" width="6" height="6" />
+      </word>
+      <word id="c06-100-05-05" tag="NN" text="teenager">
+        <cmp x="1290" y="1818" width="114" height="46" />
+        <cmp x="1395" y="1839" width="49" height="29" />
+        <cmp x="1450" y="1835" width="98" height="53" />
+      </word>
+      <word id="c06-100-05-06" tag="IN" text="in">
+        <cmp x="1599" y="1834" width="60" height="31" />
+        <cmp x="1624" y="1811" width="5" height="4" />
+      </word>
+      <word id="c06-100-05-07" tag="ABN" text="all">
+        <cmp x="1705" y="1828" width="100" height="39" />
+      </word>
+      <word id="c06-100-05-08" tag="ATI" text="the">
+        <cmp x="1865" y="1815" width="102" height="52" />
+      </word>
+      <upper-contour>
+        <point x="332" y="1716" />
+        <point x="1968" y="1716" />
+      </upper-contour>
+      <lower-contour>
+        <point x="332" y="1894" />
+        <point x="1968" y="1894" />
+      </lower-contour>
+    </line>
+    <line ass="293" asx="0" asy="1977" character-width="999" dss="293" dsx="0" dsy="2079" fd0="13999" fd1="2959" fd2="-346" filter-width="3" id="c06-100-06" lbs="275" lbx="0" lby="2051" segmentation="ok" slant="64000" stroke-width="5696" threshold="182" text="&amp;quot;good girl&amp;quot; parts (Tuesday Weld gets the &amp;quot;bad girl&amp;quot;" ubs="329" ubx="0" uby="2024">
+      <word id="c06-100-06-00" tag="*&apos;" text="&quot;">
+        <cmp x="334" y="1977" width="18" height="13" />
+      </word>
+      <word id="c06-100-06-01" tag="JJ" text="good">
+        <cmp x="347" y="2012" width="78" height="58" />
+        <cmp x="426" y="2007" width="86" height="40" />
+      </word>
+      <word id="c06-100-06-02" tag="NN" text="girl">
+        <cmp x="549" y="2004" width="126" height="65" />
+        <cmp x="618" y="1994" width="5" height="4" />
+      </word>
+      <word id="c06-100-06-03" tag="**&apos;" text="&quot;">
+        <cmp x="701" y="1983" width="23" height="19" />
+      </word>
+      <word id="c06-100-06-04" tag="NNS" text="parts">
+        <cmp x="763" y="2014" width="61" height="50" />
+        <cmp x="821" y="1999" width="106" height="46" />
+      </word>
+      <word id="c06-100-06-05" tag="(" text="(">
+        <cmp x="970" y="2004" width="25" height="38" />
+      </word>
+      <word id="c06-100-06-06" tag="NR" text="Tuesday">
+        <cmp x="1017" y="2004" width="50" height="38" />
+        <cmp x="1061" y="2014" width="103" height="36" />
+        <cmp x="1172" y="1998" width="52" height="48" />
+        <cmp x="1224" y="2016" width="81" height="54" />
+      </word>
+      <word id="c06-100-06-07" tag="NP" text="Weld">
+        <cmp x="1364" y="2000" width="62" height="44" />
+        <cmp x="1424" y="1998" width="115" height="50" />
+      </word>
+      <word id="c06-100-06-08" tag="VBZ" text="gets">
+        <cmp x="1581" y="2004" width="104" height="61" />
+      </word>
+      <word id="c06-100-06-09" tag="ATI" text="the">
+        <cmp x="1730" y="1998" width="101" height="50" />
+      </word>
+      <word id="c06-100-06-10" tag="*&apos;" text="&quot;">
+        <cmp x="1886" y="1977" width="16" height="19" />
+      </word>
+      <word id="c06-100-06-11" tag="JJ" text="bad">
+        <cmp x="1889" y="1993" width="75" height="49" />
+        <cmp x="1963" y="2000" width="51" height="42" />
+      </word>
+      <word id="c06-100-06-12" tag="NN" text="girl">
+        <cmp x="2047" y="2008" width="119" height="62" />
+        <cmp x="2112" y="1994" width="8" height="9" />
+      </word>
+      <word id="c06-100-06-13" tag="**&apos;" text="&quot;">
+        <cmp x="2182" y="1993" width="17" height="17" />
+      </word>
+      <upper-contour>
+        <point x="332" y="1894" />
+        <point x="1968" y="1894" />
+      </upper-contour>
+      <lower-contour>
+        <point x="354" y="2071" />
+        <point x="2175" y="2071" />
+      </lower-contour>
+    </line>
+    <line ass="-89" asx="0" asy="2169" character-width="999" dss="-89" dsx="0" dsy="2254" fd0="14283" fd1="2231" fd2="-874" filter-width="3" id="c06-100-07" lbs="-66" lbx="0" lby="2225" segmentation="ok" slant="65000" stroke-width="5510" threshold="182" text="ones), is becoming quite an accomplished actress." ubs="-134" ubx="0" uby="2194">
+      <word id="c06-100-07-00" tag="CD1S" text="ones">
+        <cmp x="356" y="2189" width="133" height="38" />
+      </word>
+      <word id="c06-100-07-01" tag=")" text=")">
+        <cmp x="517" y="2179" width="34" height="49" />
+      </word>
+      <word id="c06-100-07-02" tag="," text=",">
+        <cmp x="555" y="2206" width="16" height="23" />
+      </word>
+      <word id="c06-100-07-03" tag="BEZ" text="is">
+        <cmp x="600" y="2196" width="46" height="29" />
+        <cmp x="618" y="2172" width="5" height="7" />
+      </word>
+      <word id="c06-100-07-04" tag="VBG" text="becoming">
+        <cmp x="713" y="2172" width="61" height="59" />
+        <cmp x="777" y="2190" width="29" height="35" />
+        <cmp x="798" y="2190" width="98" height="35" />
+        <cmp x="911" y="2198" width="71" height="25" />
+        <cmp x="921" y="2176" width="5" height="5" />
+        <cmp x="976" y="2199" width="33" height="57" />
+      </word>
+      <word id="c06-100-07-05" tag="ABL" text="quite">
+        <cmp x="1083" y="2184" width="168" height="67" />
+        <cmp x="1188" y="2181" width="6" height="7" />
+      </word>
+      <word id="c06-100-07-06" tag="AT" text="an">
+        <cmp x="1301" y="2197" width="98" height="30" />
+      </word>
+      <word id="c06-100-07-07" tag="JJ" text="accomplished">
+        <cmp x="1457" y="2193" width="40" height="32" />
+        <cmp x="1509" y="2196" width="26" height="31" />
+        <cmp x="1540" y="2192" width="110" height="35" />
+        <cmp x="1648" y="2194" width="50" height="47" />
+        <cmp x="1699" y="2181" width="76" height="44" />
+        <cmp x="1760" y="2172" width="6" height="6" />
+        <cmp x="1781" y="2184" width="65" height="42" />
+        <cmp x="1847" y="2184" width="46" height="39" />
+        <cmp x="1894" y="2204" width="10" height="8" />
+      </word>
+      <word id="c06-100-07-08" tag="NN" text="actress">
+        <cmp x="1946" y="2197" width="83" height="36" />
+        <cmp x="2033" y="2186" width="130" height="49" />
+      </word>
+      <word id="c06-100-07-09" tag="." text=".">
+        <cmp x="2167" y="2225" width="8" height="8" />
+      </word>
+      <upper-contour>
+        <point x="354" y="2071" />
+        <point x="2175" y="2071" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

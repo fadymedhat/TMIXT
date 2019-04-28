@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-16" height="3542" id="d01-098" last-modified="2002-07-17" skew="127" status="final" version="3.0_beta" width="2479" writer-id="180">
+  <machine-printed-part>
+    <machine-print-line text="The edge of this sheet was attached to a wooden dowel and the sheet wound round" />
+    <machine-print-line text="this central pin. The roll made a simple and serviceable book. It was robust - the" />
+    <machine-print-line text="number which have survived the centuries is ample evidence of this - and it was easily" />
+    <machine-print-line text="stored. It had two disadvantages. It was generally a single-sided form of book, and it" />
+    <machine-print-line text="was not an easy form of book in which to find a reference." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="320" asx="0" asy="732" character-width="999" dss="320" dsx="0" dsy="814" fd0="13232" fd1="3087" fd2="-270" filter-width="3" id="d01-098-00" lbs="327" lbx="0" lby="787" segmentation="ok" slant="90000" stroke-width="5229" threshold="182" text="The edge of this sheet was attached to a wooden dowel" ubs="307" ubx="0" uby="762">
+      <word id="d01-098-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="398" y="730" width="104" height="58" />
+      </word>
+      <word id="d01-098-00-01" tag="NN" text="edge">
+        <cmp x="555" y="742" width="127" height="64" />
+      </word>
+      <word id="d01-098-00-02" tag="INO" text="of">
+        <cmp x="734" y="733" width="55" height="78" />
+      </word>
+      <word id="d01-098-00-03" tag="DT" text="this">
+        <cmp x="834" y="729" width="82" height="58" />
+        <cmp x="911" y="752" width="4" height="6" />
+        <cmp x="924" y="760" width="15" height="26" />
+      </word>
+      <word id="d01-098-00-04" tag="NN" text="sheet">
+        <cmp x="977" y="761" width="17" height="28" />
+        <cmp x="1000" y="726" width="74" height="55" />
+        <cmp x="1076" y="732" width="20" height="51" />
+      </word>
+      <word id="d01-098-00-05" tag="BEDZ" text="was">
+        <cmp x="1141" y="757" width="73" height="27" />
+        <cmp x="1224" y="755" width="16" height="30" />
+      </word>
+      <word id="d01-098-00-06" tag="VBN" text="attached">
+        <cmp x="1286" y="761" width="35" height="19" />
+        <cmp x="1320" y="728" width="54" height="57" />
+        <cmp x="1368" y="756" width="26" height="17" />
+        <cmp x="1403" y="726" width="79" height="52" />
+        <cmp x="1484" y="733" width="34" height="49" />
+      </word>
+      <word id="d01-098-00-07" tag="IN" text="to">
+        <cmp x="1556" y="729" width="57" height="54" />
+      </word>
+      <word id="d01-098-00-08" tag="AT" text="a">
+        <cmp x="1644" y="749" width="35" height="28" />
+        <cmp x="1665" y="758" width="4" height="5" />
+      </word>
+      <word id="d01-098-00-09" tag="JJ" text="wooden">
+        <cmp x="1733" y="754" width="79" height="25" />
+        <cmp x="1817" y="755" width="25" height="21" />
+        <cmp x="1846" y="732" width="95" height="45" />
+      </word>
+      <word id="d01-098-00-10" tag="NN" text="dowel">
+        <cmp x="1986" y="731" width="39" height="49" />
+        <cmp x="2023" y="752" width="56" height="30" />
+        <cmp x="2082" y="731" width="33" height="46" />
+      </word>
+      <lower-contour>
+        <point x="396" y="810" />
+        <point x="2116" y="810" />
+      </lower-contour>
+    </line>
+    <line ass="368" asx="0" asy="909" character-width="999" dss="368" dsx="0" dsy="996" fd0="13662" fd1="3493" fd2="-47" filter-width="3" id="d01-098-01" lbs="374" lbx="0" lby="966" segmentation="err" slant="95000" stroke-width="5352" threshold="181" text="and the sheet wound round this central pin. The roll made" ubs="355" ubx="0" uby="941">
+      <word id="d01-098-01-00" tag="CC" text="and">
+        <cmp x="392" y="935" width="84" height="35" />
+        <cmp x="482" y="912" width="34" height="53" />
+      </word>
+      <word id="d01-098-01-01" tag="ATI" text="the">
+        <cmp x="566" y="905" width="75" height="55" />
+      </word>
+      <word id="d01-098-01-02" tag="NN" text="sheet">
+        <cmp x="714" y="927" width="18" height="34" />
+        <cmp x="737" y="906" width="78" height="57" />
+        <cmp x="808" y="912" width="21" height="54" />
+      </word>
+      <word id="d01-098-01-03" tag="VBN" text="wound">
+        <cmp x="903" y="941" width="43" height="25" />
+        <cmp x="952" y="938" width="31" height="27" />
+        <cmp x="987" y="938" width="37" height="23" />
+        <cmp x="1029" y="940" width="35" height="14" />
+        <cmp x="1068" y="909" width="28" height="45" />
+      </word>
+      <word id="d01-098-01-04" tag="IN" text="round">
+        <cmp x="1144" y="930" width="79" height="30" />
+        <cmp x="1226" y="911" width="52" height="46" />
+      </word>
+      <word id="d01-098-01-05" tag="DT" text="this">
+        <cmp x="1310" y="905" width="74" height="59" />
+        <cmp x="1380" y="924" width="5" height="6" />
+        <cmp x="1391" y="936" width="11" height="22" />
+      </word>
+      <word id="d01-098-01-06" tag="JJ" text="central">
+        <cmp x="1440" y="930" width="84" height="35" />
+        <cmp x="1526" y="907" width="57" height="44" />
+        <cmp x="1589" y="905" width="8" height="42" />
+      </word>
+      <word id="d01-098-01-07" tag="NN" text="pin">
+        <cmp x="1639" y="928" width="75" height="59" />
+        <cmp x="1702" y="917" width="5" height="10" />
+        <cmp x="1713" y="936" width="31" height="20" />
+      </word>
+      <word id="d01-098-01-08" tag="." text=".">
+        <cmp x="1775" y="949" width="5" height="7" />
+      </word>
+      <word id="d01-098-01-09" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="1791" y="905" width="92" height="52" />
+      </word>
+      <word id="d01-098-01-10" tag="NN" text="roll">
+        <cmp x="1924" y="933" width="42" height="25" />
+        <cmp x="1970" y="915" width="11" height="38" />
+        <cmp x="1983" y="905" width="13" height="50" />
+      </word>
+      <word id="d01-098-01-11" tag="VBD" text="made">
+        <cmp x="2035" y="930" width="85" height="26" />
+        <cmp x="2122" y="915" width="71" height="39" />
+      </word>
+      <upper-contour>
+        <point x="396" y="810" />
+        <point x="2116" y="810" />
+      </upper-contour>
+      <lower-contour>
+        <point x="390" y="987" />
+        <point x="2166" y="987" />
+      </lower-contour>
+    </line>
+    <line ass="418" asx="0" asy="1092" character-width="999" dss="418" dsx="0" dsy="1173" fd0="13592" fd1="2866" fd2="-219" filter-width="3" id="d01-098-02" lbs="472" lbx="0" lby="1149" segmentation="ok" slant="97000" stroke-width="5354" threshold="180" text="a simple and serviceable book. It was robust - the number" ubs="311" ubx="0" uby="1119">
+      <word id="d01-098-02-00" tag="AT" text="a">
+        <cmp x="392" y="1122" width="28" height="25" />
+      </word>
+      <word id="d01-098-02-01" tag="JJ" text="simple">
+        <cmp x="488" y="1110" width="26" height="36" />
+        <cmp x="519" y="1103" width="9" height="14" />
+        <cmp x="521" y="1126" width="9" height="19" />
+        <cmp x="537" y="1123" width="45" height="20" />
+        <cmp x="585" y="1124" width="20" height="45" />
+        <cmp x="606" y="1091" width="45" height="55" />
+      </word>
+      <word id="d01-098-02-02" tag="CC" text="and">
+        <cmp x="700" y="1093" width="115" height="54" />
+      </word>
+      <word id="d01-098-02-03" tag="JJ" text="serviceable">
+        <cmp x="866" y="1111" width="65" height="35" />
+        <cmp x="944" y="1117" width="42" height="27" />
+        <cmp x="984" y="1100" width="6" height="7" />
+        <cmp x="999" y="1112" width="56" height="32" />
+        <cmp x="1057" y="1117" width="27" height="20" />
+        <cmp x="1087" y="1088" width="30" height="51" />
+        <cmp x="1119" y="1089" width="42" height="46" />
+      </word>
+      <word id="d01-098-02-04" tag="NN" text="book">
+        <cmp x="1208" y="1087" width="63" height="49" />
+        <cmp x="1272" y="1112" width="24" height="19" />
+        <cmp x="1298" y="1087" width="43" height="47" />
+      </word>
+      <word id="d01-098-02-05" tag="." text=".">
+        <cmp x="1359" y="1132" width="6" height="7" />
+      </word>
+      <word id="d01-098-02-06" sentence-start="yes" tag="PP3" text="It">
+        <cmp x="1399" y="1095" width="11" height="43" />
+        <cmp x="1409" y="1092" width="24" height="51" />
+      </word>
+      <word id="d01-098-02-07" tag="BEDZ" text="was">
+        <cmp x="1479" y="1117" width="68" height="24" />
+        <cmp x="1549" y="1113" width="14" height="29" />
+      </word>
+      <word id="d01-098-02-08" tag="JJ" text="robust">
+        <cmp x="1597" y="1112" width="50" height="33" />
+        <cmp x="1651" y="1093" width="26" height="46" />
+        <cmp x="1681" y="1115" width="28" height="19" />
+        <cmp x="1710" y="1109" width="14" height="28" />
+        <cmp x="1731" y="1081" width="16" height="52" />
+      </word>
+      <word id="d01-098-02-09" tag="*-" text="-">
+        <cmp x="1772" y="1109" width="27" height="5" />
+      </word>
+      <word id="d01-098-02-10" tag="ATI" text="the">
+        <cmp x="1814" y="1079" width="79" height="55" />
+      </word>
+      <word id="d01-098-02-11" tag="NN" text="number">
+        <cmp x="1956" y="1112" width="35" height="28" />
+        <cmp x="1992" y="1115" width="34" height="20" />
+        <cmp x="2029" y="1114" width="43" height="20" />
+        <cmp x="2075" y="1087" width="91" height="46" />
+      </word>
+      <upper-contour>
+        <point x="390" y="987" />
+        <point x="2166" y="987" />
+      </upper-contour>
+      <lower-contour>
+        <point x="399" y="1168" />
+        <point x="2108" y="1168" />
+      </lower-contour>
+    </line>
+    <line ass="-38" asx="0" asy="1255" character-width="999" dss="-38" dsx="0" dsy="1335" fd0="13616" fd1="3019" fd2="-345" filter-width="3" id="d01-098-03" lbs="-108" lbx="0" lby="1316" segmentation="ok" slant="91000" stroke-width="5326" threshold="180" text="which have survived the centuries is ample evidence of" ubs="103" ubx="0" uby="1295">
+      <word id="d01-098-03-00" tag="WDT" text="which">
+        <cmp x="401" y="1288" width="38" height="29" />
+        <cmp x="447" y="1260" width="57" height="56" />
+        <cmp x="498" y="1285" width="6" height="4" />
+        <cmp x="512" y="1262" width="59" height="57" />
+      </word>
+      <word id="d01-098-03-01" tag="HV" text="have">
+        <cmp x="621" y="1270" width="62" height="58" />
+        <cmp x="688" y="1294" width="49" height="29" />
+      </word>
+      <word id="d01-098-03-02" tag="VBN" text="survived">
+        <cmp x="790" y="1282" width="23" height="38" />
+        <cmp x="815" y="1292" width="30" height="24" />
+        <cmp x="850" y="1292" width="19" height="26" />
+        <cmp x="877" y="1290" width="37" height="29" />
+        <cmp x="907" y="1274" width="4" height="5" />
+        <cmp x="917" y="1288" width="51" height="29" />
+        <cmp x="972" y="1265" width="33" height="52" />
+      </word>
+      <word id="d01-098-03-03" tag="ATI" text="the">
+        <cmp x="1052" y="1272" width="79" height="55" />
+      </word>
+      <word id="d01-098-03-04" tag="NNS" text="centuries">
+        <cmp x="1178" y="1285" width="89" height="35" />
+        <cmp x="1267" y="1261" width="23" height="62" />
+        <cmp x="1295" y="1290" width="25" height="24" />
+        <cmp x="1326" y="1295" width="24" height="17" />
+        <cmp x="1343" y="1269" width="7" height="6" />
+        <cmp x="1362" y="1288" width="44" height="28" />
+      </word>
+      <word id="d01-098-03-05" tag="BEZ" text="is">
+        <cmp x="1466" y="1274" width="8" height="10" />
+        <cmp x="1469" y="1297" width="8" height="26" />
+        <cmp x="1485" y="1289" width="14" height="28" />
+      </word>
+      <word id="d01-098-03-06" tag="JJ" text="ample">
+        <cmp x="1548" y="1290" width="86" height="28" />
+        <cmp x="1645" y="1295" width="19" height="42" />
+        <cmp x="1670" y="1268" width="44" height="45" />
+      </word>
+      <word id="d01-098-03-07" tag="NN" text="evidence">
+        <cmp x="1757" y="1290" width="36" height="31" />
+        <cmp x="1797" y="1294" width="42" height="27" />
+        <cmp x="1836" y="1279" width="5" height="8" />
+        <cmp x="1855" y="1276" width="82" height="39" />
+        <cmp x="1949" y="1291" width="60" height="25" />
+      </word>
+      <word id="d01-098-03-08" tag="INO" text="of">
+        <cmp x="2049" y="1257" width="59" height="80" />
+      </word>
+      <upper-contour>
+        <point x="399" y="1168" />
+        <point x="2108" y="1168" />
+      </upper-contour>
+      <lower-contour>
+        <point x="399" y="1338" />
+        <point x="2108" y="1338" />
+      </lower-contour>
+    </line>
+    <line ass="319" asx="0" asy="1442" character-width="999" dss="319" dsx="0" dsy="1535" fd0="13560" fd1="3161" fd2="-202" filter-width="3" id="d01-098-04" lbs="344" lbx="0" lby="1503" segmentation="ok" slant="90000" stroke-width="5345" threshold="178" text="this - and it was easily stored. It had two disadvantages. It" ubs="270" ubx="0" uby="1477">
+      <word id="d01-098-04-00" tag="DT" text="this">
+        <cmp x="380" y="1448" width="74" height="57" />
+        <cmp x="455" y="1463" width="7" height="9" />
+        <cmp x="462" y="1473" width="12" height="27" />
+      </word>
+      <word id="d01-098-04-01" tag="*-" text="-">
+        <cmp x="505" y="1479" width="21" height="5" />
+      </word>
+      <word id="d01-098-04-02" tag="CC" text="and">
+        <cmp x="558" y="1445" width="94" height="56" />
+      </word>
+      <word id="d01-098-04-03" tag="PP3" text="it">
+        <cmp x="711" y="1473" width="9" height="26" />
+        <cmp x="713" y="1453" width="9" height="5" />
+        <cmp x="731" y="1437" width="20" height="57" />
+      </word>
+      <word id="d01-098-04-04" tag="BEDZ" text="was">
+        <cmp x="805" y="1469" width="39" height="32" />
+        <cmp x="848" y="1474" width="24" height="22" />
+        <cmp x="875" y="1470" width="14" height="31" />
+      </word>
+      <word id="d01-098-04-05" tag="RB" text="easily">
+        <cmp x="928" y="1470" width="57" height="33" />
+        <cmp x="988" y="1470" width="19" height="28" />
+        <cmp x="1018" y="1476" width="8" height="22" />
+        <cmp x="1020" y="1454" width="6" height="9" />
+        <cmp x="1036" y="1451" width="11" height="51" />
+        <cmp x="1046" y="1479" width="30" height="48" />
+      </word>
+      <word id="d01-098-04-06" tag="VBN" text="stored">
+        <cmp x="1118" y="1465" width="22" height="39" />
+        <cmp x="1146" y="1446" width="43" height="59" />
+        <cmp x="1195" y="1476" width="37" height="23" />
+        <cmp x="1233" y="1445" width="30" height="52" />
+      </word>
+      <word id="d01-098-04-07" tag="." text=".">
+        <cmp x="1282" y="1489" width="5" height="4" />
+      </word>
+      <word id="d01-098-04-08" sentence-start="yes" tag="PP3" text="It">
+        <cmp x="1317" y="1453" width="8" height="38" />
+        <cmp x="1333" y="1448" width="26" height="56" />
+      </word>
+      <word id="d01-098-04-09" tag="HVD" text="had">
+        <cmp x="1399" y="1437" width="89" height="61" />
+      </word>
+      <word id="d01-098-04-10" tag="CD" text="two">
+        <cmp x="1532" y="1443" width="72" height="52" />
+        <cmp x="1606" y="1471" width="25" height="23" />
+      </word>
+      <word id="d01-098-04-11" tag="NNS" text="disadvantages">
+        <cmp x="1670" y="1446" width="59" height="57" />
+        <cmp x="1720" y="1467" width="8" height="12" />
+        <cmp x="1732" y="1473" width="16" height="30" />
+        <cmp x="1760" y="1478" width="29" height="23" />
+        <cmp x="1795" y="1446" width="36" height="52" />
+        <cmp x="1840" y="1465" width="33" height="25" />
+        <cmp x="1878" y="1467" width="67" height="21" />
+        <cmp x="1951" y="1444" width="20" height="43" />
+        <cmp x="1979" y="1463" width="106" height="62" />
+        <cmp x="1988" y="1463" width="6" height="4" />
+      </word>
+      <word id="d01-098-04-12" tag="." text=".">
+        <cmp x="2103" y="1495" width="5" height="7" />
+      </word>
+      <word id="d01-098-04-13" sentence-start="yes" tag="PP3" text="It">
+        <cmp x="2141" y="1437" width="7" height="56" />
+        <cmp x="2156" y="1442" width="22" height="45" />
+      </word>
+      <upper-contour>
+        <point x="399" y="1338" />
+        <point x="2108" y="1338" />
+      </upper-contour>
+      <lower-contour>
+        <point x="392" y="1527" />
+        <point x="2179" y="1527" />
+      </lower-contour>
+    </line>
+    <line ass="31" asx="0" asy="1618" character-width="999" dss="31" dsx="0" dsy="1713" fd0="13265" fd1="3396" fd2="141" filter-width="3" id="d01-098-05" lbs="48" lbx="0" lby="1677" segmentation="ok" slant="91000" stroke-width="5342" threshold="178" text="was generally a single-sided form of book, and it was not" ubs="-1" ubx="0" uby="1649">
+      <word id="d01-098-05-00" tag="BEDZ" text="was">
+        <cmp x="394" y="1650" width="68" height="31" />
+        <cmp x="466" y="1646" width="17" height="30" />
+      </word>
+      <word id="d01-098-05-01" tag="RB" text="generally">
+        <cmp x="530" y="1646" width="117" height="68" />
+        <cmp x="659" y="1653" width="45" height="24" />
+        <cmp x="708" y="1628" width="10" height="42" />
+        <cmp x="721" y="1629" width="10" height="39" />
+        <cmp x="737" y="1647" width="35" height="59" />
+      </word>
+      <word id="d01-098-05-02" tag="AT" text="a">
+        <cmp x="823" y="1644" width="33" height="29" />
+      </word>
+      <word id="d01-098-05-03" tag="JJ" text="single-sided">
+        <cmp x="916" y="1643" width="29" height="34" />
+        <cmp x="947" y="1662" width="8" height="14" />
+        <cmp x="952" y="1635" width="7" height="12" />
+        <cmp x="964" y="1655" width="30" height="14" />
+        <cmp x="991" y="1620" width="72" height="88" />
+        <cmp x="1074" y="1658" width="24" height="8" />
+        <cmp x="1103" y="1645" width="17" height="37" />
+        <cmp x="1129" y="1639" width="7" height="13" />
+        <cmp x="1130" y="1661" width="8" height="16" />
+        <cmp x="1144" y="1636" width="53" height="38" />
+        <cmp x="1199" y="1624" width="27" height="54" />
+      </word>
+      <word id="d01-098-05-04" tag="NN" text="form">
+        <cmp x="1272" y="1623" width="45" height="72" />
+        <cmp x="1324" y="1654" width="16" height="25" />
+        <cmp x="1349" y="1653" width="40" height="19" />
+      </word>
+      <word id="d01-098-05-05" tag="INO" text="of">
+        <cmp x="1430" y="1620" width="55" height="77" />
+      </word>
+      <word id="d01-098-05-06" tag="NN" text="book">
+        <cmp x="1538" y="1622" width="55" height="53" />
+        <cmp x="1596" y="1654" width="23" height="20" />
+        <cmp x="1621" y="1631" width="42" height="45" />
+      </word>
+      <word id="d01-098-05-07" tag="," text=",">
+        <cmp x="1689" y="1673" width="10" height="25" />
+      </word>
+      <word id="d01-098-05-08" tag="CC" text="and">
+        <cmp x="1728" y="1653" width="68" height="25" />
+        <cmp x="1799" y="1631" width="22" height="44" />
+      </word>
+      <word id="d01-098-05-09" tag="PP3" text="it">
+        <cmp x="1877" y="1654" width="8" height="23" />
+        <cmp x="1880" y="1642" width="4" height="5" />
+        <cmp x="1901" y="1619" width="13" height="47" />
+      </word>
+      <word id="d01-098-05-10" tag="BEDZ" text="was">
+        <cmp x="1962" y="1645" width="66" height="32" />
+        <cmp x="2037" y="1644" width="16" height="29" />
+      </word>
+      <word id="d01-098-05-11" tag="XNOT" text="not">
+        <cmp x="2099" y="1646" width="53" height="25" />
+        <cmp x="2158" y="1618" width="27" height="59" />
+      </word>
+      <upper-contour>
+        <point x="392" y="1527" />
+        <point x="2179" y="1527" />
+      </upper-contour>
+      <lower-contour>
+        <point x="429" y="1713" />
+        <point x="2019" y="1713" />
+      </lower-contour>
+    </line>
+    <line ass="453" asx="0" asy="1801" character-width="999" dss="453" dsx="0" dsy="1897" fd0="13568" fd1="3853" fd2="608" filter-width="3" id="d01-098-06" lbs="566" lbx="0" lby="1867" segmentation="err" slant="92999" stroke-width="5468" threshold="179" text="an easy form of book in which to find a" ubs="228" ubx="0" uby="1839">
+      <word id="d01-098-06-00" tag="AT" text="an">
+        <cmp x="431" y="1835" width="81" height="36" />
+      </word>
+      <word id="d01-098-06-01" tag="JJ" text="easy">
+        <cmp x="576" y="1823" width="80" height="33" />
+        <cmp x="656" y="1836" width="36" height="56" />
+      </word>
+      <word id="d01-098-06-02" tag="NN" text="form">
+        <cmp x="739" y="1797" width="46" height="78" />
+        <cmp x="789" y="1832" width="14" height="25" />
+        <cmp x="809" y="1837" width="46" height="21" />
+      </word>
+      <word id="d01-098-06-03" tag="INO" text="of">
+        <cmp x="910" y="1797" width="63" height="87" />
+      </word>
+      <word id="d01-098-06-04" tag="NN" text="book">
+        <cmp x="1037" y="1808" width="54" height="47" />
+        <cmp x="1094" y="1834" width="25" height="20" />
+        <cmp x="1126" y="1801" width="39" height="51" />
+      </word>
+      <word id="d01-098-06-05" tag="IN" text="in">
+        <cmp x="1252" y="1811" width="8" height="9" />
+        <cmp x="1253" y="1832" width="11" height="26" />
+        <cmp x="1269" y="1834" width="40" height="16" />
+      </word>
+      <word id="d01-098-06-06" tag="WDT" text="which">
+        <cmp x="1366" y="1832" width="43" height="27" />
+        <cmp x="1412" y="1801" width="55" height="54" />
+        <cmp x="1464" y="1813" width="6" height="5" />
+        <cmp x="1476" y="1798" width="69" height="53" />
+      </word>
+      <word id="d01-098-06-07" tag="TO" text="to">
+        <cmp x="1640" y="1842" width="13" height="6" />
+        <cmp x="1692" y="1804" width="54" height="50" />
+      </word>
+      <word id="d01-098-06-08" tag="VB" text="find">
+        <cmp x="1799" y="1806" width="42" height="66" />
+        <cmp x="1837" y="1827" width="5" height="5" />
+        <cmp x="1847" y="1840" width="34" height="15" />
+        <cmp x="1882" y="1799" width="30" height="56" />
+      </word>
+      <word id="d01-098-06-09" tag="AT" text="a">
+        <cmp x="1988" y="1833" width="30" height="24" />
+      </word>
+      <upper-contour>
+        <point x="429" y="1713" />
+        <point x="2019" y="1713" />
+      </upper-contour>
+      <lower-contour>
+        <point x="435" y="1891" />
+        <point x="703" y="1891" />
+      </lower-contour>
+    </line>
+    <line ass="4487" asx="0" asy="2017" character-width="999" dss="4487" dsx="0" dsy="2097" fd0="12529" fd1="2328" fd2="-723" filter-width="3" id="d01-098-07" lbs="3702" lbx="0" lby="2069" segmentation="err" slant="95000" stroke-width="5478" threshold="177" text="reference." ubs="6057" ubx="0" uby="2072">
+      <word id="d01-098-07-00" tag="NN" text="reference">
+        <cmp x="437" y="2015" width="45" height="35" />
+        <cmp x="494" y="1979" width="52" height="82" />
+        <cmp x="554" y="2006" width="79" height="28" />
+      </word>
+      <word id="d01-098-07-01" tag="." text=".">
+        <cmp x="636" y="2003" width="66" height="31" />
+      </word>
+      <upper-contour>
+        <point x="435" y="1891" />
+        <point x="703" y="1891" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

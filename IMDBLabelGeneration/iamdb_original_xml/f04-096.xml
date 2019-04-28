@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-18" height="3542" id="f04-096" last-modified="2002-07-17" skew="0" status="final" version="3.0_beta" width="2479" writer-id="193">
+  <machine-printed-part>
+    <machine-print-line text="A guard reported that at East Croydon he had seen what was accepted as the same" />
+    <machine-print-line text="couple sitting close together in a first-class compartment of the train from London" />
+    <machine-print-line text="Bridge of which he was in charge. The two could have joined this train by taking" />
+    <machine-print-line text="one from Victoria and changing at East Croydon. He also believed that they had" />
+    <machine-print-line text="still been together at South Croydon, and he remembered that when they reached" />
+    <machine-print-line text="Redhill, after passing through Merstham Tunnel, a man who might have been the" />
+    <machine-print-line text="companion of the girl had left the train." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-163" asx="0" asy="804" character-width="999" dss="-163" dsx="0" dsy="916" fd0="12950" fd1="2393" fd2="-647" filter-width="4" id="f04-096-00" lbs="-204" lbx="0" lby="873" segmentation="ok" slant="90000" stroke-width="5792" threshold="176" text="A guard reported that at East Croydon" ubs="-81" ubx="0" uby="842">
+      <word id="f04-096-00-00" sentence-start="yes" tag="AT" text="A">
+        <cmp x="379" y="823" width="44" height="59" />
+      </word>
+      <word id="f04-096-00-01" tag="NN" text="guard">
+        <cmp x="460" y="848" width="71" height="71" />
+        <cmp x="534" y="847" width="73" height="37" />
+        <cmp x="605" y="807" width="37" height="67" />
+      </word>
+      <word id="f04-096-00-02" tag="VBD" text="reported">
+        <cmp x="717" y="810" width="297" height="97" />
+        <cmp x="829" y="844" width="5" height="7" />
+      </word>
+      <word id="f04-096-00-03" tag="CS" text="that">
+        <cmp x="1071" y="808" width="164" height="70" />
+      </word>
+      <word id="f04-096-00-04" tag="IN" text="at">
+        <cmp x="1293" y="816" width="94" height="65" />
+      </word>
+      <word id="f04-096-00-05" tag="NP" text="East">
+        <cmp x="1446" y="817" width="156" height="70" />
+      </word>
+      <word id="f04-096-00-06" tag="NP" text="Croydon">
+        <cmp x="1641" y="819" width="167" height="93" />
+        <cmp x="1808" y="824" width="141" height="59" />
+      </word>
+      <lower-contour>
+        <point x="399" y="919" />
+        <point x="1950" y="919" />
+      </lower-contour>
+    </line>
+    <line ass="104" asx="0" asy="993" character-width="999" dss="104" dsx="0" dsy="1087" fd0="12246" fd1="2041" fd2="-922" filter-width="4" id="f04-096-01" lbs="121" lbx="0" lby="1064" segmentation="ok" slant="85000" stroke-width="6621" threshold="182" text="he had seen what was accepted as the" ubs="71" ubx="0" uby="1029">
+      <word id="f04-096-01-00" tag="PP3A" text="he">
+        <cmp x="401" y="1000" width="114" height="66" />
+      </word>
+      <word id="f04-096-01-01" tag="HVD" text="had">
+        <cmp x="571" y="995" width="142" height="72" />
+      </word>
+      <word id="f04-096-01-02" tag="VBN" text="seen">
+        <cmp x="756" y="1020" width="163" height="47" />
+      </word>
+      <word id="f04-096-01-03" tag="WDT" text="what">
+        <cmp x="977" y="991" width="218" height="73" />
+      </word>
+      <word id="f04-096-01-04" tag="BEDZ" text="was">
+        <cmp x="1232" y="1025" width="127" height="45" />
+      </word>
+      <word id="f04-096-01-05" tag="VBN" text="accepted">
+        <cmp x="1430" y="996" width="320" height="90" />
+      </word>
+      <word id="f04-096-01-06" tag="IN" text="as">
+        <cmp x="1801" y="1028" width="96" height="45" />
+      </word>
+      <word id="f04-096-01-07" tag="ATI" text="the">
+        <cmp x="1931" y="995" width="107" height="66" />
+      </word>
+      <upper-contour>
+        <point x="399" y="919" />
+        <point x="1950" y="919" />
+      </upper-contour>
+      <lower-contour>
+        <point x="406" y="1086" />
+        <point x="2015" y="1086" />
+      </lower-contour>
+    </line>
+    <line ass="324" asx="0" asy="1169" character-width="999" dss="324" dsx="0" dsy="1297" fd0="12424" fd1="1982" fd2="-963" filter-width="4" id="f04-096-02" lbs="398" lbx="0" lby="1248" segmentation="ok" slant="87999" stroke-width="6574" threshold="178" text="same couple sitting close together in" ubs="176" ubx="0" uby="1207">
+      <word id="f04-096-02-00" tag="AP" text="same">
+        <cmp x="408" y="1195" width="205" height="52" />
+      </word>
+      <word id="f04-096-02-01" tag="NN" text="couple">
+        <cmp x="670" y="1165" width="286" height="115" />
+      </word>
+      <word id="f04-096-02-02" tag="VBG" text="sitting">
+        <cmp x="1004" y="1171" width="233" height="121" />
+        <cmp x="1065" y="1176" width="7" height="13" />
+        <cmp x="1146" y="1175" width="10" height="17" />
+      </word>
+      <word id="f04-096-02-03" tag="RB" text="close">
+        <cmp x="1291" y="1174" width="195" height="73" />
+      </word>
+      <word id="f04-096-02-04" tag="RB" text="together">
+        <cmp x="1557" y="1165" width="325" height="117" />
+      </word>
+      <word id="f04-096-02-05" tag="IN" text="in">
+        <cmp x="1941" y="1209" width="73" height="38" />
+        <cmp x="1945" y="1186" width="4" height="6" />
+      </word>
+      <upper-contour>
+        <point x="406" y="1086" />
+        <point x="2015" y="1086" />
+      </upper-contour>
+      <lower-contour>
+        <point x="406" y="1292" />
+        <point x="1875" y="1292" />
+      </lower-contour>
+    </line>
+    <line ass="-361" asx="0" asy="1337" character-width="999" dss="-361" dsx="0" dsy="1440" fd0="12371" fd1="2303" fd2="-711" filter-width="4" id="f04-096-03" lbs="-376" lbx="0" lby="1410" segmentation="ok" slant="90000" stroke-width="6390" threshold="177" text="a first-class compartment of the" ubs="-331" ubx="0" uby="1378">
+      <word id="f04-096-03-00" tag="AT" text="a">
+        <cmp x="396" y="1385" width="43" height="39" />
+      </word>
+      <word id="f04-096-03-01" tag="JJ" text="first-class">
+        <cmp x="490" y="1347" width="173" height="77" />
+        <cmp x="582" y="1354" width="11" height="13" />
+        <cmp x="674" y="1391" width="30" height="8" />
+        <cmp x="713" y="1348" width="200" height="69" />
+      </word>
+      <word id="f04-096-03-02" tag="NN" text="compartment">
+        <cmp x="985" y="1347" width="569" height="102" />
+      </word>
+      <word id="f04-096-03-03" tag="INO" text="of">
+        <cmp x="1613" y="1352" width="106" height="86" />
+      </word>
+      <word id="f04-096-03-04" tag="ATI" text="the">
+        <cmp x="1758" y="1357" width="116" height="70" />
+      </word>
+      <upper-contour>
+        <point x="406" y="1292" />
+        <point x="1875" y="1292" />
+      </upper-contour>
+      <lower-contour>
+        <point x="403" y="1449" />
+        <point x="1875" y="1449" />
+      </lower-contour>
+    </line>
+    <line ass="104" asx="0" asy="1523" character-width="999" dss="104" dsx="0" dsy="1648" fd0="13064" fd1="3393" fd2="-65" filter-width="4" id="f04-096-04" lbs="98" lbx="0" lby="1603" segmentation="ok" slant="89000" stroke-width="5890" threshold="174" text="train from London Bridge of which" ubs="115" ubx="0" uby="1576">
+      <word id="f04-096-04-00" tag="NN" text="train">
+        <cmp x="405" y="1523" width="213" height="84" />
+        <cmp x="546" y="1533" width="5" height="12" />
+      </word>
+      <word id="f04-096-04-01" tag="IN" text="from">
+        <cmp x="705" y="1532" width="188" height="81" />
+      </word>
+      <word id="f04-096-04-02" tag="NP" text="London">
+        <cmp x="939" y="1529" width="298" height="83" />
+      </word>
+      <word id="f04-096-04-03" tag="NPL" text="Bridge">
+        <cmp x="1310" y="1535" width="272" height="112" />
+        <cmp x="1418" y="1526" width="8" height="14" />
+      </word>
+      <word id="f04-096-04-04" tag="INO" text="of">
+        <cmp x="1642" y="1530" width="90" height="84" />
+      </word>
+      <word id="f04-096-04-05" tag="WDT" text="which">
+        <cmp x="1790" y="1531" width="128" height="71" />
+        <cmp x="1928" y="1546" width="6" height="13" />
+        <cmp x="1935" y="1539" width="88" height="62" />
+      </word>
+      <upper-contour>
+        <point x="403" y="1449" />
+        <point x="1875" y="1449" />
+      </upper-contour>
+      <lower-contour>
+        <point x="417" y="1647" />
+        <point x="1988" y="1647" />
+      </lower-contour>
+    </line>
+    <line ass="-615" asx="0" asy="1688" character-width="999" dss="-615" dsx="0" dsy="1805" fd0="13399" fd1="2503" fd2="-399" filter-width="4" id="f04-096-05" lbs="-644" lbx="0" lby="1769" segmentation="ok" slant="90000" stroke-width="6123" threshold="177" text="he was in charge. The two could" ubs="-555" ubx="0" uby="1738">
+      <word id="f04-096-05-00" tag="PP3A" text="he">
+        <cmp x="419" y="1714" width="114" height="62" />
+      </word>
+      <word id="f04-096-05-01" tag="BEDZ" text="was">
+        <cmp x="564" y="1748" width="63" height="32" />
+        <cmp x="626" y="1748" width="47" height="34" />
+        <cmp x="674" y="1737" width="32" height="48" />
+      </word>
+      <word id="f04-096-05-02" tag="IN" text="in">
+        <cmp x="778" y="1747" width="115" height="37" />
+        <cmp x="832" y="1699" width="9" height="6" />
+      </word>
+      <word id="f04-096-05-03" tag="NN" text="charge">
+        <cmp x="941" y="1699" width="284" height="120" />
+      </word>
+      <word id="f04-096-05-04" tag="." text=".">
+        <cmp x="1257" y="1771" width="13" height="5" />
+      </word>
+      <word id="f04-096-05-05" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="1309" y="1712" width="184" height="84" />
+      </word>
+      <word id="f04-096-05-06" tag="CD" text="two">
+        <cmp x="1537" y="1713" width="154" height="80" />
+      </word>
+      <word id="f04-096-05-07" tag="MD" text="could">
+        <cmp x="1740" y="1717" width="247" height="74" />
+      </word>
+      <upper-contour>
+        <point x="417" y="1647" />
+        <point x="1988" y="1647" />
+      </upper-contour>
+      <lower-contour>
+        <point x="417" y="1819" />
+        <point x="1955" y="1819" />
+      </lower-contour>
+    </line>
+    <line ass="-457" asx="0" asy="1872" character-width="999" dss="-457" dsx="0" dsy="1987" fd0="12967" fd1="2844" fd2="-151" filter-width="4" id="f04-096-06" lbs="-637" lbx="0" lby="1940" segmentation="ok" slant="90000" stroke-width="6583" threshold="177" text="have joined this train by taking" ubs="-99" ubx="0" uby="1920">
+      <word id="f04-096-06-00" tag="HV" text="have">
+        <cmp x="408" y="1885" width="209" height="76" />
+      </word>
+      <word id="f04-096-06-01" tag="VBN" text="joined">
+        <cmp x="675" y="1883" width="272" height="111" />
+        <cmp x="696" y="1899" width="8" height="13" />
+        <cmp x="790" y="1903" width="8" height="15" />
+      </word>
+      <word id="f04-096-06-02" tag="DT" text="this">
+        <cmp x="1011" y="1892" width="155" height="83" />
+        <cmp x="1133" y="1883" width="8" height="21" />
+      </word>
+      <word id="f04-096-06-03" tag="NN" text="train">
+        <cmp x="1228" y="1896" width="234" height="65" />
+        <cmp x="1390" y="1889" width="7" height="20" />
+      </word>
+      <word id="f04-096-06-04" tag="IN" text="by">
+        <cmp x="1510" y="1896" width="45" height="73" />
+        <cmp x="1559" y="1927" width="32" height="73" />
+      </word>
+      <word id="f04-096-06-05" tag="VBG" text="taking">
+        <cmp x="1679" y="1887" width="172" height="73" />
+        <cmp x="1853" y="1890" width="8" height="13" />
+        <cmp x="1859" y="1927" width="95" height="71" />
+      </word>
+      <upper-contour>
+        <point x="417" y="1819" />
+        <point x="1955" y="1819" />
+      </upper-contour>
+      <lower-contour>
+        <point x="409" y="2001" />
+        <point x="1861" y="2001" />
+      </lower-contour>
+    </line>
+    <line ass="-20" asx="0" asy="2024" character-width="999" dss="-20" dsx="0" dsy="2197" fd0="12623" fd1="2392" fd2="-590" filter-width="4" id="f04-096-07" lbs="-126" lbx="0" lby="2130" segmentation="ok" slant="82000" stroke-width="6888" threshold="176" text="one from Victoria and changing" ubs="193" ubx="0" uby="2106">
+      <word id="f04-096-07-00" tag="CD1" text="one">
+        <cmp x="411" y="2097" width="159" height="42" />
+      </word>
+      <word id="f04-096-07-01" tag="IN" text="from">
+        <cmp x="629" y="2063" width="199" height="79" />
+      </word>
+      <word id="f04-096-07-02" tag="NP" text="Victoria">
+        <cmp x="901" y="2063" width="58" height="69" />
+        <cmp x="931" y="2058" width="299" height="85" />
+        <cmp x="966" y="2084" width="13" height="16" />
+        <cmp x="1166" y="2026" width="11" height="27" />
+      </word>
+      <word id="f04-096-07-03" tag="CC" text="and">
+        <cmp x="1293" y="2073" width="139" height="73" />
+      </word>
+      <word id="f04-096-07-04" tag="VBG" text="changing">
+        <cmp x="1474" y="2064" width="386" height="135" />
+        <cmp x="1746" y="2071" width="7" height="5" />
+      </word>
+      <upper-contour>
+        <point x="409" y="2001" />
+        <point x="1861" y="2001" />
+      </upper-contour>
+      <lower-contour>
+        <point x="409" y="2199" />
+        <point x="1861" y="2199" />
+      </lower-contour>
+    </line>
+    <line ass="-57" asx="0" asy="2232" character-width="999" dss="-57" dsx="0" dsy="2344" fd0="13112" fd1="2294" fd2="-644" filter-width="4" id="f04-096-08" lbs="-64" lbx="0" lby="2312" segmentation="ok" slant="63000" stroke-width="6816" threshold="173" text="at East Croydon. He also believed" ubs="-44" ubx="0" uby="2277">
+      <word id="f04-096-08-00" tag="IN" text="at">
+        <cmp x="400" y="2236" width="103" height="79" />
+      </word>
+      <word id="f04-096-08-01" tag="NP" text="East">
+        <cmp x="584" y="2240" width="189" height="86" />
+      </word>
+      <word id="f04-096-08-02" tag="NP" text="Croydon">
+        <cmp x="836" y="2240" width="374" height="106" />
+      </word>
+      <word id="f04-096-08-03" tag="." text=".">
+        <cmp x="1234" y="2308" width="15" height="10" />
+      </word>
+      <word id="f04-096-08-04" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="1273" y="2244" width="122" height="87" />
+      </word>
+      <word id="f04-096-08-05" tag="RB" text="also">
+        <cmp x="1427" y="2250" width="180" height="66" />
+      </word>
+      <word id="f04-096-08-06" tag="VBD" text="believed">
+        <cmp x="1675" y="2234" width="345" height="96" />
+        <cmp x="1841" y="2239" width="7" height="10" />
+      </word>
+      <upper-contour>
+        <point x="409" y="2199" />
+        <point x="1861" y="2199" />
+      </upper-contour>
+      <lower-contour>
+        <point x="413" y="2346" />
+        <point x="1998" y="2346" />
+      </lower-contour>
+    </line>
+    <line ass="-323" asx="0" asy="2403" character-width="999" dss="-323" dsx="0" dsy="2543" fd0="12570" fd1="2126" fd2="-943" filter-width="4" id="f04-096-09" lbs="-273" lbx="0" lby="2482" segmentation="ok" slant="81000" stroke-width="6767" threshold="173" text="that they had still been together at" ubs="-424" ubx="0" uby="2442">
+      <word id="f04-096-09-00" tag="CS" text="that">
+        <cmp x="415" y="2413" width="199" height="78" />
+      </word>
+      <word id="f04-096-09-01" tag="PP3AS" text="they">
+        <cmp x="671" y="2420" width="148" height="106" />
+      </word>
+      <word id="f04-096-09-02" tag="HVD" text="had">
+        <cmp x="858" y="2420" width="160" height="72" />
+      </word>
+      <word id="f04-096-09-03" tag="RB" text="still">
+        <cmp x="1052" y="2450" width="27" height="42" />
+        <cmp x="1084" y="2411" width="153" height="76" />
+        <cmp x="1151" y="2411" width="9" height="10" />
+      </word>
+      <word id="f04-096-09-04" tag="BEN" text="been">
+        <cmp x="1281" y="2431" width="167" height="68" />
+      </word>
+      <word id="f04-096-09-05" tag="RB" text="together">
+        <cmp x="1514" y="2421" width="320" height="132" />
+      </word>
+      <word id="f04-096-09-06" tag="IN" text="at">
+        <cmp x="1884" y="2424" width="113" height="77" />
+      </word>
+      <upper-contour>
+        <point x="413" y="2346" />
+        <point x="1998" y="2346" />
+      </upper-contour>
+      <lower-contour>
+        <point x="413" y="2553" />
+        <point x="1998" y="2553" />
+      </lower-contour>
+    </line>
+    <line ass="-191" asx="0" asy="2592" character-width="999" dss="-191" dsx="0" dsy="2704" fd0="12710" fd1="2940" fd2="-358" filter-width="4" id="f04-096-10" lbs="-129" lbx="0" lby="2670" segmentation="ok" slant="74000" stroke-width="6727" threshold="176" text="South Croydon, and he remembered" ubs="-315" ubx="0" uby="2632">
+      <word id="f04-096-10-00" tag="NP" text="South">
+        <cmp x="384" y="2594" width="256" height="92" />
+      </word>
+      <word id="f04-096-10-01" tag="NP" text="Croydon">
+        <cmp x="735" y="2607" width="349" height="101" />
+      </word>
+      <word id="f04-096-10-02" tag="," text=",">
+        <cmp x="1124" y="2667" width="17" height="36" />
+      </word>
+      <word id="f04-096-10-03" tag="CC" text="and">
+        <cmp x="1169" y="2620" width="163" height="65" />
+      </word>
+      <word id="f04-096-10-04" tag="PP3A" text="he">
+        <cmp x="1407" y="2614" width="98" height="67" />
+      </word>
+      <word id="f04-096-10-05" tag="VBD" text="remembered">
+        <cmp x="1545" y="2602" width="491" height="77" />
+      </word>
+      <upper-contour>
+        <point x="413" y="2553" />
+        <point x="1998" y="2553" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

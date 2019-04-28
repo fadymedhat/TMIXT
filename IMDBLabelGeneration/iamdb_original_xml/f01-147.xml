@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-17" height="3542" id="f01-147" last-modified="2002-07-17" skew="-95" status="final" version="3.0_beta" width="2479" writer-id="256">
+  <machine-printed-part>
+    <machine-print-line text="He may never have had the disease himself but he can nevertheless identify it. Sim-" />
+    <machine-print-line text="ilarly the psychologist has to be prepared to observe and make inferences about all" />
+    <machine-print-line text="kinds of processes in other people, whether or not they correspond with anything in" />
+    <machine-print-line text="his own experience. We know very little about the patterns of brain-activity which" />
+    <machine-print-line text="provide our schemas, nor do we need to know as far as psychology is concerned - these" />
+    <machine-print-line text="patterns are the concern of the neuro-physiologists." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-221" asx="0" asy="777" character-width="999" dss="-221" dsx="0" dsy="893" fd0="12373" fd1="2492" fd2="-1520" filter-width="3" id="f01-147-00" lbs="-228" lbx="0" lby="845" segmentation="ok" slant="90000" stroke-width="5357" threshold="167" text="He may never have had the disease himself but he" ubs="-207" ubx="0" uby="808">
+      <word id="f01-147-00-00" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="377" y="782" width="75" height="71" />
+      </word>
+      <word id="f01-147-00-01" tag="MD" text="may">
+        <cmp x="485" y="811" width="67" height="40" />
+        <cmp x="552" y="812" width="73" height="84" />
+      </word>
+      <word id="f01-147-00-02" tag="RB" text="never">
+        <cmp x="666" y="809" width="58" height="39" />
+        <cmp x="731" y="811" width="77" height="40" />
+      </word>
+      <word id="f01-147-00-03" tag="HV" text="have">
+        <cmp x="867" y="791" width="127" height="58" />
+      </word>
+      <word id="f01-147-00-04" tag="HVN" text="had">
+        <cmp x="1040" y="782" width="117" height="67" />
+      </word>
+      <word id="f01-147-00-05" tag="ATI" text="the">
+        <cmp x="1201" y="789" width="93" height="64" />
+      </word>
+      <word id="f01-147-00-06" tag="NN" text="disease">
+        <cmp x="1320" y="794" width="62" height="61" />
+        <cmp x="1376" y="793" width="8" height="8" />
+        <cmp x="1388" y="812" width="55" height="46" />
+        <cmp x="1441" y="820" width="33" height="34" />
+        <cmp x="1479" y="811" width="53" height="43" />
+      </word>
+      <word id="f01-147-00-07" tag="PPL" text="himself">
+        <cmp x="1591" y="786" width="113" height="70" />
+        <cmp x="1642" y="793" width="7" height="11" />
+        <cmp x="1704" y="786" width="74" height="66" />
+        <cmp x="1779" y="790" width="36" height="102" />
+      </word>
+      <word id="f01-147-00-08" tag="CC" text="but">
+        <cmp x="1863" y="784" width="99" height="71" />
+      </word>
+      <word id="f01-147-00-09" tag="PP3A" text="he">
+        <cmp x="1987" y="798" width="66" height="58" />
+      </word>
+      <lower-contour>
+        <point x="375" y="898" />
+        <point x="2054" y="898" />
+      </lower-contour>
+    </line>
+    <line ass="-106" asx="0" asy="952" character-width="999" dss="-106" dsx="0" dsy="1079" fd0="12428" fd1="2561" fd2="-2090" filter-width="3" id="f01-147-01" lbs="-189" lbx="0" lby="1024" segmentation="ok" slant="90000" stroke-width="5264" threshold="165" text="can nevertheless identify it. Similarly the psychologist has" ubs="60" ubx="0" uby="987">
+      <word id="f01-147-01-00" tag="MD" text="can">
+        <cmp x="376" y="981" width="133" height="51" />
+        <cmp x="423" y="1021" width="3" height="3" />
+      </word>
+      <word id="f01-147-01-01" tag="RB" text="nevertheless">
+        <cmp x="550" y="989" width="60" height="41" />
+        <cmp x="612" y="969" width="96" height="62" />
+        <cmp x="712" y="961" width="111" height="64" />
+        <cmp x="826" y="986" width="53" height="45" />
+      </word>
+      <word id="f01-147-01-02" tag="VB" text="identify">
+        <cmp x="917" y="973" width="10" height="10" />
+        <cmp x="922" y="995" width="8" height="35" />
+        <cmp x="938" y="964" width="159" height="96" />
+        <cmp x="1064" y="963" width="9" height="15" />
+        <cmp x="1099" y="993" width="30" height="77" />
+      </word>
+      <word id="f01-147-01-03" tag="PP3" text="it">
+        <cmp x="1156" y="968" width="7" height="12" />
+        <cmp x="1156" y="968" width="38" height="60" />
+      </word>
+      <word id="f01-147-01-04" tag="." text=".">
+        <cmp x="1192" y="1022" width="8" height="8" />
+      </word>
+      <word id="f01-147-01-05" sentence-start="yes" tag="RB" text="Similarly">
+        <cmp x="1237" y="955" width="272" height="115" />
+        <cmp x="1282" y="967" width="8" height="8" />
+        <cmp x="1356" y="978" width="6" height="7" />
+      </word>
+      <word id="f01-147-01-06" tag="ATI" text="the">
+        <cmp x="1535" y="968" width="35" height="55" />
+        <cmp x="1569" y="970" width="49" height="54" />
+      </word>
+      <word id="f01-147-01-07" tag="NN" text="psychologist">
+        <cmp x="1646" y="987" width="26" height="71" />
+        <cmp x="1677" y="986" width="20" height="43" />
+        <cmp x="1696" y="988" width="53" height="82" />
+        <cmp x="1756" y="960" width="93" height="66" />
+        <cmp x="1852" y="990" width="36" height="42" />
+        <cmp x="1889" y="989" width="71" height="95" />
+        <cmp x="1914" y="977" width="7" height="10" />
+        <cmp x="1958" y="963" width="29" height="68" />
+      </word>
+      <word id="f01-147-01-08" tag="HVZ" text="has">
+        <cmp x="2026" y="974" width="70" height="60" />
+        <cmp x="2096" y="990" width="25" height="49" />
+      </word>
+      <upper-contour>
+        <point x="375" y="898" />
+        <point x="2054" y="898" />
+      </upper-contour>
+      <lower-contour>
+        <point x="374" y="1083" />
+        <point x="2123" y="1083" />
+      </lower-contour>
+    </line>
+    <line ass="-55" asx="0" asy="1136" character-width="999" dss="-55" dsx="0" dsy="1244" fd0="12216" fd1="2431" fd2="-1609" filter-width="3" id="f01-147-02" lbs="17" lbx="0" lby="1205" segmentation="ok" slant="90000" stroke-width="5393" threshold="167" text="to be prepared to observe and make inferences about" ubs="-200" ubx="0" uby="1164">
+      <word id="f01-147-02-00" tag="TO" text="to">
+        <cmp x="365" y="1143" width="26" height="62" />
+        <cmp x="393" y="1162" width="31" height="40" />
+      </word>
+      <word id="f01-147-02-01" tag="BE" text="be">
+        <cmp x="455" y="1137" width="76" height="69" />
+      </word>
+      <word id="f01-147-02-02" tag="VBN" text="prepared">
+        <cmp x="562" y="1170" width="23" height="75" />
+        <cmp x="588" y="1163" width="53" height="43" />
+        <cmp x="648" y="1169" width="120" height="70" />
+        <cmp x="773" y="1146" width="49" height="63" />
+      </word>
+      <word id="f01-147-02-03" tag="TO" text="to">
+        <cmp x="879" y="1143" width="25" height="58" />
+        <cmp x="905" y="1163" width="29" height="47" />
+      </word>
+      <word id="f01-147-02-04" tag="VB" text="observe">
+        <cmp x="966" y="1137" width="69" height="72" />
+        <cmp x="1041" y="1165" width="73" height="44" />
+        <cmp x="1120" y="1166" width="24" height="40" />
+        <cmp x="1151" y="1161" width="46" height="49" />
+      </word>
+      <word id="f01-147-02-05" tag="CC" text="and">
+        <cmp x="1247" y="1145" width="126" height="60" />
+      </word>
+      <word id="f01-147-02-06" tag="VB" text="make">
+        <cmp x="1406" y="1174" width="59" height="34" />
+        <cmp x="1473" y="1143" width="116" height="67" />
+      </word>
+      <word id="f01-147-02-07" tag="NNS" text="inferences">
+        <cmp x="1636" y="1169" width="8" height="40" />
+        <cmp x="1638" y="1151" width="5" height="9" />
+        <cmp x="1650" y="1137" width="176" height="101" />
+        <cmp x="1827" y="1168" width="85" height="42" />
+      </word>
+      <word id="f01-147-02-08" tag="IN" text="about">
+        <cmp x="1947" y="1137" width="78" height="67" />
+        <cmp x="2030" y="1150" width="120" height="58" />
+      </word>
+      <upper-contour>
+        <point x="374" y="1083" />
+        <point x="2123" y="1083" />
+      </upper-contour>
+      <lower-contour>
+        <point x="374" y="1247" />
+        <point x="2151" y="1247" />
+      </lower-contour>
+    </line>
+    <line ass="-189" asx="0" asy="1307" character-width="999" dss="-189" dsx="0" dsy="1428" fd0="12248" fd1="2592" fd2="-1794" filter-width="3" id="f01-147-03" lbs="-206" lbx="0" lby="1383" segmentation="ok" slant="90000" stroke-width="5261" threshold="165" text="all kinds of processes in other people, whether or not they" ubs="-155" ubx="0" uby="1341">
+      <word id="f01-147-03-00" tag="ABN" text="all">
+        <cmp x="376" y="1309" width="91" height="68" />
+      </word>
+      <word id="f01-147-03-01" tag="NNS" text="kinds">
+        <cmp x="521" y="1324" width="103" height="62" />
+        <cmp x="566" y="1329" width="12" height="9" />
+        <cmp x="624" y="1326" width="38" height="62" />
+        <cmp x="663" y="1347" width="22" height="41" />
+      </word>
+      <word id="f01-147-03-02" tag="INO" text="of">
+        <cmp x="730" y="1312" width="61" height="113" />
+      </word>
+      <word id="f01-147-03-03" tag="NNS" text="processes">
+        <cmp x="816" y="1348" width="22" height="64" />
+        <cmp x="843" y="1348" width="47" height="40" />
+        <cmp x="893" y="1346" width="110" height="48" />
+        <cmp x="1002" y="1345" width="29" height="42" />
+      </word>
+      <word id="f01-147-03-04" tag="IN" text="in">
+        <cmp x="1101" y="1344" width="53" height="43" />
+        <cmp x="1104" y="1327" width="14" height="7" />
+      </word>
+      <word id="f01-147-03-05" tag="AP" text="other">
+        <cmp x="1185" y="1343" width="26" height="43" />
+        <cmp x="1209" y="1321" width="21" height="62" />
+        <cmp x="1233" y="1327" width="86" height="63" />
+      </word>
+      <word id="f01-147-03-06" tag="NNS" text="people">
+        <cmp x="1357" y="1342" width="58" height="78" />
+        <cmp x="1416" y="1318" width="110" height="100" />
+      </word>
+      <word id="f01-147-03-07" tag="," text=",">
+        <cmp x="1542" y="1375" width="13" height="38" />
+      </word>
+      <word id="f01-147-03-08" tag="CS" text="whether">
+        <cmp x="1577" y="1342" width="35" height="44" />
+        <cmp x="1614" y="1330" width="81" height="62" />
+        <cmp x="1698" y="1331" width="86" height="59" />
+      </word>
+      <word id="f01-147-03-09" tag="CC" text="or">
+        <cmp x="1819" y="1346" width="57" height="48" />
+      </word>
+      <word id="f01-147-03-10" tag="XNOT" text="not">
+        <cmp x="1905" y="1320" width="118" height="67" />
+      </word>
+      <word id="f01-147-03-11" tag="PP3AS" text="they">
+        <cmp x="2051" y="1329" width="29" height="64" />
+        <cmp x="2086" y="1331" width="80" height="105" />
+      </word>
+      <upper-contour>
+        <point x="374" y="1247" />
+        <point x="2151" y="1247" />
+      </upper-contour>
+      <lower-contour>
+        <point x="379" y="1436" />
+        <point x="2163" y="1436" />
+      </lower-contour>
+    </line>
+    <line ass="-309" asx="0" asy="1493" character-width="999" dss="-309" dsx="0" dsy="1611" fd0="12796" fd1="2681" fd2="-1586" filter-width="3" id="f01-147-04" lbs="-299" lbx="0" lby="1555" segmentation="ok" slant="90000" stroke-width="5278" threshold="163" text="correspond with anything in his own experience. We know" ubs="-331" ubx="0" uby="1518">
+      <word id="f01-147-04-00" tag="VB" text="correspond">
+        <cmp x="381" y="1514" width="28" height="44" />
+        <cmp x="416" y="1518" width="120" height="43" />
+        <cmp x="539" y="1521" width="23" height="70" />
+        <cmp x="563" y="1497" width="123" height="73" />
+      </word>
+      <word id="f01-147-04-01" tag="IN" text="with">
+        <cmp x="759" y="1518" width="69" height="46" />
+        <cmp x="808" y="1500" width="9" height="12" />
+        <cmp x="827" y="1502" width="58" height="56" />
+      </word>
+      <word id="f01-147-04-02" tag="PN" text="anything">
+        <cmp x="919" y="1524" width="67" height="36" />
+        <cmp x="988" y="1532" width="34" height="73" />
+        <cmp x="1017" y="1509" width="135" height="60" />
+        <cmp x="1107" y="1514" width="13" height="9" />
+        <cmp x="1143" y="1535" width="37" height="84" />
+      </word>
+      <word id="f01-147-04-03" tag="IN" text="in">
+        <cmp x="1227" y="1505" width="9" height="8" />
+        <cmp x="1227" y="1526" width="59" height="39" />
+      </word>
+      <word id="f01-147-04-04" tag="PP$" text="his">
+        <cmp x="1336" y="1509" width="71" height="62" />
+        <cmp x="1369" y="1506" width="11" height="10" />
+      </word>
+      <word id="f01-147-04-05" tag="AP" text="own">
+        <cmp x="1425" y="1528" width="31" height="41" />
+        <cmp x="1458" y="1527" width="41" height="38" />
+        <cmp x="1504" y="1527" width="37" height="35" />
+      </word>
+      <word id="f01-147-04-06" tag="NN" text="experience">
+        <cmp x="1582" y="1518" width="21" height="48" />
+        <cmp x="1607" y="1528" width="26" height="44" />
+        <cmp x="1633" y="1526" width="148" height="73" />
+        <cmp x="1698" y="1521" width="7" height="6" />
+        <cmp x="1785" y="1524" width="53" height="43" />
+      </word>
+      <word id="f01-147-04-07" tag="." text=".">
+        <cmp x="1861" y="1559" width="5" height="5" />
+      </word>
+      <word id="f01-147-04-08" sentence-start="yes" tag="PP1AS" text="We">
+        <cmp x="1914" y="1509" width="43" height="61" />
+        <cmp x="1959" y="1530" width="27" height="40" />
+      </word>
+      <word id="f01-147-04-09" tag="VB" text="know">
+        <cmp x="2018" y="1508" width="68" height="57" />
+        <cmp x="2084" y="1535" width="29" height="34" />
+        <cmp x="2122" y="1535" width="40" height="33" />
+      </word>
+      <upper-contour>
+        <point x="379" y="1436" />
+        <point x="2163" y="1436" />
+      </upper-contour>
+      <lower-contour>
+        <point x="385" y="1619" />
+        <point x="2072" y="1619" />
+      </lower-contour>
+    </line>
+    <line ass="25" asx="0" asy="1672" character-width="999" dss="25" dsx="0" dsy="1797" fd0="12230" fd1="2453" fd2="-1731" filter-width="3" id="f01-147-05" lbs="204" lbx="0" lby="1746" segmentation="ok" slant="90000" stroke-width="5371" threshold="163" text="very little about the patterns of brain-activity which" ubs="-331" ubx="0" uby="1695">
+      <word id="f01-147-05-00" tag="QL" text="very">
+        <cmp x="387" y="1695" width="62" height="44" />
+        <cmp x="448" y="1700" width="47" height="71" />
+      </word>
+      <word id="f01-147-05-01" tag="AP" text="little">
+        <cmp x="546" y="1672" width="126" height="75" />
+        <cmp x="570" y="1682" width="10" height="10" />
+      </word>
+      <word id="f01-147-05-02" tag="IN" text="about">
+        <cmp x="726" y="1679" width="151" height="72" />
+      </word>
+      <word id="f01-147-05-03" tag="ATI" text="the">
+        <cmp x="930" y="1679" width="90" height="63" />
+      </word>
+      <word id="f01-147-05-04" tag="NNS" text="patterns">
+        <cmp x="1042" y="1703" width="27" height="77" />
+        <cmp x="1071" y="1673" width="180" height="72" />
+      </word>
+      <word id="f01-147-05-05" tag="INO" text="of">
+        <cmp x="1307" y="1674" width="58" height="104" />
+      </word>
+      <word id="f01-147-05-06" tag="NN" text="brain-activity">
+        <cmp x="1407" y="1673" width="53" height="71" />
+        <cmp x="1463" y="1704" width="85" height="44" />
+        <cmp x="1496" y="1692" width="10" height="12" />
+        <cmp x="1551" y="1710" width="26" height="7" />
+        <cmp x="1605" y="1705" width="37" height="41" />
+        <cmp x="1645" y="1675" width="78" height="67" />
+        <cmp x="1666" y="1705" width="5" height="9" />
+        <cmp x="1708" y="1685" width="7" height="8" />
+        <cmp x="1726" y="1706" width="43" height="43" />
+        <cmp x="1751" y="1686" width="11" height="8" />
+        <cmp x="1773" y="1682" width="57" height="116" />
+      </word>
+      <word id="f01-147-05-07" tag="WDT" text="which">
+        <cmp x="1877" y="1701" width="36" height="42" />
+        <cmp x="1920" y="1685" width="73" height="66" />
+        <cmp x="1968" y="1697" width="11" height="9" />
+        <cmp x="1986" y="1684" width="85" height="63" />
+      </word>
+      <upper-contour>
+        <point x="385" y="1619" />
+        <point x="2072" y="1619" />
+      </upper-contour>
+      <lower-contour>
+        <point x="385" y="1798" />
+        <point x="2063" y="1798" />
+      </lower-contour>
+    </line>
+    <line ass="-17" asx="0" asy="1846" character-width="999" dss="-17" dsx="0" dsy="1961" fd0="12545" fd1="2635" fd2="-1230" filter-width="3" id="f01-147-06" lbs="47" lbx="0" lby="1923" segmentation="ok" slant="90000" stroke-width="5380" threshold="167" text="provide our schemas, nor do we need to know as far as" ubs="-148" ubx="0" uby="1881">
+      <word id="f01-147-06-00" tag="VB" text="provide">
+        <cmp x="382" y="1887" width="25" height="70" />
+        <cmp x="413" y="1881" width="22" height="42" />
+        <cmp x="437" y="1886" width="27" height="39" />
+        <cmp x="470" y="1891" width="18" height="38" />
+        <cmp x="494" y="1868" width="8" height="10" />
+        <cmp x="496" y="1887" width="11" height="35" />
+        <cmp x="514" y="1863" width="62" height="64" />
+      </word>
+      <word id="f01-147-06-01" tag="PP$" text="our">
+        <cmp x="631" y="1881" width="30" height="38" />
+        <cmp x="665" y="1881" width="56" height="46" />
+      </word>
+      <word id="f01-147-06-02" tag="NNS" text="schemas">
+        <cmp x="765" y="1876" width="64" height="45" />
+        <cmp x="823" y="1863" width="185" height="70" />
+      </word>
+      <word id="f01-147-06-03" tag="," text=",">
+        <cmp x="1033" y="1912" width="7" height="38" />
+      </word>
+      <word id="f01-147-06-04" tag="CC" text="nor">
+        <cmp x="1070" y="1885" width="86" height="39" />
+      </word>
+      <word id="f01-147-06-05" tag="DO" text="do">
+        <cmp x="1177" y="1859" width="73" height="67" />
+      </word>
+      <word id="f01-147-06-06" tag="PP1AS" text="we">
+        <cmp x="1302" y="1877" width="76" height="48" />
+      </word>
+      <word id="f01-147-06-07" tag="VB" text="need">
+        <cmp x="1418" y="1867" width="120" height="56" />
+      </word>
+      <word id="f01-147-06-08" tag="TO" text="to">
+        <cmp x="1576" y="1860" width="55" height="68" />
+      </word>
+      <word id="f01-147-06-09" tag="VB" text="know">
+        <cmp x="1653" y="1862" width="83" height="64" />
+        <cmp x="1742" y="1893" width="40" height="38" />
+      </word>
+      <word id="f01-147-06-10" tag="QL" text="as">
+        <cmp x="1818" y="1883" width="50" height="48" />
+      </word>
+      <word id="f01-147-06-11" tag="RB" text="far">
+        <cmp x="1885" y="1847" width="76" height="116" />
+      </word>
+      <word id="f01-147-06-12" tag="CS" text="as">
+        <cmp x="2007" y="1885" width="28" height="36" />
+        <cmp x="2040" y="1881" width="22" height="43" />
+      </word>
+      <upper-contour>
+        <point x="385" y="1798" />
+        <point x="2063" y="1798" />
+      </upper-contour>
+      <lower-contour>
+        <point x="380" y="1962" />
+        <point x="2063" y="1962" />
+      </lower-contour>
+    </line>
+    <line ass="138" asx="0" asy="2032" character-width="999" dss="138" dsx="0" dsy="2151" fd0="12610" fd1="2264" fd2="-2022" filter-width="3" id="f01-147-07" lbs="231" lbx="0" lby="2105" segmentation="ok" slant="90000" stroke-width="5409" threshold="162" text="psychology is concerned - these patterns are the concern of" ubs="-49" ubx="0" uby="2059">
+      <word id="f01-147-07-00" tag="NN" text="psychology">
+        <cmp x="365" y="2064" width="25" height="67" />
+        <cmp x="391" y="2058" width="22" height="40" />
+        <cmp x="415" y="2060" width="31" height="77" />
+        <cmp x="445" y="2058" width="38" height="41" />
+        <cmp x="481" y="2032" width="185" height="119" />
+      </word>
+      <word id="f01-147-07-01" tag="BEZ" text="is">
+        <cmp x="739" y="2040" width="6" height="10" />
+        <cmp x="739" y="2055" width="8" height="40" />
+        <cmp x="747" y="2055" width="22" height="43" />
+      </word>
+      <word id="f01-147-07-02" tag="VBN" text="concerned">
+        <cmp x="784" y="2062" width="31" height="37" />
+        <cmp x="806" y="2066" width="68" height="34" />
+        <cmp x="869" y="2062" width="79" height="40" />
+        <cmp x="951" y="2067" width="56" height="38" />
+        <cmp x="1014" y="2041" width="48" height="66" />
+      </word>
+      <word id="f01-147-07-03" tag="*-" text="-">
+        <cmp x="1111" y="2055" width="35" height="11" />
+      </word>
+      <word id="f01-147-07-04" tag="DTS" text="these">
+        <cmp x="1152" y="2030" width="105" height="69" />
+        <cmp x="1257" y="2058" width="39" height="46" />
+      </word>
+      <word id="f01-147-07-05" tag="NNS" text="patterns">
+        <cmp x="1325" y="2034" width="209" height="105" />
+        <cmp x="1530" y="2064" width="23" height="42" />
+      </word>
+      <word id="f01-147-07-06" tag="BER" text="are">
+        <cmp x="1599" y="2059" width="87" height="41" />
+      </word>
+      <word id="f01-147-07-07" tag="ATI" text="the">
+        <cmp x="1709" y="2039" width="90" height="64" />
+      </word>
+      <word id="f01-147-07-08" tag="NN" text="concern">
+        <cmp x="1822" y="2059" width="238" height="47" />
+      </word>
+      <word id="f01-147-07-09" tag="INO" text="of">
+        <cmp x="2096" y="2037" width="60" height="108" />
+      </word>
+      <upper-contour>
+        <point x="380" y="1962" />
+        <point x="2063" y="1962" />
+      </upper-contour>
+      <lower-contour>
+        <point x="370" y="2152" />
+        <point x="1153" y="2152" />
+      </lower-contour>
+    </line>
+    <line ass="-245" asx="0" asy="2205" character-width="999" dss="-245" dsx="0" dsy="2333" fd0="12653" fd1="2615" fd2="-2173" filter-width="3" id="f01-147-08" lbs="-357" lbx="0" lby="2274" segmentation="ok" slant="90000" stroke-width="5281" threshold="159" text="the neuro-physiologists." ubs="-21" ubx="0" uby="2233">
+      <word id="f01-147-08-00" tag="ATI" text="the">
+        <cmp x="372" y="2222" width="85" height="55" />
+      </word>
+      <word id="f01-147-08-01" tag="NNS" text="neuro-physiologists">
+        <cmp x="521" y="2231" width="143" height="47" />
+        <cmp x="665" y="2233" width="30" height="47" />
+        <cmp x="705" y="2234" width="34" height="9" />
+        <cmp x="765" y="2238" width="27" height="64" />
+        <cmp x="797" y="2210" width="78" height="112" />
+        <cmp x="876" y="2236" width="26" height="44" />
+        <cmp x="906" y="2218" width="8" height="13" />
+        <cmp x="909" y="2241" width="11" height="39" />
+        <cmp x="920" y="2210" width="87" height="69" />
+        <cmp x="1008" y="2239" width="72" height="99" />
+        <cmp x="1044" y="2224" width="5" height="7" />
+        <cmp x="1073" y="2214" width="26" height="65" />
+        <cmp x="1100" y="2231" width="33" height="50" />
+      </word>
+      <word id="f01-147-08-02" tag="." text=".">
+        <cmp x="1143" y="2272" width="8" height="9" />
+      </word>
+      <upper-contour>
+        <point x="370" y="2152" />
+        <point x="1153" y="2152" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

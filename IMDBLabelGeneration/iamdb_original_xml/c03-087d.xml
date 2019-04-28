@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-16" height="3542" id="c03-087d" last-modified="2002-07-17" skew="385" status="final" version="3.0_beta" width="2479" writer-id="153">
+  <machine-printed-part>
+    <machine-print-line text="It went, perhaps, some distance beyond most treatments of its subject by attempting" />
+    <machine-print-line text="to generate a melodramatic inevitability which left its central character and the world" />
+    <machine-print-line text="around him in complete, unredeemable desolation. We could, perhaps, say whether" />
+    <machine-print-line text="or not the attempt succeeded if we had a little more faith in the way in which Mr." />
+    <machine-print-line text="Ferris manipulated his characters." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-19" asx="0" asy="767" character-width="999" dss="-19" dsx="0" dsy="881" fd0="13410" fd1="2069" fd2="-1287" filter-width="5" id="c03-087d-00" lbs="-56" lbx="0" lby="834" segmentation="ok" slant="58000" stroke-width="7161" threshold="155" text="It went, perhaps, some distance beyond" ubs="53" ubx="0" uby="796">
+      <word id="c03-087d-00-00" sentence-start="yes" tag="PP3" text="It">
+        <cmp x="354" y="768" width="58" height="71" />
+      </word>
+      <word id="c03-087d-00-01" tag="VBD" text="went">
+        <cmp x="464" y="773" width="175" height="62" />
+      </word>
+      <word id="c03-087d-00-02" tag="," text=",">
+        <cmp x="647" y="837" width="21" height="23" />
+      </word>
+      <word id="c03-087d-00-03" tag="RB" text="perhaps">
+        <cmp x="716" y="775" width="307" height="108" />
+      </word>
+      <word id="c03-087d-00-04" tag="," text=",">
+        <cmp x="1024" y="839" width="24" height="27" />
+      </word>
+      <word id="c03-087d-00-05" tag="DTI" text="some">
+        <cmp x="1101" y="791" width="188" height="45" />
+      </word>
+      <word id="c03-087d-00-06" tag="NN" text="distance">
+        <cmp x="1360" y="776" width="312" height="64" />
+        <cmp x="1447" y="776" width="7" height="8" />
+      </word>
+      <word id="c03-087d-00-07" tag="IN" text="beyond">
+        <cmp x="1725" y="785" width="266" height="95" />
+        <cmp x="1985" y="772" width="35" height="54" />
+      </word>
+      <lower-contour>
+        <point x="352" y="883" />
+        <point x="1798" y="883" />
+      </lower-contour>
+    </line>
+    <line ass="-16" asx="0" asy="944" character-width="999" dss="-16" dsx="0" dsy="1062" fd0="13686" fd1="2352" fd2="-1174" filter-width="4" id="c03-087d-01" lbs="39" lbx="0" lby="1013" segmentation="ok" slant="61000" stroke-width="7123" threshold="153" text="most treatments of its subject by" ubs="-127" ubx="0" uby="972">
+      <word id="c03-087d-01-00" tag="AP" text="most">
+        <cmp x="332" y="949" width="195" height="72" />
+      </word>
+      <word id="c03-087d-01-01" tag="NNS" text="treatments">
+        <cmp x="566" y="950" width="410" height="69" />
+      </word>
+      <word id="c03-087d-01-02" tag="INO" text="of">
+        <cmp x="1036" y="950" width="75" height="84" />
+      </word>
+      <word id="c03-087d-01-03" tag="PP$" text="its">
+        <cmp x="1154" y="951" width="104" height="67" />
+        <cmp x="1199" y="956" width="8" height="8" />
+      </word>
+      <word id="c03-087d-01-04" tag="NN" text="subject">
+        <cmp x="1326" y="949" width="293" height="116" />
+        <cmp x="1521" y="947" width="8" height="7" />
+      </word>
+      <word id="c03-087d-01-05" tag="IN" text="by">
+        <cmp x="1685" y="960" width="112" height="90" />
+      </word>
+      <upper-contour>
+        <point x="352" y="883" />
+        <point x="1798" y="883" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="1066" />
+        <point x="1798" y="1066" />
+      </lower-contour>
+    </line>
+    <line ass="460" asx="0" asy="1126" character-width="999" dss="460" dsx="0" dsy="1254" fd0="12957" fd1="1957" fd2="-1714" filter-width="5" id="c03-087d-02" lbs="553" lbx="0" lby="1205" segmentation="ok" slant="63000" stroke-width="7264" threshold="153" text="attempting to generate a melodramatic" ubs="275" ubx="0" uby="1162">
+      <word id="c03-087d-02-00" tag="VBG" text="attempting">
+        <cmp x="350" y="1123" width="398" height="123" />
+        <cmp x="653" y="1136" width="8" height="8" />
+      </word>
+      <word id="c03-087d-02-01" tag="TO" text="to">
+        <cmp x="828" y="1141" width="93" height="61" />
+      </word>
+      <word id="c03-087d-02-02" tag="VB" text="generate">
+        <cmp x="949" y="1136" width="287" height="109" />
+      </word>
+      <word id="c03-087d-02-03" tag="AT" text="a">
+        <cmp x="1303" y="1158" width="50" height="37" />
+      </word>
+      <word id="c03-087d-02-04" tag="JJ" text="melodramatic">
+        <cmp x="1417" y="1135" width="531" height="59" />
+        <cmp x="1902" y="1137" width="7" height="10" />
+      </word>
+      <upper-contour>
+        <point x="348" y="1066" />
+        <point x="1798" y="1066" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="1245" />
+        <point x="1949" y="1245" />
+      </lower-contour>
+    </line>
+    <line ass="-411" asx="0" asy="1294" character-width="999" dss="-411" dsx="0" dsy="1421" fd0="13678" fd1="2249" fd2="-1650" filter-width="4" id="c03-087d-03" lbs="-520" lbx="0" lby="1355" segmentation="ok" slant="57000" stroke-width="7031" threshold="155" text="inevitability which left its central character" ubs="-193" ubx="0" uby="1329">
+      <word id="c03-087d-03-00" tag="NN" text="inevitability">
+        <cmp x="341" y="1301" width="420" height="78" />
+        <cmp x="396" y="1306" width="8" height="9" />
+        <cmp x="540" y="1307" width="7" height="8" />
+        <cmp x="680" y="1304" width="9" height="8" />
+        <cmp x="754" y="1301" width="8" height="9" />
+        <cmp x="758" y="1303" width="60" height="68" />
+        <cmp x="776" y="1337" width="64" height="90" />
+      </word>
+      <word id="c03-087d-03-01" tag="WDT" text="which">
+        <cmp x="910" y="1311" width="238" height="63" />
+        <cmp x="1059" y="1316" width="8" height="13" />
+      </word>
+      <word id="c03-087d-03-02" tag="VBD" text="left">
+        <cmp x="1209" y="1315" width="123" height="80" />
+      </word>
+      <word id="c03-087d-03-03" tag="PP$" text="its">
+        <cmp x="1362" y="1319" width="92" height="55" />
+        <cmp x="1403" y="1318" width="9" height="8" />
+      </word>
+      <word id="c03-087d-03-04" tag="JJ" text="central">
+        <cmp x="1512" y="1316" width="271" height="61" />
+      </word>
+      <word id="c03-087d-03-05" tag="NN" text="character">
+        <cmp x="1836" y="1309" width="333" height="69" />
+      </word>
+      <upper-contour>
+        <point x="348" y="1245" />
+        <point x="1949" y="1245" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="1426" />
+        <point x="2053" y="1426" />
+      </lower-contour>
+    </line>
+    <line ass="-325" asx="0" asy="1476" character-width="999" dss="-325" dsx="0" dsy="1575" fd0="13658" fd1="2278" fd2="-1111" filter-width="5" id="c03-087d-04" lbs="-350" lbx="0" lby="1544" segmentation="ok" slant="56000" stroke-width="7158" threshold="153" text="and the world around him in complete," ubs="-276" ubx="0" uby="1505">
+      <word id="c03-087d-04-00" tag="CC" text="and">
+        <cmp x="350" y="1487" width="139" height="69" />
+      </word>
+      <word id="c03-087d-04-01" tag="ATI" text="the">
+        <cmp x="533" y="1491" width="115" height="65" />
+      </word>
+      <word id="c03-087d-04-02" tag="NN" text="world">
+        <cmp x="710" y="1510" width="80" height="44" />
+        <cmp x="787" y="1487" width="156" height="65" />
+      </word>
+      <word id="c03-087d-04-03" tag="IN" text="around">
+        <cmp x="1007" y="1483" width="272" height="68" />
+      </word>
+      <word id="c03-087d-04-04" tag="PP3O" text="him">
+        <cmp x="1318" y="1492" width="168" height="60" />
+        <cmp x="1413" y="1486" width="8" height="8" />
+      </word>
+      <word id="c03-087d-04-05" tag="IN" text="in">
+        <cmp x="1531" y="1513" width="93" height="45" />
+        <cmp x="1575" y="1498" width="7" height="8" />
+      </word>
+      <word id="c03-087d-04-06" tag="JJ" text="complete">
+        <cmp x="1688" y="1496" width="322" height="91" />
+      </word>
+      <word id="c03-087d-04-07" tag="," text=",">
+        <cmp x="2028" y="1552" width="24" height="28" />
+      </word>
+      <upper-contour>
+        <point x="348" y="1426" />
+        <point x="2053" y="1426" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="1591" />
+        <point x="2053" y="1591" />
+      </lower-contour>
+    </line>
+    <line ass="-42" asx="0" asy="1661" character-width="999" dss="-42" dsx="0" dsy="1770" fd0="13759" fd1="2191" fd2="-1471" filter-width="4" id="c03-087d-05" lbs="-69" lbx="0" lby="1733" segmentation="ok" slant="54000" stroke-width="7037" threshold="153" text="unredeemable desolation. We could, perhaps," ubs="11" ubx="0" uby="1696">
+      <word id="c03-087d-05-00" tag="JJ" text="unredeemable">
+        <cmp x="347" y="1671" width="558" height="67" />
+      </word>
+      <word id="c03-087d-05-01" tag="NN" text="desolation">
+        <cmp x="974" y="1671" width="313" height="68" />
+        <cmp x="1283" y="1682" width="7" height="9" />
+        <cmp x="1287" y="1697" width="41" height="35" />
+        <cmp x="1328" y="1694" width="42" height="37" />
+      </word>
+      <word id="c03-087d-05-02" tag="." text=".">
+        <cmp x="1390" y="1722" width="6" height="6" />
+      </word>
+      <word id="c03-087d-05-03" sentence-start="yes" tag="PP1AS" text="We">
+        <cmp x="1454" y="1663" width="92" height="67" />
+      </word>
+      <word id="c03-087d-05-04" tag="MD" text="could">
+        <cmp x="1595" y="1666" width="222" height="71" />
+      </word>
+      <word id="c03-087d-05-05" tag="," text=",">
+        <cmp x="1812" y="1733" width="21" height="20" />
+      </word>
+      <word id="c03-087d-05-06" tag="RB" text="perhaps">
+        <cmp x="1854" y="1679" width="316" height="93" />
+      </word>
+      <word id="c03-087d-05-07" tag="," text=",">
+        <cmp x="2168" y="1731" width="23" height="32" />
+      </word>
+      <upper-contour>
+        <point x="348" y="1591" />
+        <point x="2053" y="1591" />
+      </upper-contour>
+      <lower-contour>
+        <point x="345" y="1777" />
+        <point x="2184" y="1777" />
+      </lower-contour>
+    </line>
+    <line ass="-77" asx="0" asy="1855" character-width="999" dss="-77" dsx="0" dsy="1957" fd0="13368" fd1="2082" fd2="-1414" filter-width="4" id="c03-087d-06" lbs="-18" lbx="0" lby="1913" segmentation="ok" slant="58000" stroke-width="6896" threshold="156" text="say whether or not the attempt succeeded" ubs="-194" ubx="0" uby="1872">
+      <word id="c03-087d-06-00" tag="VB" text="say">
+        <cmp x="344" y="1866" width="174" height="89" />
+      </word>
+      <word id="c03-087d-06-01" tag="CS" text="whether">
+        <cmp x="595" y="1857" width="152" height="57" />
+        <cmp x="747" y="1857" width="133" height="57" />
+      </word>
+      <word id="c03-087d-06-02" tag="CC" text="or">
+        <cmp x="954" y="1876" width="84" height="43" />
+      </word>
+      <word id="c03-087d-06-03" tag="XNOT" text="not">
+        <cmp x="1080" y="1858" width="152" height="60" />
+      </word>
+      <word id="c03-087d-06-04" tag="ATI" text="the">
+        <cmp x="1281" y="1857" width="113" height="59" />
+      </word>
+      <word id="c03-087d-06-05" tag="NN" text="attempt">
+        <cmp x="1440" y="1857" width="286" height="93" />
+      </word>
+      <word id="c03-087d-06-06" tag="VBD" text="succeeded">
+        <cmp x="1777" y="1857" width="406" height="59" />
+      </word>
+      <upper-contour>
+        <point x="345" y="1777" />
+        <point x="2184" y="1777" />
+      </upper-contour>
+      <lower-contour>
+        <point x="342" y="1954" />
+        <point x="1996" y="1954" />
+      </lower-contour>
+    </line>
+    <line ass="-78" asx="0" asy="2026" character-width="999" dss="-78" dsx="0" dsy="2124" fd0="13783" fd1="2337" fd2="-843" filter-width="4" id="c03-087d-07" lbs="15" lbx="0" lby="2090" segmentation="ok" slant="57000" stroke-width="6966" threshold="157" text="of we had a little more faith in the" ubs="-265" ubx="0" uby="2049">
+      <word id="c03-087d-07-00" tag="INO" text="of">
+        <cmp x="339" y="2029" width="77" height="89" />
+      </word>
+      <word id="c03-087d-07-01" tag="PP1AS" text="we">
+        <cmp x="449" y="2044" width="114" height="44" />
+      </word>
+      <word id="c03-087d-07-02" tag="HVD" text="had">
+        <cmp x="629" y="2027" width="177" height="66" />
+      </word>
+      <word id="c03-087d-07-03" tag="AP21" text="a">
+        <cmp x="866" y="2055" width="47" height="37" />
+      </word>
+      <word id="c03-087d-07-04" tag="AP22" text="little">
+        <cmp x="973" y="2032" width="70" height="62" />
+        <cmp x="1044" y="2030" width="123" height="67" />
+        <cmp x="1058" y="2029" width="8" height="9" />
+      </word>
+      <word id="c03-087d-07-05" tag="AP" text="more">
+        <cmp x="1236" y="2053" width="187" height="42" />
+      </word>
+      <word id="c03-087d-07-06" tag="NN" text="faith">
+        <cmp x="1474" y="2039" width="119" height="90" />
+        <cmp x="1588" y="2040" width="67" height="57" />
+        <cmp x="1597" y="2043" width="8" height="8" />
+      </word>
+      <word id="c03-087d-07-07" tag="IN" text="in">
+        <cmp x="1722" y="2059" width="88" height="39" />
+        <cmp x="1777" y="2043" width="10" height="7" />
+      </word>
+      <word id="c03-087d-07-08" tag="ATI" text="the">
+        <cmp x="1860" y="2043" width="67" height="54" />
+        <cmp x="1869" y="2063" width="8" height="7" />
+        <cmp x="1908" y="2039" width="87" height="59" />
+      </word>
+      <upper-contour>
+        <point x="342" y="1954" />
+        <point x="1996" y="1954" />
+      </upper-contour>
+      <lower-contour>
+        <point x="366" y="2130" />
+        <point x="1981" y="2130" />
+      </lower-contour>
+    </line>
+    <line ass="-511" asx="0" asy="2197" character-width="999" dss="-511" dsx="0" dsy="2310" fd0="13792" fd1="2512" fd2="-1211" filter-width="4" id="c03-087d-08" lbs="-659" lbx="0" lby="2255" segmentation="ok" slant="59999" stroke-width="6835" threshold="154" text="way in which Mr. Ferris manipulated" ubs="-215" ubx="0" uby="2230">
+      <word id="c03-087d-08-00" tag="NN" text="way">
+        <cmp x="368" y="2227" width="179" height="85" />
+      </word>
+      <word id="c03-087d-08-01" tag="IN" text="in">
+        <cmp x="605" y="2231" width="77" height="40" />
+        <cmp x="647" y="2217" width="11" height="8" />
+      </word>
+      <word id="c03-087d-08-02" tag="WDT" text="which">
+        <cmp x="740" y="2219" width="147" height="58" />
+        <cmp x="879" y="2219" width="94" height="54" />
+        <cmp x="888" y="2220" width="7" height="10" />
+      </word>
+      <word id="c03-087d-08-03" tag="NPT" text="Mr.">
+        <cmp x="1038" y="2213" width="101" height="65" />
+        <cmp x="1136" y="2274" width="7" height="7" />
+      </word>
+      <word id="c03-087d-08-04" tag="NP" text="Ferris">
+        <cmp x="1214" y="2225" width="31" height="49" />
+        <cmp x="1215" y="2213" width="56" height="8" />
+        <cmp x="1234" y="2234" width="169" height="40" />
+        <cmp x="1364" y="2215" width="7" height="9" />
+      </word>
+      <word id="c03-087d-08-05" tag="VBD" text="manipulated">
+        <cmp x="1466" y="2232" width="199" height="43" />
+        <cmp x="1638" y="2213" width="342" height="98" />
+        <cmp x="1670" y="2218" width="9" height="10" />
+      </word>
+      <upper-contour>
+        <point x="366" y="2130" />
+        <point x="1981" y="2130" />
+      </upper-contour>
+      <lower-contour>
+        <point x="366" y="2311" />
+        <point x="921" y="2311" />
+      </lower-contour>
+    </line>
+    <line ass="544" asx="0" asy="2387" character-width="999" dss="544" dsx="0" dsy="2459" fd0="13442" fd1="2307" fd2="-1370" filter-width="4" id="c03-087d-09" lbs="582" lbx="0" lby="2456" segmentation="ok" slant="63000" stroke-width="6884" threshold="152" text="his characters." ubs="470" ubx="0" uby="2416">
+      <word id="c03-087d-09-00" tag="PP$" text="his">
+        <cmp x="355" y="2386" width="125" height="70" />
+        <cmp x="450" y="2399" width="7" height="7" />
+      </word>
+      <word id="c03-087d-09-01" tag="NNS" text="characters">
+        <cmp x="542" y="2395" width="265" height="61" />
+        <cmp x="802" y="2394" width="110" height="60" />
+      </word>
+      <word id="c03-087d-09-02" tag="." text=".">
+        <cmp x="914" y="2447" width="7" height="7" />
+      </word>
+      <upper-contour>
+        <point x="366" y="2311" />
+        <point x="921" y="2311" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

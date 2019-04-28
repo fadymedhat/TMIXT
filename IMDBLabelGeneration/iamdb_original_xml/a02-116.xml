@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-15" height="3542" id="a02-116" last-modified="2002-07-17" skew="-191" status="final" version="3.0_beta" width="2479" writer-id="038">
+  <machine-printed-part>
+    <machine-print-line text="It was Mr. Butler who authorised action which ended yesterday in 32 members" />
+    <machine-print-line text="of the Committee of 100 being imprisoned for inciting a breach of the peace. The" />
+    <machine-print-line text="committee&apos;s president 89-year-old Earl Russell and his 61-year-old wife were each" />
+    <machine-print-line text="jailed for a week. Playwrights Arnold Wesker (The Kitchen) and Robert Bolt (The" />
+    <machine-print-line text="Flowering Cherry) were jailed for a month." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-93" asx="0" asy="704" character-width="999" dss="-93" dsx="0" dsy="778" fd0="13025" fd1="2539" fd2="-1725" filter-width="3" id="a02-116-00" lbs="-141" lbx="0" lby="770" segmentation="ok" slant="90000" stroke-width="5120" threshold="182" text="It was Mr. Butler who authorised action which" ubs="3" ubx="0" uby="735">
+      <word id="a02-116-00-00" sentence-start="yes" tag="PP3" text="It">
+        <cmp x="352" y="714" width="5" height="59" />
+        <cmp x="365" y="714" width="29" height="65" />
+      </word>
+      <word id="a02-116-00-01" tag="BEDZ" text="was">
+        <cmp x="451" y="730" width="46" height="49" />
+        <cmp x="499" y="730" width="86" height="46" />
+      </word>
+      <word id="a02-116-00-02" tag="NPT" text="Mr.">
+        <cmp x="650" y="710" width="66" height="71" />
+        <cmp x="724" y="733" width="19" height="40" />
+        <cmp x="748" y="766" width="5" height="10" />
+      </word>
+      <word id="a02-116-00-03" tag="NP" text="Butler">
+        <cmp x="785" y="707" width="94" height="67" />
+        <cmp x="884" y="715" width="119" height="59" />
+      </word>
+      <word id="a02-116-00-04" tag="WP" text="who">
+        <cmp x="1058" y="732" width="51" height="48" />
+        <cmp x="1109" y="718" width="40" height="58" />
+        <cmp x="1154" y="733" width="33" height="40" />
+      </word>
+      <word id="a02-116-00-05" tag="VBD" text="authorised">
+        <cmp x="1236" y="712" width="100" height="65" />
+        <cmp x="1341" y="707" width="74" height="71" />
+        <cmp x="1408" y="733" width="35" height="41" />
+        <cmp x="1445" y="732" width="6" height="39" />
+        <cmp x="1446" y="718" width="5" height="9" />
+        <cmp x="1457" y="714" width="123" height="68" />
+      </word>
+      <word id="a02-116-00-06" tag="NN" text="action">
+        <cmp x="1641" y="719" width="111" height="62" />
+        <cmp x="1748" y="707" width="6" height="6" />
+        <cmp x="1753" y="731" width="83" height="50" />
+      </word>
+      <word id="a02-116-00-07" tag="WDT" text="which">
+        <cmp x="1889" y="736" width="55" height="41" />
+        <cmp x="1948" y="718" width="44" height="59" />
+        <cmp x="1997" y="714" width="9" height="12" />
+        <cmp x="2001" y="742" width="5" height="37" />
+        <cmp x="2019" y="715" width="88" height="65" />
+      </word>
+      <lower-contour>
+        <point x="350" y="782" />
+        <point x="1863" y="782" />
+      </lower-contour>
+    </line>
+    <line ass="-20" asx="0" asy="875" character-width="999" dss="-20" dsx="0" dsy="1005" fd0="13120" fd1="2168" fd2="-1992" filter-width="3" id="a02-116-01" lbs="26" lbx="0" lby="951" segmentation="ok" slant="90000" stroke-width="5215" threshold="182" text="ended yesterday in 32 members of the" ubs="-116" ubx="0" uby="907">
+      <word id="a02-116-01-00" tag="VBD" text="ended">
+        <cmp x="325" y="891" width="221" height="69" />
+      </word>
+      <word id="a02-116-01-01" tag="NR" text="yesterday">
+        <cmp x="607" y="906" width="38" height="80" />
+        <cmp x="637" y="895" width="139" height="64" />
+        <cmp x="713" y="884" width="4" height="8" />
+        <cmp x="773" y="887" width="50" height="73" />
+        <cmp x="823" y="902" width="78" height="104" />
+      </word>
+      <word id="a02-116-01-02" tag="IN" text="in">
+        <cmp x="961" y="912" width="11" height="40" />
+        <cmp x="962" y="895" width="5" height="7" />
+        <cmp x="976" y="905" width="47" height="47" />
+      </word>
+      <word id="a02-116-01-03" tag="CD" text="32">
+        <cmp x="1087" y="892" width="60" height="64" />
+        <cmp x="1149" y="894" width="55" height="58" />
+      </word>
+      <word id="a02-116-01-04" tag="NNS" text="members">
+        <cmp x="1247" y="906" width="163" height="59" />
+        <cmp x="1415" y="903" width="122" height="60" />
+        <cmp x="1539" y="906" width="46" height="52" />
+        <cmp x="1540" y="935" width="4" height="5" />
+      </word>
+      <word id="a02-116-01-05" tag="INO" text="of">
+        <cmp x="1625" y="876" width="67" height="110" />
+      </word>
+      <word id="a02-116-01-06" tag="ATI" text="the">
+        <cmp x="1737" y="886" width="125" height="69" />
+      </word>
+      <upper-contour>
+        <point x="350" y="782" />
+        <point x="1863" y="782" />
+      </upper-contour>
+      <lower-contour>
+        <point x="338" y="1007" />
+        <point x="1863" y="1007" />
+      </lower-contour>
+    </line>
+    <line ass="379" asx="0" asy="1060" character-width="999" dss="379" dsx="0" dsy="1211" fd0="13147" fd1="2733" fd2="-1719" filter-width="3" id="a02-116-02" lbs="457" lbx="0" lby="1138" segmentation="ok" slant="90000" stroke-width="5461" threshold="191" text="Committee of 100 being imprisoned for inciting" ubs="222" ubx="0" uby="1095">
+      <word id="a02-116-02-00" tag="NN" text="Committee">
+        <cmp x="340" y="1061" width="73" height="72" />
+        <cmp x="407" y="1090" width="74" height="49" />
+        <cmp x="417" y="1086" width="4" height="9" />
+        <cmp x="485" y="1092" width="65" height="46" />
+        <cmp x="559" y="1062" width="9" height="10" />
+        <cmp x="560" y="1056" width="90" height="78" />
+        <cmp x="643" y="1077" width="53" height="54" />
+      </word>
+      <word id="a02-116-02-01" tag="INO" text="of">
+        <cmp x="752" y="1065" width="62" height="102" />
+      </word>
+      <word id="a02-116-02-02" tag="CD" text="100">
+        <cmp x="892" y="1062" width="28" height="70" />
+        <cmp x="921" y="1081" width="73" height="57" />
+      </word>
+      <word id="a02-116-02-03" tag="BEG" text="being">
+        <cmp x="1048" y="1066" width="99" height="81" />
+        <cmp x="1134" y="1055" width="8" height="6" />
+        <cmp x="1148" y="1083" width="96" height="92" />
+      </word>
+      <word id="a02-116-02-04" tag="VBN" text="imprisoned">
+        <cmp x="1294" y="1059" width="11" height="9" />
+        <cmp x="1297" y="1096" width="13" height="41" />
+        <cmp x="1313" y="1094" width="56" height="43" />
+        <cmp x="1376" y="1084" width="44" height="91" />
+        <cmp x="1427" y="1084" width="29" height="47" />
+        <cmp x="1459" y="1064" width="4" height="7" />
+        <cmp x="1459" y="1091" width="6" height="38" />
+        <cmp x="1470" y="1080" width="131" height="53" />
+        <cmp x="1601" y="1085" width="36" height="54" />
+        <cmp x="1634" y="1068" width="53" height="64" />
+      </word>
+      <word id="a02-116-02-05" tag="IN" text="for">
+        <cmp x="1714" y="1056" width="110" height="115" />
+        <cmp x="1770" y="1072" width="3" height="8" />
+      </word>
+      <word id="a02-116-02-06" tag="VBG" text="inciting">
+        <cmp x="1847" y="1062" width="9" height="8" />
+        <cmp x="1847" y="1094" width="9" height="48" />
+        <cmp x="1864" y="1096" width="36" height="44" />
+        <cmp x="1905" y="1092" width="51" height="53" />
+        <cmp x="1942" y="1074" width="11" height="7" />
+        <cmp x="1957" y="1060" width="48" height="84" />
+        <cmp x="1994" y="1067" width="7" height="9" />
+        <cmp x="2020" y="1090" width="44" height="44" />
+        <cmp x="2064" y="1087" width="55" height="112" />
+      </word>
+      <upper-contour>
+        <point x="338" y="1007" />
+        <point x="1863" y="1007" />
+      </upper-contour>
+      <lower-contour>
+        <point x="338" y="1175" />
+        <point x="1898" y="1175" />
+      </lower-contour>
+    </line>
+    <line ass="492" asx="0" asy="1242" character-width="999" dss="492" dsx="0" dsy="1355" fd0="12997" fd1="2442" fd2="-1478" filter-width="3" id="a02-116-03" lbs="583" lbx="0" lby="1326" segmentation="ok" slant="89000" stroke-width="5240" threshold="182" text="a breach of the peace. The committee&apos;s" ubs="308" ubx="0" uby="1279">
+      <word id="a02-116-03-00" tag="AT" text="a">
+        <cmp x="332" y="1264" width="32" height="51" />
+      </word>
+      <word id="a02-116-03-01" tag="NN" text="breach">
+        <cmp x="420" y="1248" width="74" height="70" />
+        <cmp x="488" y="1256" width="152" height="62" />
+      </word>
+      <word id="a02-116-03-02" tag="INO" text="of">
+        <cmp x="695" y="1239" width="66" height="111" />
+      </word>
+      <word id="a02-116-03-03" tag="ATI" text="the">
+        <cmp x="810" y="1289" width="4" height="6" />
+        <cmp x="815" y="1250" width="74" height="72" />
+        <cmp x="894" y="1265" width="37" height="56" />
+      </word>
+      <word id="a02-116-03-04" tag="NN" text="peace">
+        <cmp x="1015" y="1268" width="54" height="77" />
+        <cmp x="1061" y="1272" width="41" height="47" />
+        <cmp x="1102" y="1270" width="103" height="54" />
+      </word>
+      <word id="a02-116-03-05" tag="." text=".">
+        <cmp x="1221" y="1304" width="6" height="16" />
+      </word>
+      <word id="a02-116-03-06" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="1259" y="1231" width="94" height="82" />
+        <cmp x="1282" y="1254" width="7" height="67" />
+        <cmp x="1355" y="1266" width="39" height="50" />
+      </word>
+      <word id="a02-116-03-07" tag="NN$" text="committee&apos;s">
+        <cmp x="1454" y="1259" width="146" height="59" />
+        <cmp x="1604" y="1267" width="63" height="47" />
+        <cmp x="1674" y="1246" width="7" height="7" />
+        <cmp x="1679" y="1275" width="4" height="34" />
+        <cmp x="1690" y="1231" width="73" height="87" />
+        <cmp x="1752" y="1264" width="51" height="47" />
+        <cmp x="1814" y="1242" width="5" height="14" />
+        <cmp x="1840" y="1258" width="57" height="52" />
+      </word>
+      <upper-contour>
+        <point x="338" y="1175" />
+        <point x="1898" y="1175" />
+      </upper-contour>
+      <lower-contour>
+        <point x="330" y="1351" />
+        <point x="1898" y="1351" />
+      </lower-contour>
+    </line>
+    <line ass="67" asx="0" asy="1403" character-width="999" dss="67" dsx="0" dsy="1549" fd0="13110" fd1="2187" fd2="-2093" filter-width="3" id="a02-116-04" lbs="73" lbx="0" lby="1486" segmentation="ok" slant="90000" stroke-width="5091" threshold="182" text="president 89-year-old Earl Russell and" ubs="55" ubx="0" uby="1449">
+      <word id="a02-116-04-00" tag="NN" text="president">
+        <cmp x="329" y="1446" width="42" height="83" />
+        <cmp x="378" y="1444" width="21" height="53" />
+        <cmp x="398" y="1439" width="94" height="57" />
+        <cmp x="480" y="1424" width="5" height="5" />
+        <cmp x="501" y="1419" width="46" height="77" />
+        <cmp x="547" y="1441" width="88" height="55" />
+        <cmp x="637" y="1422" width="29" height="69" />
+      </word>
+      <word id="a02-116-04-01" tag="JJB" text="89-year-old">
+        <cmp x="734" y="1424" width="103" height="76" />
+        <cmp x="860" y="1465" width="21" height="8" />
+        <cmp x="929" y="1447" width="41" height="101" />
+        <cmp x="972" y="1443" width="99" height="58" />
+        <cmp x="1068" y="1455" width="52" height="42" />
+        <cmp x="1077" y="1441" width="27" height="13" />
+        <cmp x="1144" y="1471" width="17" height="4" />
+        <cmp x="1178" y="1428" width="65" height="67" />
+        <cmp x="1246" y="1424" width="54" height="71" />
+      </word>
+      <word id="a02-116-04-02" tag="NPT" text="Earl">
+        <cmp x="1388" y="1422" width="159" height="71" />
+      </word>
+      <word id="a02-116-04-03" tag="NP" text="Russell">
+        <cmp x="1585" y="1402" width="103" height="100" />
+        <cmp x="1688" y="1427" width="172" height="67" />
+        <cmp x="1859" y="1436" width="9" height="53" />
+        <cmp x="1866" y="1431" width="3" height="4" />
+      </word>
+      <word id="a02-116-04-04" tag="CC" text="and">
+        <cmp x="1925" y="1417" width="142" height="79" />
+      </word>
+      <upper-contour>
+        <point x="330" y="1351" />
+        <point x="1898" y="1351" />
+      </upper-contour>
+      <lower-contour>
+        <point x="334" y="1548" />
+        <point x="2068" y="1548" />
+      </lower-contour>
+    </line>
+    <line ass="122" asx="0" asy="1580" character-width="999" dss="122" dsx="0" dsy="1732" fd0="13050" fd1="2602" fd2="-1565" filter-width="3" id="a02-116-05" lbs="199" lbx="0" lby="1663" segmentation="ok" slant="84000" stroke-width="5205" threshold="182" text="his 61-year-old wife were each jailed for" ubs="-32" ubx="0" uby="1629">
+      <word id="a02-116-05-00" tag="PP$" text="his">
+        <cmp x="336" y="1584" width="37" height="77" />
+        <cmp x="381" y="1614" width="61" height="58" />
+        <cmp x="387" y="1590" width="7" height="4" />
+      </word>
+      <word id="a02-116-05-01" tag="JJB" text="61-year-old">
+        <cmp x="495" y="1598" width="78" height="77" />
+        <cmp x="614" y="1645" width="25" height="8" />
+        <cmp x="649" y="1622" width="187" height="105" />
+        <cmp x="653" y="1635" width="4" height="3" />
+        <cmp x="860" y="1649" width="23" height="7" />
+        <cmp x="899" y="1620" width="58" height="60" />
+        <cmp x="958" y="1605" width="11" height="71" />
+        <cmp x="968" y="1606" width="53" height="67" />
+      </word>
+      <word id="a02-116-05-02" tag="NN" text="wife">
+        <cmp x="1094" y="1578" width="144" height="144" />
+        <cmp x="1155" y="1592" width="6" height="9" />
+      </word>
+      <word id="a02-116-05-03" tag="BED" text="were">
+        <cmp x="1299" y="1625" width="129" height="55" />
+        <cmp x="1425" y="1624" width="41" height="54" />
+      </word>
+      <word id="a02-116-05-04" tag="DT" text="each">
+        <cmp x="1515" y="1607" width="179" height="69" />
+      </word>
+      <word id="a02-116-05-05" tag="VBN" text="jailed">
+        <cmp x="1732" y="1639" width="25" height="88" />
+        <cmp x="1752" y="1603" width="6" height="7" />
+        <cmp x="1762" y="1631" width="64" height="50" />
+        <cmp x="1806" y="1607" width="7" height="10" />
+        <cmp x="1835" y="1604" width="46" height="71" />
+        <cmp x="1882" y="1609" width="57" height="67" />
+      </word>
+      <word id="a02-116-05-06" tag="IN" text="for">
+        <cmp x="1977" y="1579" width="56" height="150" />
+        <cmp x="2014" y="1622" width="78" height="53" />
+        <cmp x="2024" y="1618" width="5" height="10" />
+      </word>
+      <upper-contour>
+        <point x="334" y="1548" />
+        <point x="2068" y="1548" />
+      </upper-contour>
+      <lower-contour>
+        <point x="342" y="1728" />
+        <point x="2093" y="1728" />
+      </lower-contour>
+    </line>
+    <line ass="20" asx="0" asy="1743" character-width="999" dss="20" dsx="0" dsy="1902" fd0="12817" fd1="2314" fd2="-1833" filter-width="3" id="a02-116-06" lbs="23" lbx="0" lby="1843" segmentation="err" slant="89000" stroke-width="5136" threshold="182" text="a week. Playwrights Arnold Wesker (The Kitchen)" ubs="14" ubx="0" uby="1797">
+      <word id="a02-116-06-00" tag="AT" text="a">
+        <cmp x="344" y="1798" width="37" height="54" />
+      </word>
+      <word id="a02-116-06-01" tag="NN" text="week">
+        <cmp x="432" y="1796" width="48" height="54" />
+        <cmp x="485" y="1788" width="132" height="66" />
+      </word>
+      <word id="a02-116-06-02" tag="." text=".">
+        <cmp x="650" y="1831" width="5" height="21" />
+      </word>
+      <word id="a02-116-06-03" sentence-start="yes" tag="NNS" text="Playwrights">
+        <cmp x="703" y="1752" width="114" height="97" />
+        <cmp x="732" y="1799" width="3" height="3" />
+        <cmp x="817" y="1798" width="44" height="104" />
+        <cmp x="825" y="1801" width="3" height="4" />
+        <cmp x="862" y="1793" width="97" height="56" />
+        <cmp x="947" y="1768" width="7" height="8" />
+        <cmp x="959" y="1799" width="49" height="100" />
+        <cmp x="1011" y="1778" width="8" height="17" />
+        <cmp x="1012" y="1782" width="95" height="80" />
+      </word>
+      <word id="a02-116-06-04" tag="NP" text="Arnold">
+        <cmp x="1173" y="1777" width="84" height="79" />
+        <cmp x="1257" y="1801" width="41" height="53" />
+        <cmp x="1301" y="1786" width="48" height="68" />
+        <cmp x="1349" y="1783" width="47" height="71" />
+      </word>
+      <word id="a02-116-06-05" tag="NP" text="Wesker">
+        <cmp x="1471" y="1770" width="233" height="91" />
+      </word>
+      <word id="a02-116-06-06" tag="(" text="(">
+        <cmp x="1755" y="1761" width="31" height="95" />
+      </word>
+      <word id="a02-116-06-07" tag="ATI" text="The">
+        <cmp x="1803" y="1763" width="123" height="89" />
+        <cmp x="1824" y="1782" width="12" height="72" />
+      </word>
+      <word id="a02-116-06-08" tag="NN" text="Kitchen">
+        <cmp x="1954" y="1780" width="59" height="74" />
+        <cmp x="2007" y="1788" width="7" height="7" />
+        <cmp x="2019" y="1770" width="35" height="82" />
+        <cmp x="2053" y="1778" width="70" height="73" />
+      </word>
+      <word id="a02-116-06-09" tag=")" text=")">
+        <cmp x="2123" y="1743" width="81" height="117" />
+      </word>
+      <upper-contour>
+        <point x="342" y="1728" />
+        <point x="2093" y="1728" />
+      </upper-contour>
+      <lower-contour>
+        <point x="342" y="1903" />
+        <point x="2087" y="1903" />
+      </lower-contour>
+    </line>
+    <line ass="-289" asx="0" asy="1914" character-width="999" dss="-289" dsx="0" dsy="2091" fd0="13141" fd1="2331" fd2="-1800" filter-width="3" id="a02-116-07" lbs="-197" lbx="0" lby="2019" segmentation="err" slant="89000" stroke-width="5372" threshold="191" text="and Robert Bolt (The Flowering Cherry) were" ubs="-472" ubx="0" uby="1965">
+      <word id="a02-116-07-00" tag="CC" text="and">
+        <cmp x="328" y="1963" width="124" height="70" />
+      </word>
+      <word id="a02-116-07-01" tag="NP" text="Robert">
+        <cmp x="516" y="1941" width="225" height="96" />
+      </word>
+      <word id="a02-116-07-02" tag="NP" text="Bolt">
+        <cmp x="806" y="1951" width="98" height="81" />
+        <cmp x="911" y="1957" width="7" height="64" />
+        <cmp x="921" y="1956" width="25" height="71" />
+      </word>
+      <word id="a02-116-07-03" tag="(" text="(">
+        <cmp x="1006" y="1950" width="21" height="81" />
+      </word>
+      <word id="a02-116-07-04" tag="ATI" text="The">
+        <cmp x="1038" y="1949" width="76" height="78" />
+        <cmp x="1063" y="1965" width="7" height="56" />
+        <cmp x="1115" y="1967" width="38" height="59" />
+      </word>
+      <word id="a02-116-07-05" tag="JJ" text="Flowering">
+        <cmp x="1177" y="1954" width="86" height="87" />
+        <cmp x="1266" y="1985" width="44" height="48" />
+        <cmp x="1315" y="1977" width="133" height="57" />
+        <cmp x="1442" y="1949" width="4" height="7" />
+        <cmp x="1453" y="1973" width="43" height="48" />
+        <cmp x="1477" y="1974" width="74" height="115" />
+      </word>
+      <word id="a02-116-07-06" tag="NN" text="Cherry">
+        <cmp x="1604" y="1951" width="192" height="77" />
+        <cmp x="1786" y="1924" width="75" height="177" />
+      </word>
+      <word id="a02-116-07-07" tag=")" text=")">
+        <cmp x="1907" y="1987" width="65" height="59" />
+      </word>
+      <word id="a02-116-07-08" tag="BED" text="were">
+        <cmp x="1970" y="1986" width="116" height="51" />
+      </word>
+      <upper-contour>
+        <point x="342" y="1903" />
+        <point x="2087" y="1903" />
+      </upper-contour>
+      <lower-contour>
+        <point x="343" y="2038" />
+        <point x="1129" y="2038" />
+      </lower-contour>
+    </line>
+    <line ass="-731" asx="0" asy="2111" character-width="999" dss="-731" dsx="0" dsy="2258" fd0="12663" fd1="2607" fd2="-1704" filter-width="3" id="a02-116-08" lbs="-914" lbx="0" lby="2197" segmentation="ok" slant="87000" stroke-width="5013" threshold="182" text="jailed for a month." ubs="-367" ubx="0" uby="2164">
+      <word id="a02-116-08-00" tag="VBN" text="jailed">
+        <cmp x="345" y="2156" width="17" height="106" />
+        <cmp x="358" y="2123" width="5" height="8" />
+        <cmp x="366" y="2158" width="60" height="59" />
+        <cmp x="402" y="2132" width="5" height="9" />
+        <cmp x="432" y="2125" width="80" height="86" />
+      </word>
+      <word id="a02-116-08-01" tag="IN" text="for">
+        <cmp x="567" y="2120" width="34" height="132" />
+        <cmp x="600" y="2159" width="66" height="50" />
+        <cmp x="603" y="2120" width="7" height="37" />
+      </word>
+      <word id="a02-116-08-02" tag="AT" text="a">
+        <cmp x="744" y="2159" width="44" height="53" />
+      </word>
+      <word id="a02-116-08-03" tag="NN" text="month">
+        <cmp x="851" y="2165" width="77" height="52" />
+        <cmp x="928" y="2166" width="88" height="51" />
+        <cmp x="1022" y="2131" width="79" height="83" />
+      </word>
+      <word id="a02-116-08-04" tag="." text=".">
+        <cmp x="1120" y="2196" width="8" height="19" />
+      </word>
+      <upper-contour>
+        <point x="343" y="2038" />
+        <point x="1129" y="2038" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

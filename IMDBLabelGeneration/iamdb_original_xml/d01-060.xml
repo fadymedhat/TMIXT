@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-16" height="3542" id="d01-060" last-modified="2002-07-17" skew="95" status="final" version="3.0_beta" width="2479" writer-id="178">
+  <machine-printed-part>
+    <machine-print-line text="At first sight the difference between Souter and the other texts is rather large. But" />
+    <machine-print-line text="the British text includes the paragraph 7.53-8.11, the Woman taken in Adultery, and" />
+    <machine-print-line text="this accounts for 178 words out of 279, which is the difference between the 15,695" />
+    <machine-print-line text="words of Souter&apos;s text and the 15,416 of Nestle&apos;s. The omission or inclusion of this" />
+    <machine-print-line text="paragraph is a matter of editorial decision rather than scribal emendation, and it must" />
+    <machine-print-line text="be included in the Gospel and studied, even if the result of the study were to decide" />
+    <machine-print-line text="that the paragraph should then be excluded." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="481" asx="0" asy="882" character-width="999" dss="481" dsx="0" dsy="1000" fd0="13362" fd1="2597" fd2="-1216" filter-width="3" id="d01-060-00" lbs="658" lbx="0" lby="965" segmentation="ok" slant="84000" stroke-width="4996" threshold="191" text="At first sight the difference between" ubs="128" ubx="0" uby="923">
+      <word id="d01-060-00-00" sentence-start="yes" tag="IN" text="At">
+        <cmp x="440" y="878" width="52" height="78" />
+        <cmp x="495" y="898" width="39" height="64" />
+        <cmp x="517" y="891" width="10" height="7" />
+      </word>
+      <word id="d01-060-00-01" tag="OD" text="first">
+        <cmp x="578" y="941" width="5" height="13" />
+        <cmp x="580" y="880" width="53" height="91" />
+        <cmp x="621" y="878" width="11" height="5" />
+        <cmp x="634" y="879" width="5" height="18" />
+        <cmp x="651" y="919" width="14" height="34" />
+        <cmp x="671" y="881" width="81" height="79" />
+      </word>
+      <word id="d01-060-00-02" tag="NN" text="sight">
+        <cmp x="811" y="906" width="47" height="61" />
+        <cmp x="868" y="916" width="12" height="43" />
+        <cmp x="874" y="886" width="6" height="24" />
+        <cmp x="884" y="920" width="61" height="74" />
+        <cmp x="957" y="888" width="33" height="88" />
+        <cmp x="1005" y="887" width="30" height="73" />
+      </word>
+      <word id="d01-060-00-03" tag="ATI" text="the">
+        <cmp x="1103" y="897" width="19" height="60" />
+        <cmp x="1123" y="928" width="6" height="4" />
+        <cmp x="1151" y="900" width="79" height="58" />
+        <cmp x="1157" y="895" width="5" height="4" />
+      </word>
+      <word id="d01-060-00-04" tag="NN" text="difference">
+        <cmp x="1276" y="886" width="47" height="72" />
+        <cmp x="1334" y="920" width="10" height="32" />
+        <cmp x="1344" y="884" width="7" height="24" />
+        <cmp x="1350" y="883" width="50" height="92" />
+        <cmp x="1393" y="887" width="179" height="90" />
+        <cmp x="1596" y="919" width="69" height="43" />
+        <cmp x="1613" y="920" width="3" height="6" />
+      </word>
+      <word id="d01-060-00-05" tag="IN" text="between">
+        <cmp x="1732" y="886" width="38" height="67" />
+        <cmp x="1780" y="902" width="41" height="44" />
+        <cmp x="1836" y="880" width="252" height="77" />
+        <cmp x="2031" y="913" width="5" height="5" />
+        <cmp x="2037" y="922" width="3" height="5" />
+      </word>
+      <lower-contour>
+        <point x="465" y="994" />
+        <point x="2089" y="994" />
+      </lower-contour>
+    </line>
+    <line ass="-308" asx="0" asy="1042" character-width="999" dss="-308" dsx="0" dsy="1132" fd0="13576" fd1="2990" fd2="-283" filter-width="3" id="d01-060-01" lbs="-407" lbx="0" lby="1119" segmentation="ok" slant="90000" stroke-width="4889" threshold="191" text="Souter and the other texts is rather" ubs="-110" ubx="0" uby="1091">
+      <word id="d01-060-01-00" tag="NP" text="Souter">
+        <cmp x="467" y="1063" width="74" height="60" />
+        <cmp x="550" y="1099" width="44" height="27" />
+        <cmp x="601" y="1098" width="4" height="4" />
+        <cmp x="607" y="1056" width="117" height="79" />
+      </word>
+      <word id="d01-060-01-01" tag="CC" text="and">
+        <cmp x="794" y="1094" width="43" height="37" />
+        <cmp x="856" y="1093" width="34" height="44" />
+        <cmp x="904" y="1080" width="52" height="50" />
+      </word>
+      <word id="d01-060-01-02" tag="ATI" text="the">
+        <cmp x="1039" y="1073" width="155" height="63" />
+      </word>
+      <word id="d01-060-01-03" tag="AP" text="other">
+        <cmp x="1270" y="1095" width="39" height="41" />
+        <cmp x="1291" y="1102" width="8" height="3" />
+        <cmp x="1322" y="1062" width="165" height="73" />
+      </word>
+      <word id="d01-060-01-04" tag="NNS" text="texts">
+        <cmp x="1546" y="1068" width="75" height="74" />
+        <cmp x="1626" y="1084" width="7" height="4" />
+        <cmp x="1626" y="1082" width="55" height="49" />
+        <cmp x="1677" y="1061" width="44" height="71" />
+        <cmp x="1722" y="1094" width="40" height="42" />
+      </word>
+      <word id="d01-060-01-05" tag="BEZ" text="is">
+        <cmp x="1823" y="1107" width="8" height="31" />
+        <cmp x="1848" y="1054" width="8" height="17" />
+        <cmp x="1851" y="1096" width="37" height="45" />
+      </word>
+      <word id="d01-060-01-06" tag="RB" text="rather">
+        <cmp x="1965" y="1079" width="19" height="62" />
+        <cmp x="1992" y="1092" width="37" height="38" />
+        <cmp x="2042" y="1054" width="208" height="89" />
+      </word>
+      <upper-contour>
+        <point x="465" y="994" />
+        <point x="2089" y="994" />
+      </upper-contour>
+      <lower-contour>
+        <point x="472" y="1142" />
+        <point x="2183" y="1142" />
+      </lower-contour>
+    </line>
+    <line ass="-520" asx="0" asy="1216" character-width="999" dss="-520" dsx="0" dsy="1326" fd0="13492" fd1="2843" fd2="-770" filter-width="3" id="d01-060-02" lbs="-553" lbx="0" lby="1298" segmentation="ok" slant="85000" stroke-width="4946" threshold="190" text="large. But the British text includes" ubs="-454" ubx="0" uby="1263">
+      <word id="d01-060-02-00" tag="JJ" text="large">
+        <cmp x="474" y="1235" width="16" height="70" />
+        <cmp x="496" y="1256" width="26" height="41" />
+        <cmp x="539" y="1264" width="16" height="34" />
+        <cmp x="557" y="1264" width="105" height="69" />
+      </word>
+      <word id="d01-060-02-01" tag="." text=".">
+        <cmp x="704" y="1302" width="7" height="7" />
+      </word>
+      <word id="d01-060-02-02" sentence-start="yes" tag="CC" text="But">
+        <cmp x="816" y="1242" width="14" height="59" />
+        <cmp x="828" y="1240" width="47" height="64" />
+        <cmp x="890" y="1273" width="51" height="36" />
+        <cmp x="950" y="1245" width="28" height="65" />
+      </word>
+      <word id="d01-060-02-03" tag="ATI" text="the">
+        <cmp x="1047" y="1250" width="139" height="64" />
+      </word>
+      <word id="d01-060-02-04" tag="JNP" text="British">
+        <cmp x="1257" y="1254" width="11" height="55" />
+        <cmp x="1265" y="1235" width="46" height="79" />
+        <cmp x="1330" y="1263" width="35" height="54" />
+        <cmp x="1371" y="1234" width="4" height="15" />
+        <cmp x="1383" y="1245" width="34" height="66" />
+        <cmp x="1426" y="1276" width="9" height="36" />
+        <cmp x="1444" y="1234" width="4" height="12" />
+        <cmp x="1447" y="1273" width="33" height="48" />
+        <cmp x="1500" y="1253" width="52" height="66" />
+      </word>
+      <word id="d01-060-02-05" tag="NN" text="text">
+        <cmp x="1634" y="1245" width="78" height="81" />
+        <cmp x="1716" y="1270" width="43" height="49" />
+        <cmp x="1764" y="1240" width="32" height="62" />
+      </word>
+      <word id="d01-060-02-06" tag="VBZ" text="includes">
+        <cmp x="1850" y="1269" width="13" height="40" />
+        <cmp x="1862" y="1234" width="9" height="24" />
+        <cmp x="1885" y="1271" width="28" height="49" />
+        <cmp x="1935" y="1288" width="26" height="30" />
+        <cmp x="1962" y="1304" width="5" height="7" />
+        <cmp x="1982" y="1250" width="17" height="61" />
+        <cmp x="2004" y="1280" width="29" height="42" />
+        <cmp x="2040" y="1261" width="92" height="55" />
+        <cmp x="2151" y="1285" width="31" height="45" />
+      </word>
+      <upper-contour>
+        <point x="472" y="1142" />
+        <point x="2183" y="1142" />
+      </upper-contour>
+      <lower-contour>
+        <point x="472" y="1332" />
+        <point x="2183" y="1332" />
+      </lower-contour>
+    </line>
+    <line ass="-222" asx="0" asy="1411" character-width="999" dss="-222" dsx="0" dsy="1530" fd0="13237" fd1="2790" fd2="-266" filter-width="3" id="d01-060-03" lbs="-202" lbx="0" lby="1481" segmentation="ok" slant="86000" stroke-width="4830" threshold="188" text="the paragraph 7.53-8.11, the Woman" ubs="-262" ubx="0" uby="1445">
+      <word id="d01-060-03-00" tag="ATI" text="the">
+        <cmp x="468" y="1414" width="46" height="65" />
+        <cmp x="514" y="1417" width="76" height="67" />
+      </word>
+      <word id="d01-060-03-01" tag="NN" text="paragraph">
+        <cmp x="680" y="1444" width="41" height="87" />
+        <cmp x="683" y="1467" width="6" height="4" />
+        <cmp x="740" y="1453" width="27" height="36" />
+        <cmp x="781" y="1453" width="12" height="38" />
+        <cmp x="800" y="1455" width="31" height="32" />
+        <cmp x="845" y="1451" width="47" height="73" />
+        <cmp x="905" y="1451" width="24" height="46" />
+        <cmp x="939" y="1454" width="29" height="44" />
+        <cmp x="992" y="1457" width="41" height="77" />
+        <cmp x="1052" y="1423" width="35" height="74" />
+      </word>
+      <word id="d01-060-03-02" tag="CD-CD" text="7.53-8.11">
+        <cmp x="1190" y="1429" width="69" height="51" />
+        <cmp x="1232" y="1481" width="3" height="7" />
+        <cmp x="1277" y="1477" width="8" height="14" />
+        <cmp x="1308" y="1426" width="43" height="55" />
+        <cmp x="1365" y="1422" width="58" height="58" />
+        <cmp x="1453" y="1442" width="24" height="5" />
+        <cmp x="1509" y="1427" width="56" height="61" />
+        <cmp x="1589" y="1479" width="7" height="10" />
+        <cmp x="1639" y="1434" width="9" height="53" />
+        <cmp x="1671" y="1435" width="7" height="51" />
+      </word>
+      <word id="d01-060-03-03" tag="," text=",">
+        <cmp x="1742" y="1481" width="7" height="46" />
+      </word>
+      <word id="d01-060-03-04" tag="ATI" text="the">
+        <cmp x="1789" y="1428" width="152" height="69" />
+      </word>
+      <word id="d01-060-03-05" tag="NN" text="Woman">
+        <cmp x="2011" y="1426" width="62" height="76" />
+        <cmp x="2083" y="1459" width="52" height="36" />
+        <cmp x="2146" y="1446" width="59" height="48" />
+        <cmp x="2222" y="1452" width="35" height="28" />
+        <cmp x="2274" y="1450" width="50" height="37" />
+      </word>
+      <upper-contour>
+        <point x="472" y="1332" />
+        <point x="2183" y="1332" />
+      </upper-contour>
+      <lower-contour>
+        <point x="471" y="1534" />
+        <point x="2129" y="1534" />
+      </lower-contour>
+    </line>
+    <line ass="-290" asx="0" asy="1586" character-width="999" dss="-290" dsx="0" dsy="1709" fd0="12959" fd1="2775" fd2="-404" filter-width="3" id="d01-060-04" lbs="-208" lbx="0" lby="1664" segmentation="ok" slant="90000" stroke-width="4854" threshold="187" text="taken in Adultery, and this accounts" ubs="-453" ubx="0" uby="1618">
+      <word id="d01-060-04-00" tag="VBN" text="taken">
+        <cmp x="473" y="1594" width="43" height="73" />
+        <cmp x="518" y="1620" width="28" height="46" />
+        <cmp x="564" y="1600" width="13" height="63" />
+        <cmp x="573" y="1622" width="123" height="53" />
+      </word>
+      <word id="d01-060-04-01" tag="IN" text="in">
+        <cmp x="763" y="1594" width="18" height="80" />
+        <cmp x="802" y="1629" width="39" height="46" />
+      </word>
+      <word id="d01-060-04-02" tag="NN" text="Adultery">
+        <cmp x="933" y="1603" width="20" height="70" />
+        <cmp x="953" y="1600" width="20" height="69" />
+        <cmp x="997" y="1601" width="51" height="64" />
+        <cmp x="1053" y="1628" width="35" height="36" />
+        <cmp x="1104" y="1611" width="19" height="49" />
+        <cmp x="1134" y="1594" width="81" height="71" />
+        <cmp x="1228" y="1645" width="45" height="72" />
+      </word>
+      <word id="d01-060-04-03" tag="," text=",">
+        <cmp x="1326" y="1665" width="7" height="51" />
+      </word>
+      <word id="d01-060-04-04" tag="CC" text="and">
+        <cmp x="1385" y="1622" width="38" height="37" />
+        <cmp x="1435" y="1628" width="27" height="45" />
+        <cmp x="1476" y="1615" width="49" height="50" />
+      </word>
+      <word id="d01-060-04-05" tag="DT" text="this">
+        <cmp x="1580" y="1601" width="85" height="76" />
+        <cmp x="1668" y="1642" width="9" height="34" />
+        <cmp x="1689" y="1595" width="5" height="22" />
+        <cmp x="1696" y="1641" width="37" height="40" />
+      </word>
+      <word id="d01-060-04-06" tag="VBZ" text="accounts">
+        <cmp x="1799" y="1625" width="38" height="47" />
+        <cmp x="1847" y="1628" width="26" height="45" />
+        <cmp x="1890" y="1629" width="27" height="46" />
+        <cmp x="1925" y="1638" width="116" height="37" />
+        <cmp x="2059" y="1632" width="3" height="4" />
+        <cmp x="2063" y="1602" width="65" height="76" />
+      </word>
+      <upper-contour>
+        <point x="471" y="1534" />
+        <point x="2129" y="1534" />
+      </upper-contour>
+      <lower-contour>
+        <point x="471" y="1717" />
+        <point x="2129" y="1717" />
+      </lower-contour>
+    </line>
+    <line ass="-784" asx="0" asy="1742" character-width="999" dss="-784" dsx="0" dsy="1868" fd0="13359" fd1="3097" fd2="-164" filter-width="3" id="d01-060-05" lbs="-896" lbx="0" lby="1824" segmentation="ok" slant="90000" stroke-width="4808" threshold="189" text="for 178 words out of 279, which is" ubs="-559" ubx="0" uby="1794">
+      <word id="d01-060-05-00" tag="IN" text="for">
+        <cmp x="466" y="1777" width="67" height="77" />
+        <cmp x="549" y="1797" width="25" height="47" />
+      </word>
+      <word id="d01-060-05-01" tag="CD" text="178">
+        <cmp x="680" y="1775" width="11" height="72" />
+        <cmp x="707" y="1775" width="55" height="62" />
+        <cmp x="773" y="1782" width="53" height="63" />
+      </word>
+      <word id="d01-060-05-02" tag="NNS" text="words">
+        <cmp x="908" y="1798" width="48" height="42" />
+        <cmp x="958" y="1800" width="48" height="30" />
+        <cmp x="1014" y="1798" width="8" height="33" />
+        <cmp x="1023" y="1777" width="45" height="57" />
+        <cmp x="1079" y="1795" width="42" height="55" />
+      </word>
+      <word id="d01-060-05-03" tag="RP" text="out">
+        <cmp x="1186" y="1804" width="72" height="40" />
+        <cmp x="1269" y="1779" width="25" height="74" />
+      </word>
+      <word id="d01-060-05-04" tag="INO" text="of">
+        <cmp x="1343" y="1806" width="42" height="41" />
+        <cmp x="1390" y="1771" width="48" height="95" />
+      </word>
+      <word id="d01-060-05-05" tag="CD" text="279">
+        <cmp x="1526" y="1781" width="58" height="63" />
+        <cmp x="1605" y="1783" width="44" height="50" />
+        <cmp x="1665" y="1793" width="49" height="66" />
+      </word>
+      <word id="d01-060-05-06" tag="," text=",">
+        <cmp x="1755" y="1850" width="21" height="43" />
+      </word>
+      <word id="d01-060-05-07" tag="WDT" text="which">
+        <cmp x="1825" y="1808" width="54" height="43" />
+        <cmp x="1884" y="1783" width="42" height="73" />
+        <cmp x="1936" y="1816" width="7" height="35" />
+        <cmp x="1947" y="1770" width="5" height="24" />
+        <cmp x="1961" y="1790" width="94" height="68" />
+      </word>
+      <word id="d01-060-05-08" tag="BEZ" text="is">
+        <cmp x="2135" y="1807" width="7" height="52" />
+        <cmp x="2146" y="1775" width="6" height="22" />
+        <cmp x="2161" y="1810" width="45" height="47" />
+      </word>
+      <upper-contour>
+        <point x="471" y="1717" />
+        <point x="2129" y="1717" />
+      </upper-contour>
+      <lower-contour>
+        <point x="464" y="1893" />
+        <point x="2207" y="1893" />
+      </lower-contour>
+    </line>
+    <line ass="-236" asx="0" asy="1941" character-width="999" dss="-236" dsx="0" dsy="2036" fd0="12975" fd1="2482" fd2="-709" filter-width="3" id="d01-060-06" lbs="-239" lbx="0" lby="2018" segmentation="ok" slant="90000" stroke-width="4879" threshold="191" text="the difference between the 15,695 words" ubs="-230" ubx="0" uby="1980">
+      <word id="d01-060-06-00" tag="ATI" text="the">
+        <cmp x="462" y="1944" width="24" height="75" />
+        <cmp x="502" y="1953" width="63" height="64" />
+      </word>
+      <word id="d01-060-06-01" tag="NN" text="difference">
+        <cmp x="629" y="1966" width="48" height="57" />
+        <cmp x="687" y="1960" width="7" height="16" />
+        <cmp x="692" y="2004" width="5" height="20" />
+        <cmp x="706" y="1956" width="155" height="85" />
+        <cmp x="853" y="1980" width="90" height="46" />
+        <cmp x="951" y="1982" width="78" height="42" />
+      </word>
+      <word id="d01-060-06-02" tag="IN" text="between">
+        <cmp x="1101" y="1961" width="35" height="67" />
+        <cmp x="1142" y="1991" width="49" height="41" />
+        <cmp x="1192" y="1956" width="220" height="75" />
+      </word>
+      <word id="d01-060-06-03" tag="ATI" text="the">
+        <cmp x="1499" y="1959" width="133" height="65" />
+      </word>
+      <word id="d01-060-06-04" tag="CD" text="15,695">
+        <cmp x="1700" y="1966" width="8" height="55" />
+        <cmp x="1705" y="1961" width="6" height="4" />
+        <cmp x="1730" y="1962" width="52" height="57" />
+        <cmp x="1794" y="2010" width="8" height="31" />
+        <cmp x="1832" y="1964" width="23" height="63" />
+        <cmp x="1868" y="1973" width="40" height="52" />
+        <cmp x="1922" y="1974" width="30" height="45" />
+        <cmp x="1957" y="1976" width="37" height="4" />
+      </word>
+      <word id="d01-060-06-05" tag="NNS" text="words">
+        <cmp x="2036" y="1985" width="44" height="44" />
+        <cmp x="2083" y="1995" width="47" height="29" />
+        <cmp x="2134" y="1995" width="8" height="31" />
+        <cmp x="2148" y="1975" width="45" height="49" />
+        <cmp x="2212" y="1991" width="32" height="51" />
+      </word>
+      <upper-contour>
+        <point x="464" y="1893" />
+        <point x="2207" y="1893" />
+      </upper-contour>
+      <lower-contour>
+        <point x="460" y="2043" />
+        <point x="2245" y="2043" />
+      </lower-contour>
+    </line>
+    <line ass="-100" asx="0" asy="2130" character-width="999" dss="-100" dsx="0" dsy="2234" fd0="13429" fd1="2901" fd2="-454" filter-width="3" id="d01-060-07" lbs="-172" lbx="0" lby="2198" segmentation="ok" slant="90000" stroke-width="4742" threshold="189" text="of Souter&apos;s text and the 15,416 of Nestle&apos;s." ubs="44" ubx="0" uby="2163">
+      <word id="d01-060-07-00" tag="INO" text="of">
+        <cmp x="459" y="2172" width="35" height="40" />
+        <cmp x="501" y="2140" width="38" height="87" />
+      </word>
+      <word id="d01-060-07-01" tag="NP$" text="Souter&apos;s">
+        <cmp x="625" y="2139" width="87" height="72" />
+        <cmp x="718" y="2143" width="127" height="70" />
+        <cmp x="874" y="2133" width="12" height="29" />
+        <cmp x="898" y="2157" width="40" height="51" />
+      </word>
+      <word id="d01-060-07-02" tag="NN" text="text">
+        <cmp x="982" y="2149" width="120" height="58" />
+        <cmp x="1103" y="2133" width="27" height="67" />
+      </word>
+      <word id="d01-060-07-03" tag="CC" text="and">
+        <cmp x="1192" y="2145" width="32" height="34" />
+        <cmp x="1232" y="2154" width="23" height="36" />
+        <cmp x="1263" y="2163" width="34" height="26" />
+        <cmp x="1297" y="2141" width="11" height="51" />
+      </word>
+      <word id="d01-060-07-04" tag="ATI" text="the">
+        <cmp x="1374" y="2147" width="154" height="58" />
+      </word>
+      <word id="d01-060-07-05" tag="CD" text="15,416">
+        <cmp x="1600" y="2146" width="10" height="70" />
+        <cmp x="1627" y="2146" width="27" height="55" />
+        <cmp x="1642" y="2150" width="30" height="8" />
+        <cmp x="1686" y="2187" width="9" height="30" />
+        <cmp x="1723" y="2143" width="36" height="57" />
+        <cmp x="1779" y="2144" width="13" height="48" />
+        <cmp x="1809" y="2143" width="31" height="61" />
+      </word>
+      <word id="d01-060-07-06" tag="INO" text="of">
+        <cmp x="1896" y="2184" width="43" height="25" />
+        <cmp x="1955" y="2137" width="32" height="91" />
+      </word>
+      <word id="d01-060-07-07" tag="NP$" text="Nestle&apos;s">
+        <cmp x="2036" y="2151" width="9" height="59" />
+        <cmp x="2049" y="2146" width="30" height="56" />
+        <cmp x="2099" y="2163" width="30" height="42" />
+        <cmp x="2143" y="2163" width="34" height="47" />
+        <cmp x="2187" y="2146" width="22" height="63" />
+        <cmp x="2223" y="2160" width="46" height="51" />
+        <cmp x="2296" y="2152" width="6" height="30" />
+        <cmp x="2304" y="2192" width="33" height="47" />
+      </word>
+      <word id="d01-060-07-08" tag="." text=".">
+        <cmp x="2363" y="2209" width="6" height="9" />
+      </word>
+      <upper-contour>
+        <point x="460" y="2043" />
+        <point x="2245" y="2043" />
+      </upper-contour>
+      <lower-contour>
+        <point x="474" y="2240" />
+        <point x="2320" y="2240" />
+      </lower-contour>
+    </line>
+    <line ass="-731" asx="0" asy="2291" character-width="999" dss="-731" dsx="0" dsy="2407" fd0="13561" fd1="3024" fd2="-605" filter-width="3" id="d01-060-08" lbs="-718" lbx="0" lby="2372" segmentation="ok" slant="90000" stroke-width="4859" threshold="188" text="The omission or inclusion of this paragraph" ubs="-757" ubx="0" uby="2337">
+      <word id="d01-060-08-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="476" y="2320" width="36" height="58" />
+        <cmp x="512" y="2328" width="77" height="53" />
+      </word>
+      <word id="d01-060-08-01" tag="NN" text="omission">
+        <cmp x="654" y="2353" width="49" height="37" />
+        <cmp x="710" y="2344" width="54" height="38" />
+        <cmp x="773" y="2364" width="9" height="25" />
+        <cmp x="792" y="2313" width="8" height="15" />
+        <cmp x="803" y="2349" width="39" height="28" />
+        <cmp x="858" y="2349" width="27" height="48" />
+        <cmp x="899" y="2358" width="12" height="27" />
+        <cmp x="911" y="2311" width="4" height="17" />
+        <cmp x="916" y="2352" width="46" height="33" />
+        <cmp x="970" y="2356" width="34" height="37" />
+      </word>
+      <word id="d01-060-08-02" tag="CC" text="or">
+        <cmp x="1086" y="2341" width="47" height="40" />
+        <cmp x="1142" y="2346" width="14" height="44" />
+      </word>
+      <word id="d01-060-08-03" tag="NN" text="inclusion">
+        <cmp x="1219" y="2346" width="7" height="45" />
+        <cmp x="1225" y="2313" width="4" height="16" />
+        <cmp x="1241" y="2357" width="20" height="32" />
+        <cmp x="1271" y="2351" width="37" height="38" />
+        <cmp x="1312" y="2311" width="19" height="83" />
+        <cmp x="1337" y="2342" width="34" height="42" />
+        <cmp x="1374" y="2382" width="8" height="6" />
+        <cmp x="1380" y="2341" width="31" height="44" />
+        <cmp x="1421" y="2361" width="11" height="29" />
+        <cmp x="1439" y="2324" width="4" height="22" />
+        <cmp x="1443" y="2357" width="41" height="30" />
+        <cmp x="1484" y="2370" width="40" height="29" />
+      </word>
+      <word id="d01-060-08-04" tag="INO" text="of">
+        <cmp x="1589" y="2344" width="51" height="42" />
+        <cmp x="1640" y="2313" width="44" height="88" />
+      </word>
+      <word id="d01-060-08-05" tag="DT" text="this">
+        <cmp x="1722" y="2316" width="105" height="74" />
+        <cmp x="1838" y="2369" width="6" height="20" />
+        <cmp x="1851" y="2314" width="11" height="29" />
+        <cmp x="1869" y="2360" width="33" height="39" />
+      </word>
+      <word id="d01-060-08-06" tag="NN" text="paragraph">
+        <cmp x="1959" y="2346" width="84" height="83" />
+        <cmp x="2051" y="2350" width="16" height="35" />
+        <cmp x="2067" y="2357" width="36" height="42" />
+        <cmp x="2113" y="2424" width="8" height="3" />
+        <cmp x="2116" y="2362" width="53" height="74" />
+        <cmp x="2177" y="2353" width="11" height="29" />
+        <cmp x="2194" y="2357" width="30" height="28" />
+        <cmp x="2234" y="2365" width="42" height="56" />
+        <cmp x="2282" y="2339" width="37" height="55" />
+      </word>
+      <upper-contour>
+        <point x="474" y="2240" />
+        <point x="2320" y="2240" />
+      </upper-contour>
+      <lower-contour>
+        <point x="490" y="2437" />
+        <point x="2215" y="2437" />
+      </lower-contour>
+    </line>
+    <line ass="-389" asx="0" asy="2476" character-width="999" dss="-389" dsx="0" dsy="2574" fd0="13600" fd1="2912" fd2="-448" filter-width="3" id="d01-060-09" lbs="-371" lbx="0" lby="2557" segmentation="ok" slant="83000" stroke-width="4905" threshold="189" text="is a matter of editorial decision rather" ubs="-425" ubx="0" uby="2522">
+      <word id="d01-060-09-00" tag="BEZ" text="is">
+        <cmp x="492" y="2532" width="13" height="34" />
+        <cmp x="503" y="2493" width="6" height="17" />
+        <cmp x="524" y="2528" width="41" height="39" />
+      </word>
+      <word id="d01-060-09-01" tag="AT" text="a">
+        <cmp x="621" y="2522" width="43" height="47" />
+      </word>
+      <word id="d01-060-09-02" tag="NN" text="matter">
+        <cmp x="741" y="2517" width="42" height="40" />
+        <cmp x="785" y="2526" width="31" height="32" />
+        <cmp x="829" y="2497" width="35" height="63" />
+        <cmp x="870" y="2512" width="94" height="62" />
+      </word>
+      <word id="d01-060-09-03" tag="INO" text="of">
+        <cmp x="1037" y="2522" width="47" height="41" />
+        <cmp x="1099" y="2487" width="41" height="80" />
+      </word>
+      <word id="d01-060-09-04" tag="JJ" text="editorial">
+        <cmp x="1200" y="2527" width="39" height="41" />
+        <cmp x="1246" y="2505" width="50" height="55" />
+        <cmp x="1314" y="2534" width="6" height="24" />
+        <cmp x="1322" y="2486" width="5" height="16" />
+        <cmp x="1344" y="2502" width="46" height="70" />
+        <cmp x="1405" y="2501" width="4" height="5" />
+        <cmp x="1405" y="2543" width="35" height="27" />
+        <cmp x="1442" y="2545" width="35" height="23" />
+        <cmp x="1483" y="2541" width="33" height="33" />
+        <cmp x="1531" y="2516" width="26" height="55" />
+      </word>
+      <word id="d01-060-09-05" tag="NN" text="decision">
+        <cmp x="1622" y="2494" width="93" height="64" />
+        <cmp x="1726" y="2521" width="50" height="46" />
+        <cmp x="1786" y="2489" width="10" height="33" />
+        <cmp x="1794" y="2535" width="36" height="36" />
+        <cmp x="1840" y="2550" width="11" height="29" />
+        <cmp x="1856" y="2515" width="4" height="7" />
+        <cmp x="1856" y="2544" width="38" height="35" />
+        <cmp x="1904" y="2545" width="38" height="35" />
+      </word>
+      <word id="d01-060-09-06" tag="RB" text="rather">
+        <cmp x="2007" y="2528" width="18" height="50" />
+        <cmp x="2031" y="2526" width="31" height="37" />
+        <cmp x="2072" y="2502" width="143" height="88" />
+      </word>
+      <upper-contour>
+        <point x="490" y="2437" />
+        <point x="2215" y="2437" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

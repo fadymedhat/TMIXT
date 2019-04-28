@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-03-16" height="3542" id="a05-069" last-modified="2002-07-17" skew="159" status="final" version="3.0_beta" width="2479" writer-id="000">
+  <machine-printed-part>
+    <machine-print-line text="It was the end of a rather curious speech in which Mr. Macmillan wound up the" />
+    <machine-print-line text="two-day debate on foreign affairs. He began in a low, almost chatty monotone, and" />
+    <machine-print-line text="his voice never rose to any accent of urgency. He passed in rapid review the United" />
+    <machine-print-line text="Nations Secretariat; nuclear tests; the canard about British interference with the" />
+    <machine-print-line text="United Nations in the Congo; Kuwait; and South-East Asia." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-151" asx="0" asy="751" character-width="999" dss="-151" dsx="0" dsy="810" fd0="13659" fd1="3076" fd2="753" filter-width="4" id="a05-069-00" lbs="-172" lbx="0" lby="805" segmentation="ok" slant="106000" stroke-width="6517" threshold="173" text="It was the end of a rather curious" ubs="-108" ubx="0" uby="784">
+      <word id="a05-069-00-00" sentence-start="yes" tag="PP3" text="It">
+        <cmp x="383" y="756" width="57" height="57" />
+      </word>
+      <word id="a05-069-00-01" tag="BEDZ" text="was">
+        <cmp x="495" y="786" width="138" height="25" />
+      </word>
+      <word id="a05-069-00-02" tag="ATI" text="the">
+        <cmp x="678" y="765" width="141" height="45" />
+      </word>
+      <word id="a05-069-00-03" tag="NN" text="end">
+        <cmp x="888" y="787" width="83" height="22" />
+        <cmp x="975" y="776" width="49" height="35" />
+      </word>
+      <word id="a05-069-00-04" tag="INO" text="of">
+        <cmp x="1125" y="786" width="28" height="24" />
+        <cmp x="1160" y="756" width="32" height="57" />
+      </word>
+      <word id="a05-069-00-05" tag="AT" text="a">
+        <cmp x="1247" y="765" width="38" height="40" />
+        <cmp x="1285" y="771" width="40" height="37" />
+        <cmp x="1335" y="784" width="35" height="23" />
+      </word>
+      <word id="a05-069-00-06" tag="RB" text="rather">
+        <cmp x="1427" y="790" width="21" height="14" />
+        <cmp x="1453" y="785" width="57" height="24" />
+        <cmp x="1503" y="770" width="159" height="40" />
+      </word>
+      <word id="a05-069-00-07" tag="JJ" text="curious">
+        <cmp x="1752" y="786" width="125" height="27" />
+        <cmp x="1864" y="765" width="8" height="11" />
+        <cmp x="1891" y="794" width="109" height="23" />
+      </word>
+      <lower-contour>
+        <point x="381" y="819" />
+        <point x="2001" y="819" />
+      </lower-contour>
+    </line>
+    <line ass="-214" asx="0" asy="941" character-width="999" dss="-214" dsx="0" dsy="1003" fd0="14163" fd1="3575" fd2="545" filter-width="4" id="a05-069-01" lbs="-232" lbx="0" lby="986" segmentation="ok" slant="106000" stroke-width="6578" threshold="173" text="speech in which Mr. Macmillan wound up" ubs="-180" ubx="0" uby="966">
+      <word id="a05-069-01-00" tag="NN" text="speech">
+        <cmp x="359" y="965" width="22" height="27" />
+        <cmp x="384" y="965" width="33" height="34" />
+        <cmp x="423" y="958" width="70" height="29" />
+        <cmp x="498" y="963" width="93" height="26" />
+      </word>
+      <word id="a05-069-01-01" tag="IN" text="in">
+        <cmp x="683" y="946" width="11" height="9" />
+        <cmp x="683" y="976" width="65" height="11" />
+      </word>
+      <word id="a05-069-01-02" tag="WDT" text="which">
+        <cmp x="828" y="964" width="57" height="34" />
+        <cmp x="885" y="961" width="80" height="30" />
+        <cmp x="939" y="946" width="9" height="7" />
+        <cmp x="973" y="967" width="79" height="25" />
+      </word>
+      <word id="a05-069-01-03" tag="NPT" text="Mr.">
+        <cmp x="1149" y="949" width="107" height="40" />
+        <cmp x="1270" y="992" width="8" height="7" />
+      </word>
+      <word id="a05-069-01-04" tag="NP" text="Macmillan">
+        <cmp x="1347" y="952" width="51" height="46" />
+        <cmp x="1401" y="969" width="52" height="25" />
+        <cmp x="1451" y="967" width="38" height="24" />
+        <cmp x="1498" y="972" width="59" height="20" />
+        <cmp x="1546" y="947" width="9" height="16" />
+        <cmp x="1572" y="958" width="37" height="35" />
+        <cmp x="1620" y="971" width="69" height="23" />
+      </word>
+      <word id="a05-069-01-05" tag="VBD" text="wound">
+        <cmp x="1784" y="963" width="154" height="34" />
+        <cmp x="1935" y="955" width="24" height="40" />
+        <cmp x="1962" y="950" width="42" height="38" />
+      </word>
+      <word id="a05-069-01-06" tag="RP" text="up">
+        <cmp x="2070" y="974" width="35" height="29" />
+        <cmp x="2111" y="969" width="40" height="42" />
+      </word>
+      <upper-contour>
+        <point x="381" y="819" />
+        <point x="2001" y="819" />
+      </upper-contour>
+      <lower-contour>
+        <point x="357" y="1004" />
+        <point x="2100" y="1004" />
+      </lower-contour>
+    </line>
+    <line ass="-490" asx="0" asy="1100" character-width="999" dss="-490" dsx="0" dsy="1175" fd0="13374" fd1="2918" fd2="301" filter-width="4" id="a05-069-02" lbs="-502" lbx="0" lby="1157" segmentation="ok" slant="101000" stroke-width="6772" threshold="174" text="the two-day debate on foreign affairs." ubs="-466" ubx="0" uby="1138">
+      <word id="a05-069-02-00" tag="ATI" text="the">
+        <cmp x="346" y="1139" width="140" height="33" />
+      </word>
+      <word id="a05-069-02-01" tag="JJB" text="two-day">
+        <cmp x="609" y="1132" width="92" height="33" />
+        <cmp x="704" y="1140" width="38" height="29" />
+        <cmp x="760" y="1149" width="22" height="9" />
+        <cmp x="821" y="1132" width="40" height="28" />
+        <cmp x="861" y="1138" width="112" height="46" />
+      </word>
+      <word id="a05-069-02-02" tag="NN" text="debate">
+        <cmp x="1042" y="1124" width="245" height="43" />
+      </word>
+      <word id="a05-069-02-03" tag="IN" text="on">
+        <cmp x="1358" y="1148" width="82" height="27" />
+      </word>
+      <word id="a05-069-02-04" tag="JJ" text="foreign">
+        <cmp x="1502" y="1122" width="29" height="61" />
+        <cmp x="1537" y="1155" width="66" height="23" />
+        <cmp x="1614" y="1147" width="59" height="28" />
+        <cmp x="1648" y="1126" width="10" height="15" />
+        <cmp x="1687" y="1149" width="74" height="39" />
+      </word>
+      <word id="a05-069-02-05" tag="NNS" text="affairs">
+        <cmp x="1837" y="1148" width="47" height="24" />
+        <cmp x="1881" y="1118" width="25" height="64" />
+        <cmp x="1913" y="1119" width="31" height="55" />
+        <cmp x="1951" y="1148" width="58" height="20" />
+        <cmp x="1986" y="1118" width="11" height="12" />
+        <cmp x="2012" y="1146" width="53" height="25" />
+      </word>
+      <word id="a05-069-02-06" tag="." text=".">
+        <cmp x="2089" y="1166" width="10" height="9" />
+      </word>
+      <upper-contour>
+        <point x="357" y="1004" />
+        <point x="2100" y="1004" />
+      </upper-contour>
+      <lower-contour>
+        <point x="356" y="1189" />
+        <point x="2100" y="1189" />
+      </lower-contour>
+    </line>
+    <line ass="-111" asx="0" asy="1303" character-width="999" dss="-111" dsx="0" dsy="1369" fd0="13852" fd1="3792" fd2="764" filter-width="4" id="a05-069-03" lbs="-165" lbx="0" lby="1343" segmentation="ok" slant="114999" stroke-width="6559" threshold="175" text="He began in a low, almost chatty mono-" ubs="-2" ubx="0" uby="1329">
+      <word id="a05-069-03-00" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="358" y="1310" width="106" height="39" />
+      </word>
+      <word id="a05-069-03-01" tag="VBD" text="began">
+        <cmp x="533" y="1311" width="128" height="61" />
+        <cmp x="658" y="1333" width="118" height="18" />
+      </word>
+      <word id="a05-069-03-02" tag="IN" text="in">
+        <cmp x="863" y="1306" width="15" height="9" />
+        <cmp x="864" y="1337" width="71" height="16" />
+      </word>
+      <word id="a05-069-03-03" tag="AT" text="a">
+        <cmp x="996" y="1328" width="62" height="25" />
+      </word>
+      <word id="a05-069-03-04" tag="JJ" text="low">
+        <cmp x="1068" y="1314" width="26" height="34" />
+        <cmp x="1095" y="1324" width="99" height="27" />
+      </word>
+      <word id="a05-069-03-05" tag="," text=",">
+        <cmp x="1238" y="1341" width="11" height="25" />
+      </word>
+      <word id="a05-069-03-06" tag="RB" text="almost">
+        <cmp x="1310" y="1321" width="55" height="26" />
+        <cmp x="1368" y="1316" width="99" height="32" />
+        <cmp x="1474" y="1306" width="91" height="46" />
+      </word>
+      <word id="a05-069-03-07" tag="JJ" text="chatty">
+        <cmp x="1655" y="1315" width="79" height="30" />
+        <cmp x="1739" y="1324" width="50" height="25" />
+        <cmp x="1787" y="1312" width="78" height="34" />
+        <cmp x="1869" y="1330" width="44" height="43" />
+      </word>
+      <word id="a05-069-03-08" tag="NN-" text="mono-">
+        <cmp x="1976" y="1334" width="52" height="19" />
+        <cmp x="2036" y="1331" width="81" height="24" />
+        <cmp x="2119" y="1325" width="36" height="26" />
+        <cmp x="2182" y="1330" width="27" height="11" />
+      </word>
+      <upper-contour>
+        <point x="356" y="1189" />
+        <point x="2100" y="1189" />
+      </upper-contour>
+      <lower-contour>
+        <point x="356" y="1374" />
+        <point x="2050" y="1374" />
+      </lower-contour>
+    </line>
+    <line ass="-417" asx="0" asy="1470" character-width="999" dss="-417" dsx="0" dsy="1546" fd0="13535" fd1="3748" fd2="737" filter-width="4" id="a05-069-04" lbs="-487" lbx="0" lby="1515" segmentation="ok" slant="113000" stroke-width="6349" threshold="177" text="tone, and his voice never rose to any" ubs="-278" ubx="0" uby="1497">
+      <word id="a05-069-04-00" tag="-NN" text="tone">
+        <cmp x="356" y="1485" width="25" height="35" />
+        <cmp x="386" y="1495" width="126" height="24" />
+      </word>
+      <word id="a05-069-04-01" tag="," text=",">
+        <cmp x="549" y="1522" width="20" height="29" />
+      </word>
+      <word id="a05-069-04-02" tag="CC" text="and">
+        <cmp x="638" y="1501" width="78" height="25" />
+        <cmp x="734" y="1487" width="57" height="40" />
+      </word>
+      <word id="a05-069-04-03" tag="PP$" text="his">
+        <cmp x="849" y="1491" width="63" height="31" />
+        <cmp x="892" y="1478" width="11" height="8" />
+        <cmp x="935" y="1509" width="28" height="25" />
+      </word>
+      <word id="a05-069-04-04" tag="NN" text="voice">
+        <cmp x="1033" y="1499" width="87" height="33" />
+        <cmp x="1113" y="1479" width="9" height="10" />
+        <cmp x="1137" y="1504" width="92" height="27" />
+      </word>
+      <word id="a05-069-04-05" tag="RB" text="never">
+        <cmp x="1292" y="1499" width="85" height="30" />
+        <cmp x="1373" y="1493" width="120" height="37" />
+      </word>
+      <word id="a05-069-04-06" tag="VBD" text="rose">
+        <cmp x="1539" y="1499" width="23" height="26" />
+        <cmp x="1566" y="1500" width="74" height="29" />
+        <cmp x="1646" y="1503" width="69" height="31" />
+      </word>
+      <word id="a05-069-04-07" tag="IN" text="to">
+        <cmp x="1778" y="1489" width="68" height="42" />
+      </word>
+      <word id="a05-069-04-08" tag="DTI" text="any">
+        <cmp x="1902" y="1510" width="147" height="49" />
+      </word>
+      <upper-contour>
+        <point x="356" y="1374" />
+        <point x="2050" y="1374" />
+      </upper-contour>
+      <lower-contour>
+        <point x="359" y="1561" />
+        <point x="2050" y="1561" />
+      </lower-contour>
+    </line>
+    <line ass="-346" asx="0" asy="1644" character-width="999" dss="-346" dsx="0" dsy="1716" fd0="13258" fd1="3776" fd2="543" filter-width="4" id="a05-069-05" lbs="-323" lbx="0" lby="1703" segmentation="ok" slant="112000" stroke-width="6461" threshold="175" text="accent of urgency. He passed in rapid" ubs="-390" ubx="0" uby="1681">
+      <word id="a05-069-05-00" tag="NN" text="accent">
+        <cmp x="361" y="1682" width="51" height="24" />
+        <cmp x="416" y="1679" width="37" height="25" />
+        <cmp x="453" y="1669" width="171" height="37" />
+      </word>
+      <word id="a05-069-05-01" tag="INO" text="of">
+        <cmp x="713" y="1677" width="40" height="31" />
+        <cmp x="756" y="1650" width="36" height="62" />
+      </word>
+      <word id="a05-069-05-02" tag="NN" text="urgency">
+        <cmp x="845" y="1678" width="95" height="23" />
+        <cmp x="950" y="1679" width="131" height="43" />
+        <cmp x="1096" y="1684" width="98" height="40" />
+      </word>
+      <word id="a05-069-05-03" tag="." text=".">
+        <cmp x="1213" y="1708" width="8" height="9" />
+      </word>
+      <word id="a05-069-05-04" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="1323" y="1653" width="50" height="55" />
+        <cmp x="1378" y="1677" width="59" height="33" />
+      </word>
+      <word id="a05-069-05-05" tag="VBD" text="passed">
+        <cmp x="1503" y="1689" width="38" height="36" />
+        <cmp x="1547" y="1687" width="162" height="26" />
+        <cmp x="1718" y="1679" width="56" height="34" />
+      </word>
+      <word id="a05-069-05-06" tag="IN" text="in">
+        <cmp x="1839" y="1695" width="63" height="14" />
+        <cmp x="1842" y="1656" width="11" height="11" />
+      </word>
+      <word id="a05-069-05-07" tag="JJ" text="rapid">
+        <cmp x="1961" y="1691" width="23" height="26" />
+        <cmp x="1988" y="1689" width="42" height="29" />
+        <cmp x="2043" y="1692" width="32" height="37" />
+        <cmp x="2083" y="1671" width="10" height="12" />
+        <cmp x="2083" y="1694" width="18" height="17" />
+        <cmp x="2099" y="1677" width="62" height="33" />
+      </word>
+      <upper-contour>
+        <point x="359" y="1561" />
+        <point x="2050" y="1561" />
+      </upper-contour>
+      <lower-contour>
+        <point x="359" y="1732" />
+        <point x="2052" y="1732" />
+      </lower-contour>
+    </line>
+    <line ass="-176" asx="0" asy="1826" character-width="999" dss="-176" dsx="0" dsy="1906" fd0="13794" fd1="3285" fd2="318" filter-width="4" id="a05-069-06" lbs="-135" lbx="0" lby="1878" segmentation="err" slant="112000" stroke-width="6422" threshold="175" text="review the United Nations Secretariat;" ubs="-258" ubx="0" uby="1856">
+      <word id="a05-069-06-00" tag="NN" text="review">
+        <cmp x="359" y="1851" width="72" height="29" />
+        <cmp x="443" y="1854" width="31" height="26" />
+        <cmp x="482" y="1852" width="138" height="31" />
+        <cmp x="488" y="1830" width="8" height="8" />
+      </word>
+      <word id="a05-069-06-01" tag="ATI" text="the">
+        <cmp x="668" y="1847" width="149" height="37" />
+      </word>
+      <word id="a05-069-06-02" tag="JJ" text="United">
+        <cmp x="901" y="1840" width="128" height="47" />
+        <cmp x="1007" y="1833" width="12" height="11" />
+        <cmp x="1039" y="1847" width="68" height="42" />
+        <cmp x="1109" y="1846" width="65" height="39" />
+      </word>
+      <word id="a05-069-06-03" tag="NNS" text="Nations">
+        <cmp x="1219" y="1830" width="61" height="50" />
+        <cmp x="1282" y="1852" width="59" height="24" />
+        <cmp x="1338" y="1846" width="53" height="36" />
+        <cmp x="1367" y="1840" width="11" height="14" />
+        <cmp x="1398" y="1861" width="95" height="25" />
+      </word>
+      <word id="a05-069-06-04" tag="NN" text="Secretariat">
+        <cmp x="1571" y="1848" width="33" height="42" />
+        <cmp x="1605" y="1863" width="39" height="26" />
+        <cmp x="1653" y="1862" width="45" height="25" />
+        <cmp x="1703" y="1860" width="69" height="28" />
+        <cmp x="1776" y="1846" width="26" height="44" />
+        <cmp x="1809" y="1867" width="99" height="22" />
+        <cmp x="1909" y="1845" width="11" height="16" />
+        <cmp x="1910" y="1872" width="12" height="17" />
+        <cmp x="1936" y="1850" width="81" height="42" />
+        <cmp x="2028" y="1886" width="18" height="27" />
+      </word>
+      <word id="a05-069-06-05" tag=";" text=";">
+        <cmp x="2043" y="1862" width="8" height="8" />
+      </word>
+      <upper-contour>
+        <point x="359" y="1732" />
+        <point x="2052" y="1732" />
+      </upper-contour>
+      <lower-contour>
+        <point x="359" y="1915" />
+        <point x="2052" y="1915" />
+      </lower-contour>
+    </line>
+    <line ass="-339" asx="0" asy="1990" character-width="999" dss="-339" dsx="0" dsy="2078" fd0="13489" fd1="3249" fd2="272" filter-width="4" id="a05-069-07" lbs="-344" lbx="0" lby="2052" segmentation="ok" slant="108999" stroke-width="6398" threshold="175" text="nuclear tests; the canard about British" ubs="-330" ubx="0" uby="2032">
+      <word id="a05-069-07-00" tag="JJ" text="nuclear">
+        <cmp x="361" y="2038" width="99" height="22" />
+        <cmp x="466" y="2036" width="40" height="25" />
+        <cmp x="500" y="2023" width="59" height="39" />
+        <cmp x="565" y="2037" width="114" height="25" />
+      </word>
+      <word id="a05-069-07-01" tag="NNS" text="tests">
+        <cmp x="772" y="2020" width="98" height="44" />
+        <cmp x="874" y="2017" width="63" height="42" />
+      </word>
+      <word id="a05-069-07-02" tag=";" text=";">
+        <cmp x="952" y="2059" width="21" height="25" />
+        <cmp x="960" y="2038" width="10" height="12" />
+      </word>
+      <word id="a05-069-07-03" tag="ATI" text="the">
+        <cmp x="1047" y="2023" width="156" height="38" />
+      </word>
+      <word id="a05-069-07-04" tag="NN" text="canard">
+        <cmp x="1305" y="2037" width="26" height="25" />
+        <cmp x="1340" y="2037" width="99" height="24" />
+        <cmp x="1445" y="2036" width="90" height="26" />
+        <cmp x="1541" y="2033" width="58" height="31" />
+      </word>
+      <word id="a05-069-07-05" tag="IN" text="about">
+        <cmp x="1693" y="2022" width="101" height="45" />
+        <cmp x="1797" y="2027" width="136" height="42" />
+      </word>
+      <word id="a05-069-07-06" tag="JNP" text="British">
+        <cmp x="2006" y="2003" width="68" height="61" />
+        <cmp x="2084" y="2041" width="44" height="22" />
+        <cmp x="2118" y="2010" width="9" height="16" />
+        <cmp x="2140" y="2023" width="34" height="44" />
+        <cmp x="2168" y="2021" width="9" height="13" />
+        <cmp x="2182" y="2047" width="22" height="24" />
+        <cmp x="2213" y="2032" width="41" height="40" />
+      </word>
+      <upper-contour>
+        <point x="359" y="1915" />
+        <point x="2052" y="1915" />
+      </upper-contour>
+      <lower-contour>
+        <point x="359" y="2084" />
+        <point x="2116" y="2084" />
+      </lower-contour>
+    </line>
+    <line ass="-267" asx="0" asy="2175" character-width="999" dss="-267" dsx="0" dsy="2251" fd0="13337" fd1="3169" fd2="290" filter-width="4" id="a05-069-08" lbs="-293" lbx="0" lby="2235" segmentation="ok" slant="105000" stroke-width="6411" threshold="176" text="interference with the United Nations" ubs="-214" ubx="0" uby="2214">
+      <word id="a05-069-08-00" tag="NN" text="interference">
+        <cmp x="359" y="2200" width="199" height="36" />
+        <cmp x="366" y="2178" width="11" height="10" />
+        <cmp x="566" y="2192" width="76" height="63" />
+        <cmp x="649" y="2215" width="108" height="28" />
+        <cmp x="760" y="2218" width="93" height="30" />
+      </word>
+      <word id="a05-069-08-01" tag="IN" text="with">
+        <cmp x="985" y="2216" width="56" height="29" />
+        <cmp x="1042" y="2187" width="18" height="18" />
+        <cmp x="1053" y="2216" width="19" height="21" />
+        <cmp x="1075" y="2198" width="91" height="46" />
+      </word>
+      <word id="a05-069-08-02" tag="ATI" text="the">
+        <cmp x="1231" y="2206" width="47" height="39" />
+        <cmp x="1278" y="2211" width="118" height="33" />
+      </word>
+      <word id="a05-069-08-03" tag="JJ" text="United">
+        <cmp x="1483" y="2204" width="132" height="46" />
+        <cmp x="1598" y="2203" width="12" height="15" />
+        <cmp x="1632" y="2207" width="66" height="40" />
+        <cmp x="1699" y="2215" width="46" height="28" />
+      </word>
+      <word id="a05-069-08-04" tag="NNS" text="Nations">
+        <cmp x="1825" y="2195" width="60" height="52" />
+        <cmp x="1890" y="2208" width="109" height="35" />
+        <cmp x="1983" y="2196" width="10" height="16" />
+        <cmp x="2010" y="2222" width="61" height="21" />
+        <cmp x="2096" y="2218" width="19" height="29" />
+      </word>
+      <upper-contour>
+        <point x="359" y="2084" />
+        <point x="2116" y="2084" />
+      </upper-contour>
+      <lower-contour>
+        <point x="372" y="2254" />
+        <point x="2116" y="2254" />
+      </lower-contour>
+    </line>
+    <line ass="-128" asx="0" asy="2361" character-width="999" dss="-128" dsx="0" dsy="2447" fd0="13553" fd1="3584" fd2="918" filter-width="4" id="a05-069-09" lbs="-171" lbx="0" lby="2413" segmentation="ok" slant="105000" stroke-width="6507" threshold="173" text="in the Congo; Kuwait; and South-East" ubs="-42" ubx="0" uby="2398">
+      <word id="a05-069-09-00" tag="IN" text="in">
+        <cmp x="374" y="2397" width="63" height="12" />
+        <cmp x="375" y="2363" width="12" height="8" />
+      </word>
+      <word id="a05-069-09-01" tag="ATI" text="the">
+        <cmp x="543" y="2372" width="157" height="48" />
+      </word>
+      <word id="a05-069-09-02" tag="NP" text="Congo">
+        <cmp x="801" y="2379" width="33" height="35" />
+        <cmp x="833" y="2396" width="102" height="25" />
+        <cmp x="958" y="2402" width="41" height="40" />
+        <cmp x="1005" y="2397" width="35" height="24" />
+      </word>
+      <word id="a05-069-09-03" tag=";" text=";">
+        <cmp x="1062" y="2421" width="17" height="28" />
+        <cmp x="1069" y="2400" width="12" height="9" />
+      </word>
+      <word id="a05-069-09-04" tag="NP" text="Kuwait">
+        <cmp x="1188" y="2367" width="50" height="56" />
+        <cmp x="1209" y="2407" width="34" height="18" />
+        <cmp x="1241" y="2397" width="120" height="30" />
+        <cmp x="1367" y="2397" width="89" height="26" />
+        <cmp x="1423" y="2369" width="10" height="13" />
+        <cmp x="1460" y="2375" width="25" height="40" />
+      </word>
+      <word id="a05-069-09-05" tag=";" text=";">
+        <cmp x="1508" y="2420" width="16" height="31" />
+        <cmp x="1518" y="2396" width="8" height="9" />
+      </word>
+      <word id="a05-069-09-06" tag="CC" text="and">
+        <cmp x="1599" y="2397" width="87" height="22" />
+        <cmp x="1694" y="2383" width="46" height="36" />
+      </word>
+      <word id="a05-069-09-07" tag="NR" text="South-East">
+        <cmp x="1842" y="2376" width="47" height="52" />
+        <cmp x="1889" y="2399" width="102" height="25" />
+        <cmp x="2001" y="2377" width="27" height="45" />
+        <cmp x="2037" y="2386" width="45" height="33" />
+        <cmp x="2095" y="2398" width="22" height="10" />
+        <cmp x="2156" y="2373" width="28" height="49" />
+        <cmp x="2190" y="2369" width="112" height="49" />
+      </word>
+      <upper-contour>
+        <point x="372" y="2254" />
+        <point x="2116" y="2254" />
+      </upper-contour>
+      <lower-contour>
+        <point x="380" y="2412" />
+        <point x="561" y="2412" />
+      </lower-contour>
+    </line>
+    <line ass="-2904" asx="0" asy="2531" character-width="999" dss="-2904" dsx="0" dsy="2585" fd0="12544" fd1="3169" fd2="1187" filter-width="4" id="a05-069-10" lbs="-1868" lbx="0" lby="2588" segmentation="ok" slant="108999" stroke-width="6963" threshold="174" text="Asia." ubs="-4976" ubx="0" uby="2544">
+      <word id="a05-069-10-00" tag="NP" text="Asia">
+        <cmp x="382" y="2556" width="87" height="51" />
+        <cmp x="440" y="2555" width="14" height="13" />
+        <cmp x="472" y="2575" width="44" height="24" />
+      </word>
+      <word id="a05-069-10-01" tag="." text=".">
+        <cmp x="551" y="2600" width="9" height="11" />
+      </word>
+      <upper-contour>
+        <point x="380" y="2412" />
+        <point x="561" y="2412" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

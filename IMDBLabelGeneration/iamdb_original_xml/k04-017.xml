@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-24" height="3542" id="k04-017" last-modified="2002-07-17" skew="0" status="final" version="3.0_beta" width="2479" writer-id="239">
+  <machine-printed-part>
+    <machine-print-line text="&apos;Are you enjoying yourself, Olimpia?&apos; she asked idly, tapping the girl&apos;s cheek lightly" />
+    <machine-print-line text="with her fan, in passing; but she did not wait for the answer. Disturbed by vague" />
+    <machine-print-line text="uneasiness, she was wondering whether Olimpia had been watching her talk with" />
+    <machine-print-line text="Orsini. Surely she could not have overheard anything they said? A moment&apos;s reflec-" />
+    <machine-print-line text="tion reassured her on that point, for she was certain no one had been standing near" />
+    <machine-print-line text="them." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="1160" asx="0" asy="752" character-width="999" dss="1160" dsx="0" dsy="919" fd0="13533" fd1="2238" fd2="-569" filter-width="3" id="k04-017-00" lbs="1059" lbx="0" lby="830" segmentation="ok" slant="68999" stroke-width="4978" threshold="179" text="&apos;Are you enjoying yourself, Olimpia?&apos; she" ubs="1362" ubx="0" uby="814">
+      <word id="k04-017-00-00" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="397" y="744" width="14" height="25" />
+      </word>
+      <word id="k04-017-00-01" tag="BER" text="Are">
+        <cmp x="414" y="763" width="36" height="49" />
+        <cmp x="455" y="783" width="18" height="28" />
+        <cmp x="476" y="788" width="39" height="25" />
+      </word>
+      <word id="k04-017-00-02" tag="PP2" text="you">
+        <cmp x="574" y="793" width="113" height="86" />
+      </word>
+      <word id="k04-017-00-03" tag="VBG" text="enjoying">
+        <cmp x="744" y="783" width="162" height="97" />
+        <cmp x="825" y="749" width="8" height="10" />
+        <cmp x="916" y="787" width="10" height="27" />
+        <cmp x="938" y="753" width="7" height="9" />
+        <cmp x="938" y="786" width="68" height="77" />
+      </word>
+      <word id="k04-017-00-04" tag="PPL" text="yourself">
+        <cmp x="1068" y="776" width="77" height="71" />
+        <cmp x="1157" y="781" width="54" height="26" />
+        <cmp x="1213" y="751" width="127" height="144" />
+      </word>
+      <word id="k04-017-00-05" tag="," text=",">
+        <cmp x="1338" y="805" width="13" height="13" />
+      </word>
+      <word id="k04-017-00-06" tag="NP" text="Olimpia">
+        <cmp x="1425" y="762" width="52" height="43" />
+        <cmp x="1481" y="753" width="34" height="52" />
+        <cmp x="1525" y="769" width="103" height="103" />
+        <cmp x="1633" y="748" width="11" height="11" />
+        <cmp x="1645" y="781" width="32" height="27" />
+      </word>
+      <word id="k04-017-00-07" tag="?" text="?">
+        <cmp x="1726" y="746" width="30" height="35" />
+        <cmp x="1731" y="801" width="6" height="7" />
+      </word>
+      <word id="k04-017-00-08" tag="**&apos;" text="&apos;">
+        <cmp x="1786" y="740" width="14" height="17" />
+      </word>
+      <word id="k04-017-00-09" tag="PP3A" text="she">
+        <cmp x="1852" y="764" width="30" height="37" />
+        <cmp x="1887" y="749" width="89" height="50" />
+      </word>
+      <lower-contour>
+        <point x="395" y="895" />
+        <point x="1976" y="895" />
+      </lower-contour>
+    </line>
+    <line ass="366" asx="0" asy="923" character-width="999" dss="366" dsx="0" dsy="1054" fd0="13658" fd1="2098" fd2="-918" filter-width="3" id="k04-017-01" lbs="235" lbx="0" lby="986" segmentation="err" slant="63000" stroke-width="5121" threshold="177" text="asked idly, tapping the girl&apos;s cheek lightly with" ubs="628" ubx="0" uby="966">
+      <word id="k04-017-01-00" tag="VBD" text="asked">
+        <cmp x="349" y="941" width="169" height="52" />
+      </word>
+      <word id="k04-017-01-01" tag="RB" text="idly">
+        <cmp x="573" y="959" width="17" height="23" />
+        <cmp x="595" y="925" width="90" height="126" />
+        <cmp x="597" y="944" width="4" height="15" />
+      </word>
+      <word id="k04-017-01-02" tag="," text=",">
+        <cmp x="727" y="981" width="16" height="21" />
+      </word>
+      <word id="k04-017-01-03" tag="VBG" text="tapping">
+        <cmp x="793" y="941" width="139" height="102" />
+        <cmp x="935" y="930" width="13" height="9" />
+        <cmp x="942" y="964" width="64" height="76" />
+      </word>
+      <word id="k04-017-01-04" tag="ATI" text="the">
+        <cmp x="1061" y="937" width="98" height="50" />
+      </word>
+      <word id="k04-017-01-05" tag="NN$" text="girl&apos;s">
+        <cmp x="1238" y="952" width="46" height="68" />
+        <cmp x="1247" y="989" width="7" height="6" />
+        <cmp x="1281" y="963" width="4" height="3" />
+        <cmp x="1286" y="957" width="19" height="28" />
+        <cmp x="1306" y="939" width="8" height="8" />
+        <cmp x="1311" y="938" width="74" height="50" />
+        <cmp x="1380" y="930" width="24" height="20" />
+      </word>
+      <word id="k04-017-01-06" tag="NN" text="cheek">
+        <cmp x="1443" y="938" width="122" height="52" />
+        <cmp x="1583" y="931" width="42" height="50" />
+      </word>
+      <word id="k04-017-01-07" tag="RB" text="lightly">
+        <cmp x="1670" y="935" width="31" height="50" />
+        <cmp x="1695" y="958" width="46" height="60" />
+        <cmp x="1714" y="942" width="3" height="9" />
+        <cmp x="1749" y="925" width="105" height="99" />
+      </word>
+      <word id="k04-017-01-08" tag="IN" text="with">
+        <cmp x="1917" y="937" width="82" height="42" />
+        <cmp x="2007" y="917" width="66" height="60" />
+        <cmp x="2012" y="912" width="7" height="10" />
+      </word>
+      <upper-contour>
+        <point x="395" y="895" />
+        <point x="1976" y="895" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1051" />
+        <point x="2074" y="1051" />
+      </lower-contour>
+    </line>
+    <line ass="1057" asx="0" asy="1108" character-width="999" dss="1057" dsx="0" dsy="1264" fd0="13190" fd1="2656" fd2="-220" filter-width="3" id="k04-017-02" lbs="1078" lbx="0" lby="1176" segmentation="ok" slant="63000" stroke-width="5178" threshold="176" text="her fan, in passing; but she did not wait for" ubs="1014" ubx="0" uby="1153">
+      <word id="k04-017-02-00" tag="PP$" text="her">
+        <cmp x="349" y="1101" width="93" height="69" />
+      </word>
+      <word id="k04-017-02-01" tag="NN" text="fan">
+        <cmp x="481" y="1112" width="62" height="121" />
+        <cmp x="532" y="1138" width="32" height="30" />
+        <cmp x="567" y="1141" width="30" height="27" />
+      </word>
+      <word id="k04-017-02-02" tag="," text=",">
+        <cmp x="615" y="1164" width="15" height="16" />
+      </word>
+      <word id="k04-017-02-03" tag="IN" text="in">
+        <cmp x="688" y="1134" width="21" height="29" />
+        <cmp x="714" y="1136" width="23" height="26" />
+        <cmp x="724" y="1112" width="9" height="9" />
+      </word>
+      <word id="k04-017-02-04" tag="NN" text="passing">
+        <cmp x="771" y="1124" width="63" height="98" />
+        <cmp x="840" y="1140" width="85" height="32" />
+        <cmp x="935" y="1142" width="14" height="26" />
+        <cmp x="956" y="1138" width="68" height="80" />
+        <cmp x="961" y="1102" width="13" height="7" />
+      </word>
+      <word id="k04-017-02-05" tag=";" text=";">
+        <cmp x="1048" y="1151" width="20" height="25" />
+        <cmp x="1055" y="1126" width="16" height="11" />
+      </word>
+      <word id="k04-017-02-06" tag="CC" text="but">
+        <cmp x="1134" y="1112" width="99" height="52" />
+      </word>
+      <word id="k04-017-02-07" tag="PP3A" text="she">
+        <cmp x="1286" y="1129" width="23" height="31" />
+        <cmp x="1316" y="1113" width="57" height="44" />
+      </word>
+      <word id="k04-017-02-08" tag="DOD" text="did">
+        <cmp x="1428" y="1113" width="61" height="45" />
+        <cmp x="1495" y="1114" width="5" height="7" />
+        <cmp x="1495" y="1097" width="58" height="60" />
+      </word>
+      <word id="k04-017-02-09" tag="XNOT" text="not">
+        <cmp x="1600" y="1108" width="108" height="43" />
+      </word>
+      <word id="k04-017-02-10" tag="VB" text="wait">
+        <cmp x="1767" y="1106" width="139" height="47" />
+        <cmp x="1854" y="1093" width="7" height="9" />
+      </word>
+      <word id="k04-017-02-11" tag="IN" text="for">
+        <cmp x="1965" y="1094" width="108" height="135" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1051" />
+        <point x="2074" y="1051" />
+      </upper-contour>
+      <lower-contour>
+        <point x="359" y="1233" />
+        <point x="2074" y="1233" />
+      </lower-contour>
+    </line>
+    <line ass="-151" asx="0" asy="1270" character-width="999" dss="-151" dsx="0" dsy="1397" fd0="13395" fd1="2709" fd2="-952" filter-width="3" id="k04-017-03" lbs="-152" lbx="0" lby="1337" segmentation="ok" slant="72000" stroke-width="5142" threshold="177" text="the answer. Disturbed by vague uneasiness, she" ubs="-149" ubx="0" uby="1307">
+      <word id="k04-017-03-00" tag="ATI" text="the">
+        <cmp x="361" y="1281" width="92" height="59" />
+      </word>
+      <word id="k04-017-03-01" tag="NN" text="answer">
+        <cmp x="504" y="1305" width="101" height="33" />
+        <cmp x="620" y="1309" width="105" height="36" />
+      </word>
+      <word id="k04-017-03-02" tag="." text=".">
+        <cmp x="727" y="1341" width="4" height="5" />
+      </word>
+      <word id="k04-017-03-03" sentence-start="yes" tag="VBN" text="Disturbed">
+        <cmp x="806" y="1279" width="61" height="59" />
+        <cmp x="862" y="1292" width="6" height="8" />
+        <cmp x="872" y="1305" width="30" height="35" />
+        <cmp x="916" y="1287" width="62" height="60" />
+        <cmp x="979" y="1313" width="23" height="25" />
+        <cmp x="1008" y="1286" width="57" height="56" />
+        <cmp x="1067" y="1293" width="43" height="48" />
+      </word>
+      <word id="k04-017-03-04" tag="IN" text="by">
+        <cmp x="1188" y="1287" width="75" height="115" />
+      </word>
+      <word id="k04-017-03-05" tag="JJ" text="vague">
+        <cmp x="1311" y="1309" width="28" height="35" />
+        <cmp x="1340" y="1312" width="165" height="72" />
+      </word>
+      <word id="k04-017-03-06" tag="NN" text="uneasiness">
+        <cmp x="1554" y="1311" width="169" height="32" />
+        <cmp x="1728" y="1291" width="7" height="3" />
+        <cmp x="1735" y="1311" width="119" height="33" />
+      </word>
+      <word id="k04-017-03-07" tag="," text=",">
+        <cmp x="1909" y="1338" width="16" height="18" />
+      </word>
+      <word id="k04-017-03-08" tag="PP3A" text="she">
+        <cmp x="1953" y="1276" width="133" height="71" />
+      </word>
+      <upper-contour>
+        <point x="359" y="1233" />
+        <point x="2074" y="1233" />
+      </upper-contour>
+      <lower-contour>
+        <point x="359" y="1402" />
+        <point x="2000" y="1402" />
+      </lower-contour>
+    </line>
+    <line ass="-37" asx="0" asy="1444" character-width="999" dss="-37" dsx="0" dsy="1596" fd0="13352" fd1="2507" fd2="-932" filter-width="3" id="k04-017-04" lbs="-76" lbx="0" lby="1510" segmentation="ok" slant="68999" stroke-width="5242" threshold="176" text="was wondering whether Olimpia had been" ubs="39" ubx="0" uby="1485">
+      <word id="k04-017-04-00" tag="BEDZ" text="was">
+        <cmp x="338" y="1462" width="121" height="59" />
+      </word>
+      <word id="k04-017-04-01" tag="VBG" text="wondering">
+        <cmp x="572" y="1451" width="231" height="65" />
+        <cmp x="805" y="1484" width="14" height="28" />
+        <cmp x="828" y="1484" width="71" height="96" />
+        <cmp x="831" y="1446" width="8" height="7" />
+      </word>
+      <word id="k04-017-04-02" tag="CS" text="whether">
+        <cmp x="961" y="1449" width="301" height="67" />
+      </word>
+      <word id="k04-017-04-03" tag="NP" text="Olimpia">
+        <cmp x="1333" y="1453" width="103" height="72" />
+        <cmp x="1437" y="1467" width="112" height="131" />
+        <cmp x="1440" y="1455" width="12" height="8" />
+        <cmp x="1553" y="1461" width="12" height="8" />
+        <cmp x="1553" y="1498" width="34" height="31" />
+      </word>
+      <word id="k04-017-04-04" tag="HVD" text="had">
+        <cmp x="1665" y="1458" width="137" height="63" />
+      </word>
+      <word id="k04-017-04-05" tag="BEN" text="been">
+        <cmp x="1869" y="1459" width="130" height="53" />
+      </word>
+      <upper-contour>
+        <point x="359" y="1402" />
+        <point x="2000" y="1402" />
+      </upper-contour>
+      <lower-contour>
+        <point x="336" y="1598" />
+        <point x="2000" y="1598" />
+      </lower-contour>
+    </line>
+    <line ass="628" asx="0" asy="1636" character-width="999" dss="628" dsx="0" dsy="1768" fd0="13396" fd1="2085" fd2="-1020" filter-width="3" id="k04-017-05" lbs="694" lbx="0" lby="1698" segmentation="ok" slant="76000" stroke-width="5078" threshold="174" text="watching her talk with Orsini. Surely she" ubs="494" ubx="0" uby="1662">
+      <word id="k04-017-05-00" tag="VBG" text="watching">
+        <cmp x="333" y="1647" width="129" height="55" />
+        <cmp x="461" y="1637" width="76" height="61" />
+        <cmp x="542" y="1673" width="77" height="79" />
+        <cmp x="561" y="1634" width="8" height="9" />
+      </word>
+      <word id="k04-017-05-01" tag="PP3O" text="her">
+        <cmp x="714" y="1628" width="97" height="71" />
+      </word>
+      <word id="k04-017-05-02" tag="VB" text="talk">
+        <cmp x="885" y="1636" width="98" height="67" />
+        <cmp x="986" y="1638" width="45" height="59" />
+      </word>
+      <word id="k04-017-05-03" tag="IN" text="with">
+        <cmp x="1102" y="1655" width="69" height="37" />
+        <cmp x="1167" y="1640" width="13" height="14" />
+        <cmp x="1181" y="1627" width="74" height="66" />
+      </word>
+      <word id="k04-017-05-04" tag="NP" text="Orsini">
+        <cmp x="1335" y="1628" width="83" height="58" />
+        <cmp x="1423" y="1650" width="39" height="37" />
+        <cmp x="1459" y="1634" width="5" height="6" />
+        <cmp x="1471" y="1656" width="47" height="27" />
+        <cmp x="1505" y="1631" width="5" height="8" />
+      </word>
+      <word id="k04-017-05-05" tag="." text=".">
+        <cmp x="1551" y="1682" width="7" height="6" />
+      </word>
+      <word id="k04-017-05-06" sentence-start="yes" tag="RB" text="Surely">
+        <cmp x="1631" y="1623" width="101" height="62" />
+        <cmp x="1735" y="1625" width="110" height="125" />
+      </word>
+      <word id="k04-017-05-07" tag="PP3A" text="she">
+        <cmp x="1920" y="1650" width="29" height="38" />
+        <cmp x="1955" y="1623" width="86" height="74" />
+      </word>
+      <upper-contour>
+        <point x="336" y="1598" />
+        <point x="2000" y="1598" />
+      </upper-contour>
+      <lower-contour>
+        <point x="343" y="1752" />
+        <point x="1998" y="1752" />
+      </lower-contour>
+    </line>
+    <line ass="-51" asx="0" asy="1795" character-width="999" dss="-51" dsx="0" dsy="1940" fd0="13520" fd1="2818" fd2="-688" filter-width="3" id="k04-017-06" lbs="-12" lbx="0" lby="1870" segmentation="ok" slant="80000" stroke-width="5211" threshold="173" text="could not have overheard anything they" ubs="-129" ubx="0" uby="1839">
+      <word id="k04-017-06-00" tag="MD" text="could">
+        <cmp x="345" y="1840" width="117" height="36" />
+        <cmp x="476" y="1806" width="11" height="65" />
+        <cmp x="493" y="1813" width="46" height="53" />
+      </word>
+      <word id="k04-017-06-01" tag="XNOT" text="not">
+        <cmp x="596" y="1815" width="114" height="57" />
+      </word>
+      <word id="k04-017-06-02" tag="HV" text="have">
+        <cmp x="785" y="1796" width="113" height="78" />
+        <cmp x="889" y="1842" width="42" height="36" />
+        <cmp x="929" y="1866" width="13" height="5" />
+      </word>
+      <word id="k04-017-06-03" tag="VBN" text="overheard">
+        <cmp x="1016" y="1838" width="69" height="36" />
+        <cmp x="1085" y="1805" width="128" height="62" />
+        <cmp x="1214" y="1843" width="63" height="24" />
+        <cmp x="1297" y="1809" width="58" height="62" />
+      </word>
+      <word id="k04-017-06-04" tag="PN" text="anything">
+        <cmp x="1421" y="1813" width="236" height="120" />
+        <cmp x="1677" y="1823" width="7" height="15" />
+        <cmp x="1679" y="1835" width="65" height="108" />
+      </word>
+      <word id="k04-017-06-05" tag="PP3AS" text="they">
+        <cmp x="1835" y="1811" width="162" height="122" />
+      </word>
+      <upper-contour>
+        <point x="343" y="1752" />
+        <point x="1998" y="1752" />
+      </upper-contour>
+      <lower-contour>
+        <point x="343" y="1943" />
+        <point x="1998" y="1943" />
+      </lower-contour>
+    </line>
+    <line ass="562" asx="0" asy="1966" character-width="999" dss="562" dsx="0" dsy="2132" fd0="13529" fd1="2300" fd2="-918" filter-width="3" id="k04-017-07" lbs="483" lbx="0" lby="2048" segmentation="err" slant="72000" stroke-width="5193" threshold="175" text="said? A moment&apos;s reflection reassured her" ubs="720" ubx="0" uby="2027">
+      <word id="k04-017-07-00" tag="VBD" text="said">
+        <cmp x="338" y="2022" width="106" height="45" />
+        <cmp x="435" y="2004" width="11" height="11" />
+        <cmp x="454" y="1987" width="52" height="60" />
+      </word>
+      <word id="k04-017-07-01" tag="?" text="?">
+        <cmp x="521" y="1962" width="43" height="55" />
+        <cmp x="531" y="2034" width="5" height="6" />
+      </word>
+      <word id="k04-017-07-02" sentence-start="yes" tag="AT" text="A">
+        <cmp x="661" y="1981" width="50" height="69" />
+        <cmp x="721" y="2006" width="5" height="5" />
+      </word>
+      <word id="k04-017-07-03" tag="NN$" text="moment&apos;s">
+        <cmp x="786" y="2012" width="52" height="31" />
+        <cmp x="848" y="1987" width="167" height="60" />
+        <cmp x="1017" y="2011" width="40" height="33" />
+        <cmp x="1018" y="1980" width="20" height="29" />
+        <cmp x="1148" y="2006" width="31" height="33" />
+      </word>
+      <word id="k04-017-07-04" tag="NN" text="reflection">
+        <cmp x="1177" y="1965" width="71" height="157" />
+        <cmp x="1244" y="1971" width="28" height="66" />
+        <cmp x="1260" y="2003" width="29" height="35" />
+        <cmp x="1299" y="2006" width="24" height="34" />
+        <cmp x="1327" y="1983" width="57" height="55" />
+        <cmp x="1394" y="2007" width="67" height="28" />
+        <cmp x="1404" y="1962" width="9" height="10" />
+      </word>
+      <word id="k04-017-07-05" tag="VBD" text="reassured">
+        <cmp x="1548" y="1998" width="35" height="35" />
+        <cmp x="1580" y="2000" width="61" height="39" />
+        <cmp x="1650" y="2000" width="25" height="36" />
+        <cmp x="1682" y="2004" width="97" height="37" />
+        <cmp x="1772" y="1983" width="93" height="61" />
+      </word>
+      <word id="k04-017-07-06" tag="PP3O" text="her">
+        <cmp x="1944" y="1982" width="109" height="47" />
+      </word>
+      <upper-contour>
+        <point x="343" y="1943" />
+        <point x="1998" y="1943" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="2122" />
+        <point x="2054" y="2122" />
+      </lower-contour>
+    </line>
+    <line ass="216" asx="0" asy="2155" character-width="999" dss="216" dsx="0" dsy="2289" fd0="13328" fd1="2866" fd2="-167" filter-width="3" id="k04-017-08" lbs="302" lbx="0" lby="2226" segmentation="ok" slant="73000" stroke-width="5078" threshold="173" text="on that point, for she was certain no one" ubs="45" ubx="0" uby="2194">
+      <word id="k04-017-08-00" tag="IN" text="on">
+        <cmp x="350" y="2196" width="67" height="34" />
+      </word>
+      <word id="k04-017-08-01" tag="DT" text="that">
+        <cmp x="491" y="2166" width="160" height="66" />
+      </word>
+      <word id="k04-017-08-02" tag="NN" text="point">
+        <cmp x="701" y="2186" width="34" height="101" />
+        <cmp x="748" y="2199" width="47" height="23" />
+        <cmp x="790" y="2173" width="13" height="10" />
+        <cmp x="804" y="2165" width="85" height="64" />
+      </word>
+      <word id="k04-017-08-03" tag="," text=",">
+        <cmp x="914" y="2229" width="20" height="18" />
+      </word>
+      <word id="k04-017-08-04" tag="CS" text="for">
+        <cmp x="994" y="2162" width="72" height="116" />
+        <cmp x="1058" y="2197" width="53" height="23" />
+      </word>
+      <word id="k04-017-08-05" tag="PP3A" text="she">
+        <cmp x="1171" y="2199" width="27" height="35" />
+        <cmp x="1201" y="2179" width="68" height="54" />
+      </word>
+      <word id="k04-017-08-06" tag="BEDZ" text="was">
+        <cmp x="1333" y="2196" width="127" height="34" />
+      </word>
+      <word id="k04-017-08-07" tag="JJ" text="certain">
+        <cmp x="1535" y="2184" width="86" height="39" />
+        <cmp x="1627" y="2171" width="88" height="48" />
+        <cmp x="1724" y="2190" width="42" height="38" />
+        <cmp x="1731" y="2150" width="4" height="5" />
+      </word>
+      <word id="k04-017-08-08" tag="PN21" text="no">
+        <cmp x="1836" y="2181" width="36" height="32" />
+        <cmp x="1890" y="2185" width="24" height="25" />
+      </word>
+      <word id="k04-017-08-09" tag="PN22" text="one">
+        <cmp x="1968" y="2182" width="117" height="36" />
+        <cmp x="1981" y="2194" width="5" height="4" />
+      </word>
+      <upper-contour>
+        <point x="348" y="2122" />
+        <point x="2054" y="2122" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="2287" />
+        <point x="1475" y="2287" />
+      </lower-contour>
+    </line>
+    <line ass="179" asx="0" asy="2342" character-width="999" dss="179" dsx="0" dsy="2467" fd0="13127" fd1="2473" fd2="-806" filter-width="3" id="k04-017-09" lbs="114" lbx="0" lby="2403" segmentation="ok" slant="80000" stroke-width="5096" threshold="174" text="had been standing near them." ubs="309" ubx="0" uby="2376">
+      <word id="k04-017-09-00" tag="HVD" text="had">
+        <cmp x="349" y="2343" width="119" height="62" />
+      </word>
+      <word id="k04-017-09-01" tag="BEN" text="been">
+        <cmp x="520" y="2346" width="99" height="60" />
+        <cmp x="622" y="2378" width="42" height="26" />
+      </word>
+      <word id="k04-017-09-02" tag="VBG" text="standing">
+        <cmp x="748" y="2368" width="25" height="34" />
+        <cmp x="775" y="2343" width="174" height="63" />
+        <cmp x="967" y="2376" width="59" height="89" />
+        <cmp x="989" y="2359" width="8" height="13" />
+      </word>
+      <word id="k04-017-09-03" tag="IN" text="near">
+        <cmp x="1094" y="2370" width="154" height="40" />
+      </word>
+      <word id="k04-017-09-04" tag="PP3OS" text="them">
+        <cmp x="1284" y="2338" width="155" height="64" />
+      </word>
+      <word id="k04-017-09-05" tag="." text=".">
+        <cmp x="1468" y="2395" width="7" height="6" />
+      </word>
+      <upper-contour>
+        <point x="348" y="2287" />
+        <point x="1475" y="2287" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-16" height="3542" id="c02-059" last-modified="2002-07-17" skew="-127" status="final" version="3.0_beta" width="2479" writer-id="146">
+  <machine-printed-part>
+    <machine-print-line text="Prizes being what they are, Berlin is unusually generous in giving everyone something," />
+    <machine-print-line text="and silver bears are awarded in every direction. Both the Antonioni and Wicki films" />
+    <machine-print-line text="took high honours, and the audience at the awards was particularly enthusiastic when" />
+    <machine-print-line text="one Miss Anna Kerima was selected as best actress for her work in the Godard film." />
+    <machine-print-line text="Gifted with an interesting face, although little acting ability, she would seem to be" />
+    <machine-print-line text="well worth watching in the months to come." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-503" asx="0" asy="813" character-width="999" dss="-503" dsx="0" dsy="877" fd0="13191" fd1="2570" fd2="-1731" filter-width="3" id="c02-059-00" lbs="-561" lbx="0" lby="870" segmentation="err" slant="97000" stroke-width="5483" threshold="181" text="Sentence Database  C02-059" ubs="-386" ubx="0" uby="837">
+      <word id="c02-059-00-00" sentence-start="yes" tag="NN" text="Sentence">
+        <cmp x="332" y="818" width="44" height="58" />
+        <cmp x="379" y="842" width="69" height="33" />
+        <cmp x="452" y="821" width="22" height="51" />
+        <cmp x="476" y="839" width="24" height="32" />
+        <cmp x="505" y="844" width="37" height="28" />
+        <cmp x="550" y="839" width="64" height="38" />
+      </word>
+      <word id="c02-059-00-01" tag="NN" text="Database">
+        <cmp x="706" y="820" width="38" height="61" />
+        <cmp x="745" y="825" width="96" height="54" />
+        <cmp x="846" y="823" width="83" height="63" />
+        <cmp x="931" y="841" width="57" height="41" />
+      </word>
+      <word id="c02-059-00-02" tag="CD-CD" text="C02-059">
+        <cmp x="1855" y="837" width="52" height="52" />
+        <cmp x="1910" y="847" width="39" height="41" />
+        <cmp x="1950" y="844" width="33" height="44" />
+        <cmp x="2004" y="861" width="37" height="7" />
+        <cmp x="2040" y="845" width="82" height="46" />
+        <cmp x="2128" y="846" width="41" height="49" />
+      </word>
+      <lower-contour>
+        <point x="330" y="890" />
+        <point x="2123" y="890" />
+      </lower-contour>
+    </line>
+    <line ass="-703" asx="0" asy="984" character-width="999" dss="-703" dsx="0" dsy="1090" fd0="13338" fd1="2716" fd2="-922" filter-width="3" id="c02-059-01" lbs="-670" lbx="0" lby="1046" segmentation="ok" slant="91000" stroke-width="5439" threshold="181" text="Prizes being what they are, Berlin is unusually" ubs="-769" ubx="0" uby="1012">
+      <word id="c02-059-01-00" sentence-start="yes" tag="NNS" text="Prizes">
+        <cmp x="331" y="996" width="40" height="48" />
+        <cmp x="365" y="1013" width="30" height="33" />
+        <cmp x="392" y="1000" width="7" height="14" />
+        <cmp x="398" y="1019" width="9" height="28" />
+        <cmp x="411" y="1016" width="85" height="35" />
+      </word>
+      <word id="c02-059-01-01" tag="BEG" text="being">
+        <cmp x="572" y="1005" width="84" height="54" />
+        <cmp x="644" y="1014" width="8" height="14" />
+        <cmp x="660" y="1033" width="35" height="24" />
+        <cmp x="692" y="1072" width="14" height="6" />
+        <cmp x="699" y="1028" width="27" height="54" />
+      </word>
+      <word id="c02-059-01-02" tag="WDT" text="what">
+        <cmp x="813" y="1023" width="57" height="36" />
+        <cmp x="868" y="1006" width="103" height="54" />
+      </word>
+      <word id="c02-059-01-03" tag="PP3AS" text="they">
+        <cmp x="1034" y="1014" width="94" height="49" />
+        <cmp x="1130" y="1038" width="34" height="50" />
+      </word>
+      <word id="c02-059-01-04" tag="BER" text="are">
+        <cmp x="1224" y="1030" width="39" height="29" />
+        <cmp x="1261" y="1024" width="55" height="36" />
+      </word>
+      <word id="c02-059-01-05" tag="," text=",">
+        <cmp x="1356" y="1048" width="5" height="20" />
+      </word>
+      <word id="c02-059-01-06" tag="NP" text="Berlin">
+        <cmp x="1423" y="1005" width="79" height="56" />
+        <cmp x="1503" y="1002" width="58" height="59" />
+        <cmp x="1562" y="1009" width="7" height="13" />
+        <cmp x="1563" y="1033" width="9" height="28" />
+        <cmp x="1577" y="1036" width="34" height="32" />
+      </word>
+      <word id="c02-059-01-07" tag="BEZ" text="is">
+        <cmp x="1697" y="1013" width="7" height="16" />
+        <cmp x="1704" y="1032" width="39" height="38" />
+      </word>
+      <word id="c02-059-01-08" tag="RB" text="unusually">
+        <cmp x="1806" y="1035" width="39" height="27" />
+        <cmp x="1807" y="1032" width="5" height="5" />
+        <cmp x="1843" y="1039" width="38" height="27" />
+        <cmp x="1884" y="1036" width="66" height="37" />
+        <cmp x="1954" y="1037" width="33" height="32" />
+        <cmp x="1987" y="1022" width="106" height="53" />
+        <cmp x="2089" y="1046" width="33" height="69" />
+      </word>
+      <upper-contour>
+        <point x="330" y="890" />
+        <point x="2123" y="890" />
+      </upper-contour>
+      <lower-contour>
+        <point x="337" y="1113" />
+        <point x="2107" y="1113" />
+      </lower-contour>
+    </line>
+    <line ass="-310" asx="0" asy="1175" character-width="999" dss="-310" dsx="0" dsy="1265" fd0="13677" fd1="2835" fd2="-1063" filter-width="3" id="c02-059-02" lbs="-207" lbx="0" lby="1235" segmentation="ok" slant="92000" stroke-width="5478" threshold="178" text="generous in giving everyone something, and silver" ubs="-518" ubx="0" uby="1194">
+      <word id="c02-059-02-00" tag="JJ" text="generous">
+        <cmp x="339" y="1203" width="29" height="59" />
+        <cmp x="368" y="1200" width="58" height="33" />
+        <cmp x="430" y="1197" width="25" height="32" />
+        <cmp x="460" y="1200" width="26" height="27" />
+        <cmp x="487" y="1200" width="34" height="30" />
+        <cmp x="521" y="1202" width="43" height="28" />
+        <cmp x="561" y="1199" width="31" height="36" />
+      </word>
+      <word id="c02-059-02-01" tag="IN" text="in">
+        <cmp x="681" y="1180" width="10" height="17" />
+        <cmp x="689" y="1202" width="6" height="31" />
+        <cmp x="701" y="1207" width="31" height="27" />
+      </word>
+      <word id="c02-059-02-02" tag="VBG" text="giving">
+        <cmp x="818" y="1202" width="102" height="69" />
+        <cmp x="859" y="1182" width="5" height="10" />
+        <cmp x="909" y="1183" width="6" height="16" />
+        <cmp x="914" y="1208" width="37" height="61" />
+      </word>
+      <word id="c02-059-02-03" tag="PN" text="everyone">
+        <cmp x="1034" y="1205" width="55" height="32" />
+        <cmp x="1090" y="1206" width="84" height="53" />
+        <cmp x="1179" y="1205" width="30" height="33" />
+        <cmp x="1212" y="1209" width="33" height="28" />
+        <cmp x="1250" y="1206" width="28" height="35" />
+      </word>
+      <word id="c02-059-02-04" tag="PN" text="something">
+        <cmp x="1382" y="1196" width="67" height="41" />
+        <cmp x="1402" y="1199" width="4" height="4" />
+        <cmp x="1455" y="1207" width="58" height="27" />
+        <cmp x="1517" y="1205" width="29" height="34" />
+        <cmp x="1549" y="1185" width="62" height="55" />
+        <cmp x="1618" y="1192" width="9" height="10" />
+        <cmp x="1618" y="1207" width="8" height="31" />
+        <cmp x="1632" y="1216" width="63" height="57" />
+      </word>
+      <word id="c02-059-02-05" tag="," text=",">
+        <cmp x="1713" y="1235" width="7" height="25" />
+      </word>
+      <word id="c02-059-02-06" tag="CC" text="and">
+        <cmp x="1773" y="1207" width="36" height="35" />
+        <cmp x="1811" y="1215" width="37" height="25" />
+        <cmp x="1848" y="1189" width="35" height="53" />
+      </word>
+      <word id="c02-059-02-07" tag="NN" text="silver">
+        <cmp x="1963" y="1207" width="33" height="38" />
+        <cmp x="2000" y="1193" width="5" height="12" />
+        <cmp x="2002" y="1187" width="25" height="58" />
+        <cmp x="2028" y="1212" width="28" height="34" />
+        <cmp x="2055" y="1216" width="51" height="34" />
+      </word>
+      <upper-contour>
+        <point x="337" y="1113" />
+        <point x="2107" y="1113" />
+      </upper-contour>
+      <lower-contour>
+        <point x="341" y="1273" />
+        <point x="2107" y="1273" />
+      </lower-contour>
+    </line>
+    <line ass="-645" asx="0" asy="1342" character-width="999" dss="-645" dsx="0" dsy="1444" fd0="13248" fd1="3265" fd2="-917" filter-width="3" id="c02-059-03" lbs="-644" lbx="0" lby="1400" segmentation="ok" slant="90000" stroke-width="5482" threshold="176" text="bears are awarded in every direction. Both the" ubs="-647" ubx="0" uby="1372">
+      <word id="c02-059-03-00" tag="NNS" text="bears">
+        <cmp x="343" y="1361" width="69" height="46" />
+        <cmp x="411" y="1379" width="40" height="29" />
+        <cmp x="453" y="1375" width="51" height="34" />
+      </word>
+      <word id="c02-059-03-01" tag="BER" text="are">
+        <cmp x="617" y="1379" width="38" height="32" />
+        <cmp x="655" y="1376" width="46" height="38" />
+      </word>
+      <word id="c02-059-03-02" tag="VBN" text="awarded">
+        <cmp x="798" y="1382" width="33" height="31" />
+        <cmp x="830" y="1382" width="87" height="35" />
+        <cmp x="917" y="1365" width="93" height="53" />
+        <cmp x="1012" y="1364" width="36" height="55" />
+      </word>
+      <word id="c02-059-03-03" tag="IN" text="in">
+        <cmp x="1136" y="1365" width="11" height="11" />
+        <cmp x="1137" y="1382" width="8" height="31" />
+        <cmp x="1153" y="1387" width="37" height="25" />
+      </word>
+      <word id="c02-059-03-04" tag="AT" text="every">
+        <cmp x="1257" y="1381" width="55" height="33" />
+        <cmp x="1314" y="1381" width="31" height="35" />
+        <cmp x="1346" y="1386" width="61" height="75" />
+      </word>
+      <word id="c02-059-03-05" tag="NN" text="direction">
+        <cmp x="1466" y="1360" width="45" height="51" />
+        <cmp x="1510" y="1382" width="10" height="29" />
+        <cmp x="1512" y="1364" width="8" height="16" />
+        <cmp x="1521" y="1384" width="22" height="28" />
+        <cmp x="1540" y="1382" width="69" height="34" />
+        <cmp x="1600" y="1366" width="32" height="50" />
+        <cmp x="1625" y="1366" width="8" height="16" />
+        <cmp x="1638" y="1386" width="36" height="37" />
+        <cmp x="1674" y="1393" width="41" height="31" />
+      </word>
+      <word id="c02-059-03-06" tag="." text=".">
+        <cmp x="1757" y="1413" width="8" height="12" />
+      </word>
+      <word id="c02-059-03-07" sentence-start="yes" tag="ABX" text="Both">
+        <cmp x="1813" y="1365" width="155" height="62" />
+      </word>
+      <word id="c02-059-03-08" tag="ATI" text="the">
+        <cmp x="2026" y="1375" width="96" height="53" />
+      </word>
+      <upper-contour>
+        <point x="341" y="1273" />
+        <point x="2107" y="1273" />
+      </upper-contour>
+      <lower-contour>
+        <point x="345" y="1461" />
+        <point x="2091" y="1461" />
+      </lower-contour>
+    </line>
+    <line ass="-754" asx="0" asy="1516" character-width="999" dss="-754" dsx="0" dsy="1606" fd0="13603" fd1="3061" fd2="-825" filter-width="3" id="c02-059-04" lbs="-822" lbx="0" lby="1579" segmentation="ok" slant="96000" stroke-width="5518" threshold="172" text="Antonioni and Wicki films took high honours," ubs="-617" ubx="0" uby="1553">
+      <word id="c02-059-04-00" tag="NP" text="Antonioni">
+        <cmp x="347" y="1532" width="62" height="65" />
+        <cmp x="411" y="1538" width="24" height="51" />
+        <cmp x="436" y="1564" width="30" height="29" />
+        <cmp x="465" y="1562" width="56" height="27" />
+        <cmp x="508" y="1545" width="5" height="10" />
+        <cmp x="529" y="1562" width="39" height="31" />
+        <cmp x="571" y="1563" width="53" height="29" />
+        <cmp x="612" y="1535" width="7" height="15" />
+      </word>
+      <word id="c02-059-04-01" tag="CC" text="and">
+        <cmp x="716" y="1559" width="35" height="31" />
+        <cmp x="751" y="1548" width="73" height="47" />
+      </word>
+      <word id="c02-059-04-02" tag="NP" text="Wicki">
+        <cmp x="908" y="1541" width="52" height="49" />
+        <cmp x="966" y="1558" width="7" height="29" />
+        <cmp x="968" y="1543" width="6" height="10" />
+        <cmp x="981" y="1561" width="31" height="30" />
+        <cmp x="1009" y="1542" width="40" height="49" />
+        <cmp x="1056" y="1537" width="5" height="13" />
+        <cmp x="1056" y="1565" width="9" height="26" />
+      </word>
+      <word id="c02-059-04-03" tag="NNS" text="films">
+        <cmp x="1160" y="1532" width="43" height="88" />
+        <cmp x="1194" y="1545" width="9" height="11" />
+        <cmp x="1205" y="1542" width="11" height="51" />
+        <cmp x="1217" y="1560" width="89" height="38" />
+      </word>
+      <word id="c02-059-04-04" tag="VBD" text="took">
+        <cmp x="1405" y="1553" width="99" height="52" />
+        <cmp x="1503" y="1550" width="33" height="49" />
+      </word>
+      <word id="c02-059-04-05" tag="JJ" text="high">
+        <cmp x="1619" y="1550" width="38" height="47" />
+        <cmp x="1658" y="1571" width="11" height="25" />
+        <cmp x="1659" y="1545" width="5" height="15" />
+        <cmp x="1676" y="1569" width="28" height="60" />
+        <cmp x="1705" y="1548" width="41" height="57" />
+      </word>
+      <word id="c02-059-04-06" tag="NNS" text="honours">
+        <cmp x="1826" y="1552" width="40" height="46" />
+        <cmp x="1865" y="1568" width="33" height="32" />
+        <cmp x="1900" y="1574" width="35" height="27" />
+        <cmp x="1939" y="1575" width="30" height="29" />
+        <cmp x="1972" y="1571" width="37" height="34" />
+        <cmp x="2009" y="1574" width="23" height="31" />
+        <cmp x="2024" y="1569" width="32" height="38" />
+      </word>
+      <word id="c02-059-04-07" tag="," text=",">
+        <cmp x="2084" y="1594" width="6" height="26" />
+      </word>
+      <upper-contour>
+        <point x="345" y="1461" />
+        <point x="2091" y="1461" />
+      </upper-contour>
+      <lower-contour>
+        <point x="345" y="1628" />
+        <point x="2091" y="1628" />
+      </lower-contour>
+    </line>
+    <line ass="-521" asx="0" asy="1706" character-width="999" dss="-521" dsx="0" dsy="1800" fd0="13107" fd1="2466" fd2="-1185" filter-width="3" id="c02-059-05" lbs="-560" lbx="0" lby="1762" segmentation="ok" slant="97000" stroke-width="5632" threshold="174" text="and the audience at the awards was particularly" ubs="-444" ubx="0" uby="1735">
+      <word id="c02-059-05-00" tag="CC" text="and">
+        <cmp x="340" y="1734" width="34" height="33" />
+        <cmp x="375" y="1740" width="34" height="26" />
+        <cmp x="411" y="1718" width="34" height="52" />
+      </word>
+      <word id="c02-059-05-01" tag="ATI" text="the">
+        <cmp x="533" y="1719" width="98" height="49" />
+      </word>
+      <word id="c02-059-05-02" tag="NN" text="audience">
+        <cmp x="730" y="1740" width="45" height="30" />
+        <cmp x="772" y="1744" width="37" height="25" />
+        <cmp x="811" y="1723" width="56" height="51" />
+        <cmp x="855" y="1724" width="7" height="14" />
+        <cmp x="872" y="1742" width="61" height="32" />
+        <cmp x="940" y="1745" width="27" height="32" />
+        <cmp x="975" y="1746" width="29" height="31" />
+      </word>
+      <word id="c02-059-05-03" tag="IN" text="at">
+        <cmp x="1082" y="1745" width="44" height="28" />
+        <cmp x="1120" y="1718" width="24" height="49" />
+      </word>
+      <word id="c02-059-05-04" tag="ATI" text="the">
+        <cmp x="1207" y="1726" width="93" height="51" />
+      </word>
+      <word id="c02-059-05-05" tag="NNS" text="awards">
+        <cmp x="1381" y="1740" width="41" height="36" />
+        <cmp x="1422" y="1740" width="95" height="35" />
+        <cmp x="1514" y="1725" width="87" height="53" />
+      </word>
+      <word id="c02-059-05-06" tag="BEDZ" text="was">
+        <cmp x="1674" y="1744" width="117" height="40" />
+      </word>
+      <word id="c02-059-05-07" tag="RB" text="particularly">
+        <cmp x="1862" y="1746" width="62" height="56" />
+        <cmp x="1923" y="1749" width="27" height="31" />
+        <cmp x="1948" y="1733" width="43" height="50" />
+        <cmp x="1979" y="1733" width="6" height="12" />
+        <cmp x="1993" y="1731" width="87" height="56" />
+        <cmp x="2015" y="1754" width="3" height="5" />
+        <cmp x="2074" y="1753" width="32" height="33" />
+        <cmp x="2111" y="1739" width="51" height="50" />
+        <cmp x="2162" y="1754" width="27" height="66" />
+      </word>
+      <upper-contour>
+        <point x="345" y="1628" />
+        <point x="2091" y="1628" />
+      </upper-contour>
+      <lower-contour>
+        <point x="338" y="1801" />
+        <point x="2162" y="1801" />
+      </lower-contour>
+    </line>
+    <line ass="-512" asx="0" asy="1877" character-width="999" dss="-512" dsx="0" dsy="1952" fd0="13394" fd1="2687" fd2="-1020" filter-width="3" id="c02-059-06" lbs="-522" lbx="0" lby="1941" segmentation="ok" slant="98000" stroke-width="5624" threshold="176" text="enthusiastic when one Miss Anna Kerima was selected" ubs="-493" ubx="0" uby="1913">
+      <word id="c02-059-06-00" tag="JJ" text="enthusiastic">
+        <cmp x="336" y="1914" width="58" height="36" />
+        <cmp x="394" y="1898" width="58" height="50" />
+        <cmp x="452" y="1913" width="61" height="34" />
+        <cmp x="516" y="1899" width="6" height="12" />
+        <cmp x="520" y="1916" width="9" height="32" />
+        <cmp x="535" y="1912" width="59" height="36" />
+        <cmp x="594" y="1897" width="30" height="46" />
+        <cmp x="630" y="1918" width="32" height="29" />
+      </word>
+      <word id="c02-059-06-01" tag="WRB" text="when">
+        <cmp x="745" y="1916" width="54" height="33" />
+        <cmp x="797" y="1897" width="61" height="55" />
+        <cmp x="862" y="1927" width="44" height="32" />
+      </word>
+      <word id="c02-059-06-02" tag="CD1" text="one">
+        <cmp x="991" y="1924" width="68" height="31" />
+        <cmp x="1063" y="1925" width="33" height="28" />
+      </word>
+      <word id="c02-059-06-03" tag="NPT" text="Miss">
+        <cmp x="1159" y="1893" width="49" height="58" />
+        <cmp x="1207" y="1921" width="8" height="27" />
+        <cmp x="1208" y="1900" width="7" height="12" />
+        <cmp x="1220" y="1912" width="52" height="42" />
+      </word>
+      <word id="c02-059-06-04" tag="NP" text="Anna">
+        <cmp x="1328" y="1890" width="37" height="60" />
+        <cmp x="1366" y="1917" width="36" height="30" />
+        <cmp x="1404" y="1920" width="63" height="33" />
+      </word>
+      <word id="c02-059-06-05" tag="NP" text="Kerima">
+        <cmp x="1527" y="1906" width="96" height="52" />
+        <cmp x="1613" y="1901" width="6" height="13" />
+        <cmp x="1629" y="1931" width="89" height="38" />
+      </word>
+      <word id="c02-059-06-06" tag="BEDZ" text="was">
+        <cmp x="1778" y="1921" width="104" height="40" />
+      </word>
+      <word id="c02-059-06-07" tag="VBN" text="selected">
+        <cmp x="1947" y="1911" width="62" height="55" />
+        <cmp x="2009" y="1932" width="31" height="30" />
+        <cmp x="2038" y="1913" width="55" height="50" />
+        <cmp x="2094" y="1919" width="67" height="46" />
+      </word>
+      <upper-contour>
+        <point x="338" y="1801" />
+        <point x="2162" y="1801" />
+      </upper-contour>
+      <lower-contour>
+        <point x="336" y="1968" />
+        <point x="2048" y="1968" />
+      </lower-contour>
+    </line>
+    <line ass="-577" asx="0" asy="2063" character-width="999" dss="-577" dsx="0" dsy="2141" fd0="13257" fd1="3323" fd2="-560" filter-width="3" id="c02-059-07" lbs="-577" lbx="0" lby="2118" segmentation="ok" slant="96000" stroke-width="5543" threshold="172" text="as best actress for her work in the Godard" ubs="-577" ubx="0" uby="2088">
+      <word id="c02-059-07-00" tag="IN" text="as">
+        <cmp x="338" y="2086" width="60" height="40" />
+      </word>
+      <word id="c02-059-07-01" tag="JJT" text="best">
+        <cmp x="500" y="2077" width="91" height="50" />
+        <cmp x="594" y="2070" width="19" height="53" />
+      </word>
+      <word id="c02-059-07-02" tag="NN" text="actress">
+        <cmp x="705" y="2102" width="35" height="31" />
+        <cmp x="738" y="2103" width="38" height="31" />
+        <cmp x="771" y="2079" width="119" height="55" />
+      </word>
+      <word id="c02-059-07-03" tag="IN" text="for">
+        <cmp x="974" y="2079" width="93" height="73" />
+      </word>
+      <word id="c02-059-07-04" tag="PP$" text="her">
+        <cmp x="1156" y="2078" width="65" height="49" />
+        <cmp x="1222" y="2101" width="27" height="30" />
+      </word>
+      <word id="c02-059-07-05" tag="NN" text="work">
+        <cmp x="1321" y="2093" width="87" height="35" />
+        <cmp x="1410" y="2096" width="21" height="29" />
+        <cmp x="1434" y="2081" width="36" height="46" />
+      </word>
+      <word id="c02-059-07-06" tag="IN" text="in">
+        <cmp x="1537" y="2081" width="10" height="14" />
+        <cmp x="1540" y="2107" width="9" height="28" />
+        <cmp x="1541" y="2103" width="3" height="3" />
+        <cmp x="1552" y="2103" width="38" height="31" />
+      </word>
+      <word id="c02-059-07-07" tag="ATI" text="the">
+        <cmp x="1646" y="2087" width="98" height="47" />
+      </word>
+      <word id="c02-059-07-08" tag="NP" text="Godard">
+        <cmp x="1825" y="2092" width="167" height="52" />
+        <cmp x="1992" y="2090" width="55" height="53" />
+      </word>
+      <upper-contour>
+        <point x="336" y="1968" />
+        <point x="2048" y="1968" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="2152" />
+        <point x="2048" y="2152" />
+      </lower-contour>
+    </line>
+    <line ass="-647" asx="0" asy="2235" character-width="999" dss="-647" dsx="0" dsy="2329" fd0="13231" fd1="2994" fd2="-1281" filter-width="3" id="c02-059-08" lbs="-649" lbx="0" lby="2299" segmentation="ok" slant="94000" stroke-width="5468" threshold="172" text="film. Gifted with an interesting face, although little" ubs="-642" ubx="0" uby="2268">
+      <word id="c02-059-08-00" tag="NN" text="film">
+        <cmp x="349" y="2240" width="38" height="75" />
+        <cmp x="379" y="2250" width="5" height="6" />
+        <cmp x="386" y="2247" width="13" height="52" />
+        <cmp x="401" y="2267" width="61" height="37" />
+      </word>
+      <word id="c02-059-08-01" tag="." text=".">
+        <cmp x="484" y="2297" width="8" height="11" />
+      </word>
+      <word id="c02-059-08-02" sentence-start="yes" tag="JJ" text="Gifted">
+        <cmp x="596" y="2256" width="46" height="50" />
+        <cmp x="642" y="2252" width="6" height="11" />
+        <cmp x="647" y="2276" width="8" height="31" />
+        <cmp x="665" y="2252" width="91" height="76" />
+      </word>
+      <word id="c02-059-08-03" tag="IN" text="with">
+        <cmp x="841" y="2272" width="66" height="36" />
+        <cmp x="897" y="2251" width="5" height="12" />
+        <cmp x="913" y="2252" width="59" height="51" />
+      </word>
+      <word id="c02-059-08-04" tag="AT" text="an">
+        <cmp x="1039" y="2282" width="37" height="28" />
+        <cmp x="1080" y="2287" width="41" height="27" />
+      </word>
+      <word id="c02-059-08-05" tag="JJ" text="interesting">
+        <cmp x="1201" y="2262" width="9" height="11" />
+        <cmp x="1203" y="2281" width="8" height="30" />
+        <cmp x="1216" y="2285" width="30" height="30" />
+        <cmp x="1246" y="2259" width="21" height="51" />
+        <cmp x="1267" y="2279" width="100" height="36" />
+        <cmp x="1370" y="2259" width="34" height="51" />
+        <cmp x="1395" y="2258" width="6" height="11" />
+        <cmp x="1407" y="2285" width="60" height="55" />
+      </word>
+      <word id="c02-059-08-06" tag="NN" text="face">
+        <cmp x="1523" y="2259" width="120" height="89" />
+      </word>
+      <word id="c02-059-08-07" tag="," text=",">
+        <cmp x="1692" y="2308" width="5" height="23" />
+      </word>
+      <word id="c02-059-08-08" tag="CS" text="although">
+        <cmp x="1719" y="2290" width="41" height="28" />
+        <cmp x="1764" y="2268" width="27" height="50" />
+        <cmp x="1790" y="2269" width="21" height="46" />
+        <cmp x="1815" y="2271" width="34" height="46" />
+        <cmp x="1849" y="2293" width="33" height="27" />
+        <cmp x="1885" y="2289" width="42" height="32" />
+        <cmp x="1925" y="2294" width="35" height="54" />
+        <cmp x="1959" y="2270" width="35" height="55" />
+      </word>
+      <word id="c02-059-08-09" tag="AP" text="little">
+        <cmp x="2078" y="2275" width="43" height="47" />
+        <cmp x="2114" y="2270" width="5" height="18" />
+        <cmp x="2126" y="2275" width="31" height="44" />
+        <cmp x="2156" y="2273" width="61" height="52" />
+      </word>
+      <upper-contour>
+        <point x="347" y="2152" />
+        <point x="2048" y="2152" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="2348" />
+        <point x="2046" y="2348" />
+      </lower-contour>
+    </line>
+    <line ass="-657" asx="0" asy="2419" character-width="999" dss="-657" dsx="0" dsy="2511" fd0="13326" fd1="3338" fd2="-804" filter-width="3" id="c02-059-09" lbs="-675" lbx="0" lby="2472" segmentation="ok" slant="91000" stroke-width="5545" threshold="174" text="acting ability, she would seem to be well" ubs="-620" ubx="0" uby="2445">
+      <word id="c02-059-09-00" tag="NN" text="acting">
+        <cmp x="351" y="2444" width="36" height="34" />
+        <cmp x="386" y="2448" width="36" height="31" />
+        <cmp x="422" y="2435" width="31" height="46" />
+        <cmp x="441" y="2441" width="6" height="16" />
+        <cmp x="459" y="2461" width="31" height="22" />
+        <cmp x="481" y="2459" width="40" height="52" />
+      </word>
+      <word id="c02-059-09-01" tag="NN" text="ability">
+        <cmp x="588" y="2431" width="83" height="49" />
+        <cmp x="662" y="2432" width="7" height="14" />
+        <cmp x="677" y="2434" width="40" height="51" />
+        <cmp x="707" y="2433" width="7" height="21" />
+        <cmp x="725" y="2434" width="54" height="86" />
+      </word>
+      <word id="c02-059-09-02" tag="," text=",">
+        <cmp x="821" y="2487" width="5" height="22" />
+      </word>
+      <word id="c02-059-09-03" tag="PP3A" text="she">
+        <cmp x="893" y="2454" width="31" height="34" />
+        <cmp x="924" y="2431" width="68" height="53" />
+      </word>
+      <word id="c02-059-09-04" tag="MD" text="would">
+        <cmp x="1066" y="2456" width="62" height="32" />
+        <cmp x="1129" y="2457" width="78" height="34" />
+        <cmp x="1211" y="2444" width="25" height="44" />
+        <cmp x="1236" y="2443" width="34" height="48" />
+      </word>
+      <word id="c02-059-09-05" tag="VB" text="seem">
+        <cmp x="1348" y="2457" width="60" height="37" />
+        <cmp x="1409" y="2458" width="100" height="35" />
+      </word>
+      <word id="c02-059-09-06" tag="TO" text="to">
+        <cmp x="1574" y="2448" width="59" height="48" />
+      </word>
+      <word id="c02-059-09-07" tag="BE" text="be">
+        <cmp x="1732" y="2440" width="41" height="55" />
+        <cmp x="1773" y="2464" width="34" height="31" />
+      </word>
+      <word id="c02-059-09-08" tag="RB" text="well">
+        <cmp x="1902" y="2459" width="55" height="34" />
+        <cmp x="1958" y="2441" width="87" height="54" />
+      </word>
+      <upper-contour>
+        <point x="349" y="2348" />
+        <point x="2046" y="2348" />
+      </upper-contour>
+      <lower-contour>
+        <point x="354" y="2521" />
+        <point x="2046" y="2521" />
+      </lower-contour>
+    </line>
+    <line ass="-852" asx="0" asy="2591" character-width="999" dss="-852" dsx="0" dsy="2673" fd0="13493" fd1="2809" fd2="-467" filter-width="3" id="c02-059-10" lbs="-819" lbx="0" lby="2644" segmentation="ok" slant="97000" stroke-width="5564" threshold="177" text="worth watching in the months to come." ubs="-920" ubx="0" uby="2618">
+      <word id="c02-059-10-00" tag="IN" text="worth">
+        <cmp x="356" y="2623" width="88" height="34" />
+        <cmp x="450" y="2627" width="19" height="26" />
+        <cmp x="472" y="2606" width="72" height="54" />
+      </word>
+      <word id="c02-059-10-01" tag="VBG" text="watching">
+        <cmp x="663" y="2623" width="99" height="36" />
+        <cmp x="761" y="2606" width="19" height="51" />
+        <cmp x="781" y="2611" width="77" height="49" />
+        <cmp x="845" y="2613" width="10" height="14" />
+        <cmp x="865" y="2635" width="58" height="53" />
+      </word>
+      <word id="c02-059-10-02" tag="IN" text="in">
+        <cmp x="1007" y="2606" width="14" height="21" />
+        <cmp x="1010" y="2628" width="8" height="27" />
+        <cmp x="1025" y="2633" width="38" height="32" />
+      </word>
+      <word id="c02-059-10-03" tag="ATI" text="the">
+        <cmp x="1168" y="2617" width="65" height="48" />
+        <cmp x="1234" y="2637" width="28" height="29" />
+      </word>
+      <word id="c02-059-10-04" tag="NNS" text="months">
+        <cmp x="1341" y="2637" width="61" height="28" />
+        <cmp x="1405" y="2637" width="30" height="28" />
+        <cmp x="1442" y="2641" width="38" height="30" />
+        <cmp x="1486" y="2618" width="86" height="53" />
+      </word>
+      <word id="c02-059-10-05" tag="TO" text="to">
+        <cmp x="1683" y="2624" width="65" height="49" />
+      </word>
+      <word id="c02-059-10-06" tag="VB" text="come">
+        <cmp x="1833" y="2642" width="72" height="31" />
+        <cmp x="1908" y="2648" width="99" height="26" />
+      </word>
+      <word id="c02-059-10-07" tag="." text=".">
+        <cmp x="2036" y="2664" width="14" height="8" />
+      </word>
+      <upper-contour>
+        <point x="354" y="2521" />
+        <point x="2046" y="2521" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

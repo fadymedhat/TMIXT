@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-18" height="3542" id="g02-059" last-modified="2002-07-17" skew="-63" status="final" version="3.0_beta" width="2479" writer-id="303">
+  <machine-printed-part>
+    <machine-print-line text="In Chapter Two he gauged the nature of the heart&apos;s movements from the dissection of" />
+    <machine-print-line text="living animals, showing how these movements alternate with rests and are seen best" />
+    <machine-print-line text="in cold animals or in flagging warmer ones. At the time of its movement the heart" />
+    <machine-print-line text="becomes generally constricted, its walls thicken, its ventricles decrease in volume and" />
+    <machine-print-line text="it expels its content of blood, appearing paler in so doing in animals such as serpents," />
+    <machine-print-line text="frogs, and the like." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="214" asx="0" asy="827" character-width="999" dss="214" dsx="0" dsy="956" fd0="12766" fd1="2074" fd2="-1781" filter-width="3" id="g02-059-00" lbs="441" lbx="0" lby="899" segmentation="ok" slant="89000" stroke-width="5366" threshold="191" text="In Chapter Two he gauged the nature of the heart&apos;s movements" ubs="-238" ubx="0" uby="844">
+      <word id="g02-059-00-00" sentence-start="yes" tag="IN" text="In">
+        <cmp x="386" y="827" width="38" height="68" />
+      </word>
+      <word id="g02-059-00-01" tag="NN" text="Chapter">
+        <cmp x="462" y="827" width="171" height="109" />
+        <cmp x="494" y="830" width="3" height="5" />
+      </word>
+      <word id="g02-059-00-02" tag="CD" text="Two">
+        <cmp x="658" y="824" width="65" height="63" />
+        <cmp x="728" y="855" width="23" height="31" />
+      </word>
+      <word id="g02-059-00-03" tag="PP3A" text="he">
+        <cmp x="783" y="831" width="62" height="59" />
+      </word>
+      <word id="g02-059-00-04" tag="VBD" text="gauged">
+        <cmp x="866" y="849" width="30" height="97" />
+        <cmp x="893" y="851" width="66" height="45" />
+        <cmp x="962" y="831" width="86" height="123" />
+      </word>
+      <word id="g02-059-00-05" tag="ATI" text="the">
+        <cmp x="1078" y="836" width="78" height="57" />
+      </word>
+      <word id="g02-059-00-06" tag="NN" text="nature">
+        <cmp x="1187" y="832" width="128" height="67" />
+        <cmp x="1301" y="857" width="37" height="38" />
+      </word>
+      <word id="g02-059-00-07" tag="INO" text="of">
+        <cmp x="1366" y="831" width="54" height="104" />
+        <cmp x="1410" y="825" width="7" height="6" />
+      </word>
+      <word id="g02-059-00-08" tag="ATI" text="the">
+        <cmp x="1449" y="833" width="87" height="62" />
+      </word>
+      <word id="g02-059-00-09" tag="NN$" text="heart&apos;s">
+        <cmp x="1570" y="829" width="135" height="68" />
+        <cmp x="1713" y="824" width="6" height="17" />
+        <cmp x="1720" y="847" width="31" height="44" />
+      </word>
+      <word id="g02-059-00-10" tag="NNS" text="movements">
+        <cmp x="1792" y="850" width="77" height="40" />
+        <cmp x="1874" y="835" width="222" height="62" />
+      </word>
+      <lower-contour>
+        <point x="384" y="954" />
+        <point x="2097" y="954" />
+      </lower-contour>
+    </line>
+    <line ass="-224" asx="0" asy="989" character-width="999" dss="-224" dsx="0" dsy="1140" fd0="12939" fd1="2489" fd2="-1792" filter-width="3" id="g02-059-01" lbs="-215" lbx="0" lby="1058" segmentation="ok" slant="87000" stroke-width="5322" threshold="182" text="from the dissection of living animals, showing how these move-" ubs="-242" ubx="0" uby="1027">
+      <word id="g02-059-01-00" tag="IN" text="from">
+        <cmp x="377" y="992" width="45" height="114" />
+        <cmp x="412" y="1031" width="23" height="36" />
+        <cmp x="437" y="1031" width="44" height="37" />
+      </word>
+      <word id="g02-059-01-01" tag="ATI" text="the">
+        <cmp x="510" y="1004" width="80" height="61" />
+      </word>
+      <word id="g02-059-01-02" tag="NN" text="dissection">
+        <cmp x="622" y="1012" width="41" height="55" />
+        <cmp x="662" y="1002" width="129" height="71" />
+        <cmp x="663" y="1015" width="6" height="5" />
+        <cmp x="683" y="1026" width="5" height="7" />
+        <cmp x="790" y="1005" width="9" height="7" />
+        <cmp x="793" y="1030" width="25" height="38" />
+        <cmp x="821" y="1031" width="33" height="39" />
+      </word>
+      <word id="g02-059-01-03" tag="INO" text="of">
+        <cmp x="877" y="1002" width="54" height="121" />
+      </word>
+      <word id="g02-059-01-04" tag="JJ" text="living">
+        <cmp x="973" y="1011" width="23" height="65" />
+        <cmp x="993" y="1013" width="7" height="7" />
+        <cmp x="1002" y="1031" width="27" height="41" />
+        <cmp x="1031" y="1012" width="6" height="8" />
+        <cmp x="1035" y="1030" width="56" height="116" />
+      </word>
+      <word id="g02-059-01-05" tag="NNS" text="animals">
+        <cmp x="1122" y="1028" width="68" height="46" />
+        <cmp x="1185" y="1022" width="5" height="5" />
+        <cmp x="1199" y="1008" width="114" height="64" />
+      </word>
+      <word id="g02-059-01-06" tag="," text=",">
+        <cmp x="1326" y="1073" width="10" height="27" />
+      </word>
+      <word id="g02-059-01-07" tag="VBG" text="showing">
+        <cmp x="1370" y="1025" width="32" height="49" />
+        <cmp x="1401" y="1007" width="53" height="69" />
+        <cmp x="1460" y="1027" width="35" height="44" />
+        <cmp x="1498" y="1028" width="8" height="40" />
+        <cmp x="1505" y="1027" width="54" height="112" />
+        <cmp x="1508" y="1007" width="5" height="9" />
+      </word>
+      <word id="g02-059-01-08" tag="WRB" text="how">
+        <cmp x="1597" y="1008" width="59" height="67" />
+        <cmp x="1660" y="1028" width="39" height="45" />
+      </word>
+      <word id="g02-059-01-09" tag="DTS" text="these">
+        <cmp x="1735" y="1005" width="153" height="70" />
+      </word>
+      <word id="g02-059-01-10" tag="NNS-" text="move-">
+        <cmp x="1926" y="1026" width="47" height="42" />
+        <cmp x="1973" y="1028" width="26" height="36" />
+        <cmp x="2005" y="1029" width="21" height="40" />
+        <cmp x="2026" y="1030" width="41" height="37" />
+        <cmp x="2082" y="1030" width="26" height="11" />
+      </word>
+      <upper-contour>
+        <point x="384" y="954" />
+        <point x="2097" y="954" />
+      </upper-contour>
+      <lower-contour>
+        <point x="383" y="1146" />
+        <point x="2092" y="1146" />
+      </lower-contour>
+    </line>
+    <line ass="-21" asx="0" asy="1177" character-width="999" dss="-21" dsx="0" dsy="1253" fd0="13076" fd1="2315" fd2="-1791" filter-width="3" id="g02-059-02" lbs="16" lbx="0" lby="1246" segmentation="ok" slant="86000" stroke-width="5499" threshold="191" text="ments alternate with rests and are seen best in cold animals" ubs="-95" ubx="0" uby="1204">
+      <word id="g02-059-02-00" tag="-NNS" text="ments">
+        <cmp x="385" y="1187" width="139" height="61" />
+        <cmp x="494" y="1179" width="5" height="8" />
+      </word>
+      <word id="g02-059-02-01" tag="VB" text="alternate">
+        <cmp x="566" y="1181" width="70" height="64" />
+        <cmp x="626" y="1196" width="54" height="49" />
+        <cmp x="675" y="1186" width="94" height="60" />
+        <cmp x="754" y="1208" width="37" height="40" />
+      </word>
+      <word id="g02-059-02-02" tag="IN" text="with">
+        <cmp x="834" y="1208" width="40" height="46" />
+        <cmp x="876" y="1208" width="7" height="37" />
+        <cmp x="882" y="1182" width="8" height="13" />
+        <cmp x="889" y="1183" width="45" height="63" />
+      </word>
+      <word id="g02-059-02-03" tag="NNS" text="rests">
+        <cmp x="972" y="1200" width="23" height="43" />
+        <cmp x="983" y="1185" width="101" height="68" />
+      </word>
+      <word id="g02-059-02-04" tag="CC" text="and">
+        <cmp x="1133" y="1179" width="94" height="70" />
+      </word>
+      <word id="g02-059-02-05" tag="BER" text="are">
+        <cmp x="1253" y="1202" width="59" height="49" />
+        <cmp x="1304" y="1209" width="36" height="39" />
+      </word>
+      <word id="g02-059-02-06" tag="VBN" text="seen">
+        <cmp x="1371" y="1203" width="116" height="51" />
+      </word>
+      <word id="g02-059-02-07" tag="RBT" text="best">
+        <cmp x="1522" y="1179" width="116" height="70" />
+      </word>
+      <word id="g02-059-02-08" tag="IN" text="in">
+        <cmp x="1663" y="1207" width="12" height="44" />
+        <cmp x="1675" y="1184" width="8" height="8" />
+        <cmp x="1678" y="1208" width="32" height="40" />
+      </word>
+      <word id="g02-059-02-09" tag="JJ" text="cold">
+        <cmp x="1740" y="1199" width="62" height="50" />
+        <cmp x="1808" y="1179" width="45" height="67" />
+      </word>
+      <word id="g02-059-02-10" tag="NNS" text="animals">
+        <cmp x="1871" y="1207" width="87" height="41" />
+        <cmp x="1954" y="1187" width="9" height="10" />
+        <cmp x="1959" y="1182" width="132" height="68" />
+      </word>
+      <upper-contour>
+        <point x="383" y="1146" />
+        <point x="2092" y="1146" />
+      </upper-contour>
+      <lower-contour>
+        <point x="383" y="1254" />
+        <point x="2076" y="1254" />
+      </lower-contour>
+    </line>
+    <line ass="674" asx="0" asy="1360" character-width="999" dss="674" dsx="0" dsy="1500" fd0="12712" fd1="2423" fd2="-1519" filter-width="3" id="g02-059-03" lbs="925" lbx="0" lby="1445" segmentation="ok" slant="90000" stroke-width="5405" threshold="191" text="or in flagging warmer ones. At the time of its movement" ubs="172" ubx="0" uby="1385">
+      <word id="g02-059-03-00" tag="CC" text="or">
+        <cmp x="385" y="1385" width="38" height="41" />
+        <cmp x="432" y="1379" width="19" height="43" />
+      </word>
+      <word id="g02-059-03-01" tag="IN" text="in">
+        <cmp x="494" y="1382" width="7" height="38" />
+        <cmp x="498" y="1362" width="7" height="5" />
+        <cmp x="503" y="1383" width="31" height="38" />
+      </word>
+      <word id="g02-059-03-02" tag="JJ" text="flagging">
+        <cmp x="579" y="1354" width="81" height="125" />
+        <cmp x="660" y="1385" width="31" height="102" />
+        <cmp x="694" y="1386" width="7" height="39" />
+        <cmp x="703" y="1368" width="7" height="7" />
+        <cmp x="709" y="1386" width="49" height="107" />
+      </word>
+      <word id="g02-059-03-03" tag="JJR" text="warmer">
+        <cmp x="808" y="1385" width="40" height="48" />
+        <cmp x="848" y="1380" width="48" height="48" />
+        <cmp x="896" y="1385" width="88" height="45" />
+      </word>
+      <word id="g02-059-03-04" tag="CD1S" text="ones">
+        <cmp x="1024" y="1385" width="33" height="42" />
+        <cmp x="1059" y="1380" width="96" height="50" />
+      </word>
+      <word id="g02-059-03-05" tag="." text=".">
+        <cmp x="1168" y="1418" width="6" height="8" />
+      </word>
+      <word id="g02-059-03-06" sentence-start="yes" tag="IN" text="At">
+        <cmp x="1222" y="1354" width="75" height="82" />
+      </word>
+      <word id="g02-059-03-07" tag="ATI" text="the">
+        <cmp x="1339" y="1354" width="100" height="75" />
+      </word>
+      <word id="g02-059-03-08" tag="NN" text="time">
+        <cmp x="1468" y="1355" width="21" height="69" />
+        <cmp x="1489" y="1360" width="6" height="8" />
+        <cmp x="1491" y="1379" width="93" height="43" />
+      </word>
+      <word id="g02-059-03-09" tag="INO" text="of">
+        <cmp x="1611" y="1385" width="33" height="37" />
+        <cmp x="1646" y="1354" width="31" height="121" />
+      </word>
+      <word id="g02-059-03-10" tag="PP$" text="its">
+        <cmp x="1700" y="1378" width="11" height="41" />
+        <cmp x="1712" y="1354" width="6" height="9" />
+        <cmp x="1715" y="1362" width="41" height="64" />
+      </word>
+      <word id="g02-059-03-11" tag="NN" text="movement">
+        <cmp x="1794" y="1375" width="71" height="47" />
+        <cmp x="1872" y="1363" width="204" height="61" />
+      </word>
+      <upper-contour>
+        <point x="383" y="1254" />
+        <point x="2076" y="1254" />
+      </upper-contour>
+      <lower-contour>
+        <point x="396" y="1493" />
+        <point x="2076" y="1493" />
+      </lower-contour>
+    </line>
+    <line ass="252" asx="0" asy="1537" character-width="999" dss="252" dsx="0" dsy="1667" fd0="13117" fd1="2320" fd2="-2042" filter-width="3" id="g02-059-04" lbs="138" lbx="0" lby="1606" segmentation="ok" slant="84000" stroke-width="5381" threshold="182" text="the heart becomes generally constricted, its walls thicken," ubs="480" ubx="0" uby="1570">
+      <word id="g02-059-04-00" tag="ATI" text="the">
+        <cmp x="398" y="1535" width="94" height="72" />
+      </word>
+      <word id="g02-059-04-01" tag="NN" text="heart">
+        <cmp x="536" y="1541" width="109" height="67" />
+        <cmp x="645" y="1538" width="27" height="64" />
+      </word>
+      <word id="g02-059-04-02" tag="VBZ" text="becomes">
+        <cmp x="710" y="1547" width="113" height="63" />
+        <cmp x="831" y="1563" width="99" height="48" />
+      </word>
+      <word id="g02-059-04-03" tag="RB" text="generally">
+        <cmp x="979" y="1561" width="145" height="103" />
+        <cmp x="1129" y="1541" width="104" height="108" />
+      </word>
+      <word id="g02-059-04-04" tag="VBN" text="constricted">
+        <cmp x="1275" y="1556" width="59" height="49" />
+        <cmp x="1336" y="1549" width="107" height="62" />
+        <cmp x="1443" y="1575" width="8" height="37" />
+        <cmp x="1449" y="1548" width="5" height="4" />
+        <cmp x="1459" y="1531" width="67" height="76" />
+        <cmp x="1511" y="1534" width="65" height="65" />
+      </word>
+      <word id="g02-059-04-05" tag="," text=",">
+        <cmp x="1594" y="1603" width="7" height="25" />
+      </word>
+      <word id="g02-059-04-06" tag="PP$" text="its">
+        <cmp x="1651" y="1557" width="9" height="43" />
+        <cmp x="1657" y="1536" width="7" height="6" />
+        <cmp x="1663" y="1538" width="42" height="67" />
+      </word>
+      <word id="g02-059-04-07" tag="NNS" text="walls">
+        <cmp x="1745" y="1559" width="44" height="50" />
+        <cmp x="1787" y="1531" width="62" height="70" />
+        <cmp x="1846" y="1552" width="31" height="54" />
+      </word>
+      <word id="g02-059-04-08" tag="VB" text="thicken">
+        <cmp x="1918" y="1534" width="73" height="67" />
+        <cmp x="1991" y="1537" width="5" height="5" />
+        <cmp x="1992" y="1542" width="124" height="66" />
+        <cmp x="2037" y="1534" width="5" height="8" />
+      </word>
+      <word id="g02-059-04-09" tag="," text=",">
+        <cmp x="2132" y="1599" width="9" height="28" />
+      </word>
+      <upper-contour>
+        <point x="396" y="1493" />
+        <point x="2076" y="1493" />
+      </upper-contour>
+      <lower-contour>
+        <point x="405" y="1664" />
+        <point x="1904" y="1664" />
+      </lower-contour>
+    </line>
+    <line ass="74" asx="0" asy="1711" character-width="999" dss="74" dsx="0" dsy="1812" fd0="13168" fd1="2516" fd2="-1796" filter-width="3" id="g02-059-05" lbs="4" lbx="0" lby="1780" segmentation="ok" slant="90000" stroke-width="5443" threshold="176" text="its ventricles decrease in volume and it expels its" ubs="216" ubx="0" uby="1744">
+      <word id="g02-059-05-00" tag="PP$" text="its">
+        <cmp x="407" y="1738" width="7" height="50" />
+        <cmp x="410" y="1712" width="11" height="11" />
+        <cmp x="417" y="1715" width="49" height="69" />
+      </word>
+      <word id="g02-059-05-01" tag="NNS" text="ventricles">
+        <cmp x="516" y="1732" width="31" height="57" />
+        <cmp x="537" y="1725" width="110" height="62" />
+        <cmp x="612" y="1718" width="3" height="6" />
+        <cmp x="648" y="1746" width="7" height="37" />
+        <cmp x="649" y="1719" width="7" height="8" />
+        <cmp x="660" y="1720" width="100" height="66" />
+        <cmp x="700" y="1713" width="3" height="5" />
+      </word>
+      <word id="g02-059-05-02" tag="VB" text="decrease">
+        <cmp x="807" y="1714" width="111" height="69" />
+        <cmp x="912" y="1738" width="135" height="47" />
+      </word>
+      <word id="g02-059-05-03" tag="IN" text="in">
+        <cmp x="1090" y="1742" width="7" height="39" />
+        <cmp x="1094" y="1728" width="5" height="5" />
+        <cmp x="1100" y="1743" width="35" height="42" />
+      </word>
+      <word id="g02-059-05-04" tag="NN" text="volume">
+        <cmp x="1176" y="1735" width="26" height="50" />
+        <cmp x="1194" y="1745" width="27" height="39" />
+        <cmp x="1228" y="1718" width="57" height="65" />
+        <cmp x="1292" y="1735" width="93" height="47" />
+      </word>
+      <word id="g02-059-05-05" tag="CC" text="and">
+        <cmp x="1420" y="1714" width="100" height="70" />
+      </word>
+      <word id="g02-059-05-06" tag="PP3" text="it">
+        <cmp x="1560" y="1743" width="8" height="41" />
+        <cmp x="1571" y="1719" width="4" height="5" />
+        <cmp x="1572" y="1718" width="27" height="62" />
+      </word>
+      <word id="g02-059-05-07" tag="VBZ" text="expels">
+        <cmp x="1627" y="1739" width="62" height="44" />
+        <cmp x="1661" y="1738" width="4" height="7" />
+        <cmp x="1693" y="1709" width="106" height="102" />
+      </word>
+      <word id="g02-059-05-08" tag="PP$" text="its">
+        <cmp x="1844" y="1738" width="10" height="39" />
+        <cmp x="1855" y="1714" width="5" height="6" />
+        <cmp x="1858" y="1720" width="45" height="58" />
+      </word>
+      <upper-contour>
+        <point x="405" y="1664" />
+        <point x="1904" y="1664" />
+      </upper-contour>
+      <lower-contour>
+        <point x="405" y="1811" />
+        <point x="1904" y="1811" />
+      </lower-contour>
+    </line>
+    <line ass="577" asx="0" asy="1899" character-width="999" dss="577" dsx="0" dsy="2057" fd0="12705" fd1="2349" fd2="-1812" filter-width="3" id="g02-059-06" lbs="704" lbx="0" lby="1973" segmentation="ok" slant="90000" stroke-width="5477" threshold="182" text="content of blood, appearing paler in so doing in animals" ubs="324" ubx="0" uby="1927">
+      <word id="g02-059-06-00" tag="NN" text="content">
+        <cmp x="403" y="1919" width="52" height="48" />
+        <cmp x="458" y="1924" width="47" height="41" />
+        <cmp x="495" y="1895" width="115" height="68" />
+      </word>
+      <word id="g02-059-06-01" tag="INO" text="of">
+        <cmp x="646" y="1920" width="26" height="43" />
+        <cmp x="675" y="1894" width="27" height="115" />
+      </word>
+      <word id="g02-059-06-02" tag="NN" text="blood">
+        <cmp x="749" y="1895" width="78" height="68" />
+        <cmp x="829" y="1923" width="26" height="41" />
+        <cmp x="861" y="1897" width="32" height="65" />
+      </word>
+      <word id="g02-059-06-03" tag="," text=",">
+        <cmp x="912" y="1962" width="6" height="30" />
+      </word>
+      <word id="g02-059-06-04" tag="VBG" text="appearing">
+        <cmp x="961" y="1918" width="65" height="92" />
+        <cmp x="1029" y="1913" width="121" height="82" />
+        <cmp x="1152" y="1921" width="7" height="45" />
+        <cmp x="1156" y="1900" width="7" height="7" />
+        <cmp x="1162" y="1924" width="57" height="118" />
+      </word>
+      <word id="g02-059-06-05" tag="JJR" text="paler">
+        <cmp x="1267" y="1896" width="132" height="113" />
+      </word>
+      <word id="g02-059-06-06" tag="IN" text="in">
+        <cmp x="1442" y="1921" width="8" height="38" />
+        <cmp x="1449" y="1898" width="9" height="13" />
+        <cmp x="1454" y="1916" width="34" height="46" />
+      </word>
+      <word id="g02-059-06-07" tag="PN" text="so">
+        <cmp x="1523" y="1910" width="65" height="54" />
+      </word>
+      <word id="g02-059-06-08" tag="VBG" text="doing">
+        <cmp x="1617" y="1894" width="37" height="70" />
+        <cmp x="1654" y="1920" width="34" height="41" />
+        <cmp x="1693" y="1922" width="9" height="41" />
+        <cmp x="1702" y="1925" width="57" height="116" />
+        <cmp x="1703" y="1899" width="7" height="8" />
+      </word>
+      <word id="g02-059-06-09" tag="IN" text="in">
+        <cmp x="1792" y="1921" width="8" height="39" />
+        <cmp x="1802" y="1904" width="5" height="9" />
+        <cmp x="1806" y="1920" width="30" height="39" />
+      </word>
+      <word id="g02-059-06-10" tag="NNS" text="animals">
+        <cmp x="1864" y="1915" width="86" height="48" />
+        <cmp x="1944" y="1900" width="6" height="8" />
+        <cmp x="1953" y="1921" width="52" height="37" />
+        <cmp x="2011" y="1894" width="81" height="72" />
+      </word>
+      <upper-contour>
+        <point x="405" y="1811" />
+        <point x="1904" y="1811" />
+      </upper-contour>
+      <lower-contour>
+        <point x="401" y="2042" />
+        <point x="1553" y="2042" />
+      </lower-contour>
+    </line>
+    <line ass="71" asx="0" asy="2076" character-width="999" dss="71" dsx="0" dsy="2205" fd0="12825" fd1="2458" fd2="-1696" filter-width="3" id="g02-059-07" lbs="189" lbx="0" lby="2147" segmentation="ok" slant="89000" stroke-width="5441" threshold="176" text="such as serpents, frogs, and the like." ubs="-164" ubx="0" uby="2099">
+      <word id="g02-059-07-00" tag="IN21" text="such">
+        <cmp x="398" y="2086" width="133" height="63" />
+        <cmp x="502" y="2079" width="3" height="5" />
+      </word>
+      <word id="g02-059-07-01" tag="IN22" text="as">
+        <cmp x="570" y="2098" width="56" height="47" />
+      </word>
+      <word id="g02-059-07-02" tag="NNS" text="serpents">
+        <cmp x="667" y="2099" width="81" height="53" />
+        <cmp x="742" y="2098" width="104" height="88" />
+        <cmp x="850" y="2076" width="51" height="70" />
+      </word>
+      <word id="g02-059-07-03" tag="," text=",">
+        <cmp x="919" y="2142" width="8" height="26" />
+      </word>
+      <word id="g02-059-07-04" tag="NNS" text="frogs">
+        <cmp x="956" y="2075" width="51" height="120" />
+        <cmp x="996" y="2106" width="29" height="35" />
+        <cmp x="1026" y="2103" width="23" height="101" />
+        <cmp x="1057" y="2099" width="25" height="43" />
+      </word>
+      <word id="g02-059-07-05" tag="," text=",">
+        <cmp x="1105" y="2135" width="8" height="32" />
+      </word>
+      <word id="g02-059-07-06" tag="CC" text="and">
+        <cmp x="1155" y="2075" width="103" height="68" />
+      </word>
+      <word id="g02-059-07-07" tag="ATI" text="the">
+        <cmp x="1300" y="2075" width="102" height="69" />
+      </word>
+      <word id="g02-059-07-08" tag="NN" text="like">
+        <cmp x="1434" y="2079" width="24" height="73" />
+        <cmp x="1456" y="2078" width="6" height="6" />
+        <cmp x="1463" y="2082" width="75" height="62" />
+      </word>
+      <word id="g02-059-07-09" tag="." text=".">
+        <cmp x="1546" y="2132" width="7" height="8" />
+      </word>
+      <upper-contour>
+        <point x="401" y="2042" />
+        <point x="1553" y="2042" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

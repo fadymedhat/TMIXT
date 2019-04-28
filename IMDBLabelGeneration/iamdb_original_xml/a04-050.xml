@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-16" height="3542" id="a04-050" last-modified="2002-07-17" skew="-127" status="final" version="3.0_beta" width="2479" writer-id="061">
+  <machine-printed-part>
+    <machine-print-line text="Mr. Gaitskell said that a member of an alliance could not deny facilities to nations to" />
+    <machine-print-line text="which it was allied. But governments should be free to negotiate and refuse proposals" />
+    <machine-print-line text="with which they did not agree. The Labour Party opposed Thor missiles, because, he" />
+    <machine-print-line text="said, they were out of date and vulnerable and would attract enemy action." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-534" asx="0" asy="682" character-width="999" dss="-534" dsx="0" dsy="847" fd0="13274" fd1="2845" fd2="-1226" filter-width="4" id="a04-050-00" lbs="-370" lbx="0" lby="787" segmentation="ok" slant="77000" stroke-width="6012" threshold="172" text="Mr Gaitskell said that a member of an alliance could" ubs="-860" ubx="0" uby="744">
+      <word id="a04-050-00-00" sentence-start="yes" tag="NPT" text="Mr">
+        <cmp x="365" y="700" width="36" height="101" />
+        <cmp x="400" y="755" width="30" height="40" />
+      </word>
+      <word id="a04-050-00-01" tag="NP" text="Gaitskell">
+        <cmp x="491" y="713" width="87" height="69" />
+        <cmp x="534" y="720" width="4" height="5" />
+        <cmp x="564" y="725" width="7" height="9" />
+        <cmp x="590" y="689" width="139" height="97" />
+      </word>
+      <word id="a04-050-00-02" tag="VBD" text="said">
+        <cmp x="756" y="748" width="90" height="52" />
+        <cmp x="835" y="737" width="12" height="8" />
+        <cmp x="863" y="710" width="37" height="79" />
+      </word>
+      <word id="a04-050-00-03" tag="CS" text="that">
+        <cmp x="952" y="709" width="82" height="85" />
+        <cmp x="1034" y="723" width="23" height="66" />
+      </word>
+      <word id="a04-050-00-04" tag="AT" text="a">
+        <cmp x="1089" y="766" width="29" height="34" />
+      </word>
+      <word id="a04-050-00-05" tag="NN" text="member">
+        <cmp x="1145" y="761" width="155" height="53" />
+        <cmp x="1301" y="716" width="75" height="86" />
+      </word>
+      <word id="a04-050-00-06" tag="INO" text="of">
+        <cmp x="1427" y="727" width="65" height="135" />
+      </word>
+      <word id="a04-050-00-07" tag="AT" text="an">
+        <cmp x="1495" y="774" width="73" height="33" />
+      </word>
+      <word id="a04-050-00-08" tag="NN" text="alliance">
+        <cmp x="1609" y="706" width="102" height="98" />
+        <cmp x="1712" y="749" width="4" height="7" />
+        <cmp x="1713" y="769" width="68" height="33" />
+        <cmp x="1796" y="770" width="34" height="33" />
+      </word>
+      <word id="a04-050-00-09" tag="MD" text="could">
+        <cmp x="1896" y="724" width="172" height="86" />
+      </word>
+      <lower-contour>
+        <point x="363" y="862" />
+        <point x="1908" y="862" />
+      </lower-contour>
+    </line>
+    <line ass="-746" asx="0" asy="876" character-width="999" dss="-746" dsx="0" dsy="1029" fd0="13573" fd1="2447" fd2="-793" filter-width="3" id="a04-050-01" lbs="-689" lbx="0" lby="960" segmentation="ok" slant="79000" stroke-width="5619" threshold="172" text="not deny facilities to nations to which it was" ubs="-860" ubx="0" uby="927">
+      <word id="a04-050-01-00" tag="XNOT" text="not">
+        <cmp x="305" y="942" width="96" height="52" />
+        <cmp x="405" y="886" width="26" height="71" />
+      </word>
+      <word id="a04-050-01-01" tag="VB" text="deny">
+        <cmp x="521" y="883" width="110" height="138" />
+      </word>
+      <word id="a04-050-01-02" tag="NNS" text="facilities">
+        <cmp x="679" y="893" width="54" height="145" />
+        <cmp x="717" y="944" width="29" height="37" />
+        <cmp x="760" y="945" width="33" height="34" />
+        <cmp x="782" y="925" width="10" height="8" />
+        <cmp x="803" y="897" width="37" height="79" />
+        <cmp x="828" y="937" width="9" height="7" />
+        <cmp x="851" y="899" width="85" height="78" />
+      </word>
+      <word id="a04-050-01-03" tag="IN" text="to">
+        <cmp x="1007" y="913" width="64" height="62" />
+        <cmp x="1042" y="906" width="4" height="5" />
+      </word>
+      <word id="a04-050-01-04" tag="NNS" text="nations">
+        <cmp x="1100" y="953" width="99" height="34" />
+        <cmp x="1202" y="908" width="28" height="71" />
+        <cmp x="1224" y="944" width="13" height="9" />
+        <cmp x="1229" y="950" width="89" height="36" />
+      </word>
+      <word id="a04-050-01-05" tag="IN" text="to">
+        <cmp x="1371" y="912" width="39" height="56" />
+        <cmp x="1403" y="948" width="28" height="30" />
+      </word>
+      <word id="a04-050-01-06" tag="WDT" text="which">
+        <cmp x="1473" y="948" width="26" height="35" />
+        <cmp x="1496" y="966" width="15" height="14" />
+        <cmp x="1507" y="907" width="49" height="75" />
+        <cmp x="1571" y="902" width="78" height="91" />
+      </word>
+      <word id="a04-050-01-07" tag="PP3" text="it">
+        <cmp x="1701" y="961" width="32" height="34" />
+        <cmp x="1725" y="935" width="10" height="6" />
+        <cmp x="1744" y="918" width="37" height="67" />
+      </word>
+      <word id="a04-050-01-08" tag="BEDZ" text="was">
+        <cmp x="1803" y="962" width="43" height="27" />
+        <cmp x="1852" y="958" width="55" height="30" />
+      </word>
+      <upper-contour>
+        <point x="363" y="862" />
+        <point x="1908" y="862" />
+      </upper-contour>
+      <lower-contour>
+        <point x="312" y="1039" />
+        <point x="1908" y="1039" />
+      </lower-contour>
+    </line>
+    <line ass="-118" asx="0" asy="1066" character-width="999" dss="-118" dsx="0" dsy="1219" fd0="12976" fd1="1986" fd2="-1342" filter-width="4" id="a04-050-02" lbs="-25" lbx="0" lby="1160" segmentation="ok" slant="70000" stroke-width="5785" threshold="172" text="allied. But governments should be free to negotiate" ubs="-303" ubx="0" uby="1125">
+      <word id="a04-050-02-00" tag="VBN" text="allied">
+        <cmp x="314" y="1067" width="100" height="99" />
+        <cmp x="418" y="1121" width="27" height="40" />
+        <cmp x="446" y="1074" width="40" height="88" />
+      </word>
+      <word id="a04-050-02-01" tag="." text=".">
+        <cmp x="516" y="1154" width="8" height="6" />
+      </word>
+      <word id="a04-050-02-02" sentence-start="yes" tag="CC" text="But">
+        <cmp x="650" y="1075" width="68" height="92" />
+        <cmp x="725" y="1075" width="35" height="74" />
+      </word>
+      <word id="a04-050-02-03" tag="NNS" text="governments">
+        <cmp x="807" y="1174" width="14" height="25" />
+        <cmp x="809" y="1118" width="43" height="99" />
+        <cmp x="847" y="1137" width="29" height="30" />
+        <cmp x="881" y="1128" width="24" height="31" />
+        <cmp x="900" y="1100" width="275" height="64" />
+      </word>
+      <word id="a04-050-02-04" tag="MD" text="should">
+        <cmp x="1250" y="1078" width="163" height="94" />
+        <cmp x="1402" y="1088" width="48" height="82" />
+      </word>
+      <word id="a04-050-02-05" tag="BE" text="be">
+        <cmp x="1479" y="1087" width="73" height="79" />
+      </word>
+      <word id="a04-050-02-06" tag="JJ" text="free">
+        <cmp x="1581" y="1086" width="108" height="138" />
+      </word>
+      <word id="a04-050-02-07" tag="TO" text="to">
+        <cmp x="1740" y="1107" width="35" height="50" />
+        <cmp x="1773" y="1134" width="26" height="26" />
+      </word>
+      <word id="a04-050-02-08" tag="VB" text="negotiate">
+        <cmp x="1834" y="1134" width="70" height="37" />
+        <cmp x="1891" y="1133" width="57" height="88" />
+        <cmp x="1947" y="1147" width="26" height="30" />
+        <cmp x="1996" y="1100" width="31" height="71" />
+        <cmp x="2023" y="1124" width="5" height="4" />
+        <cmp x="2029" y="1141" width="28" height="29" />
+        <cmp x="2074" y="1104" width="40" height="63" />
+        <cmp x="2107" y="1157" width="9" height="5" />
+      </word>
+      <upper-contour>
+        <point x="312" y="1039" />
+        <point x="1908" y="1039" />
+      </upper-contour>
+      <lower-contour>
+        <point x="323" y="1224" />
+        <point x="2034" y="1224" />
+      </lower-contour>
+    </line>
+    <line ass="-115" asx="0" asy="1248" character-width="999" dss="-115" dsx="0" dsy="1408" fd0="13277" fd1="2302" fd2="-1052" filter-width="4" id="a04-050-03" lbs="-82" lbx="0" lby="1339" segmentation="ok" slant="75000" stroke-width="5757" threshold="182" text="and refuse proposals with which they did not" ubs="-179" ubx="0" uby="1306">
+      <word id="a04-050-03-00" tag="CC" text="and">
+        <cmp x="325" y="1298" width="44" height="35" />
+        <cmp x="363" y="1303" width="39" height="26" />
+        <cmp x="410" y="1257" width="36" height="76" />
+      </word>
+      <word id="a04-050-03-01" tag="VB" text="refuse">
+        <cmp x="516" y="1250" width="206" height="145" />
+      </word>
+      <word id="a04-050-03-02" tag="NNS" text="proposals">
+        <cmp x="796" y="1301" width="133" height="99" />
+        <cmp x="938" y="1310" width="40" height="34" />
+        <cmp x="957" y="1329" width="12" height="16" />
+        <cmp x="986" y="1278" width="63" height="67" />
+        <cmp x="1046" y="1314" width="19" height="29" />
+      </word>
+      <word id="a04-050-03-03" tag="IN" text="with">
+        <cmp x="1151" y="1306" width="63" height="38" />
+        <cmp x="1232" y="1264" width="51" height="74" />
+      </word>
+      <word id="a04-050-03-04" tag="WDT" text="which">
+        <cmp x="1357" y="1257" width="86" height="90" />
+        <cmp x="1443" y="1300" width="12" height="12" />
+        <cmp x="1452" y="1267" width="77" height="88" />
+        <cmp x="1456" y="1311" width="5" height="4" />
+      </word>
+      <word id="a04-050-03-05" tag="PP3AS" text="they">
+        <cmp x="1615" y="1272" width="90" height="140" />
+        <cmp x="1677" y="1369" width="6" height="4" />
+      </word>
+      <word id="a04-050-03-06" tag="DOD" text="did">
+        <cmp x="1763" y="1280" width="42" height="73" />
+        <cmp x="1810" y="1293" width="7" height="13" />
+        <cmp x="1814" y="1284" width="42" height="70" />
+      </word>
+      <word id="a04-050-03-07" tag="XNOT" text="not">
+        <cmp x="1893" y="1323" width="81" height="33" />
+        <cmp x="1978" y="1280" width="55" height="68" />
+      </word>
+      <upper-contour>
+        <point x="323" y="1224" />
+        <point x="2034" y="1224" />
+      </upper-contour>
+      <lower-contour>
+        <point x="323" y="1412" />
+        <point x="2034" y="1412" />
+      </lower-contour>
+    </line>
+    <line ass="-608" asx="0" asy="1420" character-width="999" dss="-608" dsx="0" dsy="1593" fd0="13655" fd1="2460" fd2="-699" filter-width="4" id="a04-050-04" lbs="-604" lbx="0" lby="1503" segmentation="ok" slant="66999" stroke-width="5739" threshold="172" text="agree. The Labour Party opposed Thor missiles, because," ubs="-617" ubx="0" uby="1479">
+      <word id="a04-050-04-00" tag="VB" text="agree">
+        <cmp x="313" y="1481" width="32" height="43" />
+        <cmp x="348" y="1486" width="105" height="94" />
+      </word>
+      <word id="a04-050-04-01" tag="." text=".">
+        <cmp x="497" y="1507" width="7" height="6" />
+      </word>
+      <word id="a04-050-04-02" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="617" y="1427" width="87" height="85" />
+      </word>
+      <word id="a04-050-04-03" tag="NN" text="Labour">
+        <cmp x="771" y="1444" width="31" height="71" />
+        <cmp x="810" y="1437" width="91" height="78" />
+        <cmp x="907" y="1489" width="55" height="28" />
+      </word>
+      <word id="a04-050-04-04" tag="NN" text="Party">
+        <cmp x="1026" y="1441" width="45" height="77" />
+        <cmp x="1051" y="1491" width="55" height="27" />
+        <cmp x="1112" y="1447" width="44" height="56" />
+        <cmp x="1129" y="1485" width="53" height="96" />
+      </word>
+      <word id="a04-050-04-05" tag="VBD" text="opposed">
+        <cmp x="1254" y="1475" width="78" height="133" />
+        <cmp x="1333" y="1483" width="77" height="42" />
+        <cmp x="1402" y="1490" width="4" height="5" />
+        <cmp x="1416" y="1450" width="64" height="80" />
+      </word>
+      <word id="a04-050-04-06" tag="NP" text="Thor">
+        <cmp x="1545" y="1469" width="42" height="11" />
+        <cmp x="1560" y="1485" width="17" height="41" />
+        <cmp x="1586" y="1443" width="20" height="85" />
+        <cmp x="1614" y="1516" width="8" height="11" />
+        <cmp x="1615" y="1509" width="5" height="5" />
+        <cmp x="1619" y="1494" width="37" height="31" />
+      </word>
+      <word id="a04-050-04-07" tag="NNS" text="missiles">
+        <cmp x="1713" y="1487" width="82" height="41" />
+        <cmp x="1785" y="1469" width="6" height="9" />
+        <cmp x="1796" y="1486" width="41" height="41" />
+        <cmp x="1835" y="1476" width="8" height="9" />
+        <cmp x="1837" y="1501" width="10" height="17" />
+        <cmp x="1878" y="1451" width="55" height="77" />
+      </word>
+      <word id="a04-050-04-08" tag="," text=",">
+        <cmp x="1951" y="1540" width="21" height="25" />
+        <cmp x="1963" y="1534" width="5" height="5" />
+      </word>
+      <word id="a04-050-04-09" tag="CS" text="because">
+        <cmp x="2005" y="1456" width="63" height="76" />
+        <cmp x="2066" y="1500" width="21" height="29" />
+        <cmp x="2089" y="1497" width="103" height="33" />
+      </word>
+      <word id="a04-050-04-10" tag="," text=",">
+        <cmp x="2203" y="1532" width="28" height="37" />
+      </word>
+      <upper-contour>
+        <point x="323" y="1412" />
+        <point x="2034" y="1412" />
+      </upper-contour>
+      <lower-contour>
+        <point x="311" y="1608" />
+        <point x="2114" y="1608" />
+      </lower-contour>
+    </line>
+    <line ass="-718" asx="0" asy="1607" character-width="999" dss="-718" dsx="0" dsy="1744" fd0="13147" fd1="2888" fd2="-723" filter-width="4" id="a04-050-05" lbs="-766" lbx="0" lby="1682" segmentation="ok" slant="77000" stroke-width="5738" threshold="172" text="he said, they were out of date and vulnerable and" ubs="-622" ubx="0" uby="1654">
+      <word id="a04-050-05-00" tag="PP3A" text="he">
+        <cmp x="291" y="1615" width="103" height="74" />
+        <cmp x="359" y="1615" width="4" height="4" />
+      </word>
+      <word id="a04-050-05-01" tag="VBD" text="said">
+        <cmp x="453" y="1652" width="89" height="46" />
+        <cmp x="530" y="1638" width="8" height="6" />
+        <cmp x="550" y="1615" width="43" height="82" />
+      </word>
+      <word id="a04-050-05-02" tag="," text=",">
+        <cmp x="596" y="1693" width="16" height="34" />
+      </word>
+      <word id="a04-050-05-03" tag="PP3AS" text="they">
+        <cmp x="721" y="1626" width="92" height="124" />
+      </word>
+      <word id="a04-050-05-04" tag="BED" text="were">
+        <cmp x="858" y="1662" width="112" height="41" />
+      </word>
+      <word id="a04-050-05-05" tag="RP" text="out">
+        <cmp x="1041" y="1674" width="64" height="29" />
+        <cmp x="1109" y="1639" width="33" height="53" />
+      </word>
+      <word id="a04-050-05-06" tag="INO" text="of">
+        <cmp x="1173" y="1626" width="65" height="133" />
+        <cmp x="1178" y="1723" width="10" height="7" />
+      </word>
+      <word id="a04-050-05-07" tag="NN" text="date">
+        <cmp x="1267" y="1643" width="72" height="65" />
+        <cmp x="1332" y="1638" width="53" height="64" />
+      </word>
+      <word id="a04-050-05-08" tag="CC" text="and">
+        <cmp x="1443" y="1641" width="113" height="64" />
+      </word>
+      <word id="a04-050-05-09" tag="JJ" text="vulnerable">
+        <cmp x="1595" y="1632" width="332" height="83" />
+      </word>
+      <word id="a04-050-05-10" tag="CC" text="and">
+        <cmp x="1973" y="1683" width="74" height="35" />
+        <cmp x="2062" y="1646" width="51" height="76" />
+      </word>
+      <upper-contour>
+        <point x="311" y="1608" />
+        <point x="2114" y="1608" />
+      </upper-contour>
+      <lower-contour>
+        <point x="336" y="1760" />
+        <point x="1316" y="1760" />
+      </lower-contour>
+    </line>
+    <line ass="-2277" asx="0" asy="1764" character-width="999" dss="-2277" dsx="0" dsy="1924" fd0="13628" fd1="3269" fd2="-1001" filter-width="3" id="a04-050-06" lbs="-2497" lbx="0" lby="1843" segmentation="ok" slant="76000" stroke-width="5577" threshold="172" text="would attract enemy action." ubs="-1836" ubx="0" uby="1815">
+      <word id="a04-050-06-00" tag="MD" text="would">
+        <cmp x="338" y="1821" width="46" height="47" />
+        <cmp x="389" y="1785" width="108" height="75" />
+        <cmp x="485" y="1785" width="41" height="84" />
+      </word>
+      <word id="a04-050-06-01" tag="VB" text="attract">
+        <cmp x="593" y="1842" width="34" height="31" />
+        <cmp x="643" y="1794" width="139" height="87" />
+        <cmp x="781" y="1801" width="4" height="3" />
+      </word>
+      <word id="a04-050-06-02" tag="NN" text="enemy">
+        <cmp x="834" y="1841" width="193" height="123" />
+      </word>
+      <word id="a04-050-06-03" tag="NN" text="action">
+        <cmp x="1065" y="1814" width="125" height="82" />
+        <cmp x="1183" y="1851" width="59" height="43" />
+      </word>
+      <word id="a04-050-06-04" tag="." text=".">
+        <cmp x="1307" y="1898" width="8" height="9" />
+      </word>
+      <upper-contour>
+        <point x="336" y="1760" />
+        <point x="1316" y="1760" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

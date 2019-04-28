@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="r03-056" last-modified="2002-07-18" skew="-63" status="final" version="3.0_beta" width="2479" writer-id="663">
+  <machine-printed-part>
+    <machine-print-line text="&amp;quot;Yes, well....&amp;quot; He judged that she had been sufficiently dazzled and gave a long raucous" />
+    <machine-print-line text="cough. &amp;quot;Only cigarettes worth smoking, these. Most unhealthy, English ones. Well," />
+    <machine-print-line text="now, let me see. I think I can put you onto some people who might, I say might," />
+    <machine-print-line text="let you have a mortgage on this property....&amp;quot; &amp;quot;But, they&apos;re safe, are they? I mean," />
+    <machine-print-line text="they&apos;re not - money-lenders?&amp;quot; &amp;quot;Mrs. - er - Buttery, all mortgage companies are" />
+    <machine-print-line text="money-lenders." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="70" asx="0" asy="722" character-width="999" dss="70" dsx="0" dsy="859" fd0="12447" fd1="2489" fd2="-1655" filter-width="5" id="r03-056-00" lbs="-69" lbx="0" lby="813" segmentation="ok" slant="71000" stroke-width="8081" threshold="191" text="&amp;quot;Yes, well....&amp;quot; He judged that she had been sufficiently" ubs="350" ubx="0" uby="778">
+      <word id="r03-056-00-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="347" y="794" width="8" height="24" />
+        <cmp x="355" y="799" width="10" height="24" />
+      </word>
+      <word id="r03-056-00-01" tag="UH" text="Yes">
+        <cmp x="394" y="727" width="36" height="83" />
+        <cmp x="409" y="760" width="35" height="51" />
+        <cmp x="451" y="760" width="29" height="55" />
+      </word>
+      <word id="r03-056-00-02" tag="," text=",">
+        <cmp x="487" y="801" width="11" height="32" />
+      </word>
+      <word id="r03-056-00-03" tag="UH" text="well">
+        <cmp x="528" y="764" width="64" height="51" />
+        <cmp x="592" y="732" width="70" height="85" />
+      </word>
+      <word id="r03-056-00-04" tag="..." text="...">
+        <cmp x="661" y="806" width="10" height="9" />
+        <cmp x="686" y="806" width="10" height="8" />
+      </word>
+      <word id="r03-056-00-05" tag="." text=".">
+        <cmp x="717" y="802" width="10" height="8" />
+      </word>
+      <word id="r03-056-00-06" tag="**&apos;" text="&quot;">
+        <cmp x="759" y="724" width="12" height="19" />
+        <cmp x="771" y="723" width="11" height="18" />
+      </word>
+      <word id="r03-056-00-07" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="789" y="735" width="63" height="72" />
+      </word>
+      <word id="r03-056-00-08" tag="VBD" text="judged">
+        <cmp x="860" y="772" width="42" height="74" />
+        <cmp x="894" y="753" width="10" height="9" />
+        <cmp x="908" y="778" width="34" height="39" />
+        <cmp x="943" y="740" width="60" height="78" />
+        <cmp x="974" y="735" width="142" height="124" />
+      </word>
+      <word id="r03-056-00-09" tag="CS" text="that">
+        <cmp x="1146" y="741" width="37" height="71" />
+        <cmp x="1169" y="741" width="34" height="69" />
+        <cmp x="1206" y="736" width="91" height="75" />
+      </word>
+      <word id="r03-056-00-10" tag="PP3A" text="she">
+        <cmp x="1313" y="745" width="113" height="69" />
+      </word>
+      <word id="r03-056-00-11" tag="HVD" text="had">
+        <cmp x="1456" y="736" width="44" height="74" />
+        <cmp x="1497" y="734" width="103" height="78" />
+      </word>
+      <word id="r03-056-00-12" tag="BEN" text="been">
+        <cmp x="1625" y="734" width="168" height="81" />
+      </word>
+      <word id="r03-056-00-13" tag="RB" text="sufficiently">
+        <cmp x="1816" y="762" width="44" height="49" />
+        <cmp x="1851" y="762" width="43" height="51" />
+        <cmp x="1889" y="740" width="68" height="105" />
+        <cmp x="1953" y="768" width="82" height="47" />
+        <cmp x="1954" y="747" width="9" height="9" />
+        <cmp x="2005" y="749" width="8" height="9" />
+        <cmp x="2029" y="770" width="40" height="44" />
+        <cmp x="2073" y="748" width="32" height="65" />
+        <cmp x="2095" y="744" width="33" height="68" />
+        <cmp x="2104" y="773" width="46" height="70" />
+      </word>
+      <lower-contour>
+        <point x="345" y="859" />
+        <point x="1980" y="859" />
+      </lower-contour>
+    </line>
+    <line ass="-149" asx="0" asy="906" character-width="999" dss="-149" dsx="0" dsy="1028" fd0="13188" fd1="2667" fd2="-1638" filter-width="5" id="r03-056-01" lbs="-70" lbx="0" lby="988" segmentation="ok" slant="66999" stroke-width="8075" threshold="199" text="dazzled and gave a long raucous cough. &amp;quot;Only" ubs="-305" ubx="0" uby="938">
+      <word id="r03-056-01-00" tag="VBN" text="dazzled">
+        <cmp x="336" y="908" width="82" height="88" />
+        <cmp x="426" y="945" width="75" height="53" />
+        <cmp x="513" y="915" width="113" height="79" />
+      </word>
+      <word id="r03-056-01-01" tag="CC" text="and">
+        <cmp x="659" y="908" width="145" height="82" />
+      </word>
+      <word id="r03-056-01-02" tag="VBD" text="gave">
+        <cmp x="813" y="939" width="65" height="89" />
+        <cmp x="871" y="942" width="46" height="49" />
+        <cmp x="921" y="941" width="39" height="48" />
+        <cmp x="948" y="940" width="41" height="51" />
+      </word>
+      <word id="r03-056-01-03" tag="AT" text="a">
+        <cmp x="1012" y="947" width="46" height="50" />
+      </word>
+      <word id="r03-056-01-04" tag="JJ" text="long">
+        <cmp x="1096" y="910" width="56" height="75" />
+        <cmp x="1143" y="936" width="78" height="96" />
+      </word>
+      <word id="r03-056-01-05" tag="JJ" text="raucous">
+        <cmp x="1247" y="937" width="124" height="58" />
+        <cmp x="1368" y="937" width="42" height="50" />
+        <cmp x="1402" y="938" width="114" height="50" />
+      </word>
+      <word id="r03-056-01-06" tag="NN" text="cough">
+        <cmp x="1540" y="942" width="67" height="44" />
+        <cmp x="1606" y="946" width="83" height="78" />
+        <cmp x="1686" y="927" width="49" height="64" />
+      </word>
+      <word id="r03-056-01-07" tag="." text=".">
+        <cmp x="1738" y="972" width="10" height="8" />
+      </word>
+      <word id="r03-056-01-08" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="1770" y="919" width="22" height="23" />
+      </word>
+      <word id="r03-056-01-09" tag="AP" text="Only">
+        <cmp x="1811" y="926" width="50" height="65" />
+        <cmp x="1852" y="924" width="92" height="69" />
+        <cmp x="1924" y="949" width="56" height="77" />
+      </word>
+      <upper-contour>
+        <point x="345" y="859" />
+        <point x="1980" y="859" />
+      </upper-contour>
+      <lower-contour>
+        <point x="335" y="1032" />
+        <point x="1980" y="1032" />
+      </lower-contour>
+    </line>
+    <line ass="118" asx="0" asy="1094" character-width="999" dss="118" dsx="0" dsy="1211" fd0="12422" fd1="2613" fd2="-2241" filter-width="5" id="r03-056-02" lbs="254" lbx="0" lby="1176" segmentation="ok" slant="72000" stroke-width="8155" threshold="203" text="cigarettes worth smoking, these. Most unhealthy, English" ubs="-152" ubx="0" uby="1120">
+      <word id="r03-056-02-00" tag="NNS" text="cigarettes">
+        <cmp x="337" y="1127" width="51" height="52" />
+        <cmp x="383" y="1125" width="49" height="86" />
+        <cmp x="385" y="1098" width="9" height="9" />
+        <cmp x="432" y="1118" width="117" height="53" />
+        <cmp x="548" y="1093" width="106" height="77" />
+      </word>
+      <word id="r03-056-02-01" tag="IN" text="worth">
+        <cmp x="707" y="1095" width="153" height="79" />
+        <cmp x="841" y="1100" width="41" height="77" />
+      </word>
+      <word id="r03-056-02-02" tag="VBG" text="smoking">
+        <cmp x="916" y="1126" width="96" height="49" />
+        <cmp x="1013" y="1125" width="37" height="47" />
+        <cmp x="1045" y="1095" width="54" height="78" />
+        <cmp x="1092" y="1127" width="78" height="76" />
+        <cmp x="1098" y="1101" width="10" height="9" />
+      </word>
+      <word id="r03-056-02-03" tag="," text=",">
+        <cmp x="1175" y="1158" width="17" height="26" />
+      </word>
+      <word id="r03-056-02-04" tag="DTS" text="these">
+        <cmp x="1211" y="1107" width="28" height="63" />
+        <cmp x="1232" y="1102" width="128" height="68" />
+      </word>
+      <word id="r03-056-02-05" tag="." text=".">
+        <cmp x="1382" y="1154" width="9" height="8" />
+      </word>
+      <word id="r03-056-02-06" sentence-start="yes" tag="QL" text="Most">
+        <cmp x="1407" y="1093" width="52" height="74" />
+        <cmp x="1448" y="1093" width="86" height="81" />
+      </word>
+      <word id="r03-056-02-07" tag="JJ" text="unhealthy">
+        <cmp x="1553" y="1122" width="89" height="51" />
+        <cmp x="1638" y="1095" width="71" height="79" />
+        <cmp x="1705" y="1124" width="46" height="48" />
+        <cmp x="1755" y="1108" width="32" height="57" />
+        <cmp x="1770" y="1100" width="116" height="104" />
+      </word>
+      <word id="r03-056-02-08" tag="," text=",">
+        <cmp x="1876" y="1152" width="17" height="33" />
+      </word>
+      <word id="r03-056-02-09" tag="JNP" text="English">
+        <cmp x="1921" y="1105" width="54" height="66" />
+        <cmp x="1956" y="1123" width="82" height="83" />
+        <cmp x="2043" y="1100" width="100" height="72" />
+        <cmp x="2096" y="1105" width="10" height="9" />
+      </word>
+      <upper-contour>
+        <point x="335" y="1032" />
+        <point x="1980" y="1032" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1211" />
+        <point x="2141" y="1211" />
+      </lower-contour>
+    </line>
+    <line ass="306" asx="0" asy="1264" character-width="999" dss="306" dsx="0" dsy="1382" fd0="12205" fd1="2547" fd2="-1194" filter-width="5" id="r03-056-03" lbs="390" lbx="0" lby="1357" segmentation="ok" slant="72000" stroke-width="8392" threshold="224" text="ones. Well, now, let me see. I think I can put you onto" ubs="138" ubx="0" uby="1307">
+      <word id="r03-056-03-00" tag="CD1S" text="ones">
+        <cmp x="349" y="1299" width="39" height="55" />
+        <cmp x="390" y="1297" width="113" height="56" />
+      </word>
+      <word id="r03-056-03-01" tag="." text=".">
+        <cmp x="512" y="1335" width="10" height="10" />
+      </word>
+      <word id="r03-056-03-02" sentence-start="yes" tag="UH" text="Well">
+        <cmp x="539" y="1262" width="109" height="94" />
+      </word>
+      <word id="r03-056-03-03" tag="," text=",">
+        <cmp x="632" y="1343" width="16" height="29" />
+      </word>
+      <word id="r03-056-03-04" tag="RN" text="now">
+        <cmp x="669" y="1307" width="41" height="50" />
+        <cmp x="723" y="1311" width="47" height="47" />
+        <cmp x="768" y="1305" width="50" height="51" />
+      </word>
+      <word id="r03-056-03-05" tag="," text=",">
+        <cmp x="817" y="1339" width="12" height="27" />
+      </word>
+      <word id="r03-056-03-06" tag="VB" text="let">
+        <cmp x="852" y="1283" width="51" height="72" />
+        <cmp x="899" y="1281" width="29" height="79" />
+      </word>
+      <word id="r03-056-03-07" tag="PP1O" text="me">
+        <cmp x="964" y="1300" width="91" height="49" />
+      </word>
+      <word id="r03-056-03-08" tag="VB" text="see">
+        <cmp x="1098" y="1304" width="38" height="48" />
+        <cmp x="1135" y="1303" width="78" height="43" />
+      </word>
+      <word id="r03-056-03-09" tag="." text=".">
+        <cmp x="1222" y="1337" width="12" height="12" />
+      </word>
+      <word id="r03-056-03-10" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="1255" y="1277" width="26" height="78" />
+      </word>
+      <word id="r03-056-03-11" tag="VB" text="think">
+        <cmp x="1301" y="1276" width="84" height="83" />
+        <cmp x="1377" y="1288" width="10" height="9" />
+        <cmp x="1384" y="1305" width="45" height="47" />
+        <cmp x="1433" y="1274" width="45" height="68" />
+      </word>
+      <word id="r03-056-03-12" tag="PP1A" text="I">
+        <cmp x="1515" y="1279" width="29" height="64" />
+      </word>
+      <word id="r03-056-03-13" tag="MD" text="can">
+        <cmp x="1551" y="1301" width="123" height="55" />
+      </word>
+      <word id="r03-056-03-14" tag="VB" text="put">
+        <cmp x="1697" y="1299" width="54" height="74" />
+        <cmp x="1751" y="1268" width="89" height="79" />
+      </word>
+      <word id="r03-056-03-15" tag="PP2" text="you">
+        <cmp x="1868" y="1303" width="106" height="71" />
+      </word>
+      <word id="r03-056-03-16" tag="IN" text="onto">
+        <cmp x="2005" y="1272" width="111" height="70" />
+        <cmp x="2106" y="1306" width="34" height="40" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1211" />
+        <point x="2141" y="1211" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1374" />
+        <point x="2095" y="1374" />
+      </lower-contour>
+    </line>
+    <line ass="397" asx="0" asy="1462" character-width="999" dss="397" dsx="0" dsy="1587" fd0="13587" fd1="2509" fd2="-1791" filter-width="5" id="r03-056-04" lbs="387" lbx="0" lby="1540" segmentation="err" slant="71000" stroke-width="7591" threshold="224" text="some people who might, I say might, let you have a mortgage on" ubs="416" ubx="0" uby="1496">
+      <word id="r03-056-04-00" tag="DTI" text="some">
+        <cmp x="341" y="1485" width="40" height="53" />
+        <cmp x="379" y="1485" width="34" height="48" />
+        <cmp x="407" y="1486" width="87" height="53" />
+      </word>
+      <word id="r03-056-04-01" tag="NNS" text="people">
+        <cmp x="538" y="1493" width="40" height="68" />
+        <cmp x="584" y="1490" width="67" height="41" />
+        <cmp x="639" y="1464" width="100" height="98" />
+      </word>
+      <word id="r03-056-04-02" tag="WP" text="who">
+        <cmp x="784" y="1490" width="51" height="42" />
+        <cmp x="833" y="1456" width="38" height="74" />
+        <cmp x="872" y="1486" width="38" height="49" />
+      </word>
+      <word id="r03-056-04-03" tag="MD" text="might">
+        <cmp x="943" y="1482" width="80" height="53" />
+      </word>
+      <word id="r03-056-04-04" tag="," text=",">
+        <cmp x="1015" y="1469" width="8" height="8" />
+      </word>
+      <word id="r03-056-04-05" tag="PP1A" text="I">
+        <cmp x="1010" y="1489" width="46" height="80" />
+      </word>
+      <word id="r03-056-04-06" tag="VB" text="say">
+        <cmp x="1055" y="1461" width="77" height="72" />
+        <cmp x="1113" y="1514" width="16" height="31" />
+      </word>
+      <word id="r03-056-04-07" tag="MD" text="might">
+        <cmp x="1158" y="1467" width="51" height="67" />
+      </word>
+      <word id="r03-056-04-08" tag="," text=",">
+        <cmp x="1209" y="1460" width="33" height="73" />
+      </word>
+      <word id="r03-056-04-09" tag="VB" text="let">
+        <cmp x="1271" y="1492" width="40" height="65" />
+      </word>
+      <word id="r03-056-04-10" tag="PP2" text="you">
+        <cmp x="1310" y="1489" width="80" height="40" />
+      </word>
+      <word id="r03-056-04-11" tag="HV" text="have">
+        <cmp x="1416" y="1467" width="39" height="61" />
+        <cmp x="1453" y="1489" width="38" height="41" />
+        <cmp x="1492" y="1485" width="38" height="46" />
+        <cmp x="1518" y="1484" width="35" height="46" />
+      </word>
+      <word id="r03-056-04-12" tag="AT" text="a">
+        <cmp x="1586" y="1489" width="39" height="43" />
+      </word>
+      <word id="r03-056-04-13" tag="NN" text="mortgage">
+        <cmp x="1677" y="1480" width="96" height="55" />
+        <cmp x="1771" y="1453" width="62" height="74" />
+        <cmp x="1822" y="1483" width="48" height="80" />
+        <cmp x="1865" y="1481" width="43" height="48" />
+        <cmp x="1886" y="1478" width="89" height="98" />
+      </word>
+      <word id="r03-056-04-14" tag="IN" text="on">
+        <cmp x="2005" y="1485" width="42" height="37" />
+        <cmp x="2048" y="1483" width="47" height="46" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1374" />
+        <point x="2095" y="1374" />
+      </upper-contour>
+      <lower-contour>
+        <point x="345" y="1576" />
+        <point x="2095" y="1576" />
+      </lower-contour>
+    </line>
+    <line ass="145" asx="0" asy="1623" character-width="999" dss="145" dsx="0" dsy="1749" fd0="11724" fd1="2158" fd2="-1157" filter-width="5" id="r03-056-05" lbs="119" lbx="0" lby="1712" segmentation="ok" slant="75000" stroke-width="8386" threshold="224" text="this property....&amp;quot; &amp;quot;But, they&apos;re safe, are they? I mean," ubs="198" ubx="0" uby="1676">
+      <word id="r03-056-05-00" tag="DT" text="this">
+        <cmp x="347" y="1636" width="24" height="70" />
+        <cmp x="372" y="1632" width="88" height="76" />
+        <cmp x="416" y="1637" width="9" height="11" />
+      </word>
+      <word id="r03-056-05-01" tag="NN" text="property">
+        <cmp x="492" y="1664" width="56" height="82" />
+        <cmp x="548" y="1664" width="31" height="36" />
+        <cmp x="572" y="1668" width="71" height="78" />
+        <cmp x="650" y="1634" width="116" height="74" />
+        <cmp x="760" y="1666" width="41" height="75" />
+      </word>
+      <word id="r03-056-05-02" tag="..." text="...">
+        <cmp x="807" y="1695" width="15" height="9" />
+        <cmp x="839" y="1693" width="12" height="9" />
+        <cmp x="860" y="1698" width="13" height="9" />
+      </word>
+      <word id="r03-056-05-03" tag="." text=".">
+        <cmp x="908" y="1630" width="11" height="27" />
+      </word>
+      <word id="r03-056-05-04" tag="**&apos;" text="&quot;">
+        <cmp x="921" y="1630" width="12" height="24" />
+      </word>
+      <word id="r03-056-05-05" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="945" y="1692" width="22" height="26" />
+      </word>
+      <word id="r03-056-05-06" tag="CC" text="But">
+        <cmp x="984" y="1627" width="49" height="75" />
+        <cmp x="1027" y="1621" width="78" height="86" />
+      </word>
+      <word id="r03-056-05-07" tag="," text=",">
+        <cmp x="1097" y="1692" width="14" height="32" />
+      </word>
+      <word id="r03-056-05-08" tag="PP3AS" text="they">
+        <cmp x="1140" y="1627" width="92" height="83" />
+        <cmp x="1230" y="1662" width="37" height="68" />
+      </word>
+      <word id="r03-056-05-09" tag="BER" text="&apos;re">
+        <cmp x="1280" y="1636" width="11" height="22" />
+        <cmp x="1286" y="1656" width="40" height="48" />
+        <cmp x="1315" y="1660" width="37" height="46" />
+      </word>
+      <word id="r03-056-05-10" tag="JJ" text="safe">
+        <cmp x="1383" y="1621" width="136" height="104" />
+      </word>
+      <word id="r03-056-05-11" tag="," text=",">
+        <cmp x="1525" y="1696" width="16" height="30" />
+      </word>
+      <word id="r03-056-05-12" tag="BER" text="are">
+        <cmp x="1556" y="1653" width="104" height="47" />
+      </word>
+      <word id="r03-056-05-13" tag="PP3AS" text="they">
+        <cmp x="1692" y="1633" width="88" height="80" />
+        <cmp x="1779" y="1666" width="46" height="80" />
+      </word>
+      <word id="r03-056-05-14" tag="?" text="?">
+        <cmp x="1843" y="1699" width="12" height="9" />
+        <cmp x="1846" y="1636" width="34" height="63" />
+      </word>
+      <word id="r03-056-05-15" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="1898" y="1629" width="29" height="80" />
+      </word>
+      <word id="r03-056-05-16" tag="VB" text="mean">
+        <cmp x="1940" y="1660" width="102" height="53" />
+        <cmp x="2033" y="1664" width="105" height="49" />
+      </word>
+      <word id="r03-056-05-17" tag="," text=",">
+        <cmp x="2134" y="1695" width="17" height="30" />
+      </word>
+      <upper-contour>
+        <point x="345" y="1576" />
+        <point x="2095" y="1576" />
+      </upper-contour>
+      <lower-contour>
+        <point x="359" y="1746" />
+        <point x="2086" y="1746" />
+      </lower-contour>
+    </line>
+    <line ass="247" asx="0" asy="1800" character-width="999" dss="247" dsx="0" dsy="1925" fd0="11864" fd1="2479" fd2="-1143" filter-width="5" id="r03-056-06" lbs="403" lbx="0" lby="1889" segmentation="err" slant="75000" stroke-width="8170" threshold="224" text="they&apos;re not - money-lenders?&amp;quot; &amp;quot;Mrs. - er - Buttery," ubs="-64" ubx="0" uby="1843">
+      <word id="r03-056-06-00" tag="PP3AS" text="they">
+        <cmp x="361" y="1819" width="26" height="67" />
+        <cmp x="391" y="1810" width="58" height="75" />
+        <cmp x="450" y="1840" width="42" height="74" />
+      </word>
+      <word id="r03-056-06-01" tag="BER" text="&apos;re">
+        <cmp x="506" y="1804" width="16" height="38" />
+        <cmp x="517" y="1835" width="31" height="52" />
+        <cmp x="544" y="1841" width="35" height="49" />
+      </word>
+      <word id="r03-056-06-02" tag="XNOT" text="not">
+        <cmp x="617" y="1839" width="40" height="45" />
+        <cmp x="658" y="1812" width="72" height="74" />
+      </word>
+      <word id="r03-056-06-03" tag="*-" text="-">
+        <cmp x="753" y="1853" width="26" height="10" />
+      </word>
+      <word id="r03-056-06-04" tag="NNS" text="money-lenders">
+        <cmp x="805" y="1841" width="104" height="47" />
+        <cmp x="917" y="1838" width="80" height="46" />
+        <cmp x="1003" y="1847" width="35" height="74" />
+        <cmp x="1043" y="1859" width="26" height="10" />
+        <cmp x="1090" y="1820" width="47" height="71" />
+        <cmp x="1139" y="1845" width="41" height="45" />
+        <cmp x="1183" y="1823" width="148" height="68" />
+      </word>
+      <word id="r03-056-06-05" tag="?" text="?">
+        <cmp x="1349" y="1813" width="40" height="48" />
+        <cmp x="1358" y="1870" width="13" height="12" />
+      </word>
+      <word id="r03-056-06-06" tag="**&apos;" text="&quot;">
+        <cmp x="1405" y="1795" width="11" height="26" />
+        <cmp x="1416" y="1795" width="15" height="28" />
+      </word>
+      <word id="r03-056-06-07" tag="*&apos;" text="&quot;">
+        <cmp x="1451" y="1810" width="65" height="70" />
+      </word>
+      <word id="r03-056-06-08" tag="NPT" text="Mrs.">
+        <cmp x="1506" y="1835" width="36" height="47" />
+        <cmp x="1527" y="1840" width="41" height="45" />
+        <cmp x="1570" y="1869" width="10" height="9" />
+      </word>
+      <word id="r03-056-06-09" tag="*-" text="-">
+        <cmp x="1606" y="1853" width="27" height="10" />
+      </word>
+      <word id="r03-056-06-10" tag="UH" text="er">
+        <cmp x="1661" y="1837" width="83" height="52" />
+      </word>
+      <word id="r03-056-06-11" tag="*-" text="-">
+        <cmp x="1753" y="1855" width="35" height="10" />
+      </word>
+      <word id="r03-056-06-12" tag="NP" text="Buttery">
+        <cmp x="1836" y="1800" width="54" height="84" />
+        <cmp x="1880" y="1805" width="157" height="78" />
+        <cmp x="2025" y="1840" width="53" height="76" />
+      </word>
+      <word id="r03-056-06-13" tag="," text=",">
+        <cmp x="2068" y="1868" width="18" height="27" />
+      </word>
+      <upper-contour>
+        <point x="359" y="1746" />
+        <point x="2086" y="1746" />
+      </upper-contour>
+      <lower-contour>
+        <point x="359" y="1921" />
+        <point x="2019" y="1921" />
+      </lower-contour>
+    </line>
+    <line ass="627" asx="0" asy="1998" character-width="999" dss="627" dsx="0" dsy="2110" fd0="10957" fd1="1382" fd2="-2050" filter-width="5" id="r03-056-07" lbs="695" lbx="0" lby="2072" segmentation="ok" slant="79000" stroke-width="8174" threshold="224" text="all mortgage companies are money-lenders." ubs="492" ubx="0" uby="2050">
+      <word id="r03-056-07-00" tag="ABN" text="all">
+        <cmp x="339" y="1996" width="71" height="74" />
+        <cmp x="407" y="1996" width="19" height="72" />
+      </word>
+      <word id="r03-056-07-01" tag="NN" text="mortgage">
+        <cmp x="470" y="2023" width="64" height="43" />
+        <cmp x="541" y="2023" width="34" height="44" />
+        <cmp x="576" y="1996" width="64" height="70" />
+        <cmp x="639" y="2017" width="89" height="73" />
+        <cmp x="731" y="2015" width="83" height="83" />
+      </word>
+      <word id="r03-056-07-02" tag="NNS" text="companies">
+        <cmp x="855" y="2019" width="31" height="42" />
+        <cmp x="885" y="2018" width="261" height="80" />
+        <cmp x="1132" y="2000" width="11" height="10" />
+        <cmp x="1145" y="2021" width="40" height="45" />
+        <cmp x="1183" y="2019" width="39" height="60" />
+      </word>
+      <word id="r03-056-07-03" tag="BER" text="are">
+        <cmp x="1255" y="2015" width="119" height="47" />
+      </word>
+      <word id="r03-056-07-04" tag="NNS" text="money-lenders">
+        <cmp x="1427" y="2017" width="158" height="51" />
+        <cmp x="1592" y="2017" width="38" height="44" />
+        <cmp x="1633" y="2024" width="31" height="69" />
+        <cmp x="1671" y="2034" width="38" height="11" />
+        <cmp x="1714" y="1996" width="262" height="67" />
+        <cmp x="1965" y="2017" width="35" height="51" />
+      </word>
+      <word id="r03-056-07-05" tag="." text=".">
+        <cmp x="2006" y="2053" width="12" height="8" />
+      </word>
+      <upper-contour>
+        <point x="359" y="1921" />
+        <point x="2019" y="1921" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

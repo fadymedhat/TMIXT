@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-04-10" height="3542" id="g07-026a" last-modified="2002-07-17" skew="222" status="final" version="3.0_beta" width="2479" writer-id="351">
+  <machine-printed-part>
+    <machine-print-line text="She had loved Byron, but she had betrayed him, betrayed him not twice, as he had" />
+    <machine-print-line text="betrayed her, but again and again over a long span of time, fawning on his implacable" />
+    <machine-print-line text="wife, purveying to her in secret the unguarded letters he never suspected any eye but" />
+    <machine-print-line text="her own would see, feeding the stealthy fires of her animosity: and having betrayed" />
+    <machine-print-line text="him, she had grown to fear and almost to hate him." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="633" asx="0" asy="680" character-width="999" dss="633" dsx="0" dsy="779" fd0="12912" fd1="2544" fd2="-1007" filter-width="4" id="g07-026a-00" lbs="640" lbx="0" lby="758" segmentation="ok" slant="103000" stroke-width="5877" threshold="176" text="She had loved Byron, but she had" ubs="620" ubx="0" uby="726">
+      <word id="g07-026a-00-00" sentence-start="yes" tag="PP3A" text="She">
+        <cmp x="326" y="687" width="62" height="71" />
+        <cmp x="385" y="698" width="21" height="61" />
+        <cmp x="402" y="725" width="36" height="37" />
+        <cmp x="443" y="719" width="77" height="35" />
+      </word>
+      <word id="g07-026a-00-01" tag="HVD" text="had">
+        <cmp x="545" y="689" width="59" height="66" />
+        <cmp x="617" y="718" width="57" height="40" />
+        <cmp x="679" y="673" width="51" height="81" />
+      </word>
+      <word id="g07-026a-00-02" tag="VBN" text="loved">
+        <cmp x="780" y="686" width="19" height="72" />
+        <cmp x="807" y="711" width="60" height="38" />
+        <cmp x="871" y="711" width="42" height="38" />
+        <cmp x="919" y="676" width="121" height="75" />
+      </word>
+      <word id="g07-026a-00-03" tag="NP" text="Byron">
+        <cmp x="1094" y="680" width="46" height="70" />
+        <cmp x="1141" y="714" width="49" height="51" />
+        <cmp x="1191" y="709" width="40" height="34" />
+        <cmp x="1229" y="708" width="56" height="36" />
+        <cmp x="1284" y="707" width="55" height="45" />
+      </word>
+      <word id="g07-026a-00-04" tag="," text=",">
+        <cmp x="1361" y="732" width="7" height="33" />
+      </word>
+      <word id="g07-026a-00-05" tag="CC" text="but">
+        <cmp x="1385" y="686" width="55" height="60" />
+        <cmp x="1445" y="710" width="45" height="39" />
+        <cmp x="1491" y="688" width="31" height="54" />
+      </word>
+      <word id="g07-026a-00-06" tag="PP3A" text="she">
+        <cmp x="1560" y="704" width="29" height="48" />
+        <cmp x="1584" y="684" width="21" height="56" />
+        <cmp x="1602" y="708" width="35" height="36" />
+        <cmp x="1647" y="700" width="65" height="40" />
+      </word>
+      <word id="g07-026a-00-07" tag="HVD" text="had">
+        <cmp x="1742" y="675" width="56" height="64" />
+        <cmp x="1811" y="702" width="55" height="44" />
+        <cmp x="1882" y="667" width="52" height="74" />
+      </word>
+      <lower-contour>
+        <point x="326" y="766" />
+        <point x="1935" y="766" />
+      </lower-contour>
+    </line>
+    <line ass="410" asx="0" asy="871" character-width="999" dss="410" dsx="0" dsy="974" fd0="13000" fd1="2613" fd2="-1362" filter-width="4" id="g07-026a-01" lbs="377" lbx="0" lby="935" segmentation="ok" slant="105000" stroke-width="6147" threshold="174" text="betrayed him, betrayed him not twice, as" ubs="477" ubx="0" uby="907">
+      <word id="g07-026a-01-00" tag="VBN" text="betrayed">
+        <cmp x="328" y="873" width="56" height="57" />
+        <cmp x="386" y="899" width="65" height="35" />
+        <cmp x="452" y="876" width="29" height="57" />
+        <cmp x="481" y="893" width="34" height="38" />
+        <cmp x="524" y="893" width="53" height="42" />
+        <cmp x="579" y="893" width="50" height="65" />
+        <cmp x="636" y="894" width="67" height="41" />
+        <cmp x="699" y="873" width="52" height="61" />
+      </word>
+      <word id="g07-026a-01-01" tag="PP3O" text="him">
+        <cmp x="785" y="881" width="22" height="54" />
+        <cmp x="805" y="901" width="34" height="35" />
+        <cmp x="826" y="889" width="30" height="7" />
+        <cmp x="854" y="909" width="15" height="23" />
+        <cmp x="877" y="900" width="69" height="31" />
+      </word>
+      <word id="g07-026a-01-02" tag="," text=",">
+        <cmp x="965" y="921" width="8" height="24" />
+      </word>
+      <word id="g07-026a-01-03" tag="VBN" text="betrayed">
+        <cmp x="1004" y="871" width="52" height="56" />
+        <cmp x="1057" y="887" width="65" height="42" />
+        <cmp x="1112" y="876" width="31" height="60" />
+        <cmp x="1151" y="889" width="93" height="43" />
+        <cmp x="1242" y="895" width="49" height="54" />
+        <cmp x="1301" y="862" width="102" height="62" />
+      </word>
+      <word id="g07-026a-01-04" tag="PP3O" text="him">
+        <cmp x="1438" y="862" width="56" height="59" />
+        <cmp x="1482" y="865" width="25" height="7" />
+        <cmp x="1505" y="893" width="17" height="27" />
+        <cmp x="1534" y="888" width="46" height="34" />
+        <cmp x="1578" y="889" width="26" height="34" />
+      </word>
+      <word id="g07-026a-01-05" tag="XNOT" text="not">
+        <cmp x="1641" y="886" width="52" height="35" />
+        <cmp x="1703" y="885" width="51" height="34" />
+        <cmp x="1755" y="870" width="30" height="52" />
+      </word>
+      <word id="g07-026a-01-06" tag="RB" text="twice">
+        <cmp x="1826" y="869" width="35" height="59" />
+        <cmp x="1861" y="880" width="56" height="41" />
+        <cmp x="1910" y="864" width="32" height="11" />
+        <cmp x="1934" y="894" width="12" height="29" />
+        <cmp x="1957" y="889" width="51" height="42" />
+        <cmp x="2014" y="889" width="66" height="41" />
+      </word>
+      <word id="g07-026a-01-07" tag="," text=",">
+        <cmp x="2096" y="925" width="6" height="34" />
+      </word>
+      <word id="g07-026a-01-08" tag="CS" text="as">
+        <cmp x="2123" y="884" width="48" height="46" />
+        <cmp x="2181" y="880" width="34" height="56" />
+      </word>
+      <upper-contour>
+        <point x="326" y="766" />
+        <point x="1935" y="766" />
+      </upper-contour>
+      <lower-contour>
+        <point x="326" y="963" />
+        <point x="2216" y="963" />
+      </lower-contour>
+    </line>
+    <line ass="68" asx="0" asy="1044" character-width="999" dss="68" dsx="0" dsy="1141" fd0="12891" fd1="2377" fd2="-1250" filter-width="4" id="g07-026a-02" lbs="38" lbx="0" lby="1114" segmentation="ok" slant="103000" stroke-width="6177" threshold="173" text="he had betrayed her, but again and again" ubs="129" ubx="0" uby="1082">
+      <word id="g07-026a-02-00" tag="PP3A" text="he">
+        <cmp x="313" y="1059" width="49" height="57" />
+        <cmp x="371" y="1080" width="72" height="36" />
+      </word>
+      <word id="g07-026a-02-01" tag="HVD" text="had">
+        <cmp x="482" y="1060" width="54" height="53" />
+        <cmp x="543" y="1078" width="56" height="35" />
+        <cmp x="603" y="1044" width="47" height="68" />
+      </word>
+      <word id="g07-026a-02-02" tag="VBN" text="betrayed">
+        <cmp x="687" y="1060" width="57" height="54" />
+        <cmp x="747" y="1067" width="83" height="52" />
+        <cmp x="835" y="1085" width="42" height="33" />
+        <cmp x="875" y="1080" width="57" height="44" />
+        <cmp x="930" y="1085" width="44" height="55" />
+        <cmp x="987" y="1064" width="105" height="55" />
+      </word>
+      <word id="g07-026a-02-03" tag="PP3O" text="her">
+        <cmp x="1123" y="1063" width="56" height="53" />
+        <cmp x="1189" y="1077" width="87" height="38" />
+      </word>
+      <word id="g07-026a-02-04" tag="," text=",">
+        <cmp x="1299" y="1103" width="7" height="31" />
+      </word>
+      <word id="g07-026a-02-05" tag="CC" text="but">
+        <cmp x="1318" y="1053" width="56" height="57" />
+        <cmp x="1374" y="1072" width="48" height="40" />
+        <cmp x="1422" y="1053" width="29" height="56" />
+      </word>
+      <word id="g07-026a-02-06" tag="RB" text="again">
+        <cmp x="1491" y="1065" width="48" height="46" />
+        <cmp x="1540" y="1065" width="50" height="59" />
+        <cmp x="1595" y="1067" width="46" height="46" />
+        <cmp x="1625" y="1057" width="34" height="10" />
+        <cmp x="1653" y="1080" width="14" height="23" />
+        <cmp x="1681" y="1072" width="44" height="35" />
+      </word>
+      <word id="g07-026a-02-07" tag="CC" text="and">
+        <cmp x="1775" y="1068" width="54" height="49" />
+        <cmp x="1826" y="1078" width="57" height="34" />
+        <cmp x="1888" y="1042" width="52" height="68" />
+      </word>
+      <word id="g07-026a-02-08" tag="RB" text="again">
+        <cmp x="1990" y="1073" width="44" height="43" />
+        <cmp x="2039" y="1070" width="54" height="59" />
+        <cmp x="2089" y="1071" width="48" height="39" />
+        <cmp x="2124" y="1054" width="25" height="6" />
+        <cmp x="2148" y="1078" width="11" height="26" />
+        <cmp x="2170" y="1071" width="48" height="44" />
+      </word>
+      <upper-contour>
+        <point x="326" y="963" />
+        <point x="2216" y="963" />
+      </upper-contour>
+      <lower-contour>
+        <point x="311" y="1139" />
+        <point x="2219" y="1139" />
+      </lower-contour>
+    </line>
+    <line ass="-29" asx="0" asy="1224" character-width="999" dss="-29" dsx="0" dsy="1316" fd0="13300" fd1="2829" fd2="-819" filter-width="4" id="g07-026a-03" lbs="-59" lbx="0" lby="1291" segmentation="ok" slant="108000" stroke-width="6194" threshold="173" text="over a long span of time, fawning on his" ubs="30" ubx="0" uby="1259">
+      <word id="g07-026a-03-00" tag="IN" text="over">
+        <cmp x="312" y="1252" width="54" height="38" />
+        <cmp x="367" y="1255" width="44" height="36" />
+        <cmp x="425" y="1252" width="87" height="34" />
+      </word>
+      <word id="g07-026a-03-01" tag="AT" text="a">
+        <cmp x="570" y="1254" width="47" height="39" />
+      </word>
+      <word id="g07-026a-03-02" tag="JJ" text="long">
+        <cmp x="670" y="1240" width="16" height="56" />
+        <cmp x="698" y="1260" width="57" height="33" />
+        <cmp x="753" y="1260" width="57" height="35" />
+        <cmp x="816" y="1254" width="48" height="56" />
+      </word>
+      <word id="g07-026a-03-03" tag="NN" text="span">
+        <cmp x="925" y="1254" width="36" height="46" />
+        <cmp x="966" y="1250" width="43" height="55" />
+        <cmp x="1014" y="1251" width="49" height="36" />
+        <cmp x="1070" y="1253" width="48" height="29" />
+      </word>
+      <word id="g07-026a-03-04" tag="INO" text="of">
+        <cmp x="1171" y="1248" width="53" height="35" />
+        <cmp x="1230" y="1226" width="31" height="80" />
+      </word>
+      <word id="g07-026a-03-05" tag="NN" text="time">
+        <cmp x="1306" y="1233" width="36" height="56" />
+        <cmp x="1328" y="1240" width="23" height="7" />
+        <cmp x="1350" y="1260" width="10" height="25" />
+        <cmp x="1373" y="1256" width="66" height="37" />
+        <cmp x="1453" y="1257" width="58" height="36" />
+      </word>
+      <word id="g07-026a-03-06" tag="," text=",">
+        <cmp x="1532" y="1279" width="7" height="31" />
+      </word>
+      <word id="g07-026a-03-07" tag="VBG" text="fawning">
+        <cmp x="1575" y="1230" width="30" height="82" />
+        <cmp x="1604" y="1256" width="52" height="46" />
+        <cmp x="1657" y="1257" width="58" height="37" />
+        <cmp x="1720" y="1261" width="55" height="36" />
+        <cmp x="1767" y="1242" width="31" height="8" />
+        <cmp x="1787" y="1263" width="16" height="27" />
+        <cmp x="1811" y="1259" width="49" height="36" />
+        <cmp x="1872" y="1258" width="52" height="60" />
+      </word>
+      <word id="g07-026a-03-08" tag="IN" text="on">
+        <cmp x="1958" y="1246" width="58" height="40" />
+        <cmp x="2017" y="1254" width="54" height="33" />
+      </word>
+      <word id="g07-026a-03-09" tag="PP$" text="his">
+        <cmp x="2099" y="1240" width="53" height="54" />
+        <cmp x="2146" y="1242" width="31" height="7" />
+        <cmp x="2165" y="1265" width="14" height="29" />
+        <cmp x="2196" y="1263" width="28" height="39" />
+      </word>
+      <upper-contour>
+        <point x="311" y="1139" />
+        <point x="2219" y="1139" />
+      </upper-contour>
+      <lower-contour>
+        <point x="310" y="1320" />
+        <point x="2225" y="1320" />
+      </lower-contour>
+    </line>
+    <line ass="-179" asx="0" asy="1405" character-width="999" dss="-179" dsx="0" dsy="1495" fd0="13285" fd1="2908" fd2="-958" filter-width="4" id="g07-026a-04" lbs="-218" lbx="0" lby="1469" segmentation="ok" slant="105000" stroke-width="6132" threshold="173" text="implacable wife, purveying to her in secret" ubs="-101" ubx="0" uby="1441">
+      <word id="g07-026a-04-00" tag="JJ" text="implacable">
+        <cmp x="284" y="1408" width="40" height="8" />
+        <cmp x="317" y="1444" width="15" height="38" />
+        <cmp x="342" y="1442" width="75" height="35" />
+        <cmp x="421" y="1442" width="56" height="55" />
+        <cmp x="480" y="1424" width="15" height="48" />
+        <cmp x="508" y="1439" width="52" height="35" />
+        <cmp x="572" y="1438" width="54" height="34" />
+        <cmp x="631" y="1438" width="51" height="36" />
+        <cmp x="684" y="1423" width="57" height="47" />
+        <cmp x="742" y="1415" width="17" height="50" />
+        <cmp x="770" y="1436" width="67" height="39" />
+      </word>
+      <word id="g07-026a-04-01" tag="NN" text="wife">
+        <cmp x="878" y="1430" width="62" height="43" />
+        <cmp x="932" y="1429" width="24" height="7" />
+        <cmp x="952" y="1444" width="15" height="26" />
+        <cmp x="984" y="1417" width="26" height="81" />
+        <cmp x="1010" y="1435" width="58" height="37" />
+      </word>
+      <word id="g07-026a-04-02" tag="," text=",">
+        <cmp x="1087" y="1460" width="7" height="32" />
+      </word>
+      <word id="g07-026a-04-03" tag="VBG" text="purveying">
+        <cmp x="1132" y="1427" width="81" height="64" />
+        <cmp x="1215" y="1428" width="27" height="37" />
+        <cmp x="1250" y="1434" width="48" height="38" />
+        <cmp x="1307" y="1434" width="62" height="40" />
+        <cmp x="1360" y="1438" width="50" height="61" />
+        <cmp x="1404" y="1410" width="20" height="11" />
+        <cmp x="1423" y="1438" width="13" height="30" />
+        <cmp x="1448" y="1435" width="45" height="36" />
+        <cmp x="1496" y="1432" width="46" height="58" />
+      </word>
+      <word id="g07-026a-04-04" tag="IN" text="to">
+        <cmp x="1587" y="1414" width="31" height="61" />
+        <cmp x="1614" y="1423" width="20" height="50" />
+        <cmp x="1632" y="1448" width="27" height="30" />
+        <cmp x="1666" y="1445" width="46" height="35" />
+      </word>
+      <word id="g07-026a-04-05" tag="PP3O" text="her">
+        <cmp x="1742" y="1424" width="51" height="58" />
+        <cmp x="1808" y="1442" width="76" height="41" />
+      </word>
+      <word id="g07-026a-04-06" tag="IN" text="in">
+        <cmp x="1902" y="1412" width="40" height="13" />
+        <cmp x="1930" y="1447" width="14" height="41" />
+        <cmp x="1950" y="1446" width="50" height="39" />
+      </word>
+      <word id="g07-026a-04-07" tag="NN" text="secret">
+        <cmp x="2052" y="1437" width="25" height="56" />
+        <cmp x="2082" y="1436" width="55" height="39" />
+        <cmp x="2137" y="1432" width="45" height="37" />
+        <cmp x="2187" y="1434" width="33" height="35" />
+        <cmp x="2228" y="1415" width="86" height="69" />
+      </word>
+      <upper-contour>
+        <point x="310" y="1320" />
+        <point x="2225" y="1320" />
+      </upper-contour>
+      <lower-contour>
+        <point x="300" y="1499" />
+        <point x="2231" y="1499" />
+      </lower-contour>
+    </line>
+    <line ass="44" asx="0" asy="1596" character-width="999" dss="44" dsx="0" dsy="1681" fd0="13116" fd1="2477" fd2="-1506" filter-width="4" id="g07-026a-05" lbs="63" lbx="0" lby="1656" segmentation="ok" slant="106000" stroke-width="6191" threshold="169" text="the unguarded letters he never suspected" ubs="6" ubx="0" uby="1622">
+      <word id="g07-026a-05-00" tag="ATI" text="the">
+        <cmp x="302" y="1597" width="48" height="58" />
+        <cmp x="353" y="1620" width="26" height="36" />
+        <cmp x="391" y="1621" width="64" height="32" />
+      </word>
+      <word id="g07-026a-05-01" tag="JJ" text="unguarded">
+        <cmp x="500" y="1615" width="48" height="46" />
+        <cmp x="548" y="1623" width="65" height="41" />
+        <cmp x="616" y="1618" width="49" height="62" />
+        <cmp x="664" y="1612" width="49" height="43" />
+        <cmp x="724" y="1621" width="54" height="41" />
+        <cmp x="782" y="1627" width="35" height="34" />
+        <cmp x="824" y="1604" width="56" height="54" />
+        <cmp x="895" y="1624" width="69" height="34" />
+        <cmp x="955" y="1603" width="53" height="54" />
+      </word>
+      <word id="g07-026a-05-02" tag="NNS" text="letters">
+        <cmp x="1055" y="1605" width="17" height="56" />
+        <cmp x="1083" y="1620" width="70" height="39" />
+        <cmp x="1134" y="1601" width="55" height="59" />
+        <cmp x="1197" y="1620" width="77" height="39" />
+        <cmp x="1281" y="1623" width="33" height="50" />
+      </word>
+      <word id="g07-026a-05-03" tag="PP3A" text="he">
+        <cmp x="1347" y="1600" width="56" height="54" />
+        <cmp x="1416" y="1612" width="65" height="42" />
+      </word>
+      <word id="g07-026a-05-04" tag="RB" text="never">
+        <cmp x="1506" y="1616" width="60" height="41" />
+        <cmp x="1578" y="1615" width="58" height="41" />
+        <cmp x="1631" y="1618" width="44" height="37" />
+        <cmp x="1688" y="1621" width="77" height="36" />
+      </word>
+      <word id="g07-026a-05-05" tag="VBD" text="suspected">
+        <cmp x="1814" y="1612" width="68" height="56" />
+        <cmp x="1900" y="1620" width="23" height="49" />
+        <cmp x="1932" y="1612" width="45" height="55" />
+        <cmp x="1979" y="1615" width="108" height="42" />
+        <cmp x="2096" y="1599" width="24" height="58" />
+        <cmp x="2133" y="1618" width="54" height="39" />
+        <cmp x="2182" y="1597" width="48" height="60" />
+      </word>
+      <upper-contour>
+        <point x="300" y="1499" />
+        <point x="2231" y="1499" />
+      </upper-contour>
+      <lower-contour>
+        <point x="300" y="1679" />
+        <point x="2204" y="1679" />
+      </lower-contour>
+    </line>
+    <line ass="-607" asx="0" asy="1747" character-width="999" dss="-607" dsx="0" dsy="1844" fd0="13103" fd1="2844" fd2="-852" filter-width="4" id="g07-026a-06" lbs="-593" lbx="0" lby="1811" segmentation="ok" slant="103000" stroke-width="6244" threshold="170" text="any eye but her own would see, feeding" ubs="-636" ubx="0" uby="1779">
+      <word id="g07-026a-06-00" tag="DTI" text="any">
+        <cmp x="293" y="1776" width="57" height="50" />
+        <cmp x="352" y="1783" width="64" height="35" />
+        <cmp x="417" y="1785" width="51" height="65" />
+      </word>
+      <word id="g07-026a-06-01" tag="NN" text="eye">
+        <cmp x="522" y="1785" width="117" height="61" />
+        <cmp x="640" y="1786" width="71" height="35" />
+      </word>
+      <word id="g07-026a-06-02" tag="CC" text="but">
+        <cmp x="741" y="1766" width="96" height="51" />
+        <cmp x="846" y="1764" width="32" height="55" />
+      </word>
+      <word id="g07-026a-06-03" tag="PP$" text="her">
+        <cmp x="910" y="1762" width="63" height="63" />
+        <cmp x="991" y="1789" width="84" height="33" />
+      </word>
+      <word id="g07-026a-06-04" tag="AP" text="own">
+        <cmp x="1131" y="1784" width="48" height="34" />
+        <cmp x="1181" y="1779" width="60" height="44" />
+        <cmp x="1241" y="1786" width="51" height="35" />
+      </word>
+      <word id="g07-026a-06-05" tag="MD" text="would">
+        <cmp x="1343" y="1778" width="62" height="47" />
+        <cmp x="1409" y="1788" width="52" height="33" />
+        <cmp x="1463" y="1785" width="42" height="38" />
+        <cmp x="1505" y="1772" width="14" height="51" />
+        <cmp x="1530" y="1768" width="48" height="56" />
+      </word>
+      <word id="g07-026a-06-06" tag="VB" text="see">
+        <cmp x="1630" y="1794" width="26" height="46" />
+        <cmp x="1666" y="1792" width="60" height="37" />
+        <cmp x="1725" y="1792" width="49" height="34" />
+      </word>
+      <word id="g07-026a-06-07" tag="," text=",">
+        <cmp x="1797" y="1820" width="7" height="34" />
+      </word>
+      <word id="g07-026a-06-08" tag="VBG" text="feeding">
+        <cmp x="1837" y="1767" width="28" height="90" />
+        <cmp x="1878" y="1794" width="58" height="39" />
+        <cmp x="1938" y="1795" width="61" height="40" />
+        <cmp x="1999" y="1775" width="50" height="58" />
+        <cmp x="2045" y="1784" width="27" height="7" />
+        <cmp x="2058" y="1800" width="15" height="34" />
+        <cmp x="2082" y="1801" width="53" height="35" />
+        <cmp x="2145" y="1793" width="58" height="63" />
+      </word>
+      <upper-contour>
+        <point x="300" y="1679" />
+        <point x="2204" y="1679" />
+      </upper-contour>
+      <lower-contour>
+        <point x="291" y="1859" />
+        <point x="2140" y="1859" />
+      </lower-contour>
+    </line>
+    <line ass="-8" asx="0" asy="1939" character-width="999" dss="-8" dsx="0" dsy="2044" fd0="13313" fd1="2820" fd2="-1227" filter-width="4" id="g07-026a-07" lbs="-33" lbx="0" lby="2020" segmentation="ok" slant="107000" stroke-width="6139" threshold="170" text="the stealthy fires of her animosity: and" ubs="41" ubx="0" uby="1990">
+      <word id="g07-026a-07-00" tag="ATI" text="the">
+        <cmp x="292" y="1956" width="34" height="65" />
+        <cmp x="321" y="1958" width="22" height="56" />
+        <cmp x="342" y="1983" width="35" height="33" />
+        <cmp x="391" y="1978" width="69" height="38" />
+      </word>
+      <word id="g07-026a-07-01" tag="JJ" text="stealthy">
+        <cmp x="510" y="1983" width="34" height="44" />
+        <cmp x="545" y="1959" width="33" height="58" />
+        <cmp x="590" y="1984" width="116" height="39" />
+        <cmp x="708" y="1970" width="50" height="51" />
+        <cmp x="753" y="1969" width="54" height="50" />
+        <cmp x="811" y="1982" width="51" height="64" />
+      </word>
+      <word id="g07-026a-07-02" tag="NNS" text="fires">
+        <cmp x="912" y="1965" width="51" height="80" />
+        <cmp x="956" y="1999" width="14" height="33" />
+        <cmp x="983" y="1999" width="28" height="34" />
+        <cmp x="1025" y="1998" width="92" height="45" />
+      </word>
+      <word id="g07-026a-07-03" tag="INO" text="of">
+        <cmp x="1154" y="1987" width="61" height="34" />
+        <cmp x="1216" y="1963" width="32" height="74" />
+      </word>
+      <word id="g07-026a-07-04" tag="PP$" text="her">
+        <cmp x="1272" y="1968" width="50" height="60" />
+        <cmp x="1336" y="1988" width="64" height="40" />
+        <cmp x="1389" y="1991" width="32" height="33" />
+      </word>
+      <word id="g07-026a-07-05" tag="NN" text="animosity">
+        <cmp x="1462" y="1979" width="57" height="42" />
+        <cmp x="1518" y="1981" width="49" height="49" />
+        <cmp x="1555" y="1960" width="32" height="10" />
+        <cmp x="1579" y="1989" width="16" height="32" />
+        <cmp x="1612" y="1985" width="44" height="35" />
+        <cmp x="1656" y="1990" width="25" height="32" />
+        <cmp x="1691" y="1985" width="51" height="37" />
+        <cmp x="1754" y="1983" width="29" height="40" />
+        <cmp x="1772" y="1968" width="31" height="11" />
+        <cmp x="1794" y="1989" width="13" height="26" />
+        <cmp x="1815" y="1957" width="25" height="56" />
+        <cmp x="1841" y="1986" width="39" height="50" />
+      </word>
+      <word id="g07-026a-07-06" tag=":" text=":">
+        <cmp x="1910" y="2001" width="11" height="13" />
+        <cmp x="1911" y="1979" width="9" height="6" />
+      </word>
+      <word id="g07-026a-07-07" tag="CC" text="and">
+        <cmp x="1970" y="1982" width="51" height="40" />
+        <cmp x="2023" y="1979" width="57" height="37" />
+        <cmp x="2092" y="1941" width="47" height="74" />
+      </word>
+      <upper-contour>
+        <point x="291" y="1859" />
+        <point x="2140" y="1859" />
+      </upper-contour>
+      <lower-contour>
+        <point x="290" y="2045" />
+        <point x="2140" y="2045" />
+      </lower-contour>
+    </line>
+    <line ass="11" asx="0" asy="2129" character-width="999" dss="11" dsx="0" dsy="2222" fd0="13068" fd1="2504" fd2="-1141" filter-width="4" id="g07-026a-08" lbs="73" lbx="0" lby="2200" segmentation="ok" slant="107000" stroke-width="6257" threshold="169" text="having betrayed him, she had grown to fear" ubs="-111" ubx="0" uby="2162">
+      <word id="g07-026a-08-00" tag="HVG" text="having">
+        <cmp x="287" y="2129" width="55" height="64" />
+        <cmp x="353" y="2157" width="51" height="43" />
+        <cmp x="404" y="2158" width="46" height="41" />
+        <cmp x="440" y="2140" width="31" height="8" />
+        <cmp x="466" y="2165" width="17" height="34" />
+        <cmp x="490" y="2157" width="50" height="41" />
+        <cmp x="548" y="2155" width="59" height="64" />
+      </word>
+      <word id="g07-026a-08-01" tag="VBN" text="betrayed">
+        <cmp x="642" y="2138" width="124" height="64" />
+        <cmp x="754" y="2149" width="26" height="53" />
+        <cmp x="782" y="2164" width="34" height="37" />
+        <cmp x="822" y="2163" width="49" height="38" />
+        <cmp x="871" y="2165" width="49" height="51" />
+        <cmp x="927" y="2129" width="113" height="70" />
+      </word>
+      <word id="g07-026a-08-02" tag="PP3O" text="him">
+        <cmp x="1077" y="2138" width="54" height="63" />
+        <cmp x="1124" y="2147" width="21" height="8" />
+        <cmp x="1146" y="2168" width="16" height="32" />
+        <cmp x="1167" y="2165" width="70" height="38" />
+      </word>
+      <word id="g07-026a-08-03" tag="," text=",">
+        <cmp x="1264" y="2182" width="6" height="34" />
+      </word>
+      <word id="g07-026a-08-04" tag="PP3A" text="she">
+        <cmp x="1317" y="2132" width="71" height="74" />
+        <cmp x="1403" y="2156" width="59" height="38" />
+      </word>
+      <word id="g07-026a-08-05" tag="HVD" text="had">
+        <cmp x="1490" y="2138" width="57" height="63" />
+        <cmp x="1558" y="2163" width="53" height="40" />
+        <cmp x="1616" y="2137" width="52" height="63" />
+      </word>
+      <word id="g07-026a-08-06" tag="VBN" text="grown">
+        <cmp x="1705" y="2154" width="64" height="68" />
+        <cmp x="1756" y="2156" width="40" height="37" />
+        <cmp x="1791" y="2159" width="56" height="34" />
+        <cmp x="1847" y="2154" width="63" height="40" />
+        <cmp x="1913" y="2160" width="50" height="32" />
+      </word>
+      <word id="g07-026a-08-07" tag="TO" text="to">
+        <cmp x="2010" y="2143" width="35" height="61" />
+        <cmp x="2051" y="2166" width="51" height="38" />
+      </word>
+      <word id="g07-026a-08-08" tag="VB" text="fear">
+        <cmp x="2143" y="2135" width="33" height="81" />
+        <cmp x="2179" y="2160" width="115" height="47" />
+        <cmp x="2299" y="2165" width="28" height="31" />
+      </word>
+      <upper-contour>
+        <point x="290" y="2045" />
+        <point x="2140" y="2045" />
+      </upper-contour>
+      <lower-contour>
+        <point x="285" y="2218" />
+        <point x="1449" y="2218" />
+      </lower-contour>
+    </line>
+    <line ass="-314" asx="0" asy="2287" character-width="999" dss="-314" dsx="0" dsy="2369" fd0="13089" fd1="2864" fd2="-1041" filter-width="4" id="g07-026a-09" lbs="-342" lbx="0" lby="2359" segmentation="ok" slant="105000" stroke-width="6170" threshold="168" text="and almost to hate him." ubs="-256" ubx="0" uby="2328">
+      <word id="g07-026a-09-00" tag="CC" text="and">
+        <cmp x="283" y="2329" width="112" height="44" />
+        <cmp x="399" y="2291" width="50" height="73" />
+      </word>
+      <word id="g07-026a-09-01" tag="RB" text="almost">
+        <cmp x="516" y="2327" width="54" height="37" />
+        <cmp x="572" y="2309" width="15" height="53" />
+        <cmp x="593" y="2326" width="74" height="34" />
+        <cmp x="680" y="2327" width="58" height="35" />
+        <cmp x="749" y="2329" width="35" height="37" />
+        <cmp x="787" y="2303" width="25" height="65" />
+      </word>
+      <word id="g07-026a-09-02" tag="TO" text="to">
+        <cmp x="856" y="2310" width="37" height="53" />
+        <cmp x="898" y="2330" width="58" height="36" />
+      </word>
+      <word id="g07-026a-09-03" tag="VB" text="hate">
+        <cmp x="989" y="2307" width="61" height="64" />
+        <cmp x="1064" y="2333" width="53" height="36" />
+        <cmp x="1114" y="2308" width="39" height="62" />
+        <cmp x="1160" y="2336" width="67" height="36" />
+      </word>
+      <word id="g07-026a-09-04" tag="PP3O" text="him">
+        <cmp x="1253" y="2310" width="56" height="64" />
+        <cmp x="1294" y="2311" width="33" height="7" />
+        <cmp x="1322" y="2338" width="13" height="31" />
+        <cmp x="1346" y="2333" width="45" height="36" />
+        <cmp x="1393" y="2334" width="23" height="35" />
+      </word>
+      <word id="g07-026a-09-05" tag="." text=".">
+        <cmp x="1433" y="2355" width="15" height="10" />
+      </word>
+      <upper-contour>
+        <point x="285" y="2218" />
+        <point x="1449" y="2218" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

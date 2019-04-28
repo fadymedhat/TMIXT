@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-18" height="3542" id="g03-043" last-modified="2002-07-17" skew="-63" status="final" version="3.0_beta" width="2479" writer-id="314">
+  <machine-printed-part>
+    <machine-print-line text="One of the students was young George, and another the dark-haired little grand-" />
+    <machine-print-line text="daughter of Charlie Grant. George often spoke at the Sunday school. He christened" />
+    <machine-print-line text="the babies. Also, when called upon to do so, he would officiate at funerals. Religion" />
+    <machine-print-line text="was one of his pet subjects, for being well acquainted with the Bible, which he had" />
+    <machine-print-line text="read in prison where it was the only book they were allowed, he could debate on" />
+    <machine-print-line text="religion with anyone." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-487" asx="0" asy="767" character-width="999" dss="-487" dsx="0" dsy="946" fd0="14764" fd1="2266" fd2="-1770" filter-width="4" id="g03-043-00" lbs="-107" lbx="0" lby="883" segmentation="ok" slant="52000" stroke-width="6553" threshold="168" text="One of the students was young" ubs="-1248" ubx="0" uby="824">
+      <word id="g03-043-00-00" sentence-start="yes" tag="CD1" text="One">
+        <cmp x="334" y="784" width="140" height="106" />
+      </word>
+      <word id="g03-043-00-01" tag="INO" text="of">
+        <cmp x="511" y="791" width="129" height="119" />
+      </word>
+      <word id="g03-043-00-02" tag="ATI" text="the">
+        <cmp x="639" y="791" width="150" height="99" />
+      </word>
+      <word id="g03-043-00-03" tag="NNS" text="students">
+        <cmp x="824" y="777" width="409" height="119" />
+      </word>
+      <word id="g03-043-00-04" tag="BEDZ" text="was">
+        <cmp x="1262" y="829" width="188" height="70" />
+      </word>
+      <word id="g03-043-00-05" tag="JJ" text="young">
+        <cmp x="1472" y="838" width="309" height="122" />
+      </word>
+      <lower-contour>
+        <point x="332" y="910" />
+        <point x="1472" y="960" />
+        <point x="1505" y="942" />
+        <point x="1782" y="942" />
+      </lower-contour>
+    </line>
+    <line ass="653" asx="0" asy="943" character-width="999" dss="653" dsx="0" dsy="1139" fd0="14609" fd1="2323" fd2="-1336" filter-width="4" id="g03-043-01" lbs="636" lbx="0" lby="1074" segmentation="ok" slant="47000" stroke-width="6533" threshold="169" text="George, and another the dark-haired" ubs="686" ubx="0" uby="1032">
+      <word id="g03-043-01-00" tag="NP" text="George">
+        <cmp x="252" y="956" width="344" height="180" />
+      </word>
+      <word id="g03-043-01-01" tag="," text=",">
+        <cmp x="585" y="1056" width="37" height="45" />
+      </word>
+      <word id="g03-043-01-02" tag="CC" text="and">
+        <cmp x="654" y="953" width="250" height="120" />
+      </word>
+      <word id="g03-043-01-03" tag="DT" text="another">
+        <cmp x="904" y="932" width="422" height="138" />
+      </word>
+      <word id="g03-043-01-04" tag="ATI" text="the">
+        <cmp x="1349" y="955" width="194" height="116" />
+      </word>
+      <word id="g03-043-01-05" tag="JJ" text="dark-haired">
+        <cmp x="1584" y="966" width="289" height="107" />
+        <cmp x="1863" y="1034" width="30" height="10" />
+        <cmp x="1947" y="956" width="405" height="115" />
+        <cmp x="2144" y="940" width="15" height="23" />
+      </word>
+      <upper-contour>
+        <point x="332" y="910" />
+        <point x="1472" y="960" />
+        <point x="1505" y="942" />
+        <point x="1782" y="942" />
+      </upper-contour>
+      <lower-contour>
+        <point x="257" y="1137" />
+        <point x="389" y="1133" />
+        <point x="476" y="1135" />
+        <point x="913" y="1073" />
+        <point x="2353" y="1073" />
+      </lower-contour>
+    </line>
+    <line ass="870" asx="0" asy="1124" character-width="999" dss="870" dsx="0" dsy="1340" fd0="14058" fd1="1620" fd2="-2639" filter-width="4" id="g03-043-02" lbs="1058" lbx="0" lby="1253" segmentation="err" slant="56000" stroke-width="6491" threshold="167" text="little granddaughter of Charlie Grant." ubs="494" ubx="0" uby="1190">
+      <word id="g03-043-02-00" tag="JJ" text="little">
+        <cmp x="259" y="1134" width="223" height="128" />
+        <cmp x="385" y="1136" width="9" height="15" />
+      </word>
+      <word id="g03-043-02-01" tag="NN" text="granddaughter">
+        <cmp x="504" y="1112" width="930" height="213" />
+      </word>
+      <word id="g03-043-02-02" tag="INO" text="of">
+        <cmp x="1449" y="1136" width="135" height="125" />
+      </word>
+      <word id="g03-043-02-03" tag="NP" text="Charlie">
+        <cmp x="1579" y="1141" width="108" height="102" />
+        <cmp x="1705" y="1113" width="346" height="140" />
+        <cmp x="2010" y="1128" width="10" height="23" />
+      </word>
+      <word id="g03-043-02-04" tag="NP" text="Grant">
+        <cmp x="2087" y="1108" width="316" height="191" />
+      </word>
+      <word id="g03-043-02-05" tag="." text=".">
+        <cmp x="2386" y="1216" width="8" height="9" />
+      </word>
+      <upper-contour>
+        <point x="257" y="1137" />
+        <point x="389" y="1133" />
+        <point x="476" y="1135" />
+        <point x="913" y="1073" />
+        <point x="2353" y="1073" />
+      </upper-contour>
+      <lower-contour>
+        <point x="317" y="1323" />
+        <point x="1107" y="1325" />
+        <point x="2268" y="1325" />
+      </lower-contour>
+    </line>
+    <line ass="-886" asx="0" asy="1319" character-width="999" dss="-886" dsx="0" dsy="1488" fd0="12129" fd1="1358" fd2="-2299" filter-width="5" id="g03-043-03" lbs="-603" lbx="0" lby="1441" segmentation="ok" slant="53000" stroke-width="8159" threshold="169" text="George often spoke at the Sunday school." ubs="-1453" ubx="0" uby="1372">
+      <word id="g03-043-03-00" sentence-start="yes" tag="NP" text="George">
+        <cmp x="319" y="1325" width="271" height="163" />
+      </word>
+      <word id="g03-043-03-01" tag="RB" text="often">
+        <cmp x="596" y="1338" width="222" height="125" />
+      </word>
+      <word id="g03-043-03-02" tag="VBD" text="spoke">
+        <cmp x="867" y="1353" width="271" height="127" />
+      </word>
+      <word id="g03-043-03-03" tag="IN" text="at">
+        <cmp x="1151" y="1356" width="155" height="99" />
+      </word>
+      <word id="g03-043-03-04" tag="ATI" text="the">
+        <cmp x="1315" y="1358" width="169" height="98" />
+      </word>
+      <word id="g03-043-03-05" tag="NR" text="Sunday">
+        <cmp x="1488" y="1373" width="421" height="144" />
+      </word>
+      <word id="g03-043-03-06" tag="NN" text="school">
+        <cmp x="1918" y="1372" width="349" height="105" />
+      </word>
+      <word id="g03-043-03-07" tag="." text=".">
+        <cmp x="2250" y="1462" width="10" height="10" />
+      </word>
+      <upper-contour>
+        <point x="317" y="1323" />
+        <point x="1107" y="1325" />
+        <point x="2268" y="1325" />
+      </upper-contour>
+      <lower-contour>
+        <point x="338" y="1489" />
+        <point x="1797" y="1517" />
+        <point x="2110" y="1517" />
+      </lower-contour>
+    </line>
+    <line ass="-1984" asx="0" asy="1482" character-width="999" dss="-1984" dsx="0" dsy="1617" fd0="12734" fd1="1327" fd2="-2538" filter-width="5" id="g03-043-04" lbs="-2016" lbx="0" lby="1591" segmentation="ok" slant="51000" stroke-width="7884" threshold="158" text="He christened the babies. Also, when" ubs="-1920" ubx="0" uby="1540">
+      <word id="g03-043-04-00" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="340" y="1505" width="122" height="98" />
+      </word>
+      <word id="g03-043-04-01" tag="VBD" text="christened">
+        <cmp x="492" y="1513" width="308" height="118" />
+        <cmp x="743" y="1513" width="24" height="20" />
+        <cmp x="773" y="1519" width="282" height="106" />
+      </word>
+      <word id="g03-043-04-02" tag="ATI" text="the">
+        <cmp x="1053" y="1526" width="152" height="113" />
+      </word>
+      <word id="g03-043-04-03" tag="NNS" text="babies">
+        <cmp x="1230" y="1538" width="292" height="110" />
+        <cmp x="1473" y="1534" width="9" height="16" />
+      </word>
+      <word id="g03-043-04-04" tag="." text=".">
+        <cmp x="1510" y="1643" width="10" height="8" />
+      </word>
+      <word id="g03-043-04-05" sentence-start="yes" tag="RB" text="Also">
+        <cmp x="1551" y="1557" width="220" height="96" />
+      </word>
+      <word id="g03-043-04-06" tag="," text=",">
+        <cmp x="1751" y="1640" width="35" height="38" />
+      </word>
+      <word id="g03-043-04-07" tag="WRB" text="when">
+        <cmp x="1832" y="1562" width="277" height="106" />
+      </word>
+      <upper-contour>
+        <point x="338" y="1489" />
+        <point x="1797" y="1517" />
+        <point x="2110" y="1517" />
+      </upper-contour>
+      <lower-contour>
+        <point x="338" y="1678" />
+        <point x="2110" y="1678" />
+      </lower-contour>
+    </line>
+    <line ass="-905" asx="0" asy="1674" character-width="999" dss="-905" dsx="0" dsy="1821" fd0="13296" fd1="1759" fd2="-2149" filter-width="5" id="g03-043-05" lbs="-843" lbx="0" lby="1793" segmentation="err" slant="55000" stroke-width="7589" threshold="171" text="called upon to do so, he would officiate" ubs="-1027" ubx="0" uby="1747">
+      <word id="g03-043-05-00" tag="VBN" text="called">
+        <cmp x="286" y="1692" width="369" height="122" />
+      </word>
+      <word id="g03-043-05-01" tag="IN" text="upon">
+        <cmp x="657" y="1744" width="289" height="86" />
+      </word>
+      <word id="g03-043-05-02" tag="TO" text="to">
+        <cmp x="977" y="1719" width="146" height="100" />
+      </word>
+      <word id="g03-043-05-03" tag="DO" text="do">
+        <cmp x="1135" y="1715" width="157" height="103" />
+      </word>
+      <word id="g03-043-05-04" tag="PN" text="so">
+        <cmp x="1308" y="1762" width="137" height="59" />
+        <cmp x="1489" y="1699" width="8" height="7" />
+      </word>
+      <word id="g03-043-05-05" tag="," text=",">
+        <cmp x="1422" y="1814" width="17" height="30" />
+      </word>
+      <word id="g03-043-05-06" tag="PP3A" text="he">
+        <cmp x="1486" y="1727" width="129" height="99" />
+      </word>
+      <word id="g03-043-05-07" tag="MD" text="would">
+        <cmp x="1651" y="1712" width="389" height="119" />
+      </word>
+      <word id="g03-043-05-08" tag="VB" text="officiate">
+        <cmp x="2051" y="1739" width="389" height="106" />
+        <cmp x="2232" y="1736" width="12" height="15" />
+        <cmp x="2313" y="1743" width="20" height="19" />
+      </word>
+      <upper-contour>
+        <point x="338" y="1678" />
+        <point x="2110" y="1678" />
+      </upper-contour>
+      <lower-contour>
+        <point x="284" y="1846" />
+        <point x="2407" y="1846" />
+      </lower-contour>
+    </line>
+    <line ass="-1584" asx="0" asy="1844" character-width="999" dss="-1584" dsx="0" dsy="2017" fd0="13546" fd1="1944" fd2="-1416" filter-width="5" id="g03-043-06" lbs="-1555" lbx="0" lby="1963" segmentation="ok" slant="49000" stroke-width="7599" threshold="173" text="at funerals. Religion was one of his pet" ubs="-1643" ubx="0" uby="1917">
+      <word id="g03-043-06-00" tag="IN" text="at">
+        <cmp x="245" y="1884" width="144" height="97" />
+      </word>
+      <word id="g03-043-06-01" tag="NNS" text="funerals">
+        <cmp x="413" y="1880" width="454" height="119" />
+      </word>
+      <word id="g03-043-06-02" tag="." text=".">
+        <cmp x="878" y="1966" width="10" height="16" />
+      </word>
+      <word id="g03-043-06-03" sentence-start="yes" tag="NN" text="Religion">
+        <cmp x="956" y="1872" width="450" height="178" />
+        <cmp x="1176" y="1878" width="19" height="28" />
+        <cmp x="1281" y="1900" width="24" height="24" />
+      </word>
+      <word id="g03-043-06-04" tag="BEDZ" text="was">
+        <cmp x="1452" y="1942" width="227" height="61" />
+      </word>
+      <word id="g03-043-06-05" tag="CD1" text="one">
+        <cmp x="1701" y="1950" width="171" height="75" />
+      </word>
+      <word id="g03-043-06-06" tag="INO" text="of">
+        <cmp x="1900" y="1933" width="120" height="106" />
+      </word>
+      <word id="g03-043-06-07" tag="PP$" text="his">
+        <cmp x="2042" y="1929" width="179" height="98" />
+        <cmp x="2186" y="1932" width="16" height="21" />
+      </word>
+      <word id="g03-043-06-08" tag="NN" text="pet">
+        <cmp x="2218" y="1946" width="188" height="127" />
+      </word>
+      <upper-contour>
+        <point x="284" y="1846" />
+        <point x="2407" y="1846" />
+      </upper-contour>
+      <lower-contour>
+        <point x="254" y="2047" />
+        <point x="1155" y="2050" />
+        <point x="2209" y="2050" />
+      </lower-contour>
+    </line>
+    <line ass="-1933" asx="0" asy="2023" character-width="999" dss="-1933" dsx="0" dsy="2192" fd0="12560" fd1="1678" fd2="-1607" filter-width="5" id="g03-043-07" lbs="-1951" lbx="0" lby="2139" segmentation="ok" slant="57000" stroke-width="8003" threshold="172" text="subjects, for being well acquainted" ubs="-1897" ubx="0" uby="2093">
+      <word id="g03-043-07-00" tag="NNS" text="subjects">
+        <cmp x="256" y="2053" width="405" height="148" />
+        <cmp x="522" y="2050" width="10" height="17" />
+      </word>
+      <word id="g03-043-07-01" tag="," text=",">
+        <cmp x="666" y="2162" width="19" height="40" />
+      </word>
+      <word id="g03-043-07-02" tag="CS" text="for">
+        <cmp x="736" y="2079" width="169" height="97" />
+      </word>
+      <word id="g03-043-07-03" tag="BEG" text="being">
+        <cmp x="923" y="2069" width="309" height="153" />
+        <cmp x="1109" y="2067" width="9" height="17" />
+      </word>
+      <word id="g03-043-07-04" tag="RB" text="well">
+        <cmp x="1259" y="2084" width="262" height="105" />
+      </word>
+      <word id="g03-043-07-05" tag="VBN" text="acquainted">
+        <cmp x="1557" y="2111" width="651" height="140" />
+        <cmp x="1947" y="2089" width="10" height="33" />
+      </word>
+      <upper-contour>
+        <point x="254" y="2047" />
+        <point x="1155" y="2050" />
+        <point x="2209" y="2050" />
+      </upper-contour>
+      <lower-contour>
+        <point x="274" y="2202" />
+        <point x="1144" y="2251" />
+        <point x="2046" y="2251" />
+      </lower-contour>
+    </line>
+    <line ass="-1845" asx="0" asy="2196" character-width="999" dss="-1845" dsx="0" dsy="2351" fd0="12304" fd1="1630" fd2="-1758" filter-width="5" id="g03-043-08" lbs="-1801" lbx="0" lby="2319" segmentation="ok" slant="52000" stroke-width="8052" threshold="170" text="with the Bible, which he had" ubs="-1934" ubx="0" uby="2283">
+      <word id="g03-043-08-00" tag="IN" text="with">
+        <cmp x="276" y="2212" width="308" height="126" />
+        <cmp x="447" y="2216" width="13" height="13" />
+      </word>
+      <word id="g03-043-08-01" tag="ATI" text="the">
+        <cmp x="606" y="2226" width="181" height="122" />
+      </word>
+      <word id="g03-043-08-02" tag="NN" text="Bible">
+        <cmp x="836" y="2263" width="83" height="85" />
+        <cmp x="857" y="2246" width="248" height="118" />
+        <cmp x="994" y="2244" width="23" height="25" />
+      </word>
+      <word id="g03-043-08-03" tag="," text=",">
+        <cmp x="1109" y="2346" width="31" height="41" />
+      </word>
+      <word id="g03-043-08-04" tag="WDT" text="which">
+        <cmp x="1181" y="2264" width="393" height="115" />
+        <cmp x="1417" y="2263" width="11" height="24" />
+      </word>
+      <word id="g03-043-08-05" tag="PP3A" text="he">
+        <cmp x="1609" y="2288" width="128" height="96" />
+      </word>
+      <word id="g03-043-08-06" tag="HVD" text="had">
+        <cmp x="1779" y="2280" width="266" height="109" />
+      </word>
+      <upper-contour>
+        <point x="274" y="2202" />
+        <point x="1144" y="2251" />
+        <point x="2046" y="2251" />
+      </upper-contour>
+      <lower-contour>
+        <point x="274" y="2389" />
+        <point x="2046" y="2389" />
+      </lower-contour>
+    </line>
+    <line ass="-3413" asx="0" asy="2361" character-width="999" dss="-3413" dsx="0" dsy="2568" fd0="12924" fd1="1709" fd2="-1777" filter-width="5" id="g03-043-09" lbs="-3251" lbx="0" lby="2474" segmentation="err" slant="56000" stroke-width="7775" threshold="172" text="read in prison where it was the" ubs="-3735" ubx="0" uby="2415">
+      <word id="g03-043-09-00" tag="VBN" text="read">
+        <cmp x="230" y="2406" width="292" height="98" />
+        <cmp x="403" y="2587" width="21" height="7" />
+      </word>
+      <word id="g03-043-09-01" tag="IN" text="in">
+        <cmp x="543" y="2441" width="142" height="73" />
+        <cmp x="629" y="2403" width="13" height="19" />
+      </word>
+      <word id="g03-043-09-02" tag="NN" text="prison">
+        <cmp x="740" y="2456" width="351" height="89" />
+        <cmp x="932" y="2417" width="10" height="11" />
+      </word>
+      <word id="g03-043-09-03" tag="WRB" text="where">
+        <cmp x="1115" y="2446" width="338" height="112" />
+      </word>
+      <word id="g03-043-09-04" tag="PP3" text="it">
+        <cmp x="1494" y="2481" width="143" height="91" />
+        <cmp x="1569" y="2479" width="16" height="19" />
+      </word>
+      <word id="g03-043-09-05" tag="BEDZ" text="was">
+        <cmp x="1661" y="2513" width="210" height="70" />
+      </word>
+      <word id="g03-043-09-06" tag="ATI" text="the">
+        <cmp x="1903" y="2487" width="175" height="106" />
+      </word>
+      <upper-contour>
+        <point x="274" y="2389" />
+        <point x="2046" y="2389" />
+      </upper-contour>
+      <lower-contour>
+        <point x="228" y="2593" />
+        <point x="1943" y="2593" />
+      </lower-contour>
+    </line>
+    <line ass="-3017" asx="0" asy="2551" character-width="999" dss="-3017" dsx="0" dsy="2717" fd0="12733" fd1="1587" fd2="-2317" filter-width="5" id="g03-043-10" lbs="-3070" lbx="0" lby="2649" segmentation="err" slant="42000" stroke-width="7905" threshold="173" text="only book they were allowed," ubs="-2911" ubx="0" uby="2607">
+      <word id="g03-043-10-00" tag="AP" text="only">
+        <cmp x="221" y="2596" width="251" height="125" />
+      </word>
+      <word id="g03-043-10-01" tag="NN" text="book">
+        <cmp x="507" y="2596" width="285" height="115" />
+      </word>
+      <word id="g03-043-10-02" tag="PP3AS" text="they">
+        <cmp x="811" y="2596" width="310" height="172" />
+      </word>
+      <word id="g03-043-10-03" tag="BED" text="were">
+        <cmp x="1140" y="2770" width="8" height="5" />
+        <cmp x="1157" y="2660" width="246" height="75" />
+        <cmp x="1187" y="2752" width="24" height="22" />
+        <cmp x="1267" y="2758" width="11" height="17" />
+      </word>
+      <word id="g03-043-10-04" tag="VBN" text="allowed">
+        <cmp x="1450" y="2639" width="472" height="114" />
+      </word>
+      <word id="g03-043-10-05" tag="," text=",">
+        <cmp x="1928" y="2732" width="14" height="25" />
+      </word>
+      <upper-contour>
+        <point x="228" y="2593" />
+        <point x="1943" y="2593" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

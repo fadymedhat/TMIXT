@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="r03-115" last-modified="2002-07-18" skew="-95" status="final" version="3.0_beta" width="2479" writer-id="669">
+  <machine-printed-part>
+    <machine-print-line text="Much more spacious than that poky little cottage, which wasn&apos;t a bit practical really," />
+    <machine-print-line text="the reception room was too small when divided and too big when not." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-671" asx="0" asy="725" character-width="999" dss="-671" dsx="0" dsy="837" fd0="12596" fd1="2124" fd2="-1772" filter-width="5" id="r03-115-00" lbs="-664" lbx="0" lby="794" segmentation="ok" slant="101000" stroke-width="7190" threshold="194" text="Much more spacious than that poky little cottage," ubs="-687" ubx="0" uby="753">
+      <word id="r03-115-00-00" sentence-start="yes" tag="RB" text="Much">
+        <cmp x="360" y="730" width="167" height="70" />
+      </word>
+      <word id="r03-115-00-01" tag="QL" text="more">
+        <cmp x="594" y="757" width="156" height="49" />
+      </word>
+      <word id="r03-115-00-02" tag="JJ" text="spacious">
+        <cmp x="809" y="761" width="41" height="45" />
+        <cmp x="846" y="767" width="112" height="71" />
+        <cmp x="945" y="758" width="8" height="7" />
+        <cmp x="962" y="770" width="33" height="37" />
+        <cmp x="998" y="764" width="90" height="44" />
+      </word>
+      <word id="r03-115-00-03" tag="IN" text="than">
+        <cmp x="1128" y="755" width="72" height="58" />
+        <cmp x="1197" y="769" width="70" height="45" />
+      </word>
+      <word id="r03-115-00-04" tag="DT" text="that">
+        <cmp x="1296" y="752" width="74" height="62" />
+        <cmp x="1365" y="748" width="71" height="64" />
+      </word>
+      <word id="r03-115-00-05" tag="JJ" text="poky">
+        <cmp x="1482" y="772" width="45" height="64" />
+        <cmp x="1530" y="774" width="36" height="41" />
+        <cmp x="1568" y="751" width="93" height="106" />
+      </word>
+      <word id="r03-115-00-06" tag="JJ" text="little">
+        <cmp x="1702" y="752" width="154" height="64" />
+        <cmp x="1735" y="764" width="9" height="8" />
+      </word>
+      <word id="r03-115-00-07" tag="NN" text="cottage">
+        <cmp x="1896" y="761" width="65" height="47" />
+        <cmp x="1961" y="748" width="137" height="113" />
+      </word>
+      <word id="r03-115-00-08" tag="," text=",">
+        <cmp x="2115" y="791" width="17" height="34" />
+      </word>
+      <lower-contour>
+        <point x="358" y="857" />
+        <point x="1891" y="857" />
+      </lower-contour>
+    </line>
+    <line ass="-727" asx="0" asy="906" character-width="999" dss="-727" dsx="0" dsy="1033" fd0="13833" fd1="2951" fd2="-1111" filter-width="4" id="r03-115-01" lbs="-675" lbx="0" lby="965" segmentation="ok" slant="97000" stroke-width="6896" threshold="199" text="which wasn&apos;t a bit practical really, the" ubs="-831" ubx="0" uby="929">
+      <word id="r03-115-01-00" tag="WDT" text="which">
+        <cmp x="353" y="926" width="4" height="24" />
+        <cmp x="353" y="934" width="41" height="44" />
+        <cmp x="393" y="923" width="64" height="60" />
+        <cmp x="441" y="935" width="8" height="8" />
+        <cmp x="461" y="923" width="76" height="59" />
+      </word>
+      <word id="r03-115-01-01" tag="BEDZX" text="wasn&apos;t">
+        <cmp x="605" y="937" width="49" height="42" />
+        <cmp x="660" y="936" width="106" height="47" />
+        <cmp x="771" y="923" width="17" height="22" />
+        <cmp x="794" y="923" width="43" height="61" />
+      </word>
+      <word id="r03-115-01-02" tag="AT" text="a">
+        <cmp x="903" y="940" width="34" height="44" />
+      </word>
+      <word id="r03-115-01-03" tag="NN" text="bit">
+        <cmp x="1017" y="929" width="95" height="60" />
+        <cmp x="1056" y="946" width="8" height="8" />
+      </word>
+      <word id="r03-115-01-04" tag="JJ" text="practical">
+        <cmp x="1190" y="923" width="169" height="99" />
+        <cmp x="1348" y="935" width="7" height="11" />
+        <cmp x="1368" y="943" width="69" height="47" />
+        <cmp x="1441" y="925" width="30" height="68" />
+      </word>
+      <word id="r03-115-01-05" tag="RB" text="really">
+        <cmp x="1523" y="940" width="91" height="51" />
+        <cmp x="1615" y="935" width="24" height="58" />
+        <cmp x="1634" y="939" width="65" height="117" />
+      </word>
+      <word id="r03-115-01-06" tag="," text=",">
+        <cmp x="1701" y="974" width="17" height="34" />
+      </word>
+      <word id="r03-115-01-07" tag="ATI" text="the">
+        <cmp x="1758" y="931" width="132" height="68" />
+      </word>
+      <upper-contour>
+        <point x="358" y="857" />
+        <point x="1891" y="857" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1056" />
+        <point x="1891" y="1056" />
+      </lower-contour>
+    </line>
+    <line ass="-348" asx="0" asy="1094" character-width="999" dss="-348" dsx="0" dsy="1175" fd0="13941" fd1="2917" fd2="-1444" filter-width="4" id="r03-115-02" lbs="-299" lbx="0" lby="1152" segmentation="ok" slant="101000" stroke-width="6996" threshold="201" text="reception room was too small when divided" ubs="-444" ubx="0" uby="1113">
+      <word id="r03-115-02-00" tag="NN" text="reception">
+        <cmp x="352" y="1102" width="127" height="55" />
+        <cmp x="480" y="1102" width="119" height="78" />
+        <cmp x="547" y="1109" width="9" height="9" />
+        <cmp x="601" y="1115" width="54" height="49" />
+      </word>
+      <word id="r03-115-02-01" tag="NN" text="room">
+        <cmp x="724" y="1116" width="30" height="37" />
+        <cmp x="760" y="1117" width="80" height="47" />
+        <cmp x="851" y="1112" width="63" height="47" />
+      </word>
+      <word id="r03-115-02-02" tag="BEDZ" text="was">
+        <cmp x="1002" y="1113" width="154" height="52" />
+      </word>
+      <word id="r03-115-02-03" tag="QL" text="too">
+        <cmp x="1218" y="1102" width="112" height="59" />
+      </word>
+      <word id="r03-115-02-04" tag="JJ" text="small">
+        <cmp x="1381" y="1121" width="44" height="45" />
+        <cmp x="1421" y="1123" width="72" height="43" />
+        <cmp x="1491" y="1121" width="32" height="41" />
+        <cmp x="1520" y="1110" width="21" height="52" />
+        <cmp x="1540" y="1109" width="17" height="51" />
+      </word>
+      <word id="r03-115-02-05" tag="WRB" text="when">
+        <cmp x="1608" y="1125" width="53" height="43" />
+        <cmp x="1661" y="1114" width="114" height="59" />
+      </word>
+      <word id="r03-115-02-06" tag="VBN" text="divided">
+        <cmp x="1848" y="1108" width="62" height="61" />
+        <cmp x="1898" y="1118" width="8" height="8" />
+        <cmp x="1914" y="1128" width="48" height="41" />
+        <cmp x="1950" y="1116" width="9" height="8" />
+        <cmp x="1964" y="1105" width="118" height="66" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1056" />
+        <point x="1891" y="1056" />
+      </upper-contour>
+      <lower-contour>
+        <point x="365" y="1181" />
+        <point x="1405" y="1181" />
+      </lower-contour>
+    </line>
+    <line ass="-432" asx="0" asy="1275" character-width="999" dss="-432" dsx="0" dsy="1344" fd0="14087" fd1="2678" fd2="-814" filter-width="4" id="r03-115-03" lbs="-420" lbx="0" lby="1334" segmentation="ok" slant="101000" stroke-width="7028" threshold="204" text="and too big when not." ubs="-455" ubx="0" uby="1295">
+      <word id="r03-115-03-00" tag="CC" text="and">
+        <cmp x="367" y="1283" width="130" height="59" />
+      </word>
+      <word id="r03-115-03-01" tag="QL" text="too">
+        <cmp x="572" y="1283" width="134" height="53" />
+      </word>
+      <word id="r03-115-03-02" tag="JJ" text="big">
+        <cmp x="778" y="1283" width="48" height="62" />
+        <cmp x="829" y="1283" width="8" height="9" />
+        <cmp x="830" y="1306" width="8" height="33" />
+        <cmp x="844" y="1304" width="32" height="50" />
+      </word>
+      <word id="r03-115-03-03" tag="WRB" text="when">
+        <cmp x="976" y="1297" width="64" height="45" />
+        <cmp x="1043" y="1283" width="88" height="66" />
+        <cmp x="1124" y="1307" width="55" height="46" />
+      </word>
+      <word id="r03-115-03-04" tag="XNOT" text="not">
+        <cmp x="1242" y="1283" width="129" height="61" />
+      </word>
+      <word id="r03-115-03-05" tag="." text=".">
+        <cmp x="1397" y="1332" width="8" height="9" />
+      </word>
+      <upper-contour>
+        <point x="365" y="1181" />
+        <point x="1405" y="1181" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

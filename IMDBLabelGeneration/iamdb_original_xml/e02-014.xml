@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-17" height="3542" id="e02-014" last-modified="2002-07-17" skew="-127" status="final" version="3.0_beta" width="2479" writer-id="219">
+  <machine-printed-part>
+    <machine-print-line text="For short ones a smoothing plane can be used. The gauge can now be used to nick in" />
+    <machine-print-line text="the tapers on the newly planed surfaces, and these treated as before. It is unnecessary" />
+    <machine-print-line text="to mark the taper with the straight-edge as one relies upon the truth of the plane" />
+    <machine-print-line text="sole to make the tapered surfaces straight." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-320" asx="0" asy="705" character-width="999" dss="-320" dsx="0" dsy="827" fd0="13196" fd1="2488" fd2="-1323" filter-width="3" id="e02-014-00" lbs="-330" lbx="0" lby="779" segmentation="ok" slant="92000" stroke-width="5303" threshold="195" text="For short ones a smoothing plane can be used." ubs="-300" ubx="0" uby="750">
+      <word id="e02-014-00-00" sentence-start="yes" tag="IN" text="For">
+        <cmp x="328" y="713" width="76" height="68" />
+        <cmp x="380" y="748" width="61" height="33" />
+        <cmp x="446" y="753" width="43" height="27" />
+      </word>
+      <word id="e02-014-00-01" tag="JJ" text="short">
+        <cmp x="524" y="711" width="137" height="79" />
+        <cmp x="659" y="715" width="99" height="77" />
+      </word>
+      <word id="e02-014-00-02" tag="CD1S" text="ones">
+        <cmp x="779" y="747" width="110" height="48" />
+        <cmp x="888" y="749" width="46" height="43" />
+        <cmp x="930" y="748" width="37" height="42" />
+      </word>
+      <word id="e02-014-00-03" tag="AT" text="a">
+        <cmp x="1027" y="751" width="56" height="35" />
+      </word>
+      <word id="e02-014-00-04" tag="NN" text="smoothing">
+        <cmp x="1112" y="747" width="113" height="43" />
+        <cmp x="1223" y="730" width="167" height="61" />
+        <cmp x="1377" y="734" width="10" height="8" />
+        <cmp x="1393" y="755" width="41" height="34" />
+        <cmp x="1431" y="759" width="40" height="60" />
+      </word>
+      <word id="e02-014-00-05" tag="NN" text="plane">
+        <cmp x="1514" y="762" width="42" height="74" />
+        <cmp x="1566" y="725" width="15" height="63" />
+        <cmp x="1582" y="758" width="54" height="34" />
+        <cmp x="1634" y="763" width="48" height="29" />
+        <cmp x="1692" y="756" width="55" height="42" />
+      </word>
+      <word id="e02-014-00-06" tag="MD" text="can">
+        <cmp x="1775" y="757" width="124" height="38" />
+      </word>
+      <word id="e02-014-00-07" tag="BE" text="be">
+        <cmp x="1916" y="739" width="84" height="57" />
+      </word>
+      <word id="e02-014-00-08" tag="VBN" text="used">
+        <cmp x="2029" y="729" width="144" height="67" />
+      </word>
+      <word id="e02-014-00-09" tag="." text=".">
+        <cmp x="2032" y="753" width="4" height="3" />
+      </word>
+      <lower-contour>
+        <point x="326" y="836" />
+        <point x="2160" y="836" />
+      </lower-contour>
+    </line>
+    <line ass="-63" asx="0" asy="902" character-width="999" dss="-63" dsx="0" dsy="1005" fd0="13436" fd1="2629" fd2="-969" filter-width="3" id="e02-014-01" lbs="-42" lbx="0" lby="966" segmentation="ok" slant="101000" stroke-width="5153" threshold="195" text="The gauge can now be used to nick in the tapers" ubs="-104" ubx="0" uby="938">
+      <word id="e02-014-01-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="302" y="903" width="72" height="22" />
+        <cmp x="304" y="931" width="3" height="3" />
+        <cmp x="337" y="912" width="8" height="48" />
+        <cmp x="362" y="913" width="79" height="57" />
+      </word>
+      <word id="e02-014-01-01" tag="NN" text="gauge">
+        <cmp x="471" y="937" width="137" height="63" />
+        <cmp x="608" y="938" width="33" height="63" />
+        <cmp x="643" y="939" width="42" height="37" />
+      </word>
+      <word id="e02-014-01-02" tag="MD" text="can">
+        <cmp x="731" y="933" width="42" height="42" />
+        <cmp x="768" y="938" width="94" height="33" />
+      </word>
+      <word id="e02-014-01-03" tag="RN" text="now">
+        <cmp x="903" y="932" width="94" height="36" />
+        <cmp x="1004" y="930" width="56" height="36" />
+      </word>
+      <word id="e02-014-01-04" tag="BE" text="be">
+        <cmp x="1090" y="910" width="82" height="60" />
+      </word>
+      <word id="e02-014-01-05" tag="VBN" text="used">
+        <cmp x="1212" y="911" width="147" height="63" />
+        <cmp x="1273" y="935" width="4" height="6" />
+      </word>
+      <word id="e02-014-01-06" tag="TO" text="to">
+        <cmp x="1394" y="914" width="71" height="55" />
+      </word>
+      <word id="e02-014-01-07" tag="VB" text="nick">
+        <cmp x="1497" y="936" width="3" height="3" />
+        <cmp x="1497" y="941" width="54" height="31" />
+        <cmp x="1542" y="916" width="14" height="8" />
+        <cmp x="1555" y="948" width="15" height="29" />
+        <cmp x="1569" y="925" width="71" height="50" />
+      </word>
+      <word id="e02-014-01-08" tag="RP" text="in">
+        <cmp x="1676" y="921" width="6" height="5" />
+        <cmp x="1684" y="947" width="8" height="24" />
+        <cmp x="1704" y="944" width="43" height="30" />
+      </word>
+      <word id="e02-014-01-09" tag="ATI" text="the">
+        <cmp x="1787" y="923" width="115" height="56" />
+      </word>
+      <word id="e02-014-01-10" tag="NNS" text="tapers">
+        <cmp x="1922" y="924" width="84" height="55" />
+        <cmp x="2012" y="938" width="80" height="71" />
+        <cmp x="2066" y="949" width="31" height="12" />
+        <cmp x="2104" y="939" width="55" height="34" />
+        <cmp x="2145" y="940" width="10" height="7" />
+      </word>
+      <upper-contour>
+        <point x="326" y="836" />
+        <point x="2160" y="836" />
+      </upper-contour>
+      <lower-contour>
+        <point x="314" y="1008" />
+        <point x="2137" y="1008" />
+      </lower-contour>
+    </line>
+    <line ass="-532" asx="0" asy="1060" character-width="999" dss="-532" dsx="0" dsy="1186" fd0="13162" fd1="2335" fd2="-1378" filter-width="3" id="e02-014-02" lbs="-518" lbx="0" lby="1134" segmentation="ok" slant="94000" stroke-width="5277" threshold="195" text="on the newly planed surfaces, and these treated" ubs="-558" ubx="0" uby="1106">
+      <word id="e02-014-02-00" tag="IN" text="on">
+        <cmp x="316" y="1102" width="95" height="41" />
+      </word>
+      <word id="e02-014-02-01" tag="ATI" text="the">
+        <cmp x="451" y="1083" width="116" height="62" />
+      </word>
+      <word id="e02-014-02-02" tag="RB" text="newly">
+        <cmp x="604" y="1112" width="82" height="38" />
+        <cmp x="605" y="1108" width="4" height="3" />
+        <cmp x="665" y="1120" width="20" height="16" />
+        <cmp x="695" y="1113" width="4" height="3" />
+        <cmp x="695" y="1115" width="52" height="29" />
+        <cmp x="754" y="1087" width="16" height="57" />
+        <cmp x="775" y="1117" width="34" height="76" />
+      </word>
+      <word id="e02-014-02-03" tag="JJ" text="planed">
+        <cmp x="841" y="1117" width="42" height="64" />
+        <cmp x="890" y="1086" width="9" height="59" />
+        <cmp x="907" y="1090" width="175" height="65" />
+      </word>
+      <word id="e02-014-02-04" tag="NNS" text="surfaces">
+        <cmp x="1125" y="1105" width="82" height="44" />
+        <cmp x="1160" y="1111" width="4" height="6" />
+        <cmp x="1215" y="1113" width="41" height="33" />
+        <cmp x="1251" y="1072" width="115" height="103" />
+        <cmp x="1364" y="1117" width="44" height="40" />
+        <cmp x="1413" y="1115" width="28" height="36" />
+      </word>
+      <word id="e02-014-02-05" tag="," text=",">
+        <cmp x="1455" y="1139" width="11" height="31" />
+      </word>
+      <word id="e02-014-02-06" tag="CC" text="and">
+        <cmp x="1493" y="1113" width="102" height="37" />
+        <cmp x="1598" y="1092" width="67" height="64" />
+        <cmp x="1638" y="1127" width="4" height="11" />
+      </word>
+      <word id="e02-014-02-07" tag="DTS" text="these">
+        <cmp x="1706" y="1095" width="167" height="64" />
+        <cmp x="1852" y="1122" width="17" height="15" />
+      </word>
+      <word id="e02-014-02-08" tag="VBN" text="treated">
+        <cmp x="1903" y="1099" width="70" height="63" />
+        <cmp x="1964" y="1094" width="172" height="66" />
+      </word>
+      <upper-contour>
+        <point x="314" y="1008" />
+        <point x="2137" y="1008" />
+      </upper-contour>
+      <lower-contour>
+        <point x="314" y="1194" />
+        <point x="2137" y="1194" />
+      </lower-contour>
+    </line>
+    <line ass="-149" asx="0" asy="1253" character-width="999" dss="-149" dsx="0" dsy="1355" fd0="13212" fd1="2615" fd2="-1127" filter-width="3" id="e02-014-03" lbs="-146" lbx="0" lby="1325" segmentation="ok" slant="92999" stroke-width="5251" threshold="196" text="as before. It is unnecessary to mark the taper with" ubs="-154" ubx="0" uby="1296">
+      <word id="e02-014-03-00" tag="CS" text="as">
+        <cmp x="305" y="1283" width="76" height="45" />
+      </word>
+      <word id="e02-014-03-01" tag="RI" text="before">
+        <cmp x="407" y="1258" width="69" height="71" />
+        <cmp x="471" y="1255" width="139" height="87" />
+      </word>
+      <word id="e02-014-03-02" tag="." text=".">
+        <cmp x="611" y="1322" width="14" height="8" />
+      </word>
+      <word id="e02-014-03-03" sentence-start="yes" tag="PP3" text="It">
+        <cmp x="670" y="1255" width="42" height="68" />
+        <cmp x="707" y="1319" width="5" height="4" />
+      </word>
+      <word id="e02-014-03-04" tag="BEZ" text="is">
+        <cmp x="731" y="1259" width="11" height="21" />
+        <cmp x="735" y="1288" width="42" height="40" />
+      </word>
+      <word id="e02-014-03-05" tag="JJ" text="unnecessary">
+        <cmp x="811" y="1294" width="127" height="35" />
+        <cmp x="937" y="1293" width="71" height="46" />
+        <cmp x="1002" y="1296" width="97" height="40" />
+        <cmp x="1098" y="1294" width="96" height="33" />
+        <cmp x="1199" y="1298" width="36" height="62" />
+      </word>
+      <word id="e02-014-03-06" tag="TO" text="to">
+        <cmp x="1294" y="1271" width="76" height="59" />
+      </word>
+      <word id="e02-014-03-07" tag="VB" text="mark">
+        <cmp x="1406" y="1298" width="77" height="29" />
+        <cmp x="1488" y="1301" width="97" height="28" />
+        <cmp x="1598" y="1276" width="39" height="55" />
+      </word>
+      <word id="e02-014-03-08" tag="ATI" text="the">
+        <cmp x="1681" y="1275" width="97" height="58" />
+      </word>
+      <word id="e02-014-03-09" tag="NN" text="taper">
+        <cmp x="1817" y="1283" width="74" height="50" />
+        <cmp x="1903" y="1300" width="74" height="59" />
+        <cmp x="1987" y="1298" width="41" height="36" />
+      </word>
+      <word id="e02-014-03-10" tag="IN" text="with">
+        <cmp x="2063" y="1298" width="40" height="35" />
+        <cmp x="2064" y="1295" width="6" height="5" />
+        <cmp x="2108" y="1275" width="6" height="4" />
+        <cmp x="2110" y="1306" width="8" height="22" />
+        <cmp x="2112" y="1277" width="66" height="58" />
+      </word>
+      <upper-contour>
+        <point x="314" y="1194" />
+        <point x="2137" y="1194" />
+      </upper-contour>
+      <lower-contour>
+        <point x="303" y="1359" />
+        <point x="2154" y="1359" />
+      </lower-contour>
+    </line>
+    <line ass="-590" asx="0" asy="1434" character-width="999" dss="-590" dsx="0" dsy="1538" fd0="13318" fd1="2658" fd2="-1330" filter-width="3" id="e02-014-04" lbs="-791" lbx="0" lby="1489" segmentation="err" slant="96000" stroke-width="5348" threshold="191" text="the straight-edge as one relies upon the truth" ubs="-186" ubx="0" uby="1472">
+      <word id="e02-014-04-00" tag="ATI" text="the">
+        <cmp x="304" y="1445" width="71" height="54" />
+        <cmp x="377" y="1465" width="42" height="40" />
+      </word>
+      <word id="e02-014-04-01" tag="NN" text="straight-edge">
+        <cmp x="451" y="1471" width="36" height="36" />
+        <cmp x="494" y="1445" width="67" height="60" />
+        <cmp x="550" y="1475" width="51" height="36" />
+        <cmp x="592" y="1461" width="5" height="5" />
+        <cmp x="598" y="1463" width="4" height="3" />
+        <cmp x="603" y="1489" width="8" height="22" />
+        <cmp x="613" y="1477" width="41" height="69" />
+        <cmp x="654" y="1459" width="75" height="45" />
+        <cmp x="751" y="1482" width="28" height="4" />
+        <cmp x="808" y="1473" width="44" height="37" />
+        <cmp x="853" y="1445" width="80" height="99" />
+        <cmp x="936" y="1472" width="57" height="38" />
+      </word>
+      <word id="e02-014-04-02" tag="CS" text="as">
+        <cmp x="1037" y="1471" width="41" height="36" />
+        <cmp x="1084" y="1472" width="32" height="35" />
+      </word>
+      <word id="e02-014-04-03" tag="CD1" text="one">
+        <cmp x="1149" y="1476" width="57" height="38" />
+        <cmp x="1208" y="1476" width="93" height="48" />
+      </word>
+      <word id="e02-014-04-04" tag="VBZ" text="relies">
+        <cmp x="1362" y="1473" width="78" height="38" />
+        <cmp x="1448" y="1460" width="29" height="48" />
+        <cmp x="1488" y="1479" width="35" height="35" />
+        <cmp x="1526" y="1479" width="32" height="38" />
+      </word>
+      <word id="e02-014-04-05" tag="IN" text="upon">
+        <cmp x="1612" y="1476" width="47" height="36" />
+        <cmp x="1664" y="1482" width="130" height="64" />
+      </word>
+      <word id="e02-014-04-06" tag="ATI" text="the">
+        <cmp x="1825" y="1457" width="116" height="66" />
+      </word>
+      <word id="e02-014-04-07" tag="NN" text="truth">
+        <cmp x="1974" y="1458" width="179" height="56" />
+        <cmp x="2096" y="1455" width="4" height="4" />
+        <cmp x="2117" y="1455" width="6" height="5" />
+      </word>
+      <upper-contour>
+        <point x="303" y="1359" />
+        <point x="2154" y="1359" />
+      </upper-contour>
+      <lower-contour>
+        <point x="302" y="1546" />
+        <point x="2110" y="1546" />
+      </lower-contour>
+    </line>
+    <line ass="-162" asx="0" asy="1595" character-width="999" dss="-162" dsx="0" dsy="1712" fd0="13143" fd1="2545" fd2="-1160" filter-width="3" id="e02-014-05" lbs="-100" lbx="0" lby="1683" segmentation="ok" slant="97000" stroke-width="5256" threshold="191" text="of the plane sole to make the tapered surfaces" ubs="-286" ubx="0" uby="1655">
+      <word id="e02-014-05-00" tag="INO" text="of">
+        <cmp x="297" y="1596" width="86" height="111" />
+      </word>
+      <word id="e02-014-05-01" tag="ATI" text="the">
+        <cmp x="415" y="1621" width="103" height="60" />
+      </word>
+      <word id="e02-014-05-02" tag="NN" text="plane">
+        <cmp x="557" y="1652" width="41" height="56" />
+        <cmp x="610" y="1618" width="108" height="71" />
+        <cmp x="721" y="1655" width="55" height="41" />
+      </word>
+      <word id="e02-014-05-03" tag="NN" text="sole">
+        <cmp x="816" y="1653" width="81" height="41" />
+        <cmp x="894" y="1634" width="47" height="63" />
+      </word>
+      <word id="e02-014-05-04" tag="TO" text="to">
+        <cmp x="980" y="1626" width="80" height="61" />
+        <cmp x="994" y="1621" width="5" height="3" />
+        <cmp x="1028" y="1650" width="12" height="7" />
+      </word>
+      <word id="e02-014-05-05" tag="VB" text="make">
+        <cmp x="1092" y="1648" width="119" height="37" />
+        <cmp x="1204" y="1616" width="48" height="66" />
+        <cmp x="1251" y="1646" width="38" height="41" />
+      </word>
+      <word id="e02-014-05-06" tag="ATI" text="the">
+        <cmp x="1328" y="1618" width="124" height="73" />
+        <cmp x="1360" y="1626" width="5" height="4" />
+      </word>
+      <word id="e02-014-05-07" tag="JJ" text="tapered">
+        <cmp x="1488" y="1641" width="65" height="47" />
+        <cmp x="1498" y="1637" width="4" height="3" />
+        <cmp x="1563" y="1653" width="117" height="61" />
+        <cmp x="1682" y="1619" width="90" height="70" />
+      </word>
+      <word id="e02-014-05-08" tag="NNS" text="surfaces">
+        <cmp x="1822" y="1651" width="71" height="42" />
+        <cmp x="1896" y="1657" width="40" height="37" />
+        <cmp x="1929" y="1610" width="80" height="110" />
+        <cmp x="2007" y="1666" width="66" height="36" />
+        <cmp x="2034" y="1697" width="3" height="3" />
+        <cmp x="2069" y="1667" width="40" height="39" />
+      </word>
+      <upper-contour>
+        <point x="302" y="1546" />
+        <point x="2110" y="1546" />
+      </upper-contour>
+      <lower-contour>
+        <point x="304" y="1709" />
+        <point x="594" y="1709" />
+      </lower-contour>
+    </line>
+    <line ass="305" asx="0" asy="1782" character-width="999" dss="305" dsx="0" dsy="1893" fd0="13663" fd1="2642" fd2="-1641" filter-width="3" id="e02-014-06" lbs="243" lbx="0" lby="1859" segmentation="err" slant="98000" stroke-width="5534" threshold="194" text="straight." ubs="430" ubx="0" uby="1825">
+      <word id="e02-014-06-00" tag="JJ" text="straight">
+        <cmp x="306" y="1781" width="99" height="79" />
+        <cmp x="397" y="1815" width="56" height="43" />
+        <cmp x="451" y="1784" width="11" height="11" />
+        <cmp x="458" y="1818" width="61" height="73" />
+      </word>
+      <word id="e02-014-06-01" tag="." text=".">
+        <cmp x="512" y="1790" width="81" height="69" />
+      </word>
+      <upper-contour>
+        <point x="304" y="1709" />
+        <point x="594" y="1709" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

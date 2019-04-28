@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="n04-171" last-modified="2002-07-17" skew="95" status="final" version="3.0_beta" width="2479" writer-id="586">
+  <machine-printed-part>
+    <machine-print-line text="Ever been out in a submarine? I&apos;ll give you a spin round one of these days, if you" />
+    <machine-print-line text="like. You could write it up.&amp;quot; Bawley made a face. &amp;quot;Not in Pericles, old man.&amp;quot; &amp;quot;Why" />
+    <machine-print-line text="not?&amp;quot; &amp;quot;Better ask Robbie Munyard.&amp;quot; &amp;quot;What&apos;s he been saying?&amp;quot; John was furious." />
+    <machine-print-line text="The little squirt! To go gassing to a newspaper man!" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-77" asx="0" asy="743" character-width="999" dss="-77" dsx="0" dsy="850" fd0="14231" fd1="3219" fd2="205" filter-width="4" id="n04-171-00" lbs="-85" lbx="0" lby="821" segmentation="ok" slant="71000" stroke-width="6136" threshold="155" text="Ever been out in a submarine? I&apos;ll give" ubs="-61" ubx="0" uby="792">
+      <word id="n04-171-00-00" sentence-start="yes" tag="RB" text="Ever">
+        <cmp x="390" y="754" width="121" height="73" />
+      </word>
+      <word id="n04-171-00-01" tag="BEN" text="been">
+        <cmp x="561" y="761" width="153" height="66" />
+      </word>
+      <word id="n04-171-00-02" tag="RP" text="out">
+        <cmp x="777" y="753" width="127" height="75" />
+      </word>
+      <word id="n04-171-00-03" tag="IN" text="in">
+        <cmp x="956" y="799" width="65" height="26" />
+        <cmp x="981" y="765" width="17" height="9" />
+      </word>
+      <word id="n04-171-00-04" tag="AT" text="a">
+        <cmp x="1066" y="787" width="41" height="37" />
+      </word>
+      <word id="n04-171-00-05" tag="NN" text="submarine">
+        <cmp x="1158" y="765" width="389" height="63" />
+        <cmp x="1459" y="756" width="12" height="10" />
+      </word>
+      <word id="n04-171-00-06" tag="?" text="?">
+        <cmp x="1605" y="816" width="16" height="11" />
+        <cmp x="1611" y="752" width="23" height="39" />
+      </word>
+      <word id="n04-171-00-07" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="1736" y="759" width="43" height="67" />
+      </word>
+      <word id="n04-171-00-08" tag="MD" text="&apos;ll">
+        <cmp x="1798" y="747" width="17" height="35" />
+        <cmp x="1802" y="762" width="78" height="61" />
+      </word>
+      <word id="n04-171-00-09" tag="VB" text="give">
+        <cmp x="1915" y="790" width="138" height="64" />
+        <cmp x="1974" y="768" width="17" height="8" />
+      </word>
+      <lower-contour>
+        <point x="388" y="855" />
+        <point x="2001" y="855" />
+      </lower-contour>
+    </line>
+    <line ass="-260" asx="0" asy="937" character-width="999" dss="-260" dsx="0" dsy="1051" fd0="13493" fd1="2869" fd2="-254" filter-width="4" id="n04-171-01" lbs="-210" lbx="0" lby="1009" segmentation="ok" slant="82000" stroke-width="6068" threshold="154" text="you a spin round one of these days, if you" ubs="-361" ubx="0" uby="976">
+      <word id="n04-171-01-00" tag="PP2" text="you">
+        <cmp x="372" y="965" width="122" height="89" />
+      </word>
+      <word id="n04-171-01-01" tag="AT" text="a">
+        <cmp x="547" y="970" width="40" height="37" />
+      </word>
+      <word id="n04-171-01-02" tag="NN" text="spin">
+        <cmp x="637" y="972" width="147" height="61" />
+        <cmp x="741" y="942" width="9" height="10" />
+      </word>
+      <word id="n04-171-01-03" tag="RP" text="round">
+        <cmp x="831" y="972" width="167" height="37" />
+        <cmp x="999" y="955" width="44" height="54" />
+      </word>
+      <word id="n04-171-01-04" tag="CD1" text="one">
+        <cmp x="1077" y="970" width="118" height="31" />
+      </word>
+      <word id="n04-171-01-05" tag="INO" text="of">
+        <cmp x="1232" y="944" width="63" height="91" />
+      </word>
+      <word id="n04-171-01-06" tag="DTS" text="these">
+        <cmp x="1326" y="957" width="155" height="59" />
+      </word>
+      <word id="n04-171-01-07" tag="NNS" text="days">
+        <cmp x="1532" y="954" width="163" height="98" />
+      </word>
+      <word id="n04-171-01-08" tag="," text=",">
+        <cmp x="1710" y="1004" width="17" height="33" />
+      </word>
+      <word id="n04-171-01-09" tag="CS" text="if">
+        <cmp x="1756" y="954" width="71" height="92" />
+        <cmp x="1780" y="957" width="9" height="9" />
+      </word>
+      <word id="n04-171-01-10" tag="PP2" text="you">
+        <cmp x="1869" y="970" width="130" height="70" />
+      </word>
+      <upper-contour>
+        <point x="388" y="855" />
+        <point x="2001" y="855" />
+      </upper-contour>
+      <lower-contour>
+        <point x="370" y="1053" />
+        <point x="2001" y="1053" />
+      </lower-contour>
+    </line>
+    <line ass="46" asx="0" asy="1111" character-width="999" dss="46" dsx="0" dsy="1232" fd0="13577" fd1="2893" fd2="-452" filter-width="4" id="n04-171-02" lbs="32" lbx="0" lby="1193" segmentation="ok" slant="73000" stroke-width="6006" threshold="154" text="like. You could write it up.&amp;quot; Bawley made a face." ubs="75" ubx="0" uby="1167">
+      <word id="n04-171-02-00" tag="VB" text="like">
+        <cmp x="362" y="1120" width="125" height="78" />
+        <cmp x="407" y="1121" width="11" height="9" />
+      </word>
+      <word id="n04-171-02-01" tag="." text=".">
+        <cmp x="507" y="1188" width="7" height="14" />
+      </word>
+      <word id="n04-171-02-02" sentence-start="yes" tag="PP2" text="You">
+        <cmp x="554" y="1139" width="121" height="94" />
+      </word>
+      <word id="n04-171-02-03" tag="MD" text="could">
+        <cmp x="711" y="1130" width="191" height="65" />
+      </word>
+      <word id="n04-171-02-04" tag="VB" text="write">
+        <cmp x="948" y="1122" width="172" height="68" />
+        <cmp x="1048" y="1112" width="13" height="10" />
+      </word>
+      <word id="n04-171-02-05" tag="PP3" text="it">
+        <cmp x="1153" y="1133" width="79" height="64" />
+        <cmp x="1177" y="1123" width="15" height="9" />
+      </word>
+      <word id="n04-171-02-06" tag="RP" text="up">
+        <cmp x="1274" y="1153" width="88" height="72" />
+      </word>
+      <word id="n04-171-02-07" tag="." text=".">
+        <cmp x="1379" y="1185" width="7" height="7" />
+      </word>
+      <word id="n04-171-02-08" tag="**&apos;" text="&quot;">
+        <cmp x="1425" y="1115" width="12" height="24" />
+        <cmp x="1434" y="1117" width="11" height="25" />
+      </word>
+      <word id="n04-171-02-09" sentence-start="yes" tag="NP" text="Bawley">
+        <cmp x="1501" y="1132" width="232" height="99" />
+      </word>
+      <word id="n04-171-02-10" tag="VBD" text="made">
+        <cmp x="1768" y="1127" width="156" height="66" />
+      </word>
+      <word id="n04-171-02-11" tag="AT" text="a">
+        <cmp x="1994" y="1155" width="36" height="22" />
+      </word>
+      <word id="n04-171-02-12" tag="NN" text="face">
+        <cmp x="2066" y="1113" width="42" height="106" />
+        <cmp x="2084" y="1147" width="130" height="40" />
+      </word>
+      <word id="n04-171-02-13" tag="." text=".">
+        <cmp x="2229" y="1185" width="7" height="8" />
+      </word>
+      <upper-contour>
+        <point x="370" y="1053" />
+        <point x="2001" y="1053" />
+      </upper-contour>
+      <lower-contour>
+        <point x="360" y="1232" />
+        <point x="1938" y="1232" />
+      </lower-contour>
+    </line>
+    <line ass="1218" asx="0" asy="1285" character-width="999" dss="1218" dsx="0" dsy="1433" fd0="13878" fd1="3392" fd2="298" filter-width="4" id="n04-171-03" lbs="1264" lbx="0" lby="1383" segmentation="ok" slant="73000" stroke-width="5924" threshold="155" text="&amp;quot;Not in Pericles, old man.&amp;quot; &amp;quot;Why not?&amp;quot;" ubs="1128" ubx="0" uby="1353">
+      <word id="n04-171-03-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="348" y="1279" width="10" height="21" />
+        <cmp x="368" y="1280" width="7" height="26" />
+      </word>
+      <word id="n04-171-03-01" tag="XNOT" text="Not">
+        <cmp x="382" y="1304" width="76" height="76" />
+        <cmp x="437" y="1311" width="77" height="58" />
+      </word>
+      <word id="n04-171-03-02" tag="IN" text="in">
+        <cmp x="545" y="1347" width="67" height="24" />
+        <cmp x="562" y="1303" width="9" height="14" />
+      </word>
+      <word id="n04-171-03-03" tag="NP" text="Pericles">
+        <cmp x="679" y="1301" width="37" height="59" />
+        <cmp x="693" y="1330" width="98" height="30" />
+        <cmp x="785" y="1304" width="8" height="12" />
+        <cmp x="792" y="1296" width="115" height="76" />
+      </word>
+      <word id="n04-171-03-04" tag="," text=",">
+        <cmp x="936" y="1356" width="15" height="34" />
+      </word>
+      <word id="n04-171-03-05" tag="JJ" text="old">
+        <cmp x="998" y="1297" width="112" height="71" />
+      </word>
+      <word id="n04-171-03-06" tag="NN" text="man">
+        <cmp x="1134" y="1336" width="144" height="35" />
+      </word>
+      <word id="n04-171-03-07" tag="." text=".">
+        <cmp x="1301" y="1361" width="9" height="9" />
+      </word>
+      <word id="n04-171-03-08" tag="**&apos;" text="&quot;">
+        <cmp x="1337" y="1294" width="20" height="21" />
+      </word>
+      <word id="n04-171-03-09" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="1429" y="1297" width="10" height="21" />
+        <cmp x="1439" y="1296" width="12" height="24" />
+      </word>
+      <word id="n04-171-03-10" tag="WRB" text="Why">
+        <cmp x="1473" y="1296" width="67" height="65" />
+        <cmp x="1517" y="1304" width="114" height="97" />
+      </word>
+      <word id="n04-171-03-11" tag="XNOT" text="not">
+        <cmp x="1689" y="1305" width="137" height="67" />
+      </word>
+      <word id="n04-171-03-12" tag="?" text="?">
+        <cmp x="1863" y="1354" width="11" height="10" />
+        <cmp x="1865" y="1293" width="27" height="34" />
+      </word>
+      <word id="n04-171-03-13" tag="**&apos;" text="&quot;">
+        <cmp x="1913" y="1280" width="16" height="21" />
+        <cmp x="1927" y="1287" width="10" height="21" />
+      </word>
+      <upper-contour>
+        <point x="360" y="1232" />
+        <point x="1938" y="1232" />
+      </upper-contour>
+      <lower-contour>
+        <point x="366" y="1401" />
+        <point x="1938" y="1401" />
+      </lower-contour>
+    </line>
+    <line ass="-200" asx="0" asy="1456" character-width="999" dss="-200" dsx="0" dsy="1588" fd0="13637" fd1="2923" fd2="-735" filter-width="4" id="n04-171-04" lbs="-290" lbx="0" lby="1533" segmentation="ok" slant="71000" stroke-width="6078" threshold="149" text="&amp;quot;Better ask Robbie Munyard.&amp;quot; &amp;quot;What&apos;s he been" ubs="-19" ubx="0" uby="1509">
+      <word id="n04-171-04-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="368" y="1459" width="7" height="31" />
+        <cmp x="379" y="1461" width="10" height="32" />
+      </word>
+      <word id="n04-171-04-01" tag="RBR" text="Better">
+        <cmp x="423" y="1471" width="135" height="78" />
+      </word>
+      <word id="n04-171-04-02" tag="VB" text="ask">
+        <cmp x="596" y="1482" width="117" height="75" />
+      </word>
+      <word id="n04-171-04-03" tag="NP" text="Robbie">
+        <cmp x="768" y="1473" width="212" height="80" />
+        <cmp x="954" y="1478" width="12" height="6" />
+      </word>
+      <word id="n04-171-04-04" tag="NP" text="Munyard">
+        <cmp x="1028" y="1487" width="359" height="106" />
+      </word>
+      <word id="n04-171-04-05" tag="." text=".">
+        <cmp x="1395" y="1548" width="10" height="7" />
+      </word>
+      <word id="n04-171-04-06" tag="**&apos;" text="&quot;">
+        <cmp x="1434" y="1476" width="19" height="15" />
+      </word>
+      <word id="n04-171-04-07" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="1529" y="1483" width="13" height="25" />
+        <cmp x="1542" y="1488" width="9" height="17" />
+      </word>
+      <word id="n04-171-04-08" tag="WDT" text="What">
+        <cmp x="1597" y="1486" width="174" height="64" />
+      </word>
+      <word id="n04-171-04-09" tag="HVZ" text="&apos;s">
+        <cmp x="1792" y="1479" width="8" height="12" />
+        <cmp x="1789" y="1512" width="38" height="33" />
+      </word>
+      <word id="n04-171-04-10" tag="PP3A" text="he">
+        <cmp x="1886" y="1485" width="59" height="71" />
+      </word>
+      <word id="n04-171-04-11" tag="BEN" text="been">
+        <cmp x="1989" y="1483" width="151" height="65" />
+      </word>
+      <upper-contour>
+        <point x="366" y="1401" />
+        <point x="1938" y="1401" />
+      </upper-contour>
+      <lower-contour>
+        <point x="366" y="1594" />
+        <point x="2141" y="1594" />
+      </lower-contour>
+    </line>
+    <line ass="700" asx="0" asy="1654" character-width="999" dss="700" dsx="0" dsy="1779" fd0="14252" fd1="3289" fd2="-267" filter-width="4" id="n04-171-05" lbs="676" lbx="0" lby="1743" segmentation="ok" slant="78000" stroke-width="6062" threshold="148" text="saying?&amp;quot; John was furious. The little squirt!" ubs="750" ubx="0" uby="1713">
+      <word id="n04-171-05-00" tag="VBG" text="saying">
+        <cmp x="345" y="1694" width="252" height="81" />
+        <cmp x="492" y="1661" width="14" height="11" />
+      </word>
+      <word id="n04-171-05-01" tag="?" text="?">
+        <cmp x="645" y="1659" width="21" height="44" />
+        <cmp x="646" y="1715" width="15" height="14" />
+      </word>
+      <word id="n04-171-05-02" tag="**&apos;" text="&quot;">
+        <cmp x="695" y="1647" width="18" height="26" />
+      </word>
+      <word id="n04-171-05-03" sentence-start="yes" tag="NP" text="John">
+        <cmp x="788" y="1652" width="162" height="110" />
+      </word>
+      <word id="n04-171-05-04" tag="BEDZ" text="was">
+        <cmp x="1011" y="1691" width="110" height="42" />
+      </word>
+      <word id="n04-171-05-05" tag="JJ" text="furious">
+        <cmp x="1171" y="1670" width="143" height="96" />
+        <cmp x="1313" y="1673" width="8" height="7" />
+        <cmp x="1317" y="1699" width="110" height="38" />
+      </word>
+      <word id="n04-171-05-06" tag="." text=".">
+        <cmp x="1442" y="1723" width="10" height="9" />
+      </word>
+      <word id="n04-171-05-07" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="1525" y="1655" width="47" height="62" />
+        <cmp x="1536" y="1663" width="79" height="63" />
+      </word>
+      <word id="n04-171-05-08" tag="JJ" text="little">
+        <cmp x="1665" y="1654" width="168" height="72" />
+        <cmp x="1734" y="1647" width="15" height="10" />
+      </word>
+      <word id="n04-171-05-09" tag="NN" text="squirt">
+        <cmp x="1884" y="1658" width="225" height="90" />
+        <cmp x="2007" y="1643" width="9" height="8" />
+      </word>
+      <word id="n04-171-05-10" tag="!" text="!">
+        <cmp x="2137" y="1709" width="6" height="8" />
+        <cmp x="2141" y="1651" width="16" height="38" />
+      </word>
+      <upper-contour>
+        <point x="366" y="1594" />
+        <point x="2141" y="1594" />
+      </upper-contour>
+      <lower-contour>
+        <point x="366" y="1774" />
+        <point x="1743" y="1774" />
+      </lower-contour>
+    </line>
+    <line ass="-415" asx="0" asy="1807" character-width="999" dss="-415" dsx="0" dsy="1945" fd0="13565" fd1="2965" fd2="-415" filter-width="4" id="n04-171-06" lbs="165" lbx="0" lby="1918" segmentation="ok" slant="84000" stroke-width="6275" threshold="151" text="To go gassing to a newspaper man!" ubs="-1577" ubx="0" uby="1851">
+      <word id="n04-171-06-00" sentence-start="yes" tag="TO" text="To">
+        <cmp x="368" y="1834" width="63" height="66" />
+      </word>
+      <word id="n04-171-06-01" tag="VB" text="go">
+        <cmp x="484" y="1869" width="62" height="81" />
+      </word>
+      <word id="n04-171-06-02" tag="VBG" text="gassing">
+        <cmp x="609" y="1871" width="229" height="77" />
+        <cmp x="755" y="1854" width="9" height="11" />
+      </word>
+      <word id="n04-171-06-03" tag="IN" text="to">
+        <cmp x="896" y="1827" width="75" height="79" />
+      </word>
+      <word id="n04-171-06-04" tag="AT" text="a">
+        <cmp x="1027" y="1867" width="42" height="41" />
+      </word>
+      <word id="n04-171-06-05" tag="NN" text="newspaper">
+        <cmp x="1114" y="1871" width="365" height="81" />
+      </word>
+      <word id="n04-171-06-06" tag="NN" text="man">
+        <cmp x="1523" y="1885" width="153" height="28" />
+      </word>
+      <word id="n04-171-06-07" tag="!" text="!">
+        <cmp x="1722" y="1882" width="6" height="9" />
+        <cmp x="1726" y="1821" width="16" height="44" />
+      </word>
+      <upper-contour>
+        <point x="366" y="1774" />
+        <point x="1743" y="1774" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

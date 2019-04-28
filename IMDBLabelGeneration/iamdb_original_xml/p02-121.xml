@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="p02-121" last-modified="2002-07-17" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="604">
+  <machine-printed-part>
+    <machine-print-line text="Hell.&amp;quot; Doc answered for her. &amp;quot;Just Hell. Never able to trust him out of your sight" />
+    <machine-print-line text="and having to put on a brave face and pretend that you don&apos;t mind whenever he flirts" />
+    <machine-print-line text="with another woman. He will you know, always, and you aren&apos;t the type who is tough" />
+    <machine-print-line text="enough to change him.&amp;quot;" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-20" asx="0" asy="572" character-width="999" dss="-20" dsx="0" dsy="758" fd0="12622" fd1="2110" fd2="-1618" filter-width="3" id="p02-121-00" lbs="-8" lbx="0" lby="677" segmentation="ok" slant="90000" stroke-width="5636" threshold="182" text="Hell.&amp;quot; Doc answered for her. &amp;quot;Just Hell. Never able to" ubs="-42" ubx="0" uby="643">
+      <word id="p02-121-00-00" sentence-start="yes" tag="NN" text="Hell">
+        <cmp x="347" y="627" width="22" height="37" />
+        <cmp x="363" y="573" width="112" height="112" />
+      </word>
+      <word id="p02-121-00-01" tag="." text=".">
+        <cmp x="486" y="670" width="12" height="10" />
+      </word>
+      <word id="p02-121-00-02" tag="**&apos;" text="&quot;">
+        <cmp x="541" y="674" width="19" height="31" />
+      </word>
+      <word id="p02-121-00-03" sentence-start="yes" tag="NP" text="Doc">
+        <cmp x="567" y="596" width="149" height="91" />
+        <cmp x="603" y="634" width="9" height="41" />
+      </word>
+      <word id="p02-121-00-04" tag="VBD" text="answered">
+        <cmp x="756" y="632" width="70" height="45" />
+        <cmp x="829" y="637" width="22" height="34" />
+        <cmp x="857" y="638" width="42" height="34" />
+        <cmp x="898" y="636" width="56" height="41" />
+        <cmp x="944" y="599" width="57" height="97" />
+      </word>
+      <word id="p02-121-00-05" tag="IN" text="for">
+        <cmp x="1040" y="594" width="99" height="154" />
+      </word>
+      <word id="p02-121-00-06" tag="PP3O" text="her">
+        <cmp x="1167" y="604" width="83" height="77" />
+      </word>
+      <word id="p02-121-00-07" tag="." text=".">
+        <cmp x="1258" y="673" width="9" height="9" />
+      </word>
+      <word id="p02-121-00-08" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="1300" y="618" width="17" height="16" />
+        <cmp x="1303" y="613" width="3" height="5" />
+      </word>
+      <word id="p02-121-00-09" tag="RB" text="Just">
+        <cmp x="1385" y="596" width="71" height="164" />
+        <cmp x="1463" y="647" width="18" height="37" />
+        <cmp x="1489" y="604" width="15" height="90" />
+      </word>
+      <word id="p02-121-00-10" tag="NN" text="Hell">
+        <cmp x="1545" y="600" width="104" height="82" />
+      </word>
+      <word id="p02-121-00-11" tag="." text=".">
+        <cmp x="1659" y="670" width="10" height="11" />
+      </word>
+      <word id="p02-121-00-12" sentence-start="yes" tag="RB" text="Never">
+        <cmp x="1711" y="574" width="164" height="117" />
+      </word>
+      <word id="p02-121-00-13" tag="JJ" text="able">
+        <cmp x="1892" y="643" width="43" height="40" />
+        <cmp x="1935" y="596" width="75" height="93" />
+      </word>
+      <word id="p02-121-00-14" tag="TO" text="to">
+        <cmp x="2042" y="614" width="58" height="87" />
+      </word>
+      <lower-contour>
+        <point x="345" y="754" />
+        <point x="1398" y="760" />
+        <point x="2038" y="760" />
+      </lower-contour>
+    </line>
+    <line ass="-228" asx="0" asy="754" character-width="999" dss="-228" dsx="0" dsy="927" fd0="12779" fd1="2727" fd2="-637" filter-width="3" id="p02-121-01" lbs="-114" lbx="0" lby="859" segmentation="ok" slant="90000" stroke-width="5500" threshold="176" text="trust him out of your sight and having to put on" ubs="-454" ubx="0" uby="810">
+      <word id="p02-121-01-00" tag="VB" text="trust">
+        <cmp x="347" y="764" width="56" height="85" />
+        <cmp x="406" y="805" width="36" height="50" />
+        <cmp x="443" y="802" width="25" height="52" />
+        <cmp x="467" y="762" width="22" height="96" />
+        <cmp x="469" y="757" width="5" height="6" />
+      </word>
+      <word id="p02-121-01-01" tag="PP3O" text="him">
+        <cmp x="549" y="768" width="87" height="89" />
+        <cmp x="579" y="778" width="9" height="9" />
+      </word>
+      <word id="p02-121-01-02" tag="RP" text="out">
+        <cmp x="679" y="783" width="105" height="80" />
+      </word>
+      <word id="p02-121-01-03" tag="INO" text="of">
+        <cmp x="819" y="763" width="70" height="155" />
+      </word>
+      <word id="p02-121-01-04" tag="PP$" text="your">
+        <cmp x="935" y="820" width="148" height="112" />
+      </word>
+      <word id="p02-121-01-05" tag="NN" text="sight">
+        <cmp x="1126" y="820" width="38" height="42" />
+        <cmp x="1153" y="776" width="11" height="16" />
+        <cmp x="1167" y="769" width="91" height="138" />
+      </word>
+      <word id="p02-121-01-06" tag="CC" text="and">
+        <cmp x="1298" y="825" width="80" height="37" />
+        <cmp x="1379" y="781" width="38" height="79" />
+      </word>
+      <word id="p02-121-01-07" tag="HVG" text="having">
+        <cmp x="1465" y="783" width="32" height="80" />
+        <cmp x="1506" y="818" width="65" height="47" />
+        <cmp x="1579" y="825" width="55" height="36" />
+        <cmp x="1583" y="828" width="4" height="4" />
+        <cmp x="1598" y="786" width="8" height="8" />
+        <cmp x="1636" y="829" width="32" height="94" />
+      </word>
+      <word id="p02-121-01-08" tag="TO" text="to">
+        <cmp x="1701" y="792" width="59" height="76" />
+      </word>
+      <word id="p02-121-01-09" tag="VB" text="put">
+        <cmp x="1809" y="822" width="90" height="86" />
+        <cmp x="1898" y="839" width="3" height="3" />
+        <cmp x="1901" y="828" width="3" height="9" />
+        <cmp x="1905" y="775" width="23" height="76" />
+      </word>
+      <word id="p02-121-01-10" tag="RP" text="on">
+        <cmp x="1974" y="810" width="63" height="46" />
+      </word>
+      <upper-contour>
+        <point x="345" y="754" />
+        <point x="1398" y="760" />
+        <point x="2038" y="760" />
+      </upper-contour>
+      <lower-contour>
+        <point x="361" y="926" />
+        <point x="962" y="932" />
+        <point x="2014" y="932" />
+      </lower-contour>
+    </line>
+    <line ass="-307" asx="0" asy="925" character-width="999" dss="-307" dsx="0" dsy="1110" fd0="12872" fd1="2694" fd2="-1005" filter-width="3" id="p02-121-02" lbs="-323" lbx="0" lby="1031" segmentation="err" slant="90000" stroke-width="5599" threshold="176" text="a brave face and pretend that you don&apos;t mind" ubs="-276" ubx="0" uby="994">
+      <word id="p02-121-02-00" tag="AT" text="a">
+        <cmp x="363" y="986" width="31" height="47" />
+      </word>
+      <word id="p02-121-02-01" tag="JJ" text="brave">
+        <cmp x="442" y="1089" width="28" height="25" />
+        <cmp x="475" y="954" width="78" height="85" />
+        <cmp x="549" y="997" width="37" height="44" />
+        <cmp x="589" y="995" width="26" height="41" />
+        <cmp x="615" y="990" width="50" height="39" />
+      </word>
+      <word id="p02-121-02-02" tag="NN" text="face">
+        <cmp x="731" y="929" width="56" height="151" />
+        <cmp x="799" y="990" width="54" height="46" />
+      </word>
+      <word id="p02-121-02-03" tag="CC" text="and">
+        <cmp x="893" y="992" width="71" height="45" />
+        <cmp x="968" y="965" width="39" height="76" />
+      </word>
+      <word id="p02-121-02-04" tag="VB" text="pretend">
+        <cmp x="1057" y="1004" width="93" height="85" />
+        <cmp x="1150" y="947" width="72" height="101" />
+        <cmp x="1234" y="971" width="40" height="68" />
+      </word>
+      <word id="p02-121-02-05" tag="CS" text="that">
+        <cmp x="1314" y="954" width="68" height="95" />
+        <cmp x="1384" y="952" width="62" height="93" />
+      </word>
+      <word id="p02-121-02-06" tag="PP2" text="you">
+        <cmp x="1482" y="1009" width="43" height="103" />
+        <cmp x="1523" y="1009" width="77" height="38" />
+        <cmp x="1537" y="1006" width="11" height="9" />
+      </word>
+      <word id="p02-121-02-07" tag="DOX" text="don&apos;t">
+        <cmp x="1656" y="971" width="42" height="78" />
+        <cmp x="1699" y="1007" width="32" height="41" />
+        <cmp x="1734" y="1011" width="25" height="31" />
+        <cmp x="1774" y="963" width="18" height="68" />
+        <cmp x="1794" y="963" width="32" height="73" />
+      </word>
+      <word id="p02-121-02-08" tag="VB" text="mind">
+        <cmp x="1864" y="1000" width="92" height="44" />
+        <cmp x="1923" y="963" width="10" height="11" />
+        <cmp x="1968" y="958" width="45" height="80" />
+      </word>
+      <upper-contour>
+        <point x="361" y="926" />
+        <point x="962" y="932" />
+        <point x="2014" y="932" />
+      </upper-contour>
+      <lower-contour>
+        <point x="361" y="1113" />
+        <point x="2014" y="1113" />
+      </lower-contour>
+    </line>
+    <line ass="-402" asx="0" asy="1102" character-width="999" dss="-402" dsx="0" dsy="1260" fd0="13064" fd1="2067" fd2="-1847" filter-width="3" id="p02-121-03" lbs="-392" lbx="0" lby="1204" segmentation="err" slant="83000" stroke-width="5509" threshold="176" text="whenever he flirts with another woman. He will" ubs="-422" ubx="0" uby="1168">
+      <word id="p02-121-03-00" tag="WRB" text="whenever">
+        <cmp x="361" y="1151" width="34" height="57" />
+        <cmp x="396" y="1116" width="121" height="93" />
+        <cmp x="528" y="1171" width="101" height="42" />
+        <cmp x="628" y="1169" width="22" height="29" />
+      </word>
+      <word id="p02-121-03-01" tag="PP3A" text="he">
+        <cmp x="704" y="1135" width="97" height="78" />
+      </word>
+      <word id="p02-121-03-02" tag="VBZ" text="flirts">
+        <cmp x="846" y="1130" width="171" height="137" />
+        <cmp x="960" y="1140" width="8" height="9" />
+      </word>
+      <word id="p02-121-03-03" tag="IN" text="with">
+        <cmp x="1095" y="1175" width="79" height="46" />
+        <cmp x="1175" y="1171" width="24" height="44" />
+        <cmp x="1204" y="1122" width="13" height="15" />
+        <cmp x="1211" y="1128" width="51" height="91" />
+      </word>
+      <word id="p02-121-03-04" tag="DT" text="another">
+        <cmp x="1312" y="1180" width="77" height="36" />
+        <cmp x="1390" y="1129" width="140" height="89" />
+      </word>
+      <word id="p02-121-03-05" tag="NN" text="woman">
+        <cmp x="1555" y="1175" width="157" height="52" />
+        <cmp x="1713" y="1177" width="32" height="40" />
+        <cmp x="1749" y="1187" width="15" height="19" />
+      </word>
+      <word id="p02-121-03-06" tag="." text=".">
+        <cmp x="1766" y="1187" width="9" height="29" />
+      </word>
+      <word id="p02-121-03-07" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="1843" y="1116" width="91" height="108" />
+      </word>
+      <word id="p02-121-03-08" tag="MD" text="will">
+        <cmp x="1970" y="1123" width="150" height="110" />
+        <cmp x="2059" y="1152" width="7" height="7" />
+        <cmp x="2109" y="1173" width="4" height="3" />
+      </word>
+      <upper-contour>
+        <point x="361" y="1113" />
+        <point x="2014" y="1113" />
+      </upper-contour>
+      <lower-contour>
+        <point x="359" y="1267" />
+        <point x="1988" y="1267" />
+      </lower-contour>
+    </line>
+    <line ass="273" asx="0" asy="1324" character-width="999" dss="273" dsx="0" dsy="1479" fd0="13006" fd1="2579" fd2="-1426" filter-width="3" id="p02-121-04" lbs="237" lbx="0" lby="1416" segmentation="err" slant="90000" stroke-width="5366" threshold="176" text="you know, always, and you aren&apos;t the type" ubs="344" ubx="0" uby="1375">
+      <word id="p02-121-04-00" tag="PP2" text="you">
+        <cmp x="360" y="1349" width="67" height="105" />
+        <cmp x="425" y="1360" width="62" height="45" />
+        <cmp x="450" y="1471" width="10" height="3" />
+      </word>
+      <word id="p02-121-04-01" tag="VB" text="know">
+        <cmp x="582" y="1322" width="39" height="89" />
+        <cmp x="624" y="1361" width="34" height="46" />
+        <cmp x="659" y="1362" width="86" height="51" />
+      </word>
+      <word id="p02-121-04-02" tag="," text=",">
+        <cmp x="774" y="1404" width="6" height="35" />
+      </word>
+      <word id="p02-121-04-03" tag="RB" text="always">
+        <cmp x="799" y="1322" width="137" height="97" />
+        <cmp x="929" y="1368" width="116" height="105" />
+      </word>
+      <word id="p02-121-04-04" tag="," text=",">
+        <cmp x="1067" y="1412" width="11" height="38" />
+      </word>
+      <word id="p02-121-04-05" tag="CC" text="and">
+        <cmp x="1117" y="1373" width="76" height="47" />
+        <cmp x="1200" y="1336" width="42" height="78" />
+      </word>
+      <word id="p02-121-04-06" tag="PP2" text="you">
+        <cmp x="1294" y="1371" width="41" height="102" />
+        <cmp x="1338" y="1368" width="80" height="47" />
+      </word>
+      <word id="p02-121-04-07" tag="BERX" text="aren&apos;t">
+        <cmp x="1463" y="1367" width="137" height="46" />
+        <cmp x="1615" y="1326" width="15" height="50" />
+        <cmp x="1631" y="1322" width="23" height="84" />
+      </word>
+      <word id="p02-121-04-08" tag="ATI" text="the">
+        <cmp x="1694" y="1326" width="124" height="91" />
+      </word>
+      <word id="p02-121-04-09" tag="NN" text="type">
+        <cmp x="1851" y="1342" width="136" height="126" />
+        <cmp x="1874" y="1336" width="6" height="5" />
+      </word>
+      <upper-contour>
+        <point x="359" y="1267" />
+        <point x="1988" y="1267" />
+      </upper-contour>
+      <lower-contour>
+        <point x="358" y="1473" />
+        <point x="1898" y="1473" />
+      </lower-contour>
+    </line>
+    <line ass="-113" asx="0" asy="1475" character-width="999" dss="-113" dsx="0" dsy="1647" fd0="12963" fd1="2484" fd2="-879" filter-width="3" id="p02-121-05" lbs="238" lbx="0" lby="1593" segmentation="err" slant="90000" stroke-width="5317" threshold="176" text="who is tough enough to change him.&amp;quot;" ubs="-816" ubx="0" uby="1539">
+      <word id="p02-121-05-00" tag="WP" text="who">
+        <cmp x="360" y="1476" width="118" height="118" />
+        <cmp x="483" y="1551" width="26" height="40" />
+      </word>
+      <word id="p02-121-05-01" tag="BEZ" text="is">
+        <cmp x="582" y="1545" width="53" height="56" />
+        <cmp x="586" y="1512" width="10" height="8" />
+      </word>
+      <word id="p02-121-05-02" tag="JJ" text="tough">
+        <cmp x="723" y="1498" width="68" height="98" />
+        <cmp x="792" y="1552" width="49" height="38" />
+        <cmp x="844" y="1498" width="76" height="152" />
+      </word>
+      <word id="p02-121-05-03" tag="QLP" text="enough">
+        <cmp x="968" y="1548" width="71" height="51" />
+        <cmp x="1048" y="1551" width="73" height="41" />
+        <cmp x="1128" y="1499" width="72" height="142" />
+      </word>
+      <word id="p02-121-05-04" tag="TO" text="to">
+        <cmp x="1278" y="1510" width="74" height="90" />
+      </word>
+      <word id="p02-121-05-05" tag="VB" text="change">
+        <cmp x="1391" y="1495" width="158" height="110" />
+        <cmp x="1528" y="1560" width="99" height="92" />
+      </word>
+      <word id="p02-121-05-06" tag="PP3O" text="him">
+        <cmp x="1680" y="1501" width="115" height="85" />
+        <cmp x="1743" y="1510" width="8" height="10" />
+      </word>
+      <word id="p02-121-05-07" tag="." text=".">
+        <cmp x="1829" y="1581" width="3" height="5" />
+      </word>
+      <word id="p02-121-05-08" tag="**&apos;" text="&quot;">
+        <cmp x="1877" y="1508" width="20" height="33" />
+        <cmp x="1886" y="1505" width="4" height="5" />
+      </word>
+      <upper-contour>
+        <point x="358" y="1473" />
+        <point x="1898" y="1473" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

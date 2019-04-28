@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="l07-187" last-modified="2002-07-17" skew="30" status="final" version="3.0_beta" width="2479" writer-id="498">
+  <machine-printed-part>
+    <machine-print-line text="From this side, Rivermead was less forbidding; it stood a long way back from the water" />
+    <machine-print-line text="at the end of a velvety lawn flanked with flowering trees and shrubs. To the right of" />
+    <machine-print-line text="the lawn, close to the water&apos;s edge, stood an ancient boathouse shrouded in wistaria;" />
+    <machine-print-line text="it was built across a narrow backwater and there was a delicate iron staircase climbing" />
+    <machine-print-line text="the outer wall to a room above." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-284" asx="0" asy="662" character-width="999" dss="-284" dsx="0" dsy="767" fd0="13623" fd1="2577" fd2="-1547" filter-width="4" id="l07-187-00" lbs="-427" lbx="0" lby="723" segmentation="err" slant="112000" stroke-width="5921" threshold="182" text="From this side, Rivermead was less forbidding;" ubs="1" ubx="0" uby="701">
+      <word id="l07-187-00-00" sentence-start="yes" tag="IN" text="From">
+        <cmp x="370" y="689" width="45" height="56" />
+        <cmp x="418" y="708" width="78" height="35" />
+        <cmp x="490" y="702" width="96" height="37" />
+      </word>
+      <word id="l07-187-00-01" tag="DT" text="this">
+        <cmp x="603" y="685" width="109" height="53" />
+        <cmp x="676" y="667" width="7" height="7" />
+        <cmp x="709" y="695" width="51" height="38" />
+      </word>
+      <word id="l07-187-00-02" tag="NN" text="side">
+        <cmp x="786" y="700" width="72" height="38" />
+        <cmp x="829" y="677" width="4" height="5" />
+        <cmp x="852" y="684" width="56" height="46" />
+        <cmp x="903" y="694" width="57" height="38" />
+        <cmp x="964" y="723" width="7" height="22" />
+      </word>
+      <word id="l07-187-00-03" tag="," text=",">
+        <cmp x="994" y="676" width="42" height="48" />
+      </word>
+      <word id="l07-187-00-04" tag="NP" text="Rivermead">
+        <cmp x="1029" y="668" width="4" height="10" />
+        <cmp x="1034" y="692" width="19" height="34" />
+        <cmp x="1049" y="690" width="35" height="33" />
+        <cmp x="1085" y="688" width="152" height="39" />
+        <cmp x="1238" y="669" width="143" height="58" />
+      </word>
+      <word id="l07-187-00-05" tag="BEDZ" text="was">
+        <cmp x="1425" y="692" width="65" height="36" />
+        <cmp x="1493" y="695" width="91" height="39" />
+      </word>
+      <word id="l07-187-00-06" tag="QL" text="less">
+        <cmp x="1621" y="688" width="131" height="48" />
+        <cmp x="1742" y="696" width="57" height="41" />
+      </word>
+      <word id="l07-187-00-07" tag="JJ" text="forbidding">
+        <cmp x="1835" y="678" width="72" height="74" />
+        <cmp x="1910" y="676" width="68" height="59" />
+        <cmp x="1972" y="678" width="5" height="4" />
+        <cmp x="1979" y="697" width="20" height="40" />
+        <cmp x="1999" y="689" width="118" height="51" />
+        <cmp x="2083" y="673" width="5" height="7" />
+        <cmp x="2116" y="705" width="37" height="38" />
+        <cmp x="2155" y="711" width="58" height="68" />
+      </word>
+      <word id="l07-187-00-08" tag=";" text=";">
+        <cmp x="2217" y="716" width="4" height="5" />
+        <cmp x="2221" y="744" width="10" height="28" />
+      </word>
+      <lower-contour>
+        <point x="391" y="752" />
+        <point x="2095" y="752" />
+      </lower-contour>
+    </line>
+    <line ass="297" asx="0" asy="870" character-width="999" dss="297" dsx="0" dsy="961" fd0="13263" fd1="2484" fd2="-1124" filter-width="4" id="l07-187-01" lbs="266" lbx="0" lby="929" segmentation="ok" slant="111000" stroke-width="5971" threshold="180" text="it stood a long way back from the water" ubs="360" ubx="0" uby="897">
+      <word id="l07-187-01-00" tag="PP3" text="it">
+        <cmp x="393" y="891" width="12" height="32" />
+        <cmp x="413" y="870" width="27" height="54" />
+      </word>
+      <word id="l07-187-01-01" tag="VBD" text="stood">
+        <cmp x="487" y="873" width="116" height="57" />
+        <cmp x="606" y="901" width="52" height="31" />
+        <cmp x="659" y="881" width="50" height="49" />
+      </word>
+      <word id="l07-187-01-02" tag="AT" text="a">
+        <cmp x="760" y="898" width="51" height="29" />
+      </word>
+      <word id="l07-187-01-03" tag="JJ" text="long">
+        <cmp x="846" y="880" width="76" height="48" />
+        <cmp x="919" y="888" width="42" height="37" />
+        <cmp x="963" y="891" width="61" height="66" />
+      </word>
+      <word id="l07-187-01-04" tag="NN" text="way">
+        <cmp x="1048" y="888" width="62" height="41" />
+        <cmp x="1111" y="866" width="145" height="60" />
+      </word>
+      <word id="l07-187-01-05" tag="RP" text="back">
+        <cmp x="1297" y="863" width="181" height="57" />
+      </word>
+      <word id="l07-187-01-06" tag="IN" text="from">
+        <cmp x="1506" y="865" width="97" height="71" />
+        <cmp x="1605" y="887" width="72" height="39" />
+      </word>
+      <word id="l07-187-01-07" tag="ATI" text="the">
+        <cmp x="1705" y="865" width="125" height="58" />
+      </word>
+      <word id="l07-187-01-08" tag="NN" text="water">
+        <cmp x="1860" y="864" width="154" height="63" />
+        <cmp x="2012" y="873" width="82" height="43" />
+      </word>
+      <upper-contour>
+        <point x="391" y="752" />
+        <point x="2095" y="752" />
+      </upper-contour>
+      <lower-contour>
+        <point x="391" y="957" />
+        <point x="2095" y="957" />
+      </lower-contour>
+    </line>
+    <line ass="535" asx="0" asy="1055" character-width="999" dss="535" dsx="0" dsy="1145" fd0="13343" fd1="2778" fd2="-1233" filter-width="4" id="l07-187-02" lbs="556" lbx="0" lby="1120" segmentation="ok" slant="108999" stroke-width="5926" threshold="180" text="at the end of a velvety lawn flanked with" ubs="493" ubx="0" uby="1083">
+      <word id="l07-187-02-00" tag="IN" text="at">
+        <cmp x="388" y="1058" width="75" height="55" />
+      </word>
+      <word id="l07-187-02-01" tag="ATI" text="the">
+        <cmp x="513" y="1057" width="33" height="58" />
+        <cmp x="541" y="1055" width="113" height="55" />
+      </word>
+      <word id="l07-187-02-02" tag="NN" text="end">
+        <cmp x="688" y="1058" width="136" height="55" />
+      </word>
+      <word id="l07-187-02-03" tag="INO" text="of">
+        <cmp x="862" y="1076" width="40" height="38" />
+        <cmp x="908" y="1054" width="29" height="72" />
+      </word>
+      <word id="l07-187-02-04" tag="AT" text="a">
+        <cmp x="981" y="1081" width="55" height="32" />
+      </word>
+      <word id="l07-187-02-05" tag="JJ" text="velvety">
+        <cmp x="1078" y="1076" width="35" height="43" />
+        <cmp x="1120" y="1056" width="56" height="59" />
+        <cmp x="1181" y="1082" width="33" height="36" />
+        <cmp x="1220" y="1052" width="67" height="63" />
+        <cmp x="1293" y="1076" width="36" height="57" />
+      </word>
+      <word id="l07-187-02-06" tag="NN" text="lawn">
+        <cmp x="1387" y="1050" width="89" height="59" />
+        <cmp x="1468" y="1067" width="74" height="45" />
+        <cmp x="1544" y="1067" width="49" height="41" />
+      </word>
+      <word id="l07-187-02-07" tag="VBN" text="flanked">
+        <cmp x="1623" y="1040" width="37" height="77" />
+        <cmp x="1663" y="1045" width="136" height="58" />
+        <cmp x="1793" y="1041" width="117" height="60" />
+        <cmp x="1894" y="1045" width="36" height="53" />
+      </word>
+      <word id="l07-187-02-08" tag="IN" text="with">
+        <cmp x="1976" y="1067" width="58" height="35" />
+        <cmp x="2039" y="1060" width="19" height="40" />
+        <cmp x="2052" y="1038" width="74" height="60" />
+      </word>
+      <upper-contour>
+        <point x="391" y="957" />
+        <point x="2095" y="957" />
+      </upper-contour>
+      <lower-contour>
+        <point x="386" y="1133" />
+        <point x="2127" y="1133" />
+      </lower-contour>
+    </line>
+    <line ass="-459" asx="0" asy="1200" character-width="999" dss="-459" dsx="0" dsy="1303" fd0="13391" fd1="2632" fd2="-1143" filter-width="4" id="l07-187-03" lbs="-473" lbx="0" lby="1273" segmentation="ok" slant="111000" stroke-width="5970" threshold="180" text="flowering trees and shrubs. To the right of" ubs="-433" ubx="0" uby="1244">
+      <word id="l07-187-03-00" tag="JJ" text="flowering">
+        <cmp x="386" y="1220" width="37" height="75" />
+        <cmp x="421" y="1225" width="73" height="54" />
+        <cmp x="492" y="1239" width="66" height="40" />
+        <cmp x="560" y="1240" width="97" height="36" />
+        <cmp x="666" y="1243" width="47" height="37" />
+        <cmp x="710" y="1248" width="58" height="58" />
+      </word>
+      <word id="l07-187-03-01" tag="NNS" text="trees">
+        <cmp x="806" y="1229" width="74" height="64" />
+        <cmp x="883" y="1249" width="83" height="38" />
+        <cmp x="961" y="1247" width="57" height="42" />
+        <cmp x="992" y="1256" width="6" height="6" />
+      </word>
+      <word id="l07-187-03-02" tag="CC" text="and">
+        <cmp x="1061" y="1244" width="94" height="39" />
+        <cmp x="1153" y="1231" width="57" height="54" />
+      </word>
+      <word id="l07-187-03-03" tag="NNS" text="shrubs">
+        <cmp x="1256" y="1247" width="56" height="41" />
+        <cmp x="1298" y="1227" width="53" height="60" />
+        <cmp x="1347" y="1243" width="31" height="41" />
+        <cmp x="1383" y="1216" width="90" height="69" />
+        <cmp x="1468" y="1240" width="56" height="45" />
+      </word>
+      <word id="l07-187-03-04" tag="." text=".">
+        <cmp x="1536" y="1275" width="5" height="7" />
+      </word>
+      <word id="l07-187-03-05" sentence-start="yes" tag="IN" text="To">
+        <cmp x="1571" y="1228" width="39" height="7" />
+        <cmp x="1586" y="1235" width="22" height="48" />
+        <cmp x="1609" y="1253" width="42" height="33" />
+      </word>
+      <word id="l07-187-03-06" tag="ATI" text="the">
+        <cmp x="1683" y="1224" width="144" height="63" />
+      </word>
+      <word id="l07-187-03-07" tag="NN" text="right">
+        <cmp x="1859" y="1246" width="58" height="43" />
+        <cmp x="1882" y="1219" width="8" height="10" />
+        <cmp x="1914" y="1235" width="140" height="85" />
+      </word>
+      <word id="l07-187-03-08" tag="INO" text="of">
+        <cmp x="2088" y="1252" width="39" height="34" />
+        <cmp x="2137" y="1218" width="29" height="90" />
+      </word>
+      <upper-contour>
+        <point x="386" y="1133" />
+        <point x="2127" y="1133" />
+      </upper-contour>
+      <lower-contour>
+        <point x="384" y="1320" />
+        <point x="2167" y="1320" />
+      </lower-contour>
+    </line>
+    <line ass="-4" asx="0" asy="1389" character-width="999" dss="-4" dsx="0" dsy="1472" fd0="13082" fd1="2303" fd2="-1289" filter-width="4" id="l07-187-04" lbs="3" lbx="0" lby="1461" segmentation="err" slant="108999" stroke-width="5896" threshold="180" text="the lawn, close to the water&apos;s edge, stood an" ubs="-21" ubx="0" uby="1427">
+      <word id="l07-187-04-00" tag="ATI" text="the">
+        <cmp x="385" y="1407" width="127" height="59" />
+      </word>
+      <word id="l07-187-04-01" tag="NN" text="lawn">
+        <cmp x="552" y="1408" width="152" height="54" />
+        <cmp x="712" y="1420" width="48" height="39" />
+      </word>
+      <word id="l07-187-04-02" tag="," text=",">
+        <cmp x="773" y="1448" width="8" height="23" />
+      </word>
+      <word id="l07-187-04-03" tag="RB" text="close">
+        <cmp x="816" y="1432" width="59" height="29" />
+        <cmp x="862" y="1414" width="84" height="51" />
+        <cmp x="943" y="1427" width="95" height="39" />
+      </word>
+      <word id="l07-187-04-04" tag="IN" text="to">
+        <cmp x="1058" y="1409" width="36" height="58" />
+        <cmp x="1093" y="1430" width="38" height="33" />
+      </word>
+      <word id="l07-187-04-05" tag="ATI" text="the">
+        <cmp x="1161" y="1400" width="114" height="65" />
+      </word>
+      <word id="l07-187-04-06" tag="NN$" text="water&apos;s">
+        <cmp x="1323" y="1419" width="63" height="44" />
+        <cmp x="1389" y="1396" width="200" height="59" />
+        <cmp x="1430" y="1417" width="4" height="4" />
+        <cmp x="1537" y="1391" width="6" height="13" />
+      </word>
+      <word id="l07-187-04-07" tag="NN" text="edge">
+        <cmp x="1633" y="1402" width="176" height="72" />
+      </word>
+      <word id="l07-187-04-08" tag="," text=",">
+        <cmp x="1824" y="1443" width="11" height="20" />
+      </word>
+      <word id="l07-187-04-09" tag="VBD" text="stood">
+        <cmp x="1854" y="1404" width="75" height="64" />
+        <cmp x="1930" y="1424" width="84" height="43" />
+        <cmp x="2019" y="1419" width="56" height="51" />
+      </word>
+      <word id="l07-187-04-10" tag="AT" text="an">
+        <cmp x="2102" y="1418" width="96" height="44" />
+      </word>
+      <upper-contour>
+        <point x="384" y="1320" />
+        <point x="2167" y="1320" />
+      </upper-contour>
+      <lower-contour>
+        <point x="386" y="1474" />
+        <point x="2136" y="1474" />
+      </lower-contour>
+    </line>
+    <line ass="-28" asx="0" asy="1568" character-width="999" dss="-28" dsx="0" dsy="1654" fd0="13623" fd1="2744" fd2="-1151" filter-width="4" id="l07-187-05" lbs="5" lbx="0" lby="1639" segmentation="ok" slant="108000" stroke-width="5934" threshold="176" text="ancient boathouse shrouded in wistaria; it" ubs="-95" ubx="0" uby="1607">
+      <word id="l07-187-05-00" tag="JJ" text="ancient">
+        <cmp x="388" y="1599" width="167" height="41" />
+        <cmp x="525" y="1571" width="10" height="7" />
+        <cmp x="564" y="1585" width="130" height="55" />
+      </word>
+      <word id="l07-187-05-01" tag="NN" text="boathouse">
+        <cmp x="748" y="1588" width="175" height="59" />
+        <cmp x="922" y="1592" width="48" height="53" />
+        <cmp x="968" y="1611" width="37" height="32" />
+        <cmp x="1003" y="1606" width="60" height="32" />
+        <cmp x="1050" y="1604" width="82" height="43" />
+      </word>
+      <word id="l07-187-05-02" tag="VBN" text="shrouded">
+        <cmp x="1171" y="1595" width="90" height="52" />
+        <cmp x="1261" y="1608" width="75" height="35" />
+        <cmp x="1337" y="1597" width="104" height="46" />
+        <cmp x="1432" y="1594" width="102" height="49" />
+      </word>
+      <word id="l07-187-05-03" tag="IN" text="in">
+        <cmp x="1560" y="1584" width="8" height="10" />
+        <cmp x="1564" y="1606" width="13" height="34" />
+        <cmp x="1584" y="1609" width="53" height="35" />
+      </word>
+      <word id="l07-187-05-04" tag="NN" text="wistaria">
+        <cmp x="1682" y="1597" width="60" height="39" />
+        <cmp x="1727" y="1606" width="15" height="18" />
+        <cmp x="1735" y="1580" width="10" height="6" />
+        <cmp x="1744" y="1600" width="20" height="40" />
+        <cmp x="1760" y="1588" width="80" height="54" />
+        <cmp x="1849" y="1601" width="111" height="46" />
+        <cmp x="1931" y="1585" width="5" height="5" />
+        <cmp x="1960" y="1608" width="54" height="36" />
+      </word>
+      <word id="l07-187-05-05" tag=";" text=";">
+        <cmp x="2018" y="1619" width="4" height="4" />
+        <cmp x="2024" y="1637" width="7" height="19" />
+      </word>
+      <word id="l07-187-05-06" tag="PP3" text="it">
+        <cmp x="2075" y="1580" width="9" height="5" />
+        <cmp x="2075" y="1601" width="12" height="35" />
+        <cmp x="2096" y="1571" width="39" height="68" />
+      </word>
+      <upper-contour>
+        <point x="386" y="1474" />
+        <point x="2136" y="1474" />
+      </upper-contour>
+      <lower-contour>
+        <point x="389" y="1656" />
+        <point x="2107" y="1656" />
+      </lower-contour>
+    </line>
+    <line ass="103" asx="0" asy="1754" character-width="999" dss="103" dsx="0" dsy="1827" fd0="13460" fd1="2575" fd2="-979" filter-width="4" id="l07-187-06" lbs="76" lbx="0" lby="1816" segmentation="ok" slant="108999" stroke-width="5970" threshold="180" text="was built across a narrow backwater" ubs="157" ubx="0" uby="1785">
+      <word id="l07-187-06-00" tag="BEDZ" text="was">
+        <cmp x="391" y="1778" width="169" height="39" />
+      </word>
+      <word id="l07-187-06-01" tag="VBN" text="built">
+        <cmp x="606" y="1765" width="49" height="52" />
+        <cmp x="665" y="1783" width="86" height="33" />
+        <cmp x="721" y="1754" width="14" height="5" />
+        <cmp x="770" y="1770" width="92" height="51" />
+      </word>
+      <word id="l07-187-06-02" tag="IN" text="across">
+        <cmp x="928" y="1779" width="124" height="31" />
+        <cmp x="1055" y="1778" width="44" height="36" />
+        <cmp x="1097" y="1777" width="93" height="44" />
+      </word>
+      <word id="l07-187-06-03" tag="AT" text="a">
+        <cmp x="1232" y="1782" width="57" height="34" />
+      </word>
+      <word id="l07-187-06-04" tag="JJ" text="narrow">
+        <cmp x="1329" y="1777" width="52" height="38" />
+        <cmp x="1383" y="1781" width="86" height="37" />
+        <cmp x="1472" y="1776" width="79" height="41" />
+        <cmp x="1550" y="1776" width="88" height="51" />
+      </word>
+      <word id="l07-187-06-05" tag="NN" text="backwater">
+        <cmp x="1680" y="1757" width="106" height="57" />
+        <cmp x="1777" y="1762" width="90" height="52" />
+        <cmp x="1867" y="1779" width="75" height="41" />
+        <cmp x="1943" y="1755" width="163" height="61" />
+      </word>
+      <upper-contour>
+        <point x="389" y="1656" />
+        <point x="2107" y="1656" />
+      </upper-contour>
+      <lower-contour>
+        <point x="389" y="1827" />
+        <point x="2107" y="1827" />
+      </lower-contour>
+    </line>
+    <line ass="-165" asx="0" asy="1920" character-width="999" dss="-165" dsx="0" dsy="1999" fd0="13280" fd1="2363" fd2="-1223" filter-width="4" id="l07-187-07" lbs="-174" lbx="0" lby="1993" segmentation="ok" slant="111000" stroke-width="6007" threshold="180" text="and there was a delicate iron staircase" ubs="-145" ubx="0" uby="1962">
+      <word id="l07-187-07-00" tag="CC" text="and">
+        <cmp x="391" y="1968" width="67" height="32" />
+        <cmp x="446" y="1965" width="41" height="33" />
+        <cmp x="485" y="1952" width="52" height="44" />
+      </word>
+      <word id="l07-187-07-01" tag="EX" text="there">
+        <cmp x="605" y="1941" width="224" height="61" />
+      </word>
+      <word id="l07-187-07-02" tag="BEDZ" text="was">
+        <cmp x="887" y="1955" width="135" height="38" />
+        <cmp x="1011" y="1952" width="56" height="44" />
+      </word>
+      <word id="l07-187-07-03" tag="AT" text="a">
+        <cmp x="1120" y="1962" width="61" height="37" />
+      </word>
+      <word id="l07-187-07-04" tag="JJ" text="delicate">
+        <cmp x="1242" y="1945" width="148" height="55" />
+        <cmp x="1395" y="1945" width="166" height="56" />
+        <cmp x="1428" y="1968" width="10" height="10" />
+      </word>
+      <word id="l07-187-07-05" tag="NN" text="iron">
+        <cmp x="1585" y="1942" width="11" height="11" />
+        <cmp x="1594" y="1962" width="17" height="37" />
+        <cmp x="1612" y="1962" width="27" height="37" />
+        <cmp x="1638" y="1965" width="44" height="36" />
+        <cmp x="1683" y="1961" width="47" height="41" />
+      </word>
+      <word id="l07-187-07-06" tag="NN" text="staircase">
+        <cmp x="1775" y="1941" width="63" height="62" />
+        <cmp x="1835" y="1960" width="83" height="40" />
+        <cmp x="1887" y="1927" width="9" height="10" />
+        <cmp x="1917" y="1959" width="129" height="43" />
+        <cmp x="2037" y="1961" width="81" height="45" />
+      </word>
+      <upper-contour>
+        <point x="389" y="1827" />
+        <point x="2107" y="1827" />
+      </upper-contour>
+      <lower-contour>
+        <point x="398" y="2006" />
+        <point x="2119" y="2006" />
+      </lower-contour>
+    </line>
+    <line ass="-62" asx="0" asy="2106" character-width="999" dss="-62" dsx="0" dsy="2209" fd0="13591" fd1="2910" fd2="-906" filter-width="4" id="l07-187-08" lbs="2" lbx="0" lby="2172" segmentation="ok" slant="108999" stroke-width="5937" threshold="176" text="climbing the outer wall to a room above." ubs="-191" ubx="0" uby="2135">
+      <word id="l07-187-08-00" tag="VBG" text="climbing">
+        <cmp x="400" y="2140" width="59" height="35" />
+        <cmp x="437" y="2144" width="8" height="13" />
+        <cmp x="459" y="2125" width="72" height="53" />
+        <cmp x="498" y="2110" width="8" height="6" />
+        <cmp x="531" y="2139" width="90" height="40" />
+        <cmp x="612" y="2117" width="79" height="59" />
+        <cmp x="664" y="2114" width="4" height="4" />
+        <cmp x="694" y="2136" width="43" height="35" />
+        <cmp x="749" y="2140" width="63" height="71" />
+      </word>
+      <word id="l07-187-08-01" tag="ATI" text="the">
+        <cmp x="866" y="2112" width="136" height="65" />
+      </word>
+      <word id="l07-187-08-02" tag="JJB" text="outer">
+        <cmp x="1034" y="2136" width="41" height="37" />
+        <cmp x="1076" y="2138" width="6" height="5" />
+        <cmp x="1078" y="2145" width="50" height="30" />
+        <cmp x="1132" y="2117" width="104" height="62" />
+      </word>
+      <word id="l07-187-08-03" tag="NN" text="wall">
+        <cmp x="1295" y="2135" width="120" height="38" />
+        <cmp x="1412" y="2109" width="25" height="57" />
+        <cmp x="1433" y="2110" width="24" height="61" />
+      </word>
+      <word id="l07-187-08-04" tag="IN" text="to">
+        <cmp x="1514" y="2111" width="69" height="62" />
+      </word>
+      <word id="l07-187-08-05" tag="AT" text="a">
+        <cmp x="1629" y="2133" width="54" height="38" />
+      </word>
+      <word id="l07-187-08-06" tag="NN" text="room">
+        <cmp x="1713" y="2132" width="30" height="39" />
+        <cmp x="1746" y="2134" width="87" height="40" />
+        <cmp x="1837" y="2137" width="79" height="45" />
+      </word>
+      <word id="l07-187-08-07" tag="RI" text="above">
+        <cmp x="1939" y="2124" width="134" height="55" />
+        <cmp x="2071" y="2136" width="34" height="39" />
+        <cmp x="2119" y="2136" width="61" height="43" />
+      </word>
+      <word id="l07-187-08-08" tag="." text=".">
+        <cmp x="2182" y="2170" width="9" height="7" />
+      </word>
+      <upper-contour>
+        <point x="398" y="2006" />
+        <point x="2119" y="2006" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

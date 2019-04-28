@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-04-10" height="3542" id="f07-000b" last-modified="2002-07-17" skew="254" status="final" version="3.0_beta" width="2479" writer-id="286">
+  <machine-printed-part>
+    <machine-print-line text="SOME years ago a contemporary philosopher told us that there was nothing an En-" />
+    <machine-print-line text="glishman would not do; nothing an American would not say; nothing an Italian would" />
+    <machine-print-line text="not sing; no music to which the Frenchman would not dance; nothing the German" />
+    <machine-print-line text="would not covet; and nothing the Chinese would not eat." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-44" asx="0" asy="706" character-width="999" dss="-44" dsx="0" dsy="871" fd0="13484" fd1="2298" fd2="-991" filter-width="4" id="f07-000b-00" lbs="27" lbx="0" lby="798" segmentation="ok" slant="66999" stroke-width="6789" threshold="149" text="SOME years ago a contemporary philosopher" ubs="-188" ubx="0" uby="761">
+      <word id="f07-000b-00-00" sentence-start="yes" tag="DTI" text="SOME">
+        <cmp x="344" y="707" width="76" height="100" />
+        <cmp x="412" y="721" width="13" height="15" />
+        <cmp x="414" y="761" width="34" height="40" />
+        <cmp x="463" y="761" width="87" height="32" />
+      </word>
+      <word id="f07-000b-00-01" tag="NNS" text="years">
+        <cmp x="587" y="754" width="101" height="118" />
+        <cmp x="699" y="767" width="34" height="41" />
+        <cmp x="734" y="761" width="60" height="44" />
+      </word>
+      <word id="f07-000b-00-02" tag="RB" text="ago">
+        <cmp x="856" y="755" width="45" height="46" />
+        <cmp x="899" y="760" width="54" height="100" />
+        <cmp x="964" y="769" width="32" height="35" />
+      </word>
+      <word id="f07-000b-00-03" tag="AT" text="a">
+        <cmp x="1051" y="758" width="34" height="47" />
+      </word>
+      <word id="f07-000b-00-04" tag="JJ" text="contemporary">
+        <cmp x="1167" y="762" width="34" height="36" />
+        <cmp x="1203" y="765" width="38" height="34" />
+        <cmp x="1255" y="769" width="31" height="29" />
+        <cmp x="1300" y="730" width="61" height="65" />
+        <cmp x="1371" y="764" width="52" height="24" />
+        <cmp x="1418" y="769" width="54" height="56" />
+        <cmp x="1480" y="766" width="34" height="34" />
+        <cmp x="1529" y="763" width="28" height="31" />
+        <cmp x="1570" y="755" width="30" height="39" />
+        <cmp x="1619" y="761" width="54" height="82" />
+      </word>
+      <word id="f07-000b-00-05" tag="NN" text="philosopher">
+        <cmp x="1724" y="765" width="49" height="74" />
+        <cmp x="1784" y="719" width="61" height="80" />
+        <cmp x="1856" y="737" width="9" height="10" />
+        <cmp x="1863" y="725" width="62" height="75" />
+        <cmp x="1902" y="758" width="27" height="32" />
+        <cmp x="1945" y="756" width="25" height="38" />
+        <cmp x="1982" y="765" width="23" height="25" />
+        <cmp x="1994" y="760" width="47" height="60" />
+        <cmp x="2054" y="715" width="127" height="81" />
+      </word>
+      <lower-contour>
+        <point x="354" y="871" />
+        <point x="2161" y="871" />
+      </lower-contour>
+    </line>
+    <line ass="454" asx="0" asy="896" character-width="999" dss="454" dsx="0" dsy="1072" fd0="13514" fd1="2643" fd2="-315" filter-width="4" id="f07-000b-01" lbs="481" lbx="0" lby="983" segmentation="ok" slant="62000" stroke-width="6810" threshold="147" text="told us that there was nothing an Englishman" ubs="401" ubx="0" uby="949">
+      <word id="f07-000b-01-00" tag="VBD" text="told">
+        <cmp x="356" y="896" width="111" height="84" />
+        <cmp x="454" y="909" width="58" height="64" />
+      </word>
+      <word id="f07-000b-01-01" tag="PP1OS" text="us">
+        <cmp x="533" y="953" width="43" height="33" />
+        <cmp x="581" y="946" width="26" height="40" />
+      </word>
+      <word id="f07-000b-01-02" tag="CS" text="that">
+        <cmp x="666" y="901" width="98" height="88" />
+        <cmp x="755" y="948" width="36" height="33" />
+        <cmp x="801" y="920" width="33" height="62" />
+      </word>
+      <word id="f07-000b-01-03" tag="EX" text="there">
+        <cmp x="882" y="905" width="160" height="85" />
+      </word>
+      <word id="f07-000b-01-04" tag="BEDZ" text="was">
+        <cmp x="1097" y="950" width="63" height="33" />
+        <cmp x="1157" y="942" width="28" height="40" />
+        <cmp x="1196" y="935" width="33" height="46" />
+      </word>
+      <word id="f07-000b-01-05" tag="PN" text="nothing">
+        <cmp x="1294" y="936" width="46" height="49" />
+        <cmp x="1350" y="945" width="36" height="35" />
+        <cmp x="1401" y="904" width="67" height="72" />
+        <cmp x="1470" y="949" width="16" height="23" />
+        <cmp x="1497" y="927" width="6" height="11" />
+        <cmp x="1506" y="951" width="30" height="21" />
+        <cmp x="1535" y="945" width="48" height="88" />
+      </word>
+      <word id="f07-000b-01-06" tag="AT" text="an">
+        <cmp x="1631" y="932" width="84" height="50" />
+      </word>
+      <word id="f07-000b-01-07" tag="NNP" text="Englishman">
+        <cmp x="1779" y="882" width="70" height="91" />
+        <cmp x="1805" y="939" width="33" height="34" />
+        <cmp x="1824" y="937" width="62" height="122" />
+        <cmp x="1887" y="901" width="61" height="74" />
+        <cmp x="1943" y="937" width="34" height="38" />
+        <cmp x="1974" y="911" width="4" height="4" />
+        <cmp x="1988" y="899" width="39" height="81" />
+        <cmp x="2026" y="892" width="4" height="7" />
+        <cmp x="2037" y="941" width="42" height="33" />
+        <cmp x="2089" y="940" width="29" height="32" />
+        <cmp x="2135" y="935" width="24" height="45" />
+      </word>
+      <upper-contour>
+        <point x="354" y="871" />
+        <point x="2161" y="871" />
+      </upper-contour>
+      <lower-contour>
+        <point x="371" y="1061" />
+        <point x="2161" y="1061" />
+      </lower-contour>
+    </line>
+    <line ass="67" asx="0" asy="1075" character-width="999" dss="67" dsx="0" dsy="1217" fd0="13668" fd1="2773" fd2="-127" filter-width="4" id="f07-000b-02" lbs="48" lbx="0" lby="1161" segmentation="ok" slant="63000" stroke-width="6746" threshold="147" text="would not do; nothing an American would not" ubs="104" ubx="0" uby="1126">
+      <word id="f07-000b-02-00" tag="MD" text="would">
+        <cmp x="373" y="1120" width="53" height="42" />
+        <cmp x="428" y="1126" width="22" height="36" />
+        <cmp x="469" y="1096" width="81" height="70" />
+        <cmp x="539" y="1104" width="43" height="65" />
+      </word>
+      <word id="f07-000b-02-01" tag="XNOT" text="not">
+        <cmp x="631" y="1121" width="39" height="39" />
+        <cmp x="681" y="1127" width="23" height="26" />
+        <cmp x="726" y="1082" width="32" height="72" />
+      </word>
+      <word id="f07-000b-02-02" tag="DO" text="do">
+        <cmp x="808" y="1081" width="61" height="76" />
+        <cmp x="851" y="1126" width="30" height="38" />
+      </word>
+      <word id="f07-000b-02-03" tag=";" text=";">
+        <cmp x="903" y="1171" width="31" height="44" />
+      </word>
+      <word id="f07-000b-02-04" tag="PN" text="nothing">
+        <cmp x="980" y="1126" width="55" height="42" />
+        <cmp x="1035" y="1133" width="31" height="29" />
+        <cmp x="1052" y="1126" width="11" height="6" />
+        <cmp x="1081" y="1084" width="79" height="78" />
+        <cmp x="1164" y="1130" width="14" height="23" />
+        <cmp x="1182" y="1098" width="9" height="21" />
+        <cmp x="1194" y="1124" width="28" height="22" />
+        <cmp x="1214" y="1119" width="44" height="91" />
+      </word>
+      <word id="f07-000b-02-05" tag="AT" text="an">
+        <cmp x="1312" y="1115" width="36" height="40" />
+        <cmp x="1374" y="1119" width="40" height="38" />
+      </word>
+      <word id="f07-000b-02-06" tag="NNP" text="American">
+        <cmp x="1471" y="1074" width="146" height="102" />
+        <cmp x="1617" y="1122" width="37" height="37" />
+        <cmp x="1661" y="1128" width="39" height="31" />
+        <cmp x="1709" y="1105" width="5" height="5" />
+        <cmp x="1722" y="1122" width="31" height="34" />
+        <cmp x="1758" y="1126" width="26" height="32" />
+        <cmp x="1800" y="1127" width="22" height="30" />
+      </word>
+      <word id="f07-000b-02-07" tag="MD" text="would">
+        <cmp x="1873" y="1117" width="62" height="44" />
+        <cmp x="1933" y="1122" width="30" height="38" />
+        <cmp x="1978" y="1097" width="83" height="66" />
+        <cmp x="2056" y="1101" width="48" height="72" />
+      </word>
+      <word id="f07-000b-02-08" tag="XNOT" text="not">
+        <cmp x="2137" y="1118" width="46" height="41" />
+        <cmp x="2195" y="1119" width="32" height="34" />
+        <cmp x="2238" y="1093" width="43" height="58" />
+      </word>
+      <upper-contour>
+        <point x="371" y="1061" />
+        <point x="2161" y="1061" />
+      </upper-contour>
+      <lower-contour>
+        <point x="371" y="1215" />
+        <point x="2110" y="1215" />
+      </lower-contour>
+    </line>
+    <line ass="-549" asx="0" asy="1240" character-width="999" dss="-549" dsx="0" dsy="1397" fd0="13628" fd1="2813" fd2="-207" filter-width="4" id="f07-000b-03" lbs="-653" lbx="0" lby="1327" segmentation="ok" slant="64000" stroke-width="6752" threshold="149" text="say; nothing an Italian would not sing; no" ubs="-340" ubx="0" uby="1293">
+      <word id="f07-000b-03-00" tag="VB" text="say">
+        <cmp x="366" y="1273" width="45" height="59" />
+        <cmp x="411" y="1289" width="69" height="105" />
+      </word>
+      <word id="f07-000b-03-01" tag=";" text=";">
+        <cmp x="524" y="1338" width="29" height="35" />
+      </word>
+      <word id="f07-000b-03-02" tag="PN" text="nothing">
+        <cmp x="582" y="1290" width="48" height="44" />
+        <cmp x="628" y="1299" width="33" height="43" />
+        <cmp x="670" y="1270" width="56" height="66" />
+        <cmp x="741" y="1308" width="13" height="21" />
+        <cmp x="764" y="1281" width="8" height="13" />
+        <cmp x="773" y="1308" width="33" height="25" />
+        <cmp x="792" y="1306" width="57" height="100" />
+      </word>
+      <word id="f07-000b-03-03" tag="AT" text="an">
+        <cmp x="903" y="1293" width="48" height="52" />
+        <cmp x="963" y="1304" width="31" height="40" />
+      </word>
+      <word id="f07-000b-03-04" tag="NNP" text="Italian">
+        <cmp x="1069" y="1252" width="33" height="92" />
+        <cmp x="1112" y="1252" width="30" height="69" />
+        <cmp x="1131" y="1265" width="87" height="80" />
+        <cmp x="1231" y="1283" width="8" height="13" />
+        <cmp x="1235" y="1298" width="38" height="45" />
+        <cmp x="1292" y="1308" width="29" height="34" />
+      </word>
+      <word id="f07-000b-03-05" tag="MD" text="would">
+        <cmp x="1381" y="1300" width="38" height="46" />
+        <cmp x="1427" y="1312" width="32" height="35" />
+        <cmp x="1473" y="1281" width="83" height="68" />
+        <cmp x="1545" y="1282" width="52" height="62" />
+      </word>
+      <word id="f07-000b-03-06" tag="XNOT" text="not">
+        <cmp x="1623" y="1308" width="47" height="35" />
+        <cmp x="1683" y="1309" width="23" height="31" />
+        <cmp x="1720" y="1271" width="39" height="71" />
+        <cmp x="1757" y="1261" width="5" height="8" />
+      </word>
+      <word id="f07-000b-03-07" tag="VB" text="sing">
+        <cmp x="1785" y="1299" width="82" height="50" />
+        <cmp x="1879" y="1283" width="5" height="12" />
+        <cmp x="1883" y="1298" width="30" height="30" />
+        <cmp x="1900" y="1295" width="52" height="91" />
+      </word>
+      <word id="f07-000b-03-08" tag=";" text=";">
+        <cmp x="1955" y="1352" width="29" height="31" />
+        <cmp x="1979" y="1319" width="13" height="6" />
+      </word>
+      <word id="f07-000b-03-09" tag="ATI" text="no">
+        <cmp x="2018" y="1306" width="47" height="38" />
+        <cmp x="2074" y="1310" width="34" height="29" />
+      </word>
+      <upper-contour>
+        <point x="371" y="1215" />
+        <point x="2110" y="1215" />
+      </upper-contour>
+      <lower-contour>
+        <point x="373" y="1405" />
+        <point x="2110" y="1405" />
+      </lower-contour>
+    </line>
+    <line ass="19" asx="0" asy="1430" character-width="999" dss="19" dsx="0" dsy="1540" fd0="13498" fd1="2546" fd2="-564" filter-width="4" id="f07-000b-04" lbs="-24" lbx="0" lby="1516" segmentation="ok" slant="63000" stroke-width="6736" threshold="144" text="music to which the Frenchman would not dance;" ubs="107" ubx="0" uby="1486">
+      <word id="f07-000b-04-00" tag="NN" text="music">
+        <cmp x="375" y="1467" width="57" height="49" />
+        <cmp x="449" y="1483" width="41" height="39" />
+        <cmp x="488" y="1481" width="34" height="45" />
+        <cmp x="529" y="1483" width="17" height="33" />
+        <cmp x="554" y="1468" width="7" height="11" />
+        <cmp x="556" y="1475" width="35" height="42" />
+      </word>
+      <word id="f07-000b-04-01" tag="IN" text="to">
+        <cmp x="640" y="1441" width="77" height="75" />
+        <cmp x="680" y="1436" width="6" height="5" />
+      </word>
+      <word id="f07-000b-04-02" tag="WDT" text="which">
+        <cmp x="767" y="1447" width="115" height="89" />
+        <cmp x="891" y="1499" width="12" height="16" />
+        <cmp x="918" y="1448" width="62" height="78" />
+      </word>
+      <word id="f07-000b-04-03" tag="ATI" text="the">
+        <cmp x="1040" y="1430" width="99" height="88" />
+      </word>
+      <word id="f07-000b-04-04" tag="NNP" text="Frenchman">
+        <cmp x="1190" y="1430" width="104" height="35" />
+        <cmp x="1217" y="1463" width="90" height="65" />
+        <cmp x="1319" y="1488" width="28" height="33" />
+        <cmp x="1356" y="1511" width="16" height="8" />
+        <cmp x="1380" y="1439" width="66" height="79" />
+        <cmp x="1465" y="1484" width="53" height="33" />
+        <cmp x="1528" y="1483" width="35" height="31" />
+        <cmp x="1573" y="1488" width="30" height="29" />
+      </word>
+      <word id="f07-000b-04-05" tag="MD" text="would">
+        <cmp x="1652" y="1470" width="74" height="52" />
+        <cmp x="1722" y="1480" width="30" height="38" />
+        <cmp x="1772" y="1448" width="81" height="75" />
+        <cmp x="1839" y="1444" width="50" height="65" />
+      </word>
+      <word id="f07-000b-04-06" tag="XNOT" text="not">
+        <cmp x="1923" y="1476" width="37" height="41" />
+        <cmp x="1966" y="1483" width="30" height="33" />
+        <cmp x="2011" y="1444" width="35" height="72" />
+      </word>
+      <word id="f07-000b-04-07" tag="VB" text="dance">
+        <cmp x="2089" y="1440" width="73" height="79" />
+        <cmp x="2150" y="1472" width="33" height="37" />
+        <cmp x="2199" y="1473" width="27" height="33" />
+        <cmp x="2248" y="1483" width="49" height="29" />
+      </word>
+      <word id="f07-000b-04-08" tag=";" text=";">
+        <cmp x="2306" y="1510" width="24" height="29" />
+        <cmp x="2359" y="1461" width="7" height="10" />
+      </word>
+      <upper-contour>
+        <point x="373" y="1405" />
+        <point x="2110" y="1405" />
+      </upper-contour>
+      <lower-contour>
+        <point x="374" y="1544" />
+        <point x="2146" y="1544" />
+      </lower-contour>
+    </line>
+    <line ass="-61" asx="0" asy="1605" character-width="999" dss="-61" dsx="0" dsy="1775" fd0="13645" fd1="2862" fd2="-162" filter-width="4" id="f07-000b-05" lbs="-46" lbx="0" lby="1697" segmentation="ok" slant="66000" stroke-width="6828" threshold="142" text="nothing the German would not covet; and" ubs="-91" ubx="0" uby="1658">
+      <word id="f07-000b-05-00" tag="PN" text="nothing">
+        <cmp x="376" y="1651" width="46" height="50" />
+        <cmp x="427" y="1659" width="34" height="40" />
+        <cmp x="476" y="1618" width="79" height="84" />
+        <cmp x="555" y="1674" width="15" height="21" />
+        <cmp x="579" y="1649" width="9" height="14" />
+        <cmp x="587" y="1666" width="22" height="26" />
+        <cmp x="608" y="1664" width="43" height="94" />
+      </word>
+      <word id="f07-000b-05-01" tag="ATI" text="the">
+        <cmp x="726" y="1608" width="90" height="92" />
+      </word>
+      <word id="f07-000b-05-02" tag="NNP" text="German">
+        <cmp x="869" y="1606" width="99" height="171" />
+        <cmp x="972" y="1668" width="25" height="32" />
+        <cmp x="1008" y="1657" width="63" height="47" />
+        <cmp x="1079" y="1661" width="35" height="36" />
+        <cmp x="1128" y="1660" width="29" height="37" />
+      </word>
+      <word id="f07-000b-05-03" tag="MD" text="would">
+        <cmp x="1214" y="1653" width="70" height="51" />
+        <cmp x="1274" y="1661" width="27" height="44" />
+        <cmp x="1321" y="1631" width="85" height="70" />
+        <cmp x="1393" y="1640" width="57" height="82" />
+      </word>
+      <word id="f07-000b-05-04" tag="XNOT" text="not">
+        <cmp x="1503" y="1661" width="38" height="39" />
+        <cmp x="1551" y="1665" width="30" height="31" />
+        <cmp x="1596" y="1621" width="37" height="79" />
+      </word>
+      <word id="f07-000b-05-05" tag="VB" text="covet">
+        <cmp x="1699" y="1650" width="38" height="39" />
+        <cmp x="1744" y="1658" width="28" height="30" />
+        <cmp x="1788" y="1646" width="58" height="46" />
+        <cmp x="1858" y="1620" width="28" height="58" />
+      </word>
+      <word id="f07-000b-05-06" tag=";" text=";">
+        <cmp x="1886" y="1690" width="23" height="19" />
+        <cmp x="1918" y="1642" width="7" height="7" />
+      </word>
+      <word id="f07-000b-05-07" tag="CC" text="and">
+        <cmp x="1969" y="1652" width="48" height="57" />
+        <cmp x="2033" y="1670" width="35" height="30" />
+        <cmp x="2081" y="1640" width="64" height="69" />
+      </word>
+      <upper-contour>
+        <point x="374" y="1544" />
+        <point x="2146" y="1544" />
+      </upper-contour>
+      <lower-contour>
+        <point x="391" y="1776" />
+        <point x="1896" y="1776" />
+      </lower-contour>
+    </line>
+    <line ass="-351" asx="0" asy="1782" character-width="999" dss="-351" dsx="0" dsy="1941" fd0="12994" fd1="2573" fd2="-410" filter-width="4" id="f07-000b-06" lbs="-238" lbx="0" lby="1872" segmentation="ok" slant="63000" stroke-width="6825" threshold="146" text="nothing the Chinese would not eat." ubs="-576" ubx="0" uby="1829">
+      <word id="f07-000b-06-00" tag="PN" text="nothing">
+        <cmp x="393" y="1821" width="42" height="49" />
+        <cmp x="440" y="1836" width="27" height="39" />
+        <cmp x="483" y="1794" width="65" height="81" />
+        <cmp x="523" y="1789" width="5" height="4" />
+        <cmp x="558" y="1853" width="10" height="16" />
+        <cmp x="578" y="1826" width="9" height="11" />
+        <cmp x="593" y="1844" width="24" height="25" />
+        <cmp x="625" y="1839" width="58" height="106" />
+      </word>
+      <word id="f07-000b-06-01" tag="ATI" text="the">
+        <cmp x="753" y="1791" width="107" height="87" />
+        <cmp x="796" y="1793" width="9" height="6" />
+      </word>
+      <word id="f07-000b-06-02" tag="NNP" text="Chinese">
+        <cmp x="941" y="1793" width="105" height="86" />
+        <cmp x="1019" y="1834" width="4" height="5" />
+        <cmp x="1037" y="1854" width="18" height="30" />
+        <cmp x="1064" y="1832" width="4" height="8" />
+        <cmp x="1070" y="1846" width="58" height="33" />
+        <cmp x="1124" y="1846" width="29" height="41" />
+        <cmp x="1165" y="1842" width="36" height="33" />
+      </word>
+      <word id="f07-000b-06-03" tag="MD" text="would">
+        <cmp x="1261" y="1827" width="70" height="62" />
+        <cmp x="1323" y="1847" width="26" height="32" />
+        <cmp x="1364" y="1816" width="83" height="69" />
+        <cmp x="1371" y="1849" width="7" height="5" />
+        <cmp x="1447" y="1817" width="51" height="80" />
+      </word>
+      <word id="f07-000b-06-04" tag="XNOT" text="not">
+        <cmp x="1555" y="1843" width="43" height="41" />
+        <cmp x="1607" y="1851" width="31" height="34" />
+        <cmp x="1654" y="1796" width="30" height="78" />
+      </word>
+      <word id="f07-000b-06-05" tag="VB" text="eat">
+        <cmp x="1746" y="1836" width="43" height="43" />
+        <cmp x="1792" y="1842" width="31" height="29" />
+        <cmp x="1837" y="1795" width="47" height="69" />
+      </word>
+      <word id="f07-000b-06-06" tag="." text=".">
+        <cmp x="1886" y="1865" width="8" height="10" />
+      </word>
+      <upper-contour>
+        <point x="391" y="1776" />
+        <point x="1896" y="1776" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

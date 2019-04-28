@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-14" height="3542" id="a01-007x" last-modified="2002-07-17" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="003">
+  <machine-printed-part>
+    <machine-print-line text="Since 1958, 13 Labour life Peers and Peeresses have been created. Most Labour sen-" />
+    <machine-print-line text="timent would still favour the abolition of the House of Lords, but while it remains" />
+    <machine-print-line text="Labour has to have an adequate number of members. THE two rival African Nation-" />
+    <machine-print-line text="alist Parties of Northern Rhodesia have agreed to get together to face the challenge" />
+    <machine-print-line text="from Sir Roy Welensky, the Federal Premier." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-303" asx="0" asy="871" character-width="999" dss="-303" dsx="0" dsy="1017" fd0="13545" fd1="2467" fd2="-1371" filter-width="3" id="a01-007x-00" lbs="-372" lbx="0" lby="951" segmentation="ok" slant="77000" stroke-width="5070" threshold="174" text="Since 1958, 13 Labour life Peers and #" ubs="-164" ubx="0" uby="917">
+      <word id="a01-007x-00-00" sentence-start="yes" tag="IN" text="Since">
+        <cmp x="356" y="874" width="56" height="82" />
+        <cmp x="404" y="896" width="20" height="47" />
+        <cmp x="419" y="920" width="46" height="32" />
+        <cmp x="484" y="917" width="24" height="37" />
+        <cmp x="520" y="917" width="31" height="38" />
+      </word>
+      <word id="a01-007x-00-01" tag="CD" text="1958">
+        <cmp x="608" y="897" width="47" height="68" />
+        <cmp x="648" y="898" width="38" height="70" />
+        <cmp x="682" y="903" width="44" height="59" />
+        <cmp x="718" y="900" width="68" height="69" />
+      </word>
+      <word id="a01-007x-00-02" tag="," text=",">
+        <cmp x="811" y="960" width="17" height="36" />
+      </word>
+      <word id="a01-007x-00-03" tag="CD" text="13">
+        <cmp x="875" y="898" width="50" height="67" />
+        <cmp x="915" y="895" width="56" height="66" />
+      </word>
+      <word id="a01-007x-00-04" tag="NN" text="Labour">
+        <cmp x="990" y="884" width="77" height="86" />
+        <cmp x="1046" y="886" width="193" height="89" />
+      </word>
+      <word id="a01-007x-00-05" tag="NN" text="life">
+        <cmp x="1281" y="896" width="46" height="79" />
+        <cmp x="1327" y="921" width="9" height="18" />
+        <cmp x="1330" y="888" width="75" height="138" />
+      </word>
+      <word id="a01-007x-00-06" tag="NNS" text="Peers">
+        <cmp x="1450" y="890" width="52" height="75" />
+        <cmp x="1480" y="930" width="33" height="39" />
+        <cmp x="1519" y="921" width="52" height="45" />
+        <cmp x="1568" y="922" width="41" height="45" />
+      </word>
+      <word id="a01-007x-00-07" tag="CC" text="and">
+        <cmp x="1648" y="896" width="153" height="73" />
+      </word>
+      <word id="a01-007x-00-08" tag="&amp;GA" text="#">
+        <cmp x="1842" y="890" width="172" height="85" />
+      </word>
+      <lower-contour>
+        <point x="354" y="1026" />
+        <point x="2015" y="1026" />
+      </lower-contour>
+    </line>
+    <line ass="-292" asx="0" asy="1048" character-width="999" dss="-292" dsx="0" dsy="1145" fd0="13532" fd1="2319" fd2="-1883" filter-width="3" id="a01-007x-01" lbs="-257" lbx="0" lby="1136" segmentation="ok" slant="70000" stroke-width="5059" threshold="175" text="Peeresses have been created. Most Labour sentiment" ubs="-364" ubx="0" uby="1097">
+      <word id="a01-007x-01-00" tag="NNS" text="Peeresses">
+        <cmp x="346" y="1051" width="44" height="74" />
+        <cmp x="372" y="1087" width="44" height="46" />
+        <cmp x="418" y="1091" width="57" height="43" />
+        <cmp x="477" y="1095" width="26" height="42" />
+        <cmp x="506" y="1095" width="40" height="50" />
+        <cmp x="548" y="1095" width="68" height="46" />
+        <cmp x="622" y="1096" width="29" height="40" />
+      </word>
+      <word id="a01-007x-01-01" tag="HV" text="have">
+        <cmp x="716" y="1052" width="72" height="91" />
+        <cmp x="798" y="1099" width="59" height="46" />
+      </word>
+      <word id="a01-007x-01-02" tag="BEN" text="been">
+        <cmp x="910" y="1055" width="144" height="90" />
+      </word>
+      <word id="a01-007x-01-03" tag="VBN" text="created">
+        <cmp x="1110" y="1088" width="122" height="62" />
+        <cmp x="1237" y="1061" width="113" height="88" />
+      </word>
+      <word id="a01-007x-01-04" tag="." text=".">
+        <cmp x="1363" y="1147" width="8" height="5" />
+      </word>
+      <word id="a01-007x-01-05" sentence-start="yes" tag="AP" text="Most">
+        <cmp x="1412" y="1064" width="53" height="83" />
+        <cmp x="1468" y="1096" width="62" height="51" />
+        <cmp x="1535" y="1068" width="44" height="81" />
+      </word>
+      <word id="a01-007x-01-06" tag="NN" text="Labour">
+        <cmp x="1607" y="1058" width="100" height="94" />
+        <cmp x="1660" y="1067" width="96" height="86" />
+        <cmp x="1753" y="1097" width="129" height="54" />
+      </word>
+      <word id="a01-007x-01-07" tag="NN" text="sentiment">
+        <cmp x="1905" y="1093" width="47" height="57" />
+        <cmp x="1945" y="1106" width="71" height="38" />
+        <cmp x="2027" y="1069" width="43" height="72" />
+        <cmp x="2064" y="1104" width="65" height="34" />
+        <cmp x="2065" y="1091" width="9" height="29" />
+        <cmp x="2136" y="1105" width="68" height="41" />
+        <cmp x="2208" y="1067" width="60" height="76" />
+      </word>
+      <upper-contour>
+        <point x="354" y="1026" />
+        <point x="2015" y="1026" />
+      </upper-contour>
+      <lower-contour>
+        <point x="355" y="1153" />
+        <point x="2175" y="1153" />
+      </lower-contour>
+    </line>
+    <line ass="52" asx="0" asy="1225" character-width="999" dss="52" dsx="0" dsy="1398" fd0="12873" fd1="2184" fd2="-1622" filter-width="3" id="a01-007x-02" lbs="119" lbx="0" lby="1315" segmentation="ok" slant="76000" stroke-width="4940" threshold="178" text="would still favour the abolition of the House" ubs="-83" ubx="0" uby="1268">
+      <word id="a01-007x-02-00" tag="MD" text="would">
+        <cmp x="357" y="1255" width="45" height="58" />
+        <cmp x="414" y="1229" width="161" height="90" />
+      </word>
+      <word id="a01-007x-02-01" tag="RB" text="still">
+        <cmp x="636" y="1259" width="45" height="58" />
+        <cmp x="677" y="1226" width="34" height="95" />
+        <cmp x="714" y="1254" width="7" height="27" />
+        <cmp x="719" y="1238" width="68" height="78" />
+      </word>
+      <word id="a01-007x-02-02" tag="VB" text="favour">
+        <cmp x="813" y="1235" width="101" height="164" />
+        <cmp x="929" y="1273" width="37" height="48" />
+        <cmp x="978" y="1275" width="111" height="44" />
+      </word>
+      <word id="a01-007x-02-03" tag="ATI" text="the">
+        <cmp x="1141" y="1238" width="41" height="81" />
+        <cmp x="1188" y="1242" width="56" height="78" />
+      </word>
+      <word id="a01-007x-02-04" tag="NN" text="abolition">
+        <cmp x="1329" y="1233" width="87" height="88" />
+        <cmp x="1430" y="1236" width="71" height="75" />
+        <cmp x="1501" y="1252" width="5" height="10" />
+        <cmp x="1516" y="1237" width="38" height="68" />
+        <cmp x="1557" y="1257" width="8" height="24" />
+        <cmp x="1573" y="1262" width="32" height="46" />
+        <cmp x="1601" y="1267" width="67" height="52" />
+      </word>
+      <word id="a01-007x-02-05" tag="INO" text="of">
+        <cmp x="1726" y="1238" width="82" height="127" />
+      </word>
+      <word id="a01-007x-02-06" tag="ATI" text="the">
+        <cmp x="1827" y="1242" width="92" height="82" />
+      </word>
+      <word id="a01-007x-02-07" tag="NPL" text="House">
+        <cmp x="1959" y="1246" width="147" height="78" />
+        <cmp x="2106" y="1274" width="44" height="44" />
+        <cmp x="2139" y="1285" width="35" height="39" />
+      </word>
+      <upper-contour>
+        <point x="355" y="1153" />
+        <point x="2175" y="1153" />
+      </upper-contour>
+      <lower-contour>
+        <point x="366" y="1386" />
+        <point x="814" y="1399" />
+        <point x="2175" y="1399" />
+      </lower-contour>
+    </line>
+    <line ass="-351" asx="0" asy="1389" character-width="999" dss="-351" dsx="0" dsy="1536" fd0="13597" fd1="2441" fd2="-1174" filter-width="3" id="a01-007x-03" lbs="-583" lbx="0" lby="1480" segmentation="ok" slant="68999" stroke-width="4961" threshold="171" text="of Lords, but while it remains Labour has to" ubs="111" ubx="0" uby="1459">
+      <word id="a01-007x-03-00" tag="INO" text="of">
+        <cmp x="368" y="1433" width="33" height="58" />
+        <cmp x="383" y="1409" width="58" height="131" />
+      </word>
+      <word id="a01-007x-03-01" tag="NPTS" text="Lords">
+        <cmp x="476" y="1393" width="68" height="99" />
+        <cmp x="523" y="1407" width="108" height="85" />
+        <cmp x="629" y="1448" width="34" height="46" />
+      </word>
+      <word id="a01-007x-03-02" tag="," text=",">
+        <cmp x="705" y="1489" width="14" height="27" />
+      </word>
+      <word id="a01-007x-03-03" tag="CC" text="but">
+        <cmp x="751" y="1401" width="88" height="95" />
+        <cmp x="855" y="1407" width="38" height="83" />
+      </word>
+      <word id="a01-007x-03-04" tag="CS" text="while">
+        <cmp x="942" y="1422" width="54" height="79" />
+        <cmp x="1003" y="1409" width="32" height="78" />
+        <cmp x="1046" y="1472" width="10" height="18" />
+        <cmp x="1065" y="1430" width="8" height="16" />
+        <cmp x="1077" y="1411" width="36" height="83" />
+        <cmp x="1098" y="1454" width="38" height="50" />
+      </word>
+      <word id="a01-007x-03-05" tag="PP3" text="it">
+        <cmp x="1205" y="1466" width="19" height="36" />
+        <cmp x="1218" y="1443" width="11" height="10" />
+        <cmp x="1240" y="1418" width="43" height="76" />
+      </word>
+      <word id="a01-007x-03-06" tag="VBZ" text="remains">
+        <cmp x="1316" y="1448" width="129" height="57" />
+        <cmp x="1459" y="1456" width="58" height="47" />
+        <cmp x="1520" y="1466" width="54" height="36" />
+        <cmp x="1525" y="1441" width="11" height="30" />
+        <cmp x="1584" y="1454" width="32" height="50" />
+      </word>
+      <word id="a01-007x-03-07" tag="NN" text="Labour">
+        <cmp x="1683" y="1403" width="86" height="106" />
+        <cmp x="1732" y="1411" width="216" height="95" />
+      </word>
+      <word id="a01-007x-03-08" tag="HVZ" text="has">
+        <cmp x="1976" y="1416" width="64" height="78" />
+        <cmp x="2046" y="1456" width="32" height="44" />
+      </word>
+      <word id="a01-007x-03-09" tag="TO" text="to">
+        <cmp x="2119" y="1423" width="72" height="76" />
+      </word>
+      <upper-contour>
+        <point x="366" y="1386" />
+        <point x="814" y="1399" />
+        <point x="2175" y="1399" />
+      </upper-contour>
+      <lower-contour>
+        <point x="366" y="1541" />
+        <point x="2139" y="1541" />
+      </lower-contour>
+    </line>
+    <line ass="-493" asx="0" asy="1578" character-width="999" dss="-493" dsx="0" dsy="1720" fd0="13399" fd1="2425" fd2="-1252" filter-width="3" id="a01-007x-04" lbs="-299" lbx="0" lby="1670" segmentation="ok" slant="70000" stroke-width="5055" threshold="166" text="have an adequate number of members. THE" ubs="-883" ubx="0" uby="1623">
+      <word id="a01-007x-04-00" tag="HV" text="have">
+        <cmp x="337" y="1587" width="80" height="86" />
+        <cmp x="431" y="1622" width="60" height="58" />
+      </word>
+      <word id="a01-007x-04-01" tag="AT" text="an">
+        <cmp x="596" y="1630" width="93" height="43" />
+      </word>
+      <word id="a01-007x-04-02" tag="JJ" text="adequate">
+        <cmp x="760" y="1621" width="41" height="55" />
+        <cmp x="815" y="1587" width="47" height="82" />
+        <cmp x="867" y="1627" width="30" height="49" />
+        <cmp x="899" y="1627" width="132" height="83" />
+        <cmp x="1041" y="1587" width="52" height="91" />
+      </word>
+      <word id="a01-007x-04-03" tag="NN" text="number">
+        <cmp x="1139" y="1644" width="55" height="40" />
+        <cmp x="1200" y="1645" width="120" height="38" />
+        <cmp x="1326" y="1601" width="91" height="81" />
+      </word>
+      <word id="a01-007x-04-04" tag="INO" text="of">
+        <cmp x="1473" y="1596" width="85" height="138" />
+      </word>
+      <word id="a01-007x-04-05" tag="NNS" text="members">
+        <cmp x="1587" y="1640" width="172" height="46" />
+        <cmp x="1765" y="1602" width="90" height="82" />
+        <cmp x="1846" y="1643" width="42" height="36" />
+      </word>
+      <word id="a01-007x-04-06" tag="." text=".">
+        <cmp x="1933" y="1681" width="13" height="12" />
+      </word>
+      <word id="a01-007x-04-07" sentence-start="yes" tag="ATI" text="THE">
+        <cmp x="1968" y="1613" width="110" height="80" />
+        <cmp x="2061" y="1640" width="55" height="52" />
+        <cmp x="2093" y="1620" width="45" height="15" />
+      </word>
+      <upper-contour>
+        <point x="366" y="1541" />
+        <point x="2139" y="1541" />
+      </upper-contour>
+      <lower-contour>
+        <point x="335" y="1734" />
+        <point x="2139" y="1734" />
+      </lower-contour>
+    </line>
+    <line ass="-523" asx="0" asy="1753" character-width="999" dss="-523" dsx="0" dsy="1893" fd0="13209" fd1="2152" fd2="-1819" filter-width="3" id="a01-007x-05" lbs="-601" lbx="0" lby="1839" segmentation="ok" slant="76000" stroke-width="4955" threshold="174" text="two rival African Nationalist Parties of Northern" ubs="-366" ubx="0" uby="1799">
+      <word id="a01-007x-05-00" tag="CD" text="two">
+        <cmp x="325" y="1767" width="34" height="83" />
+        <cmp x="371" y="1793" width="54" height="62" />
+        <cmp x="436" y="1799" width="31" height="48" />
+      </word>
+      <word id="a01-007x-05-01" tag="JJB" text="rival">
+        <cmp x="520" y="1803" width="43" height="46" />
+        <cmp x="557" y="1791" width="13" height="27" />
+        <cmp x="579" y="1801" width="35" height="50" />
+        <cmp x="614" y="1777" width="74" height="84" />
+      </word>
+      <word id="a01-007x-05-02" tag="JNP" text="African">
+        <cmp x="778" y="1777" width="58" height="81" />
+        <cmp x="834" y="1776" width="72" height="126" />
+        <cmp x="902" y="1796" width="4" height="6" />
+        <cmp x="921" y="1807" width="30" height="52" />
+        <cmp x="960" y="1815" width="88" height="45" />
+      </word>
+      <word id="a01-007x-05-03" tag="JJ" text="Nationalist">
+        <cmp x="1114" y="1787" width="73" height="73" />
+        <cmp x="1178" y="1837" width="3" height="5" />
+        <cmp x="1185" y="1810" width="34" height="43" />
+        <cmp x="1230" y="1767" width="35" height="81" />
+        <cmp x="1269" y="1796" width="45" height="52" />
+        <cmp x="1306" y="1821" width="52" height="30" />
+        <cmp x="1371" y="1770" width="80" height="82" />
+        <cmp x="1450" y="1800" width="8" height="24" />
+        <cmp x="1456" y="1814" width="30" height="35" />
+        <cmp x="1489" y="1767" width="54" height="83" />
+      </word>
+      <word id="a01-007x-05-04" tag="NNS" text="Parties">
+        <cmp x="1600" y="1776" width="55" height="69" />
+        <cmp x="1633" y="1811" width="39" height="41" />
+        <cmp x="1685" y="1815" width="31" height="38" />
+        <cmp x="1723" y="1773" width="44" height="83" />
+        <cmp x="1759" y="1809" width="38" height="51" />
+        <cmp x="1792" y="1818" width="45" height="50" />
+        <cmp x="1799" y="1779" width="6" height="6" />
+      </word>
+      <word id="a01-007x-05-05" tag="INO" text="of">
+        <cmp x="1887" y="1785" width="82" height="125" />
+      </word>
+      <word id="a01-007x-05-06" tag="NP" text="Northern">
+        <cmp x="1986" y="1792" width="64" height="72" />
+        <cmp x="2050" y="1806" width="60" height="56" />
+        <cmp x="2108" y="1779" width="42" height="83" />
+        <cmp x="2139" y="1786" width="37" height="74" />
+        <cmp x="2190" y="1820" width="27" height="36" />
+        <cmp x="2215" y="1812" width="27" height="48" />
+        <cmp x="2232" y="1827" width="61" height="53" />
+      </word>
+      <upper-contour>
+        <point x="335" y="1734" />
+        <point x="2139" y="1734" />
+      </upper-contour>
+      <lower-contour>
+        <point x="335" y="1910" />
+        <point x="2089" y="1910" />
+      </lower-contour>
+    </line>
+    <line ass="-1086" asx="0" asy="1918" character-width="999" dss="-1086" dsx="0" dsy="2061" fd0="12913" fd1="2272" fd2="-1445" filter-width="3" id="a01-007x-06" lbs="-1114" lbx="0" lby="2007" segmentation="ok" slant="77000" stroke-width="4907" threshold="178" text="Rhodesia have agreed to get together to face the" ubs="-1032" ubx="0" uby="1963">
+      <word id="a01-007x-06-00" tag="NP" text="Rhodesia">
+        <cmp x="337" y="1934" width="41" height="81" />
+        <cmp x="384" y="1940" width="30" height="73" />
+        <cmp x="426" y="1971" width="26" height="43" />
+        <cmp x="460" y="1941" width="60" height="79" />
+        <cmp x="540" y="1972" width="33" height="44" />
+        <cmp x="572" y="1967" width="49" height="55" />
+      </word>
+      <word id="a01-007x-06-01" tag="HV" text="have">
+        <cmp x="698" y="1936" width="70" height="85" />
+        <cmp x="783" y="1973" width="62" height="49" />
+      </word>
+      <word id="a01-007x-06-02" tag="VBN" text="agreed">
+        <cmp x="898" y="1974" width="40" height="48" />
+        <cmp x="939" y="1976" width="114" height="98" />
+        <cmp x="1052" y="1948" width="51" height="85" />
+      </word>
+      <word id="a01-007x-06-03" tag="TO" text="to">
+        <cmp x="1142" y="1958" width="84" height="74" />
+      </word>
+      <word id="a01-007x-06-04" tag="VB" text="get">
+        <cmp x="1248" y="1988" width="67" height="94" />
+        <cmp x="1330" y="1950" width="40" height="84" />
+      </word>
+      <word id="a01-007x-06-05" tag="RB" text="together">
+        <cmp x="1405" y="1959" width="69" height="85" />
+        <cmp x="1455" y="1997" width="70" height="93" />
+        <cmp x="1539" y="1952" width="41" height="88" />
+        <cmp x="1571" y="1963" width="85" height="77" />
+      </word>
+      <word id="a01-007x-06-06" tag="TO" text="to">
+        <cmp x="1706" y="1971" width="64" height="73" />
+      </word>
+      <word id="a01-007x-06-07" tag="VB" text="face">
+        <cmp x="1772" y="1950" width="80" height="146" />
+        <cmp x="1864" y="1992" width="33" height="49" />
+        <cmp x="1896" y="2000" width="37" height="45" />
+      </word>
+      <word id="a01-007x-06-08" tag="ATI" text="the">
+        <cmp x="1987" y="1969" width="41" height="76" />
+        <cmp x="2030" y="1974" width="58" height="77" />
+      </word>
+      <upper-contour>
+        <point x="335" y="1910" />
+        <point x="2089" y="1910" />
+      </upper-contour>
+      <lower-contour>
+        <point x="335" y="2096" />
+        <point x="2089" y="2096" />
+      </lower-contour>
+    </line>
+    <line ass="-86" asx="0" asy="2101" character-width="999" dss="-86" dsx="0" dsy="2283" fd0="13400" fd1="2268" fd2="-1578" filter-width="3" id="a01-007x-07" lbs="-133" lbx="0" lby="2201" segmentation="ok" slant="70000" stroke-width="4847" threshold="174" text="challenge from Sir Roy Welensky, the Federal Premier." ubs="8" ubx="0" uby="2166">
+      <word id="a01-007x-07-00" tag="NN" text="challenge">
+        <cmp x="331" y="2145" width="51" height="66" />
+        <cmp x="394" y="2118" width="125" height="83" />
+        <cmp x="520" y="2157" width="78" height="48" />
+        <cmp x="582" y="2158" width="67" height="127" />
+      </word>
+      <word id="a01-007x-07-01" tag="IN" text="from">
+        <cmp x="716" y="2114" width="163" height="146" />
+      </word>
+      <word id="a01-007x-07-02" tag="NPT" text="Sir">
+        <cmp x="986" y="2114" width="64" height="86" />
+        <cmp x="1039" y="2147" width="48" height="49" />
+      </word>
+      <word id="a01-007x-07-03" tag="NP" text="Roy">
+        <cmp x="1133" y="2103" width="71" height="103" />
+        <cmp x="1191" y="2163" width="57" height="96" />
+      </word>
+      <word id="a01-007x-07-04" tag="NP" text="Welensky">
+        <cmp x="1290" y="2118" width="66" height="80" />
+        <cmp x="1349" y="2113" width="123" height="92" />
+        <cmp x="1474" y="2166" width="35" height="39" />
+        <cmp x="1507" y="2123" width="75" height="150" />
+      </word>
+      <word id="a01-007x-07-05" tag="," text=",">
+        <cmp x="1599" y="2212" width="14" height="26" />
+      </word>
+      <word id="a01-007x-07-06" tag="ATI" text="the">
+        <cmp x="1640" y="2137" width="57" height="70" />
+        <cmp x="1694" y="2141" width="62" height="73" />
+      </word>
+      <word id="a01-007x-07-07" tag="JJ" text="Federal">
+        <cmp x="1812" y="2146" width="44" height="53" />
+        <cmp x="1831" y="2128" width="53" height="9" />
+        <cmp x="1834" y="2175" width="47" height="35" />
+        <cmp x="1883" y="2128" width="192" height="83" />
+      </word>
+      <word id="a01-007x-07-08" tag="NPT" text="Premier">
+        <cmp x="2103" y="2128" width="61" height="79" />
+        <cmp x="2136" y="2167" width="113" height="49" />
+        <cmp x="2255" y="2188" width="17" height="22" />
+        <cmp x="2271" y="2171" width="58" height="50" />
+      </word>
+      <word id="a01-007x-07-09" tag="." text=".">
+        <cmp x="2309" y="2224" width="9" height="7" />
+      </word>
+      <upper-contour>
+        <point x="335" y="2096" />
+        <point x="2089" y="2096" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="m04-107" last-modified="2002-07-17" skew="63" status="final" version="3.0_beta" width="2479" writer-id="547">
+  <machine-printed-part>
+    <machine-print-line text="&amp;quot;But Eth and me wanted to be at the Youth Hostel before dark.&amp;quot; Morfydd Owen was" />
+    <machine-print-line text="silent. But she looked down at the fast-disappearing earth, and it seemed to her that" />
+    <machine-print-line text="she would never see her Dai again. And though half an hour ago she had regarded" />
+    <machine-print-line text="this possibility with fortitude, it now filled her with dismay. Quietly she began to" />
+    <machine-print-line text="weep..." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="380" asx="0" asy="741" character-width="999" dss="380" dsx="0" dsy="844" fd0="13608" fd1="2559" fd2="-349" filter-width="4" id="m04-107-00" lbs="362" lbx="0" lby="833" segmentation="ok" slant="63000" stroke-width="6381" threshold="174" text="&amp;quot;But Eth and me wanted to be" ubs="415" ubx="0" uby="804">
+      <word id="m04-107-00-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="366" y="747" width="15" height="21" />
+        <cmp x="386" y="747" width="17" height="21" />
+      </word>
+      <word id="m04-107-00-01" tag="CC" text="But">
+        <cmp x="432" y="738" width="186" height="98" />
+      </word>
+      <word id="m04-107-00-02" tag="NP" text="Eth">
+        <cmp x="699" y="750" width="176" height="85" />
+      </word>
+      <word id="m04-107-00-03" tag="CC" text="and">
+        <cmp x="940" y="768" width="201" height="62" />
+      </word>
+      <word id="m04-107-00-04" tag="PP1O" text="me">
+        <cmp x="1167" y="790" width="163" height="36" />
+      </word>
+      <word id="m04-107-00-05" tag="VBD" text="wanted">
+        <cmp x="1392" y="745" width="410" height="89" />
+      </word>
+      <word id="m04-107-00-06" tag="TO" text="to">
+        <cmp x="1814" y="746" width="130" height="78" />
+      </word>
+      <word id="m04-107-00-07" tag="BE" text="be">
+        <cmp x="1973" y="738" width="122" height="87" />
+      </word>
+      <lower-contour>
+        <point x="364" y="836" />
+        <point x="2057" y="836" />
+      </lower-contour>
+    </line>
+    <line ass="-422" asx="0" asy="894" character-width="999" dss="-422" dsx="0" dsy="1045" fd0="13581" fd1="2012" fd2="-1223" filter-width="4" id="m04-107-01" lbs="-420" lbx="0" lby="995" segmentation="ok" slant="59000" stroke-width="6517" threshold="172" text="at the Youth Hostel before dark.&amp;quot;" ubs="-425" ubx="0" uby="962">
+      <word id="m04-107-01-00" tag="IN" text="at">
+        <cmp x="366" y="934" width="113" height="70" />
+      </word>
+      <word id="m04-107-01-01" tag="ATI" text="the">
+        <cmp x="488" y="930" width="178" height="80" />
+      </word>
+      <word id="m04-107-01-02" tag="NN" text="Youth">
+        <cmp x="700" y="935" width="296" height="117" />
+      </word>
+      <word id="m04-107-01-03" tag="NN" text="Hostel">
+        <cmp x="1041" y="929" width="287" height="84" />
+        <cmp x="1091" y="927" width="4" height="5" />
+      </word>
+      <word id="m04-107-01-04" tag="IN" text="before">
+        <cmp x="1365" y="923" width="285" height="128" />
+      </word>
+      <word id="m04-107-01-05" tag="NN" text="dark">
+        <cmp x="1701" y="920" width="238" height="92" />
+      </word>
+      <word id="m04-107-01-06" tag="." text=".">
+        <cmp x="1973" y="999" width="10" height="9" />
+      </word>
+      <word id="m04-107-01-07" tag="**&apos;" text="&quot;">
+        <cmp x="2024" y="910" width="19" height="20" />
+        <cmp x="2038" y="914" width="18" height="21" />
+      </word>
+      <upper-contour>
+        <point x="364" y="836" />
+        <point x="2057" y="836" />
+      </upper-contour>
+      <lower-contour>
+        <point x="364" y="1052" />
+        <point x="2057" y="1052" />
+      </lower-contour>
+    </line>
+    <line ass="546" asx="0" asy="1109" character-width="999" dss="546" dsx="0" dsy="1242" fd0="13485" fd1="2183" fd2="-948" filter-width="4" id="m04-107-02" lbs="732" lbx="0" lby="1196" segmentation="ok" slant="59999" stroke-width="6485" threshold="172" text="Morfydd Owen was silent. But she" ubs="174" ubx="0" uby="1151">
+      <word id="m04-107-02-00" sentence-start="yes" tag="NP" text="Morfydd">
+        <cmp x="342" y="1105" width="378" height="133" />
+      </word>
+      <word id="m04-107-02-01" tag="NP" text="Owen">
+        <cmp x="760" y="1113" width="269" height="74" />
+      </word>
+      <word id="m04-107-02-02" tag="BEDZ" text="was">
+        <cmp x="1070" y="1141" width="205" height="46" />
+      </word>
+      <word id="m04-107-02-03" tag="JJ" text="silent">
+        <cmp x="1309" y="1104" width="307" height="87" />
+        <cmp x="1414" y="1113" width="11" height="15" />
+        <cmp x="1452" y="1119" width="4" height="5" />
+      </word>
+      <word id="m04-107-02-04" tag="." text=".">
+        <cmp x="1622" y="1173" width="13" height="15" />
+      </word>
+      <word id="m04-107-02-05" sentence-start="yes" tag="CC" text="But">
+        <cmp x="1704" y="1100" width="171" height="80" />
+      </word>
+      <word id="m04-107-02-06" tag="PP3A" text="she">
+        <cmp x="1874" y="1106" width="184" height="81" />
+      </word>
+      <upper-contour>
+        <point x="364" y="1052" />
+        <point x="2057" y="1052" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1238" />
+        <point x="2059" y="1238" />
+      </lower-contour>
+    </line>
+    <line ass="-710" asx="0" asy="1258" character-width="999" dss="-710" dsx="0" dsy="1400" fd0="13659" fd1="2163" fd2="-1050" filter-width="4" id="m04-107-03" lbs="-881" lbx="0" lby="1348" segmentation="ok" slant="59000" stroke-width="6578" threshold="174" text="looked down at the fast-disappearing" ubs="-367" ubx="0" uby="1321">
+      <word id="m04-107-03-00" tag="VBD" text="looked">
+        <cmp x="349" y="1283" width="334" height="89" />
+      </word>
+      <word id="m04-107-03-01" tag="RP" text="down">
+        <cmp x="695" y="1280" width="309" height="87" />
+      </word>
+      <word id="m04-107-03-02" tag="IN" text="at">
+        <cmp x="1042" y="1286" width="112" height="82" />
+      </word>
+      <word id="m04-107-03-03" tag="ATI" text="the">
+        <cmp x="1192" y="1279" width="160" height="85" />
+      </word>
+      <word id="m04-107-03-04" tag="JJ" text="fast-disappearing">
+        <cmp x="1391" y="1276" width="204" height="136" />
+        <cmp x="1596" y="1337" width="37" height="10" />
+        <cmp x="1655" y="1292" width="633" height="136" />
+        <cmp x="1758" y="1298" width="11" height="12" />
+        <cmp x="2170" y="1302" width="8" height="17" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1238" />
+        <point x="2059" y="1238" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="1417" />
+        <point x="2187" y="1417" />
+      </lower-contour>
+    </line>
+    <line ass="197" asx="0" asy="1460" character-width="999" dss="197" dsx="0" dsy="1563" fd0="13538" fd1="2973" fd2="-634" filter-width="4" id="m04-107-04" lbs="201" lbx="0" lby="1545" segmentation="ok" slant="61000" stroke-width="6587" threshold="172" text="earth, and it seemed to her that she" ubs="189" ubx="0" uby="1513">
+      <word id="m04-107-04-00" tag="NN" text="earth">
+        <cmp x="350" y="1472" width="250" height="78" />
+      </word>
+      <word id="m04-107-04-01" tag="," text=",">
+        <cmp x="625" y="1529" width="19" height="32" />
+      </word>
+      <word id="m04-107-04-02" tag="CC" text="and">
+        <cmp x="682" y="1475" width="212" height="77" />
+      </word>
+      <word id="m04-107-04-03" tag="PP3" text="it">
+        <cmp x="889" y="1467" width="118" height="79" />
+        <cmp x="942" y="1479" width="12" height="14" />
+      </word>
+      <word id="m04-107-04-04" tag="VBD" text="seemed">
+        <cmp x="1052" y="1465" width="358" height="88" />
+      </word>
+      <word id="m04-107-04-05" tag="IN" text="to">
+        <cmp x="1424" y="1462" width="115" height="81" />
+      </word>
+      <word id="m04-107-04-06" tag="PP3O" text="her">
+        <cmp x="1559" y="1455" width="167" height="87" />
+      </word>
+      <word id="m04-107-04-07" tag="CS" text="that">
+        <cmp x="1754" y="1460" width="249" height="84" />
+      </word>
+      <word id="m04-107-04-08" tag="PP3A" text="she">
+        <cmp x="2023" y="1527" width="11" height="13" />
+        <cmp x="2034" y="1457" width="152" height="89" />
+      </word>
+      <upper-contour>
+        <point x="348" y="1417" />
+        <point x="2187" y="1417" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="1561" />
+        <point x="2158" y="1561" />
+      </lower-contour>
+    </line>
+    <line ass="-147" asx="0" asy="1628" character-width="999" dss="-147" dsx="0" dsy="1775" fd0="13304" fd1="2979" fd2="-390" filter-width="4" id="m04-107-05" lbs="-140" lbx="0" lby="1718" segmentation="ok" slant="66000" stroke-width="6703" threshold="172" text="would never see her Dai again. And" ubs="-161" ubx="0" uby="1687">
+      <word id="m04-107-05-00" tag="MD" text="would">
+        <cmp x="347" y="1649" width="311" height="80" />
+      </word>
+      <word id="m04-107-05-01" tag="RB" text="never">
+        <cmp x="686" y="1680" width="245" height="43" />
+      </word>
+      <word id="m04-107-05-02" tag="VB" text="see">
+        <cmp x="974" y="1680" width="148" height="51" />
+      </word>
+      <word id="m04-107-05-03" tag="PP$" text="her">
+        <cmp x="1155" y="1632" width="163" height="93" />
+      </word>
+      <word id="m04-107-05-04" tag="NP" text="Dai">
+        <cmp x="1347" y="1644" width="155" height="81" />
+        <cmp x="1500" y="1658" width="11" height="16" />
+      </word>
+      <word id="m04-107-05-05" tag="RB" text="again">
+        <cmp x="1544" y="1685" width="306" height="96" />
+        <cmp x="1770" y="1662" width="8" height="20" />
+      </word>
+      <word id="m04-107-05-06" tag="." text=".">
+        <cmp x="1876" y="1715" width="16" height="17" />
+      </word>
+      <word id="m04-107-05-07" sentence-start="yes" tag="CC" text="And">
+        <cmp x="1958" y="1635" width="199" height="90" />
+      </word>
+      <upper-contour>
+        <point x="348" y="1561" />
+        <point x="2158" y="1561" />
+      </upper-contour>
+      <lower-contour>
+        <point x="345" y="1781" />
+        <point x="2133" y="1781" />
+      </lower-contour>
+    </line>
+    <line ass="104" asx="0" asy="1819" character-width="999" dss="104" dsx="0" dsy="1956" fd0="12788" fd1="2541" fd2="-937" filter-width="4" id="m04-107-06" lbs="140" lbx="0" lby="1904" segmentation="ok" slant="63000" stroke-width="6670" threshold="170" text="though half an hour ago she had" ubs="33" ubx="0" uby="1871">
+      <word id="m04-107-06-00" tag="CS" text="though">
+        <cmp x="338" y="1819" width="334" height="138" />
+      </word>
+      <word id="m04-107-06-01" tag="ABN" text="half">
+        <cmp x="718" y="1820" width="205" height="133" />
+      </word>
+      <word id="m04-107-06-02" tag="AT" text="an">
+        <cmp x="971" y="1864" width="132" height="44" />
+      </word>
+      <word id="m04-107-06-03" tag="NN" text="hour">
+        <cmp x="1134" y="1819" width="251" height="91" />
+      </word>
+      <word id="m04-107-06-04" tag="RB" text="ago">
+        <cmp x="1431" y="1868" width="197" height="87" />
+        <cmp x="1445" y="1888" width="8" height="7" />
+      </word>
+      <word id="m04-107-06-05" tag="PP3A" text="she">
+        <cmp x="1658" y="1828" width="189" height="83" />
+      </word>
+      <word id="m04-107-06-06" tag="HVD" text="had">
+        <cmp x="1895" y="1821" width="237" height="86" />
+      </word>
+      <upper-contour>
+        <point x="345" y="1781" />
+        <point x="2133" y="1781" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1957" />
+        <point x="1953" y="1957" />
+      </lower-contour>
+    </line>
+    <line ass="1321" asx="0" asy="2019" character-width="999" dss="1321" dsx="0" dsy="2170" fd0="13847" fd1="2199" fd2="-1288" filter-width="4" id="m04-107-07" lbs="1356" lbx="0" lby="2104" segmentation="ok" slant="61000" stroke-width="6629" threshold="172" text="regarded this possibility with" ubs="1249" ubx="0" uby="2072">
+      <word id="m04-107-07-00" tag="VBN" text="regarded">
+        <cmp x="349" y="2011" width="402" height="117" />
+      </word>
+      <word id="m04-107-07-01" tag="DT" text="this">
+        <cmp x="802" y="2001" width="208" height="92" />
+        <cmp x="969" y="2017" width="7" height="22" />
+      </word>
+      <word id="m04-107-07-02" tag="NN" text="possibility">
+        <cmp x="1057" y="2007" width="331" height="126" />
+        <cmp x="1330" y="2026" width="7" height="12" />
+        <cmp x="1385" y="2006" width="250" height="129" />
+        <cmp x="1443" y="2018" width="9" height="17" />
+        <cmp x="1521" y="2015" width="9" height="16" />
+      </word>
+      <word id="m04-107-07-03" tag="IN" text="with">
+        <cmp x="1677" y="2001" width="275" height="78" />
+        <cmp x="1808" y="2011" width="13" height="15" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1957" />
+        <point x="1953" y="1957" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="2136" />
+        <point x="1953" y="2136" />
+      </lower-contour>
+    </line>
+    <line ass="524" asx="0" asy="2185" character-width="999" dss="524" dsx="0" dsy="2316" fd0="13901" fd1="2233" fd2="-938" filter-width="4" id="m04-107-08" lbs="521" lbx="0" lby="2265" segmentation="ok" slant="59999" stroke-width="6695" threshold="169" text="fortitude, it now filled her with" ubs="528" ubx="0" uby="2236">
+      <word id="m04-107-08-00" tag="NN" text="fortitude">
+        <cmp x="350" y="2181" width="285" height="126" />
+        <cmp x="572" y="2197" width="15" height="22" />
+        <cmp x="602" y="2199" width="185" height="66" />
+      </word>
+      <word id="m04-107-08-01" tag="," text=",">
+        <cmp x="814" y="2245" width="18" height="30" />
+      </word>
+      <word id="m04-107-08-02" tag="PP3" text="it">
+        <cmp x="882" y="2190" width="127" height="74" />
+        <cmp x="938" y="2190" width="8" height="21" />
+      </word>
+      <word id="m04-107-08-03" tag="RN" text="now">
+        <cmp x="1027" y="2221" width="231" height="37" />
+      </word>
+      <word id="m04-107-08-04" tag="VBD" text="filled">
+        <cmp x="1288" y="2176" width="297" height="130" />
+        <cmp x="1393" y="2192" width="8" height="23" />
+        <cmp x="1472" y="2230" width="5" height="6" />
+      </word>
+      <word id="m04-107-08-05" tag="PP3O" text="her">
+        <cmp x="1626" y="2174" width="174" height="91" />
+      </word>
+      <word id="m04-107-08-06" tag="IN" text="with">
+        <cmp x="1846" y="2179" width="274" height="81" />
+        <cmp x="1994" y="2190" width="11" height="12" />
+      </word>
+      <upper-contour>
+        <point x="348" y="2136" />
+        <point x="1953" y="2136" />
+      </upper-contour>
+      <lower-contour>
+        <point x="356" y="2306" />
+        <point x="1986" y="2306" />
+      </lower-contour>
+    </line>
+    <line ass="-90" asx="0" asy="2348" character-width="999" dss="-90" dsx="0" dsy="2499" fd0="13588" fd1="2211" fd2="-1126" filter-width="4" id="m04-107-09" lbs="-70" lbx="0" lby="2428" segmentation="ok" slant="64000" stroke-width="6612" threshold="171" text="dismay. Quietly she began to" ubs="-130" ubx="0" uby="2405">
+      <word id="m04-107-09-00" tag="NN" text="dismay">
+        <cmp x="358" y="2360" width="395" height="138" />
+        <cmp x="452" y="2369" width="8" height="9" />
+      </word>
+      <word id="m04-107-09-01" tag="." text=".">
+        <cmp x="777" y="2434" width="13" height="13" />
+      </word>
+      <word id="m04-107-09-02" sentence-start="yes" tag="RB" text="Quietly">
+        <cmp x="871" y="2359" width="358" height="143" />
+        <cmp x="1040" y="2378" width="12" height="15" />
+      </word>
+      <word id="m04-107-09-03" tag="PP3A" text="she">
+        <cmp x="1279" y="2356" width="176" height="86" />
+      </word>
+      <word id="m04-107-09-04" tag="VBD" text="began">
+        <cmp x="1493" y="2351" width="297" height="149" />
+        <cmp x="1548" y="2403" width="4" height="10" />
+      </word>
+      <word id="m04-107-09-05" tag="TO" text="to">
+        <cmp x="1837" y="2363" width="148" height="75" />
+      </word>
+      <upper-contour>
+        <point x="356" y="2306" />
+        <point x="1986" y="2306" />
+      </upper-contour>
+      <lower-contour>
+        <point x="361" y="2498" />
+        <point x="768" y="2498" />
+      </lower-contour>
+    </line>
+    <line ass="-1735" asx="0" asy="2560" character-width="999" dss="-1735" dsx="0" dsy="2651" fd0="14103" fd1="2622" fd2="24" filter-width="4" id="m04-107-10" lbs="-605" lbx="0" lby="2618" segmentation="ok" slant="59000" stroke-width="6315" threshold="170" text="weep..." ubs="-3997" ubx="0" uby="2562">
+      <word id="m04-107-10-00" tag="VB" text="weep">
+        <cmp x="363" y="2575" width="271" height="94" />
+      </word>
+      <word id="m04-107-10-01" tag="..." text="...">
+        <cmp x="675" y="2613" width="15" height="14" />
+        <cmp x="709" y="2611" width="18" height="16" />
+        <cmp x="753" y="2612" width="14" height="14" />
+      </word>
+      <upper-contour>
+        <point x="361" y="2498" />
+        <point x="768" y="2498" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-03-16" height="3542" id="a02-027" last-modified="2002-07-17" skew="190" status="final" version="3.0_beta" width="2479" writer-id="025">
+  <machine-printed-part>
+    <machine-print-line text="The stores had been hit by the same strike wave that has paralysed the port of Takoradi" />
+    <machine-print-line text="for the past week. Root of the discontent: The austerity Budget, including a compul-" />
+    <machine-print-line text="sory savings scheme which the Ghana Government introduced in July. Ghana&apos;s strong" />
+    <machine-print-line text="man is not here to face the storm. President Nkrumah, having made his contribution" />
+    <machine-print-line text="to the neutrals&apos; conference in Belgrade, has resumed his holiday on the Black Sea and" />
+    <machine-print-line text="no one here professes to know when he will return." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="715" asx="0" asy="888" character-width="999" dss="715" dsx="0" dsy="988" fd0="13503" fd1="3003" fd2="-392" filter-width="3" id="a02-027-00" lbs="726" lbx="0" lby="959" segmentation="ok" slant="76000" stroke-width="5223" threshold="189" text="The stores had been hit by the same strike wave" ubs="693" ubx="0" uby="932">
+      <word id="a02-027-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="378" y="884" width="49" height="33" />
+        <cmp x="378" y="891" width="21" height="60" />
+        <cmp x="395" y="889" width="86" height="73" />
+      </word>
+      <word id="a02-027-00-01" tag="NNS" text="stores">
+        <cmp x="521" y="895" width="69" height="63" />
+        <cmp x="577" y="929" width="113" height="34" />
+      </word>
+      <word id="a02-027-00-02" tag="HVD" text="had">
+        <cmp x="743" y="893" width="128" height="69" />
+      </word>
+      <word id="a02-027-00-03" tag="BEN" text="been">
+        <cmp x="910" y="886" width="160" height="66" />
+      </word>
+      <word id="a02-027-00-04" tag="VBN" text="hit">
+        <cmp x="1114" y="882" width="55" height="57" />
+        <cmp x="1168" y="887" width="71" height="67" />
+        <cmp x="1170" y="908" width="6" height="10" />
+      </word>
+      <word id="a02-027-00-05" tag="IN" text="by">
+        <cmp x="1290" y="885" width="96" height="89" />
+      </word>
+      <word id="a02-027-00-06" tag="ATI" text="the">
+        <cmp x="1411" y="887" width="101" height="62" />
+      </word>
+      <word id="a02-027-00-07" tag="AP" text="same">
+        <cmp x="1556" y="914" width="154" height="32" />
+      </word>
+      <word id="a02-027-00-08" tag="NN" text="strike">
+        <cmp x="1757" y="910" width="23" height="28" />
+        <cmp x="1786" y="881" width="41" height="57" />
+        <cmp x="1806" y="919" width="45" height="19" />
+        <cmp x="1851" y="907" width="6" height="7" />
+        <cmp x="1853" y="881" width="95" height="63" />
+      </word>
+      <word id="a02-027-00-09" tag="NN" text="wave">
+        <cmp x="1978" y="897" width="166" height="38" />
+      </word>
+      <lower-contour>
+        <point x="376" y="974" />
+        <point x="2144" y="974" />
+      </lower-contour>
+    </line>
+    <line ass="856" asx="0" asy="1060" character-width="999" dss="856" dsx="0" dsy="1169" fd0="13138" fd1="2603" fd2="-291" filter-width="3" id="a02-027-01" lbs="845" lbx="0" lby="1138" segmentation="ok" slant="75000" stroke-width="5167" threshold="189" text="that has paralysed the port of Takoradi for the past" ubs="877" ubx="0" uby="1110">
+      <word id="a02-027-01-00" tag="WP" text="that">
+        <cmp x="359" y="1076" width="34" height="52" />
+        <cmp x="371" y="1072" width="141" height="70" />
+      </word>
+      <word id="a02-027-01-01" tag="HVZ" text="has">
+        <cmp x="551" y="1070" width="101" height="72" />
+      </word>
+      <word id="a02-027-01-02" tag="VBN" text="paralysed">
+        <cmp x="709" y="1059" width="282" height="102" />
+      </word>
+      <word id="a02-027-01-03" tag="ATI" text="the">
+        <cmp x="1032" y="1057" width="26" height="53" />
+        <cmp x="1045" y="1045" width="95" height="77" />
+      </word>
+      <word id="a02-027-01-04" tag="NN" text="port">
+        <cmp x="1185" y="1065" width="124" height="77" />
+      </word>
+      <word id="a02-027-01-05" tag="INO" text="of">
+        <cmp x="1339" y="1054" width="85" height="86" />
+      </word>
+      <word id="a02-027-01-06" tag="NP" text="Takoradi">
+        <cmp x="1469" y="1051" width="47" height="34" />
+        <cmp x="1469" y="1058" width="22" height="51" />
+        <cmp x="1486" y="1054" width="248" height="65" />
+        <cmp x="1739" y="1086" width="9" height="7" />
+      </word>
+      <word id="a02-027-01-07" tag="IN" text="for">
+        <cmp x="1794" y="1050" width="94" height="78" />
+      </word>
+      <word id="a02-027-01-08" tag="ATI" text="the">
+        <cmp x="1917" y="1052" width="33" height="54" />
+        <cmp x="1935" y="1050" width="92" height="62" />
+      </word>
+      <word id="a02-027-01-09" tag="JJB" text="past">
+        <cmp x="2057" y="1053" width="143" height="81" />
+      </word>
+      <upper-contour>
+        <point x="376" y="974" />
+        <point x="2144" y="974" />
+      </upper-contour>
+      <lower-contour>
+        <point x="357" y="1160" />
+        <point x="2200" y="1160" />
+      </lower-contour>
+    </line>
+    <line ass="325" asx="0" asy="1239" character-width="999" dss="325" dsx="0" dsy="1342" fd0="13320" fd1="2928" fd2="-581" filter-width="3" id="a02-027-02" lbs="337" lbx="0" lby="1308" segmentation="ok" slant="73000" stroke-width="5243" threshold="188" text="week. Root of the discontent: The austerity Budget," ubs="303" ubx="0" uby="1280">
+      <word id="a02-027-02-00" tag="NN" text="week">
+        <cmp x="354" y="1247" width="182" height="81" />
+      </word>
+      <word id="a02-027-02-01" tag="." text=".">
+        <cmp x="557" y="1319" width="8" height="5" />
+      </word>
+      <word id="a02-027-02-02" sentence-start="yes" tag="NN" text="Root">
+        <cmp x="639" y="1245" width="140" height="58" />
+      </word>
+      <word id="a02-027-02-03" tag="INO" text="of">
+        <cmp x="804" y="1233" width="81" height="73" />
+      </word>
+      <word id="a02-027-02-04" tag="ATI" text="the">
+        <cmp x="932" y="1243" width="31" height="53" />
+        <cmp x="946" y="1238" width="94" height="69" />
+      </word>
+      <word id="a02-027-02-05" tag="NN" text="discontent">
+        <cmp x="1091" y="1241" width="48" height="55" />
+        <cmp x="1136" y="1272" width="5" height="5" />
+        <cmp x="1140" y="1253" width="266" height="60" />
+      </word>
+      <word id="a02-027-02-06" tag=":" text=":">
+        <cmp x="1434" y="1273" width="6" height="5" />
+        <cmp x="1434" y="1289" width="6" height="7" />
+      </word>
+      <word id="a02-027-02-07" tag="ATI" text="The">
+        <cmp x="1502" y="1233" width="58" height="57" />
+        <cmp x="1524" y="1234" width="99" height="66" />
+      </word>
+      <word id="a02-027-02-08" tag="NN" text="austerity">
+        <cmp x="1675" y="1239" width="144" height="59" />
+        <cmp x="1803" y="1272" width="67" height="26" />
+        <cmp x="1870" y="1245" width="93" height="88" />
+        <cmp x="1874" y="1267" width="4" height="7" />
+      </word>
+      <word id="a02-027-02-09" tag="NN" text="Budget">
+        <cmp x="1998" y="1233" width="22" height="64" />
+        <cmp x="2020" y="1237" width="179" height="84" />
+      </word>
+      <word id="a02-027-02-10" tag="," text=",">
+        <cmp x="2173" y="1288" width="27" height="42" />
+      </word>
+      <upper-contour>
+        <point x="357" y="1160" />
+        <point x="2200" y="1160" />
+      </upper-contour>
+      <lower-contour>
+        <point x="352" y="1335" />
+        <point x="2112" y="1335" />
+      </lower-contour>
+    </line>
+    <line ass="843" asx="0" asy="1441" character-width="999" dss="843" dsx="0" dsy="1535" fd0="13563" fd1="2915" fd2="-350" filter-width="3" id="a02-027-03" lbs="824" lbx="0" lby="1505" segmentation="ok" slant="71000" stroke-width="5397" threshold="186" text="including a compulsory savings scheme which the" ubs="882" ubx="0" uby="1484">
+      <word id="a02-027-03-00" tag="IN" text="including">
+        <cmp x="354" y="1434" width="231" height="74" />
+        <cmp x="376" y="1457" width="5" height="7" />
+        <cmp x="581" y="1470" width="5" height="8" />
+        <cmp x="584" y="1478" width="93" height="49" />
+      </word>
+      <word id="a02-027-03-01" tag="AT" text="a">
+        <cmp x="716" y="1465" width="41" height="36" />
+      </word>
+      <word id="a02-027-03-02" tag="JJ" text="compulsory">
+        <cmp x="802" y="1431" width="356" height="88" />
+      </word>
+      <word id="a02-027-03-03" tag="NNS" text="savings">
+        <cmp x="1195" y="1458" width="229" height="58" />
+        <cmp x="1304" y="1457" width="7" height="7" />
+      </word>
+      <word id="a02-027-03-04" tag="NN" text="scheme">
+        <cmp x="1469" y="1423" width="220" height="73" />
+      </word>
+      <word id="a02-027-03-05" tag="WDT" text="which">
+        <cmp x="1740" y="1423" width="108" height="54" />
+        <cmp x="1848" y="1447" width="5" height="7" />
+        <cmp x="1849" y="1417" width="102" height="63" />
+      </word>
+      <word id="a02-027-03-06" tag="ATI" text="the">
+        <cmp x="1991" y="1428" width="27" height="51" />
+        <cmp x="2004" y="1415" width="108" height="69" />
+      </word>
+      <upper-contour>
+        <point x="352" y="1335" />
+        <point x="2112" y="1335" />
+      </upper-contour>
+      <lower-contour>
+        <point x="370" y="1526" />
+        <point x="2112" y="1526" />
+      </lower-contour>
+    </line>
+    <line ass="1386" asx="0" asy="1615" character-width="999" dss="1386" dsx="0" dsy="1720" fd0="13591" fd1="2771" fd2="-155" filter-width="3" id="a02-027-04" lbs="1405" lbx="0" lby="1693" segmentation="ok" slant="76000" stroke-width="5326" threshold="184" text="Ghana Government introduced in July. Ghana&apos;s strong" ubs="1347" ubx="0" uby="1670">
+      <word id="a02-027-04-00" tag="NP" text="Ghana">
+        <cmp x="372" y="1622" width="190" height="74" />
+      </word>
+      <word id="a02-027-04-01" tag="NN" text="Government">
+        <cmp x="620" y="1621" width="324" height="83" />
+      </word>
+      <word id="a02-027-04-02" tag="VBD" text="introduced">
+        <cmp x="989" y="1622" width="95" height="47" />
+        <cmp x="1003" y="1635" width="6" height="4" />
+        <cmp x="1073" y="1608" width="227" height="64" />
+      </word>
+      <word id="a02-027-04-03" tag="IN" text="in">
+        <cmp x="1327" y="1644" width="18" height="19" />
+        <cmp x="1344" y="1637" width="5" height="6" />
+        <cmp x="1345" y="1642" width="62" height="19" />
+      </word>
+      <word id="a02-027-04-04" tag="NR" text="July">
+        <cmp x="1436" y="1580" width="136" height="101" />
+      </word>
+      <word id="a02-027-04-05" tag="." text=".">
+        <cmp x="1592" y="1647" width="7" height="8" />
+      </word>
+      <word id="a02-027-04-06" sentence-start="yes" tag="NP$" text="Ghana&apos;s">
+        <cmp x="1660" y="1587" width="199" height="85" />
+        <cmp x="1871" y="1586" width="6" height="17" />
+        <cmp x="1885" y="1624" width="34" height="35" />
+      </word>
+      <word id="a02-027-04-07" tag="JJ" text="strong">
+        <cmp x="1949" y="1597" width="67" height="46" />
+        <cmp x="2002" y="1616" width="139" height="55" />
+      </word>
+      <upper-contour>
+        <point x="370" y="1526" />
+        <point x="2112" y="1526" />
+      </upper-contour>
+      <lower-contour>
+        <point x="370" y="1703" />
+        <point x="2142" y="1703" />
+      </lower-contour>
+    </line>
+    <line ass="890" asx="0" asy="1796" character-width="999" dss="890" dsx="0" dsy="1897" fd0="13344" fd1="2944" fd2="-103" filter-width="3" id="a02-027-05" lbs="916" lbx="0" lby="1864" segmentation="ok" slant="76000" stroke-width="5256" threshold="185" text="man is not here to face the storm. President Nkrumah," ubs="837" ubx="0" uby="1839">
+      <word id="a02-027-05-00" tag="NN" text="man">
+        <cmp x="353" y="1831" width="148" height="28" />
+      </word>
+      <word id="a02-027-05-01" tag="BEZ" text="is">
+        <cmp x="549" y="1838" width="39" height="26" />
+        <cmp x="560" y="1823" width="7" height="6" />
+      </word>
+      <word id="a02-027-05-02" tag="XNOT" text="not">
+        <cmp x="629" y="1793" width="120" height="60" />
+      </word>
+      <word id="a02-027-05-03" tag="RN" text="here">
+        <cmp x="785" y="1794" width="141" height="68" />
+      </word>
+      <word id="a02-027-05-04" tag="TO" text="to">
+        <cmp x="969" y="1788" width="26" height="61" />
+        <cmp x="988" y="1818" width="52" height="36" />
+      </word>
+      <word id="a02-027-05-05" tag="VB" text="face">
+        <cmp x="1060" y="1788" width="146" height="66" />
+      </word>
+      <word id="a02-027-05-06" tag="ATI" text="the">
+        <cmp x="1252" y="1788" width="24" height="47" />
+        <cmp x="1267" y="1787" width="93" height="61" />
+      </word>
+      <word id="a02-027-05-07" tag="NN" text="storm">
+        <cmp x="1398" y="1778" width="66" height="62" />
+        <cmp x="1447" y="1819" width="104" height="23" />
+      </word>
+      <word id="a02-027-05-08" tag="." text=".">
+        <cmp x="1575" y="1834" width="7" height="6" />
+      </word>
+      <word id="a02-027-05-09" sentence-start="yes" tag="NPT" text="President">
+        <cmp x="1641" y="1772" width="20" height="60" />
+        <cmp x="1649" y="1804" width="111" height="33" />
+        <cmp x="1760" y="1808" width="5" height="6" />
+        <cmp x="1765" y="1783" width="160" height="59" />
+      </word>
+      <word id="a02-027-05-10" tag="NP" text="Nkrumah">
+        <cmp x="1961" y="1785" width="271" height="57" />
+      </word>
+      <word id="a02-027-05-11" tag="," text=",">
+        <cmp x="2222" y="1819" width="33" height="44" />
+      </word>
+      <upper-contour>
+        <point x="370" y="1703" />
+        <point x="2142" y="1703" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1863" />
+        <point x="2213" y="1863" />
+      </lower-contour>
+    </line>
+    <line ass="205" asx="0" asy="1951" character-width="999" dss="205" dsx="0" dsy="2067" fd0="13602" fd1="3049" fd2="-257" filter-width="3" id="a02-027-06" lbs="96" lbx="0" lby="2022" segmentation="ok" slant="76000" stroke-width="5331" threshold="186" text="having made his contribution to the neutrals&apos; conference" ubs="424" ubx="0" uby="2006">
+      <word id="a02-027-06-00" tag="HVG" text="having">
+        <cmp x="351" y="1977" width="192" height="89" />
+        <cmp x="470" y="2003" width="6" height="6" />
+      </word>
+      <word id="a02-027-06-01" tag="VBN" text="made">
+        <cmp x="575" y="1969" width="155" height="65" />
+      </word>
+      <word id="a02-027-06-02" tag="PP$" text="his">
+        <cmp x="772" y="1968" width="60" height="50" />
+        <cmp x="832" y="1995" width="4" height="8" />
+        <cmp x="841" y="2011" width="23" height="12" />
+      </word>
+      <word id="a02-027-06-03" tag="NN" text="contribution">
+        <cmp x="908" y="1974" width="164" height="55" />
+        <cmp x="1071" y="1992" width="5" height="8" />
+        <cmp x="1076" y="1962" width="124" height="64" />
+        <cmp x="1190" y="2009" width="20" height="11" />
+        <cmp x="1214" y="1994" width="7" height="7" />
+        <cmp x="1217" y="1999" width="73" height="30" />
+        <cmp x="1289" y="1992" width="3" height="4" />
+      </word>
+      <word id="a02-027-06-04" tag="IN" text="to">
+        <cmp x="1332" y="1965" width="30" height="49" />
+        <cmp x="1351" y="1962" width="66" height="55" />
+      </word>
+      <word id="a02-027-06-05" tag="ATI" text="the">
+        <cmp x="1455" y="1965" width="22" height="56" />
+        <cmp x="1473" y="1957" width="98" height="68" />
+      </word>
+      <word id="a02-027-06-06" tag="NNS$" text="neutrals&apos;">
+        <cmp x="1618" y="1957" width="238" height="70" />
+        <cmp x="1872" y="1946" width="6" height="40" />
+      </word>
+      <word id="a02-027-06-07" tag="NN" text="conference">
+        <cmp x="1927" y="1957" width="285" height="70" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1863" />
+        <point x="2213" y="1863" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="2065" />
+        <point x="2105" y="2065" />
+      </lower-contour>
+    </line>
+    <line ass="780" asx="0" asy="2152" character-width="999" dss="780" dsx="0" dsy="2257" fd0="13364" fd1="2618" fd2="-236" filter-width="3" id="a02-027-07" lbs="816" lbx="0" lby="2222" segmentation="ok" slant="68000" stroke-width="5257" threshold="185" text="in Belgrade, has resumed his holiday on the Black" ubs="708" ubx="0" uby="2197">
+      <word id="a02-027-07-00" tag="IN" text="in">
+        <cmp x="351" y="2193" width="14" height="19" />
+        <cmp x="365" y="2183" width="5" height="4" />
+        <cmp x="367" y="2198" width="70" height="15" />
+      </word>
+      <word id="a02-027-07-01" tag="NP" text="Belgrade">
+        <cmp x="482" y="2161" width="23" height="56" />
+        <cmp x="506" y="2144" width="229" height="96" />
+      </word>
+      <word id="a02-027-07-02" tag="," text=",">
+        <cmp x="760" y="2200" width="12" height="45" />
+      </word>
+      <word id="a02-027-07-03" tag="HVZ" text="has">
+        <cmp x="800" y="2147" width="112" height="71" />
+      </word>
+      <word id="a02-027-07-04" tag="VBN" text="resumed">
+        <cmp x="951" y="2143" width="250" height="63" />
+      </word>
+      <word id="a02-027-07-05" tag="PP$" text="his">
+        <cmp x="1239" y="2145" width="60" height="51" />
+        <cmp x="1298" y="2171" width="5" height="7" />
+        <cmp x="1314" y="2185" width="19" height="20" />
+      </word>
+      <word id="a02-027-07-06" tag="NN" text="holiday">
+        <cmp x="1370" y="2137" width="127" height="71" />
+        <cmp x="1498" y="2176" width="7" height="9" />
+        <cmp x="1501" y="2151" width="148" height="86" />
+      </word>
+      <word id="a02-027-07-07" tag="IN" text="on">
+        <cmp x="1683" y="2170" width="58" height="23" />
+      </word>
+      <word id="a02-027-07-08" tag="ATI" text="the">
+        <cmp x="1782" y="2153" width="27" height="44" />
+        <cmp x="1793" y="2141" width="111" height="63" />
+      </word>
+      <word id="a02-027-07-09" tag="NP" text="Black">
+        <cmp x="1934" y="2137" width="170" height="72" />
+      </word>
+      <upper-contour>
+        <point x="349" y="2065" />
+        <point x="2105" y="2065" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="2244" />
+        <point x="2105" y="2244" />
+      </lower-contour>
+    </line>
+    <line ass="410" asx="0" asy="2329" character-width="999" dss="410" dsx="0" dsy="2430" fd0="13503" fd1="2764" fd2="-58" filter-width="3" id="a02-027-08" lbs="441" lbx="0" lby="2406" segmentation="ok" slant="73000" stroke-width="5300" threshold="184" text="Sea and no one here professes to know when he" ubs="349" ubx="0" uby="2379">
+      <word id="a02-027-08-00" tag="NPL" text="Sea">
+        <cmp x="351" y="2328" width="36" height="57" />
+        <cmp x="371" y="2362" width="101" height="40" />
+      </word>
+      <word id="a02-027-08-01" tag="CC" text="and">
+        <cmp x="529" y="2349" width="114" height="57" />
+      </word>
+      <word id="a02-027-08-02" tag="PN21" text="no">
+        <cmp x="702" y="2377" width="71" height="36" />
+      </word>
+      <word id="a02-027-08-03" tag="PN22" text="one">
+        <cmp x="817" y="2370" width="96" height="36" />
+      </word>
+      <word id="a02-027-08-04" tag="RN" text="here">
+        <cmp x="963" y="2338" width="139" height="68" />
+      </word>
+      <word id="a02-027-08-05" tag="VBZ" text="professes">
+        <cmp x="1153" y="2333" width="206" height="90" />
+        <cmp x="1362" y="2376" width="71" height="30" />
+      </word>
+      <word id="a02-027-08-06" tag="TO" text="to">
+        <cmp x="1473" y="2338" width="36" height="59" />
+        <cmp x="1497" y="2361" width="55" height="36" />
+      </word>
+      <word id="a02-027-08-07" tag="VB" text="know">
+        <cmp x="1579" y="2330" width="182" height="63" />
+      </word>
+      <word id="a02-027-08-08" tag="WRB" text="when">
+        <cmp x="1787" y="2336" width="183" height="61" />
+      </word>
+      <word id="a02-027-08-09" tag="PP3A" text="he">
+        <cmp x="2012" y="2328" width="106" height="69" />
+      </word>
+      <upper-contour>
+        <point x="349" y="2244" />
+        <point x="2105" y="2244" />
+      </upper-contour>
+      <lower-contour>
+        <point x="360" y="2412" />
+        <point x="809" y="2412" />
+      </lower-contour>
+    </line>
+    <line ass="-2377" asx="0" asy="2495" character-width="999" dss="-2377" dsx="0" dsy="2562" fd0="14296" fd1="2431" fd2="-429" filter-width="3" id="a02-027-09" lbs="-1833" lbx="0" lby="2563" segmentation="ok" slant="75000" stroke-width="5297" threshold="183" text="will return." ubs="-3464" ubx="0" uby="2523">
+      <word id="a02-027-09-00" tag="MD" text="will">
+        <cmp x="362" y="2516" width="169" height="70" />
+        <cmp x="444" y="2547" width="4" height="5" />
+      </word>
+      <word id="a02-027-09-01" tag="VB" text="return">
+        <cmp x="568" y="2528" width="109" height="55" />
+        <cmp x="659" y="2561" width="122" height="31" />
+      </word>
+      <word id="a02-027-09-02" tag="." text=".">
+        <cmp x="803" y="2582" width="6" height="7" />
+      </word>
+      <upper-contour>
+        <point x="360" y="2412" />
+        <point x="809" y="2412" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

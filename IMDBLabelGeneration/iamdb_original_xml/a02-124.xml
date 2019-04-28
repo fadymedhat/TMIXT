@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-03-16" height="3542" id="a02-124" last-modified="2002-07-17" skew="95" status="final" version="3.0_beta" width="2479" writer-id="037">
+  <machine-printed-part>
+    <machine-print-line text="Measures agreed so far include: 1. A mass call-out of police, special constables and" />
+    <machine-print-line text="reserves, with 750 policemen posted from outlying districts to stations in the area -" />
+    <machine-print-line text="West End Central, Bow-street, and Cannon-row." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="476" asx="0" asy="612" character-width="999" dss="476" dsx="0" dsy="742" fd0="13716" fd1="2676" fd2="-146" filter-width="4" id="a02-124-00" lbs="530" lbx="0" lby="693" segmentation="ok" slant="75000" stroke-width="5863" threshold="187" text="Measures agreed so far include: 1. A mass" ubs="367" ubx="0" uby="662">
+      <word id="a02-124-00-00" sentence-start="yes" tag="NNS" text="Measures">
+        <cmp x="392" y="617" width="57" height="80" />
+        <cmp x="467" y="657" width="114" height="35" />
+        <cmp x="595" y="656" width="68" height="35" />
+        <cmp x="676" y="651" width="65" height="37" />
+      </word>
+      <word id="a02-124-00-01" tag="VBN" text="agreed">
+        <cmp x="828" y="647" width="128" height="89" />
+        <cmp x="962" y="604" width="134" height="82" />
+      </word>
+      <word id="a02-124-00-02" tag="QL" text="so">
+        <cmp x="1157" y="648" width="32" height="35" />
+        <cmp x="1203" y="654" width="29" height="29" />
+      </word>
+      <word id="a02-124-00-03" tag="RB" text="far">
+        <cmp x="1281" y="627" width="126" height="106" />
+      </word>
+      <word id="a02-124-00-04" tag="VB" text="include">
+        <cmp x="1459" y="654" width="74" height="26" />
+        <cmp x="1481" y="636" width="10" height="6" />
+        <cmp x="1548" y="614" width="70" height="63" />
+        <cmp x="1613" y="614" width="93" height="65" />
+        <cmp x="1706" y="647" width="30" height="37" />
+      </word>
+      <word id="a02-124-00-05" tag=":" text=":">
+        <cmp x="1764" y="676" width="8" height="6" />
+        <cmp x="1768" y="655" width="7" height="8" />
+      </word>
+      <word id="a02-124-00-06" tag="CD1" text="1">
+        <cmp x="1852" y="641" width="14" height="37" />
+      </word>
+      <word id="a02-124-00-07" tag="." text=".">
+        <cmp x="1880" y="670" width="6" height="5" />
+      </word>
+      <word id="a02-124-00-08" tag="AT" text="A">
+        <cmp x="1963" y="618" width="45" height="59" />
+      </word>
+      <word id="a02-124-00-09" tag="NN" text="mass">
+        <cmp x="2066" y="647" width="60" height="27" />
+        <cmp x="2131" y="645" width="93" height="42" />
+      </word>
+      <lower-contour>
+        <point x="410" y="736" />
+        <point x="2083" y="736" />
+      </lower-contour>
+    </line>
+    <line ass="809" asx="0" asy="802" character-width="999" dss="809" dsx="0" dsy="920" fd0="13856" fd1="3027" fd2="0" filter-width="4" id="a02-124-01" lbs="778" lbx="0" lby="876" segmentation="ok" slant="71000" stroke-width="5951" threshold="187" text="call-out of police, special constables" ubs="870" ubx="0" uby="849">
+      <word id="a02-124-01-00" tag="NN" text="call-out">
+        <cmp x="412" y="834" width="30" height="39" />
+        <cmp x="456" y="812" width="72" height="60" />
+        <cmp x="530" y="803" width="19" height="68" />
+        <cmp x="569" y="850" width="34" height="10" />
+        <cmp x="631" y="820" width="111" height="48" />
+      </word>
+      <word id="a02-124-01-01" tag="INO" text="of">
+        <cmp x="837" y="797" width="90" height="112" />
+      </word>
+      <word id="a02-124-01-02" tag="NNS" text="police">
+        <cmp x="998" y="828" width="51" height="78" />
+        <cmp x="1059" y="787" width="90" height="73" />
+        <cmp x="1143" y="817" width="6" height="8" />
+        <cmp x="1167" y="825" width="61" height="35" />
+      </word>
+      <word id="a02-124-01-03" tag="," text=",">
+        <cmp x="1252" y="855" width="16" height="24" />
+      </word>
+      <word id="a02-124-01-04" tag="JJ" text="special">
+        <cmp x="1345" y="829" width="34" height="28" />
+        <cmp x="1380" y="820" width="32" height="70" />
+        <cmp x="1405" y="825" width="20" height="36" />
+        <cmp x="1433" y="827" width="104" height="34" />
+        <cmp x="1539" y="810" width="7" height="7" />
+        <cmp x="1554" y="799" width="70" height="59" />
+      </word>
+      <word id="a02-124-01-05" tag="NNS" text="constables">
+        <cmp x="1713" y="825" width="23" height="29" />
+        <cmp x="1752" y="818" width="105" height="37" />
+        <cmp x="1867" y="814" width="31" height="37" />
+        <cmp x="1903" y="794" width="68" height="55" />
+        <cmp x="1991" y="793" width="91" height="57" />
+      </word>
+      <upper-contour>
+        <point x="410" y="736" />
+        <point x="2083" y="736" />
+      </upper-contour>
+      <lower-contour>
+        <point x="410" y="909" />
+        <point x="2083" y="909" />
+      </lower-contour>
+    </line>
+    <line ass="1141" asx="0" asy="982" character-width="999" dss="1141" dsx="0" dsy="1099" fd0="14096" fd1="3195" fd2="-22" filter-width="4" id="a02-124-02" lbs="1193" lbx="0" lby="1059" segmentation="ok" slant="71000" stroke-width="5956" threshold="186" text="and reserves, with 750 policemen posted" ubs="1038" ubx="0" uby="1027">
+      <word id="a02-124-02-00" tag="CC" text="and">
+        <cmp x="401" y="1018" width="90" height="38" />
+        <cmp x="496" y="973" width="44" height="73" />
+      </word>
+      <word id="a02-124-02-01" tag="NNS" text="reserves">
+        <cmp x="626" y="1009" width="29" height="35" />
+        <cmp x="657" y="1009" width="25" height="33" />
+        <cmp x="696" y="1006" width="28" height="38" />
+        <cmp x="737" y="1010" width="68" height="32" />
+        <cmp x="827" y="1010" width="37" height="33" />
+        <cmp x="859" y="1003" width="59" height="44" />
+      </word>
+      <word id="a02-124-02-02" tag="," text=",">
+        <cmp x="939" y="1037" width="8" height="9" />
+      </word>
+      <word id="a02-124-02-03" tag="IN" text="with">
+        <cmp x="1029" y="999" width="84" height="43" />
+        <cmp x="1118" y="1016" width="16" height="25" />
+        <cmp x="1139" y="1002" width="11" height="5" />
+        <cmp x="1149" y="1004" width="33" height="37" />
+        <cmp x="1187" y="978" width="36" height="71" />
+      </word>
+      <word id="a02-124-02-04" tag="CD" text="750">
+        <cmp x="1307" y="980" width="31" height="63" />
+        <cmp x="1348" y="992" width="22" height="37" />
+        <cmp x="1374" y="994" width="27" height="9" />
+        <cmp x="1404" y="991" width="33" height="34" />
+      </word>
+      <word id="a02-124-02-05" tag="NNS" text="policemen">
+        <cmp x="1501" y="990" width="27" height="73" />
+        <cmp x="1530" y="1001" width="15" height="29" />
+        <cmp x="1551" y="964" width="93" height="62" />
+        <cmp x="1642" y="978" width="6" height="5" />
+        <cmp x="1659" y="992" width="57" height="29" />
+        <cmp x="1730" y="990" width="55" height="29" />
+        <cmp x="1802" y="991" width="72" height="31" />
+      </word>
+      <word id="a02-124-02-06" tag="VBN" text="posted">
+        <cmp x="1929" y="986" width="30" height="75" />
+        <cmp x="1965" y="996" width="16" height="25" />
+        <cmp x="1993" y="993" width="59" height="28" />
+        <cmp x="2068" y="955" width="128" height="66" />
+      </word>
+      <upper-contour>
+        <point x="410" y="909" />
+        <point x="2083" y="909" />
+      </upper-contour>
+      <lower-contour>
+        <point x="409" y="1063" />
+        <point x="2093" y="1063" />
+      </lower-contour>
+    </line>
+    <line ass="1554" asx="0" asy="1161" character-width="999" dss="1554" dsx="0" dsy="1291" fd0="13497" fd1="2630" fd2="-602" filter-width="4" id="a02-124-03" lbs="1802" lbx="0" lby="1250" segmentation="ok" slant="82000" stroke-width="5873" threshold="186" text="from outlying districts to stations in" ubs="1057" ubx="0" uby="1207">
+      <word id="a02-124-03-00" tag="IN" text="from">
+        <cmp x="411" y="1149" width="73" height="131" />
+        <cmp x="497" y="1196" width="86" height="28" />
+      </word>
+      <word id="a02-124-03-01" tag="JJ" text="outlying">
+        <cmp x="684" y="1174" width="130" height="47" />
+        <cmp x="814" y="1157" width="63" height="113" />
+        <cmp x="893" y="1182" width="105" height="84" />
+        <cmp x="894" y="1171" width="10" height="6" />
+      </word>
+      <word id="a02-124-03-02" tag="NNS" text="districts">
+        <cmp x="1105" y="1147" width="93" height="69" />
+        <cmp x="1145" y="1165" width="15" height="7" />
+        <cmp x="1214" y="1178" width="73" height="34" />
+        <cmp x="1294" y="1187" width="9" height="24" />
+        <cmp x="1305" y="1169" width="6" height="6" />
+        <cmp x="1325" y="1182" width="30" height="30" />
+        <cmp x="1360" y="1175" width="71" height="41" />
+      </word>
+      <word id="a02-124-03-03" tag="IN" text="to">
+        <cmp x="1483" y="1176" width="85" height="28" />
+      </word>
+      <word id="a02-124-03-04" tag="NNS" text="stations">
+        <cmp x="1638" y="1168" width="39" height="37" />
+        <cmp x="1682" y="1171" width="33" height="32" />
+        <cmp x="1727" y="1177" width="30" height="22" />
+        <cmp x="1763" y="1171" width="146" height="32" />
+        <cmp x="1831" y="1164" width="11" height="6" />
+        <cmp x="1930" y="1171" width="32" height="35" />
+      </word>
+      <word id="a02-124-03-05" tag="IN" text="in">
+        <cmp x="2017" y="1176" width="75" height="25" />
+        <cmp x="2029" y="1153" width="12" height="6" />
+      </word>
+      <upper-contour>
+        <point x="409" y="1063" />
+        <point x="2093" y="1063" />
+      </upper-contour>
+      <lower-contour>
+        <point x="409" y="1279" />
+        <point x="2093" y="1279" />
+      </lower-contour>
+    </line>
+    <line ass="399" asx="0" asy="1335" character-width="999" dss="399" dsx="0" dsy="1422" fd0="13735" fd1="3577" fd2="248" filter-width="4" id="a02-124-04" lbs="364" lbx="0" lby="1398" segmentation="ok" slant="68000" stroke-width="5953" threshold="185" text="the area - West End Central, Bow-street," ubs="469" ubx="0" uby="1376">
+      <word id="a02-124-04-00" tag="ATI" text="the">
+        <cmp x="394" y="1360" width="35" height="38" />
+        <cmp x="432" y="1331" width="60" height="68" />
+      </word>
+      <word id="a02-124-04-01" tag="NN" text="area">
+        <cmp x="580" y="1368" width="70" height="30" />
+        <cmp x="666" y="1375" width="70" height="24" />
+      </word>
+      <word id="a02-124-04-02" tag="*-" text="-">
+        <cmp x="794" y="1376" width="76" height="9" />
+      </word>
+      <word id="a02-124-04-03" tag="NP" text="West">
+        <cmp x="946" y="1343" width="66" height="53" />
+        <cmp x="1010" y="1364" width="57" height="31" />
+        <cmp x="1076" y="1363" width="31" height="33" />
+      </word>
+      <word id="a02-124-04-04" tag="NP" text="End">
+        <cmp x="1160" y="1328" width="150" height="67" />
+      </word>
+      <word id="a02-124-04-05" tag="NP" text="Central">
+        <cmp x="1378" y="1333" width="107" height="60" />
+        <cmp x="1493" y="1361" width="73" height="28" />
+        <cmp x="1565" y="1335" width="73" height="64" />
+      </word>
+      <word id="a02-124-04-06" tag="," text=",">
+        <cmp x="1651" y="1391" width="16" height="14" />
+      </word>
+      <word id="a02-124-04-07" tag="NP" text="Bow-street">
+        <cmp x="1743" y="1333" width="50" height="53" />
+        <cmp x="1803" y="1353" width="89" height="37" />
+        <cmp x="1918" y="1374" width="27" height="10" />
+        <cmp x="1978" y="1354" width="34" height="31" />
+        <cmp x="2022" y="1354" width="66" height="31" />
+        <cmp x="2085" y="1342" width="105" height="44" />
+      </word>
+      <word id="a02-124-04-08" tag="," text=",">
+        <cmp x="2185" y="1384" width="19" height="23" />
+      </word>
+      <upper-contour>
+        <point x="409" y="1279" />
+        <point x="2093" y="1279" />
+      </upper-contour>
+      <lower-contour>
+        <point x="401" y="1399" />
+        <point x="1093" y="1399" />
+      </lower-contour>
+    </line>
+    <line ass="-96" asx="0" asy="1509" character-width="999" dss="-96" dsx="0" dsy="1586" fd0="13839" fd1="2821" fd2="680" filter-width="4" id="a02-124-05" lbs="142" lbx="0" lby="1583" segmentation="ok" slant="72000" stroke-width="6159" threshold="182" text="and Cannon-row." ubs="-572" ubx="0" uby="1554">
+      <word id="a02-124-05-00" tag="CC" text="and">
+        <cmp x="403" y="1510" width="134" height="79" />
+      </word>
+      <word id="a02-124-05-01" tag="NP" text="Cannon-row">
+        <cmp x="616" y="1532" width="107" height="54" />
+        <cmp x="733" y="1560" width="30" height="26" />
+        <cmp x="774" y="1561" width="67" height="25" />
+        <cmp x="860" y="1573" width="25" height="7" />
+        <cmp x="928" y="1552" width="39" height="34" />
+        <cmp x="964" y="1550" width="90" height="30" />
+      </word>
+      <word id="a02-124-05-02" tag="." text=".">
+        <cmp x="1087" y="1574" width="6" height="7" />
+      </word>
+      <upper-contour>
+        <point x="401" y="1399" />
+        <point x="1093" y="1399" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

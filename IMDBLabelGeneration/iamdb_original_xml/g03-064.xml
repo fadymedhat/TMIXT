@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-18" height="3542" id="g03-064" last-modified="2002-07-24" skew="63" status="final" version="3.0_beta" width="2479" writer-id="318">
+  <machine-printed-part>
+    <machine-print-line text="Alf Barton, who in 1911 was presented with a book on the life of Marx, and a gold" />
+    <machine-print-line text="purse in recognition of his work for the movement, was later known to say that it" />
+    <machine-print-line text="was not necessary to understand Marxism in order to understand socialism, though" />
+    <machine-print-line text="at this time he was a keen member of the B.S.P.." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-549" asx="0" asy="648" character-width="999" dss="-549" dsx="0" dsy="789" fd0="12970" fd1="3030" fd2="-377" filter-width="3" id="g03-064-00" lbs="-589" lbx="0" lby="721" segmentation="ok" slant="98000" stroke-width="5483" threshold="191" text="Alf Barton, who in 1911 was presented" ubs="-468" ubx="0" uby="678">
+      <word id="g03-064-00-00" sentence-start="yes" tag="NP" text="Alf">
+        <cmp x="408" y="685" width="103" height="110" />
+        <cmp x="418" y="680" width="8" height="7" />
+        <cmp x="425" y="677" width="18" height="29" />
+      </word>
+      <word id="g03-064-00-01" tag="NP" text="Barton">
+        <cmp x="604" y="659" width="77" height="72" />
+        <cmp x="637" y="678" width="15" height="60" />
+        <cmp x="688" y="684" width="42" height="53" />
+        <cmp x="734" y="668" width="27" height="63" />
+        <cmp x="761" y="687" width="47" height="47" />
+      </word>
+      <word id="g03-064-00-02" tag="," text=",">
+        <cmp x="892" y="724" width="9" height="66" />
+      </word>
+      <word id="g03-064-00-03" tag="WP" text="who">
+        <cmp x="1005" y="659" width="104" height="92" />
+        <cmp x="1118" y="709" width="22" height="20" />
+      </word>
+      <word id="g03-064-00-04" tag="IN" text="in">
+        <cmp x="1281" y="669" width="15" height="5" />
+        <cmp x="1285" y="693" width="52" height="36" />
+      </word>
+      <word id="g03-064-00-05" tag="CD" text="1911">
+        <cmp x="1465" y="671" width="14" height="68" />
+        <cmp x="1481" y="670" width="28" height="64" />
+        <cmp x="1519" y="678" width="12" height="54" />
+        <cmp x="1537" y="678" width="9" height="51" />
+      </word>
+      <word id="g03-064-00-06" tag="BEDZ" text="was">
+        <cmp x="1639" y="681" width="101" height="64" />
+      </word>
+      <word id="g03-064-00-07" tag="VBN" text="presented">
+        <cmp x="1870" y="705" width="29" height="84" />
+        <cmp x="1907" y="705" width="97" height="41" />
+        <cmp x="2012" y="682" width="43" height="68" />
+        <cmp x="2066" y="687" width="22" height="61" />
+      </word>
+      <lower-contour>
+        <point x="406" y="795" />
+        <point x="2089" y="795" />
+      </lower-contour>
+    </line>
+    <line ass="-31" asx="0" asy="837" character-width="999" dss="-31" dsx="0" dsy="982" fd0="13162" fd1="3223" fd2="190" filter-width="3" id="g03-064-01" lbs="-30" lbx="0" lby="916" segmentation="ok" slant="98000" stroke-width="5494" threshold="191" text="with a book on the life of Marx," ubs="-33" ubx="0" uby="876">
+      <word id="g03-064-01-00" tag="IN" text="with">
+        <cmp x="403" y="862" width="83" height="74" />
+        <cmp x="468" y="873" width="11" height="14" />
+        <cmp x="489" y="847" width="66" height="75" />
+      </word>
+      <word id="g03-064-01-01" tag="AT" text="a">
+        <cmp x="680" y="874" width="32" height="40" />
+      </word>
+      <word id="g03-064-01-02" tag="NN" text="book">
+        <cmp x="879" y="840" width="36" height="75" />
+        <cmp x="921" y="876" width="22" height="29" />
+        <cmp x="948" y="879" width="20" height="28" />
+        <cmp x="969" y="839" width="39" height="74" />
+      </word>
+      <word id="g03-064-01-03" tag="IN" text="on">
+        <cmp x="1140" y="873" width="62" height="45" />
+      </word>
+      <word id="g03-064-01-04" tag="ATI" text="the">
+        <cmp x="1370" y="840" width="89" height="83" />
+      </word>
+      <word id="g03-064-01-05" tag="NN" text="life">
+        <cmp x="1585" y="847" width="73" height="81" />
+        <cmp x="1645" y="877" width="13" height="22" />
+        <cmp x="1670" y="846" width="52" height="127" />
+      </word>
+      <word id="g03-064-01-06" tag="INO" text="of">
+        <cmp x="1870" y="839" width="70" height="128" />
+      </word>
+      <word id="g03-064-01-07" tag="NP" text="Marx">
+        <cmp x="2028" y="840" width="60" height="81" />
+        <cmp x="2088" y="870" width="45" height="49" />
+        <cmp x="2154" y="868" width="24" height="63" />
+      </word>
+      <word id="g03-064-01-08" tag="," text=",">
+        <cmp x="2207" y="921" width="8" height="63" />
+      </word>
+      <upper-contour>
+        <point x="406" y="795" />
+        <point x="2089" y="795" />
+      </upper-contour>
+      <lower-contour>
+        <point x="401" y="973" />
+        <point x="2194" y="973" />
+      </lower-contour>
+    </line>
+    <line ass="-16" asx="0" asy="1026" character-width="999" dss="-16" dsx="0" dsy="1173" fd0="12925" fd1="3234" fd2="262" filter-width="3" id="g03-064-02" lbs="83" lbx="0" lby="1098" segmentation="ok" slant="100000" stroke-width="5302" threshold="191" text="and a gold purse in recognition of his" ubs="-216" ubx="0" uby="1057">
+      <word id="g03-064-02-00" tag="CC" text="and">
+        <cmp x="396" y="1027" width="105" height="70" />
+      </word>
+      <word id="g03-064-02-01" tag="AT" text="a">
+        <cmp x="648" y="1057" width="30" height="41" />
+      </word>
+      <word id="g03-064-02-02" tag="NN" text="gold">
+        <cmp x="830" y="1057" width="31" height="110" />
+        <cmp x="875" y="1068" width="20" height="32" />
+        <cmp x="903" y="1036" width="15" height="58" />
+        <cmp x="927" y="1031" width="27" height="66" />
+      </word>
+      <word id="g03-064-02-03" tag="NN" text="purse">
+        <cmp x="1161" y="1068" width="38" height="91" />
+        <cmp x="1206" y="1064" width="35" height="39" />
+        <cmp x="1253" y="1063" width="51" height="49" />
+      </word>
+      <word id="g03-064-02-04" tag="IN" text="in">
+        <cmp x="1439" y="1050" width="17" height="12" />
+        <cmp x="1439" y="1071" width="45" height="39" />
+      </word>
+      <word id="g03-064-02-05" tag="NN" text="recognition">
+        <cmp x="1594" y="1076" width="30" height="32" />
+        <cmp x="1636" y="1070" width="42" height="35" />
+        <cmp x="1688" y="1075" width="25" height="76" />
+        <cmp x="1711" y="1073" width="48" height="29" />
+        <cmp x="1758" y="1052" width="11" height="6" />
+        <cmp x="1774" y="1049" width="30" height="56" />
+        <cmp x="1796" y="1058" width="8" height="8" />
+        <cmp x="1817" y="1072" width="38" height="40" />
+      </word>
+      <word id="g03-064-02-06" tag="INO" text="of">
+        <cmp x="1952" y="1045" width="47" height="129" />
+      </word>
+      <word id="g03-064-02-07" tag="PP$" text="his">
+        <cmp x="2109" y="1035" width="60" height="65" />
+        <cmp x="2160" y="1052" width="10" height="9" />
+        <cmp x="2181" y="1067" width="12" height="41" />
+      </word>
+      <upper-contour>
+        <point x="401" y="973" />
+        <point x="2194" y="973" />
+      </upper-contour>
+      <lower-contour>
+        <point x="407" y="1174" />
+        <point x="2099" y="1174" />
+      </lower-contour>
+    </line>
+    <line ass="-232" asx="0" asy="1197" character-width="999" dss="-232" dsx="0" dsy="1329" fd0="13184" fd1="3027" fd2="47" filter-width="3" id="g03-064-03" lbs="-199" lbx="0" lby="1266" segmentation="ok" slant="98000" stroke-width="5391" threshold="182" text="work for the movement, was later" ubs="-298" ubx="0" uby="1227">
+      <word id="g03-064-03-00" tag="NN" text="work">
+        <cmp x="409" y="1227" width="46" height="41" />
+        <cmp x="460" y="1225" width="27" height="40" />
+        <cmp x="502" y="1207" width="34" height="56" />
+      </word>
+      <word id="g03-064-03-01" tag="IN" text="for">
+        <cmp x="691" y="1200" width="59" height="116" />
+        <cmp x="757" y="1242" width="7" height="29" />
+      </word>
+      <word id="g03-064-03-02" tag="ATI" text="the">
+        <cmp x="960" y="1207" width="87" height="73" />
+      </word>
+      <word id="g03-064-03-03" tag="NN" text="movement">
+        <cmp x="1207" y="1226" width="92" height="42" />
+        <cmp x="1299" y="1232" width="24" height="29" />
+        <cmp x="1332" y="1240" width="15" height="30" />
+        <cmp x="1359" y="1229" width="99" height="39" />
+        <cmp x="1464" y="1214" width="23" height="64" />
+      </word>
+      <word id="g03-064-03-04" tag="," text=",">
+        <cmp x="1594" y="1267" width="9" height="69" />
+      </word>
+      <word id="g03-064-03-05" tag="BEDZ" text="was">
+        <cmp x="1747" y="1229" width="112" height="53" />
+      </word>
+      <word id="g03-064-03-06" tag="RBR" text="later">
+        <cmp x="1973" y="1217" width="43" height="66" />
+        <cmp x="2020" y="1232" width="23" height="38" />
+        <cmp x="2045" y="1208" width="53" height="67" />
+      </word>
+      <upper-contour>
+        <point x="407" y="1174" />
+        <point x="2099" y="1174" />
+      </upper-contour>
+      <lower-contour>
+        <point x="407" y="1337" />
+        <point x="2099" y="1337" />
+      </lower-contour>
+    </line>
+    <line ass="-455" asx="0" asy="1369" character-width="999" dss="-455" dsx="0" dsy="1500" fd0="13550" fd1="3284" fd2="415" filter-width="3" id="g03-064-04" lbs="-405" lbx="0" lby="1441" segmentation="err" slant="99000" stroke-width="5214" threshold="182" text="known to say that it was not ne-" ubs="-553" ubx="0" uby="1404">
+      <word id="g03-064-04-00" tag="VBN" text="known">
+        <cmp x="402" y="1378" width="51" height="85" />
+        <cmp x="431" y="1459" width="5" height="5" />
+        <cmp x="456" y="1406" width="79" height="38" />
+        <cmp x="536" y="1403" width="35" height="34" />
+        <cmp x="577" y="1409" width="34" height="44" />
+      </word>
+      <word id="g03-064-04-01" tag="TO" text="to">
+        <cmp x="761" y="1381" width="58" height="63" />
+      </word>
+      <word id="g03-064-04-02" tag="VB" text="say">
+        <cmp x="971" y="1414" width="20" height="35" />
+        <cmp x="1000" y="1415" width="17" height="31" />
+        <cmp x="1019" y="1416" width="26" height="32" />
+        <cmp x="1045" y="1417" width="7" height="92" />
+      </word>
+      <word id="g03-064-04-03" tag="CS" text="that">
+        <cmp x="1234" y="1379" width="65" height="64" />
+        <cmp x="1299" y="1417" width="21" height="25" />
+        <cmp x="1320" y="1387" width="21" height="62" />
+      </word>
+      <word id="g03-064-04-04" tag="PP3" text="it">
+        <cmp x="1488" y="1392" width="11" height="7" />
+        <cmp x="1494" y="1419" width="15" height="32" />
+        <cmp x="1509" y="1395" width="17" height="55" />
+      </word>
+      <word id="g03-064-04-05" tag="BEDZ" text="was">
+        <cmp x="1669" y="1411" width="91" height="55" />
+      </word>
+      <word id="g03-064-04-06" tag="XNOT" text="not">
+        <cmp x="1872" y="1421" width="66" height="36" />
+        <cmp x="1951" y="1397" width="23" height="57" />
+      </word>
+      <word id="g03-064-04-07" tag="JJ-" text="ne-">
+        <cmp x="2076" y="1415" width="59" height="44" />
+        <cmp x="2145" y="1419" width="30" height="7" />
+      </word>
+      <upper-contour>
+        <point x="407" y="1337" />
+        <point x="2099" y="1337" />
+      </upper-contour>
+      <lower-contour>
+        <point x="420" y="1509" />
+        <point x="2175" y="1509" />
+      </lower-contour>
+    </line>
+    <line ass="541" asx="0" asy="1558" character-width="999" dss="541" dsx="0" dsy="1685" fd0="13077" fd1="2874" fd2="-767" filter-width="3" id="g03-064-05" lbs="481" lbx="0" lby="1633" segmentation="ok" slant="99000" stroke-width="5414" threshold="182" text="cessary to understand Marxism in order to" ubs="663" ubx="0" uby="1600">
+      <word id="g03-064-05-00" tag="-JJ" text="cessary">
+        <cmp x="422" y="1582" width="48" height="55" />
+        <cmp x="468" y="1590" width="17" height="44" />
+        <cmp x="486" y="1599" width="11" height="36" />
+        <cmp x="501" y="1593" width="102" height="88" />
+      </word>
+      <word id="g03-064-05-01" tag="TO" text="to">
+        <cmp x="819" y="1565" width="55" height="69" />
+      </word>
+      <word id="g03-064-05-02" tag="VB" text="understand">
+        <cmp x="1034" y="1568" width="129" height="59" />
+        <cmp x="1172" y="1593" width="16" height="33" />
+        <cmp x="1189" y="1572" width="39" height="54" />
+        <cmp x="1231" y="1576" width="53" height="69" />
+      </word>
+      <word id="g03-064-05-03" tag="NNP" text="Marxism">
+        <cmp x="1442" y="1545" width="58" height="59" />
+        <cmp x="1501" y="1568" width="47" height="38" />
+        <cmp x="1566" y="1569" width="30" height="43" />
+        <cmp x="1592" y="1572" width="5" height="7" />
+        <cmp x="1605" y="1582" width="17" height="37" />
+        <cmp x="1620" y="1575" width="44" height="41" />
+      </word>
+      <word id="g03-064-05-04" tag="TO31" text="in">
+        <cmp x="1786" y="1575" width="46" height="41" />
+        <cmp x="1794" y="1553" width="13" height="9" />
+      </word>
+      <word id="g03-064-05-05" tag="TO32" text="order">
+        <cmp x="1960" y="1581" width="25" height="38" />
+        <cmp x="1988" y="1561" width="82" height="67" />
+      </word>
+      <word id="g03-064-05-06" tag="TO33" text="to">
+        <cmp x="2161" y="1566" width="26" height="64" />
+        <cmp x="2198" y="1597" width="13" height="24" />
+      </word>
+      <upper-contour>
+        <point x="420" y="1509" />
+        <point x="2175" y="1509" />
+      </upper-contour>
+      <lower-contour>
+        <point x="420" y="1681" />
+        <point x="2212" y="1681" />
+      </lower-contour>
+    </line>
+    <line ass="-258" asx="0" asy="1731" character-width="999" dss="-258" dsx="0" dsy="1852" fd0="13223" fd1="2852" fd2="-381" filter-width="3" id="g03-064-06" lbs="-178" lbx="0" lby="1796" segmentation="err" slant="101000" stroke-width="5508" threshold="182" text="understand socialism, though at this time" ubs="-418" ubx="0" uby="1758">
+      <word id="g03-064-06-00" tag="VB" text="understand">
+        <cmp x="414" y="1743" width="124" height="56" />
+        <cmp x="545" y="1760" width="26" height="42" />
+        <cmp x="567" y="1740" width="48" height="60" />
+        <cmp x="616" y="1746" width="58" height="55" />
+      </word>
+      <word id="g03-064-06-01" tag="NN" text="socialism">
+        <cmp x="872" y="1759" width="16" height="43" />
+        <cmp x="906" y="1777" width="12" height="23" />
+        <cmp x="929" y="1767" width="42" height="43" />
+        <cmp x="960" y="1754" width="11" height="12" />
+        <cmp x="975" y="1775" width="27" height="29" />
+        <cmp x="1013" y="1746" width="27" height="53" />
+        <cmp x="1034" y="1753" width="7" height="8" />
+        <cmp x="1052" y="1775" width="11" height="29" />
+        <cmp x="1069" y="1768" width="46" height="35" />
+      </word>
+      <word id="g03-064-06-02" tag="," text=",">
+        <cmp x="1175" y="1794" width="8" height="60" />
+      </word>
+      <word id="g03-064-06-03" tag="CS" text="though">
+        <cmp x="1301" y="1740" width="78" height="67" />
+        <cmp x="1388" y="1761" width="98" height="99" />
+      </word>
+      <word id="g03-064-06-04" tag="IN" text="at">
+        <cmp x="1627" y="1770" width="37" height="41" />
+        <cmp x="1670" y="1745" width="23" height="72" />
+      </word>
+      <word id="g03-064-06-05" tag="DT" text="this">
+        <cmp x="1877" y="1740" width="89" height="68" />
+        <cmp x="1957" y="1761" width="12" height="9" />
+        <cmp x="1986" y="1783" width="10" height="29" />
+        <cmp x="2023" y="1778" width="4" height="4" />
+      </word>
+      <word id="g03-064-06-06" tag="NN" text="time">
+        <cmp x="2109" y="1747" width="33" height="65" />
+        <cmp x="2132" y="1749" width="7" height="13" />
+        <cmp x="2152" y="1765" width="71" height="47" />
+      </word>
+      <upper-contour>
+        <point x="420" y="1681" />
+        <point x="2212" y="1681" />
+      </upper-contour>
+      <lower-contour>
+        <point x="425" y="1860" />
+        <point x="2224" y="1860" />
+      </lower-contour>
+    </line>
+    <line ass="-317" asx="0" asy="1907" character-width="999" dss="-317" dsx="0" dsy="2009" fd0="13111" fd1="3420" fd2="869" filter-width="3" id="g03-064-07" lbs="-363" lbx="0" lby="1971" segmentation="ok" slant="100000" stroke-width="5644" threshold="191" text="he was a keen member of the B.S.P.." ubs="-223" ubx="0" uby="1938">
+      <word id="g03-064-07-00" tag="PP3A" text="he">
+        <cmp x="427" y="1912" width="62" height="66" />
+      </word>
+      <word id="g03-064-07-01" tag="BEDZ" text="was">
+        <cmp x="640" y="1935" width="99" height="48" />
+      </word>
+      <word id="g03-064-07-02" tag="AT" text="a">
+        <cmp x="857" y="1943" width="27" height="35" />
+      </word>
+      <word id="g03-064-07-03" tag="JJ" text="keen">
+        <cmp x="1031" y="1917" width="110" height="76" />
+      </word>
+      <word id="g03-064-07-04" tag="NN" text="member">
+        <cmp x="1345" y="1934" width="113" height="44" />
+        <cmp x="1454" y="1916" width="22" height="60" />
+        <cmp x="1484" y="1950" width="29" height="34" />
+      </word>
+      <word id="g03-064-07-05" tag="INO" text="of">
+        <cmp x="1688" y="1920" width="40" height="100" />
+      </word>
+      <word id="g03-064-07-06" tag="ATI" text="the">
+        <cmp x="1849" y="1924" width="67" height="78" />
+      </word>
+      <word id="g03-064-07-07" tag="NP" text="B.S.P.">
+        <cmp x="2019" y="1923" width="45" height="63" />
+        <cmp x="2070" y="1985" width="9" height="6" />
+        <cmp x="2153" y="1924" width="21" height="58" />
+        <cmp x="2183" y="1978" width="10" height="6" />
+        <cmp x="2249" y="1920" width="19" height="71" />
+        <cmp x="2283" y="1978" width="7" height="8" />
+      </word>
+      <word id="g03-064-07-08" tag="." text="." />
+      <upper-contour>
+        <point x="425" y="1860" />
+        <point x="2224" y="1860" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

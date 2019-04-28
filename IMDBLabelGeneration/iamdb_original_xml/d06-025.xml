@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-16" height="3542" id="d06-025" last-modified="2002-07-17" skew="127" status="final" version="3.0_beta" width="2479" writer-id="205">
+  <machine-printed-part>
+    <machine-print-line text="...Today A wonderful thought In the dawn was given... And the thought Was this:" />
+    <machine-print-line text="That a secret plan Is hid in my hand; That my hand is big Big, Because of the plan" />
+    <machine-print-line text="That God, Who dwells in my hand, Knows this secret plan, Of the things He will do" />
+    <machine-print-line text="for the world Using my hand." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="838" asx="0" asy="723" character-width="999" dss="838" dsx="0" dsy="916" fd0="14126" fd1="2265" fd2="-1687" filter-width="4" id="d06-025-00" lbs="1288" lbx="0" lby="838" segmentation="err" slant="59999" stroke-width="6243" threshold="174" text="...Today A wonderful thought In the" ubs="-61" ubx="0" uby="754">
+      <word id="d06-025-00-00" sentence-start="yes" tag="..." text="...">
+        <cmp x="364" y="717" width="67" height="15" />
+        <cmp x="376" y="731" width="33" height="82" />
+        <cmp x="417" y="745" width="49" height="64" />
+      </word>
+      <word id="d06-025-00-01" tag="NR" text="Today">
+        <cmp x="467" y="727" width="78" height="85" />
+        <cmp x="530" y="754" width="96" height="137" />
+        <cmp x="581" y="865" width="4" height="9" />
+      </word>
+      <word id="d06-025-00-02" tag="AT" text="A">
+        <cmp x="695" y="727" width="84" height="88" />
+      </word>
+      <word id="d06-025-00-03" tag="JJ" text="wonderful">
+        <cmp x="803" y="766" width="88" height="53" />
+        <cmp x="890" y="764" width="46" height="51" />
+        <cmp x="932" y="762" width="58" height="54" />
+        <cmp x="998" y="737" width="130" height="79" />
+        <cmp x="1103" y="723" width="110" height="130" />
+        <cmp x="1227" y="735" width="58" height="68" />
+      </word>
+      <word id="d06-025-00-04" tag="NN" text="thought">
+        <cmp x="1316" y="725" width="55" height="92" />
+        <cmp x="1362" y="714" width="54" height="91" />
+        <cmp x="1422" y="751" width="47" height="57" />
+        <cmp x="1472" y="755" width="52" height="48" />
+        <cmp x="1515" y="756" width="60" height="113" />
+        <cmp x="1556" y="822" width="5" height="4" />
+        <cmp x="1584" y="717" width="113" height="88" />
+      </word>
+      <word id="d06-025-00-05" tag="IN" text="In">
+        <cmp x="1733" y="726" width="46" height="79" />
+        <cmp x="1758" y="746" width="5" height="4" />
+        <cmp x="1772" y="754" width="61" height="44" />
+      </word>
+      <word id="d06-025-00-06" tag="ATI" text="the">
+        <cmp x="1861" y="714" width="78" height="84" />
+        <cmp x="1865" y="882" width="12" height="9" />
+        <cmp x="1940" y="747" width="55" height="49" />
+      </word>
+      <lower-contour>
+        <point x="362" y="890" />
+        <point x="1996" y="890" />
+      </lower-contour>
+    </line>
+    <line ass="552" asx="0" asy="902" character-width="999" dss="552" dsx="0" dsy="1072" fd0="14405" fd1="2250" fd2="-1702" filter-width="4" id="d06-025-01" lbs="522" lbx="0" lby="990" segmentation="err" slant="55000" stroke-width="6299" threshold="173" text="dawn was given... And the thought" ubs="611" ubx="0" uby="952">
+      <word id="d06-025-01-00" tag="NN" text="dawn">
+        <cmp x="352" y="899" width="80" height="84" />
+        <cmp x="415" y="925" width="48" height="60" />
+        <cmp x="474" y="939" width="77" height="50" />
+        <cmp x="548" y="928" width="67" height="57" />
+      </word>
+      <word id="d06-025-01-01" tag="BEDZ" text="was">
+        <cmp x="657" y="935" width="86" height="52" />
+        <cmp x="745" y="936" width="96" height="52" />
+      </word>
+      <word id="d06-025-01-02" tag="VBN" text="given">
+        <cmp x="871" y="942" width="90" height="117" />
+        <cmp x="971" y="918" width="10" height="11" />
+        <cmp x="977" y="950" width="57" height="46" />
+        <cmp x="1037" y="935" width="104" height="55" />
+      </word>
+      <word id="d06-025-01-03" tag="..." text="...">
+        <cmp x="1176" y="984" width="10" height="8" />
+        <cmp x="1225" y="979" width="12" height="8" />
+        <cmp x="1295" y="980" width="7" height="5" />
+      </word>
+      <word id="d06-025-01-04" tag="CC" text="And">
+        <cmp x="1384" y="913" width="198" height="84" />
+      </word>
+      <word id="d06-025-01-05" tag="ATI" text="the">
+        <cmp x="1625" y="905" width="119" height="82" />
+      </word>
+      <word id="d06-025-01-06" tag="NN" text="thought">
+        <cmp x="1769" y="892" width="63" height="85" />
+        <cmp x="1808" y="892" width="68" height="86" />
+        <cmp x="1845" y="947" width="13" height="23" />
+        <cmp x="1868" y="924" width="51" height="48" />
+        <cmp x="1926" y="921" width="53" height="50" />
+        <cmp x="1947" y="906" width="195" height="149" />
+      </word>
+      <upper-contour>
+        <point x="362" y="890" />
+        <point x="1996" y="890" />
+      </upper-contour>
+      <lower-contour>
+        <point x="363" y="1059" />
+        <point x="2143" y="1059" />
+      </lower-contour>
+    </line>
+    <line ass="210" asx="0" asy="1082" character-width="999" dss="210" dsx="0" dsy="1204" fd0="13995" fd1="2741" fd2="-1187" filter-width="4" id="d06-025-02" lbs="241" lbx="0" lby="1167" segmentation="ok" slant="64000" stroke-width="6242" threshold="173" text="Was this: That a secret plan Is hid in" ubs="147" ubx="0" uby="1129">
+      <word id="d06-025-02-00" tag="BEDZ" text="Was">
+        <cmp x="365" y="1090" width="80" height="78" />
+        <cmp x="443" y="1108" width="83" height="66" />
+      </word>
+      <word id="d06-025-02-01" tag="DT" text="this">
+        <cmp x="563" y="1091" width="123" height="81" />
+        <cmp x="686" y="1091" width="11" height="12" />
+        <cmp x="691" y="1123" width="51" height="46" />
+      </word>
+      <word id="d06-025-02-02" tag=":" text=":">
+        <cmp x="777" y="1154" width="11" height="14" />
+        <cmp x="779" y="1121" width="14" height="23" />
+      </word>
+      <word id="d06-025-02-03" tag="CS" text="That">
+        <cmp x="875" y="1083" width="57" height="91" />
+        <cmp x="909" y="1079" width="154" height="93" />
+      </word>
+      <word id="d06-025-02-04" tag="AT" text="a">
+        <cmp x="1072" y="1109" width="63" height="64" />
+      </word>
+      <word id="d06-025-02-05" tag="JJ" text="secret">
+        <cmp x="1174" y="1117" width="90" height="52" />
+        <cmp x="1256" y="1118" width="47" height="49" />
+        <cmp x="1301" y="1078" width="140" height="91" />
+      </word>
+      <word id="d06-025-02-06" tag="NN" text="plan">
+        <cmp x="1412" y="1137" width="30" height="62" />
+        <cmp x="1430" y="1122" width="45" height="45" />
+        <cmp x="1485" y="1082" width="65" height="89" />
+        <cmp x="1517" y="1113" width="115" height="53" />
+      </word>
+      <word id="d06-025-02-07" tag="BEZ" text="Is">
+        <cmp x="1698" y="1083" width="54" height="87" />
+        <cmp x="1751" y="1114" width="33" height="41" />
+      </word>
+      <word id="d06-025-02-08" tag="VBN" text="hid">
+        <cmp x="1828" y="1076" width="93" height="93" />
+        <cmp x="1926" y="1103" width="82" height="70" />
+        <cmp x="1932" y="1098" width="7" height="10" />
+      </word>
+      <word id="d06-025-02-09" tag="IN" text="in">
+        <cmp x="2069" y="1126" width="102" height="49" />
+        <cmp x="2137" y="1082" width="12" height="7" />
+      </word>
+      <upper-contour>
+        <point x="363" y="1059" />
+        <point x="2143" y="1059" />
+      </upper-contour>
+      <lower-contour>
+        <point x="363" y="1199" />
+        <point x="1914" y="1199" />
+      </lower-contour>
+    </line>
+    <line ass="735" asx="0" asy="1258" character-width="999" dss="735" dsx="0" dsy="1438" fd0="14261" fd1="2922" fd2="-882" filter-width="4" id="d06-025-03" lbs="1045" lbx="0" lby="1365" segmentation="err" slant="62000" stroke-width="6180" threshold="174" text="my hand; That my hand is big Big," ubs="116" ubx="0" uby="1302">
+      <word id="d06-025-03-00" tag="PP$" text="my">
+        <cmp x="350" y="1283" width="123" height="125" />
+      </word>
+      <word id="d06-025-03-01" tag="NN" text="hand">
+        <cmp x="513" y="1252" width="74" height="91" />
+        <cmp x="589" y="1284" width="108" height="61" />
+        <cmp x="705" y="1272" width="78" height="75" />
+      </word>
+      <word id="d06-025-03-02" tag=";" text=";">
+        <cmp x="764" y="1345" width="33" height="51" />
+        <cmp x="803" y="1301" width="9" height="18" />
+      </word>
+      <word id="d06-025-03-03" tag="CS" text="That">
+        <cmp x="894" y="1266" width="57" height="11" />
+        <cmp x="897" y="1281" width="35" height="67" />
+        <cmp x="936" y="1256" width="157" height="96" />
+      </word>
+      <word id="d06-025-03-04" tag="PP$" text="my">
+        <cmp x="1101" y="1295" width="75" height="54" />
+        <cmp x="1171" y="1307" width="54" height="117" />
+      </word>
+      <word id="d06-025-03-05" tag="NN" text="hand">
+        <cmp x="1291" y="1264" width="165" height="90" />
+        <cmp x="1301" y="1304" width="6" height="4" />
+        <cmp x="1467" y="1281" width="77" height="66" />
+      </word>
+      <word id="d06-025-03-06" tag="BEZ" text="is">
+        <cmp x="1567" y="1309" width="23" height="33" />
+        <cmp x="1594" y="1297" width="42" height="52" />
+        <cmp x="1607" y="1267" width="6" height="12" />
+      </word>
+      <word id="d06-025-03-07" tag="JJ" text="big">
+        <cmp x="1710" y="1271" width="72" height="82" />
+        <cmp x="1782" y="1323" width="18" height="25" />
+        <cmp x="1818" y="1270" width="9" height="11" />
+      </word>
+      <word id="d06-025-03-08" tag="JJ" text="Big">
+        <cmp x="1805" y="1302" width="65" height="113" />
+      </word>
+      <word id="d06-025-03-09" tag="," text=",">
+        <cmp x="1889" y="1349" width="22" height="31" />
+      </word>
+      <upper-contour>
+        <point x="363" y="1199" />
+        <point x="1914" y="1199" />
+      </upper-contour>
+      <lower-contour>
+        <point x="366" y="1424" />
+        <point x="1914" y="1424" />
+      </lower-contour>
+    </line>
+    <line ass="-121" asx="0" asy="1435" character-width="999" dss="-121" dsx="0" dsy="1599" fd0="14458" fd1="2544" fd2="-1312" filter-width="4" id="d06-025-04" lbs="-265" lbx="0" lby="1514" segmentation="ok" slant="61000" stroke-width="6184" threshold="174" text="Because of the plan That God, Who" ubs="167" ubx="0" uby="1482">
+      <word id="d06-025-04-00" tag="IN21" text="Because">
+        <cmp x="368" y="1436" width="104" height="89" />
+        <cmp x="465" y="1472" width="53" height="52" />
+        <cmp x="511" y="1466" width="123" height="61" />
+        <cmp x="641" y="1475" width="71" height="64" />
+      </word>
+      <word id="d06-025-04-01" tag="IN22" text="of">
+        <cmp x="788" y="1475" width="49" height="50" />
+        <cmp x="813" y="1440" width="77" height="135" />
+      </word>
+      <word id="d06-025-04-02" tag="ATI" text="the">
+        <cmp x="934" y="1444" width="114" height="88" />
+      </word>
+      <word id="d06-025-04-03" tag="NN" text="plan">
+        <cmp x="1081" y="1501" width="35" height="66" />
+        <cmp x="1107" y="1475" width="47" height="44" />
+        <cmp x="1162" y="1442" width="53" height="79" />
+        <cmp x="1200" y="1464" width="133" height="62" />
+      </word>
+      <word id="d06-025-04-04" tag="WP" text="That">
+        <cmp x="1393" y="1449" width="56" height="73" />
+        <cmp x="1434" y="1439" width="57" height="81" />
+        <cmp x="1459" y="1493" width="6" height="6" />
+        <cmp x="1469" y="1484" width="15" height="8" />
+        <cmp x="1474" y="1456" width="123" height="75" />
+      </word>
+      <word id="d06-025-04-05" tag="NP" text="God">
+        <cmp x="1584" y="1451" width="98" height="153" />
+        <cmp x="1661" y="1474" width="51" height="54" />
+        <cmp x="1720" y="1457" width="90" height="72" />
+      </word>
+      <word id="d06-025-04-06" tag="," text=",">
+        <cmp x="1814" y="1534" width="12" height="22" />
+      </word>
+      <word id="d06-025-04-07" tag="WP" text="Who">
+        <cmp x="1906" y="1468" width="100" height="66" />
+        <cmp x="1996" y="1451" width="59" height="83" />
+        <cmp x="2065" y="1479" width="71" height="48" />
+      </word>
+      <upper-contour>
+        <point x="366" y="1424" />
+        <point x="1914" y="1424" />
+      </upper-contour>
+      <lower-contour>
+        <point x="382" y="1604" />
+        <point x="2077" y="1604" />
+      </lower-contour>
+    </line>
+    <line ass="156" asx="0" asy="1616" character-width="999" dss="156" dsx="0" dsy="1769" fd0="14315" fd1="2192" fd2="-1340" filter-width="4" id="d06-025-05" lbs="122" lbx="0" lby="1707" segmentation="ok" slant="59000" stroke-width="6219" threshold="174" text="dwells in my hand, Knows this" ubs="224" ubx="0" uby="1662">
+      <word id="d06-025-05-00" tag="VBZ" text="dwells">
+        <cmp x="384" y="1615" width="84" height="94" />
+        <cmp x="461" y="1656" width="74" height="48" />
+        <cmp x="546" y="1648" width="37" height="57" />
+        <cmp x="590" y="1624" width="86" height="80" />
+        <cmp x="677" y="1658" width="45" height="46" />
+      </word>
+      <word id="d06-025-05-01" tag="IN" text="in">
+        <cmp x="808" y="1663" width="79" height="51" />
+        <cmp x="846" y="1620" width="6" height="6" />
+      </word>
+      <word id="d06-025-05-02" tag="PP$" text="my">
+        <cmp x="941" y="1653" width="133" height="115" />
+      </word>
+      <word id="d06-025-05-03" tag="NN" text="hand">
+        <cmp x="1127" y="1613" width="165" height="93" />
+        <cmp x="1292" y="1632" width="88" height="76" />
+      </word>
+      <word id="d06-025-05-04" tag="," text=",">
+        <cmp x="1375" y="1697" width="22" height="34" />
+      </word>
+      <word id="d06-025-05-05" tag="VBZ" text="Knows">
+        <cmp x="1494" y="1634" width="77" height="80" />
+        <cmp x="1562" y="1658" width="57" height="50" />
+        <cmp x="1624" y="1660" width="49" height="48" />
+        <cmp x="1679" y="1650" width="91" height="52" />
+        <cmp x="1785" y="1655" width="47" height="47" />
+      </word>
+      <word id="d06-025-05-06" tag="DT" text="this">
+        <cmp x="1897" y="1618" width="124" height="87" />
+        <cmp x="1939" y="1625" width="7" height="7" />
+        <cmp x="2030" y="1661" width="46" height="43" />
+        <cmp x="2040" y="1621" width="7" height="9" />
+      </word>
+      <upper-contour>
+        <point x="382" y="1604" />
+        <point x="2077" y="1604" />
+      </upper-contour>
+      <lower-contour>
+        <point x="394" y="1768" />
+        <point x="2075" y="1768" />
+      </lower-contour>
+    </line>
+    <line ass="-111" asx="0" asy="1782" character-width="999" dss="-111" dsx="0" dsy="1952" fd0="13997" fd1="2572" fd2="-1320" filter-width="4" id="d06-025-06" lbs="-95" lbx="0" lby="1884" segmentation="ok" slant="58000" stroke-width="6152" threshold="175" text="secret plan, Of the things He will" ubs="-143" ubx="0" uby="1840">
+      <word id="d06-025-06-00" tag="JJ" text="secret">
+        <cmp x="396" y="1824" width="48" height="57" />
+        <cmp x="453" y="1832" width="42" height="51" />
+        <cmp x="489" y="1797" width="186" height="89" />
+      </word>
+      <word id="d06-025-06-01" tag="NN" text="plan">
+        <cmp x="690" y="1866" width="21" height="53" />
+        <cmp x="706" y="1848" width="43" height="37" />
+        <cmp x="757" y="1802" width="62" height="80" />
+        <cmp x="798" y="1828" width="129" height="58" />
+      </word>
+      <word id="d06-025-06-02" tag="," text=",">
+        <cmp x="932" y="1881" width="17" height="31" />
+      </word>
+      <word id="d06-025-06-03" tag="INO" text="Of">
+        <cmp x="1053" y="1808" width="62" height="78" />
+        <cmp x="1082" y="1798" width="88" height="131" />
+      </word>
+      <word id="d06-025-06-04" tag="ATI" text="the">
+        <cmp x="1185" y="1791" width="113" height="99" />
+      </word>
+      <word id="d06-025-06-05" tag="NNS" text="things">
+        <cmp x="1353" y="1797" width="124" height="92" />
+        <cmp x="1480" y="1845" width="152" height="111" />
+        <cmp x="1488" y="1804" width="7" height="11" />
+      </word>
+      <word id="d06-025-06-06" tag="PP3A" text="He">
+        <cmp x="1681" y="1811" width="112" height="91" />
+      </word>
+      <word id="d06-025-06-07" tag="MD" text="will">
+        <cmp x="1837" y="1840" width="93" height="46" />
+        <cmp x="1935" y="1799" width="139" height="83" />
+        <cmp x="1989" y="1787" width="11" height="12" />
+      </word>
+      <upper-contour>
+        <point x="394" y="1768" />
+        <point x="2075" y="1768" />
+      </upper-contour>
+      <lower-contour>
+        <point x="394" y="1956" />
+        <point x="2075" y="1956" />
+      </lower-contour>
+    </line>
+    <line ass="-203" asx="0" asy="1964" character-width="999" dss="-203" dsx="0" dsy="2134" fd0="14067" fd1="2145" fd2="-1356" filter-width="4" id="d06-025-07" lbs="-77" lbx="0" lby="2058" segmentation="ok" slant="61000" stroke-width="6133" threshold="174" text="do for the world Using my hand." ubs="-455" ubx="0" uby="2003">
+      <word id="d06-025-07-00" tag="DO" text="do">
+        <cmp x="379" y="1969" width="74" height="93" />
+        <cmp x="449" y="1996" width="57" height="62" />
+      </word>
+      <word id="d06-025-07-01" tag="IN" text="for">
+        <cmp x="563" y="1976" width="79" height="138" />
+        <cmp x="628" y="2006" width="87" height="54" />
+      </word>
+      <word id="d06-025-07-02" tag="ATI" text="the">
+        <cmp x="754" y="1969" width="121" height="97" />
+      </word>
+      <word id="d06-025-07-03" tag="NN" text="world">
+        <cmp x="946" y="2011" width="90" height="57" />
+        <cmp x="1030" y="2011" width="82" height="54" />
+        <cmp x="1122" y="1985" width="61" height="79" />
+        <cmp x="1163" y="2001" width="77" height="68" />
+      </word>
+      <word id="d06-025-07-04" tag="VBG" text="Using">
+        <cmp x="1308" y="1988" width="73" height="81" />
+        <cmp x="1382" y="2000" width="60" height="62" />
+        <cmp x="1453" y="2020" width="105" height="121" />
+        <cmp x="1462" y="1991" width="8" height="9" />
+      </word>
+      <word id="d06-025-07-05" tag="PP$" text="my">
+        <cmp x="1609" y="2008" width="132" height="116" />
+      </word>
+      <word id="d06-025-07-06" tag="NN" text="hand">
+        <cmp x="1799" y="1970" width="171" height="93" />
+        <cmp x="1969" y="1992" width="107" height="72" />
+      </word>
+      <word id="d06-025-07-07" tag="." text=".">
+        <cmp x="2077" y="2060" width="8" height="7" />
+      </word>
+      <upper-contour>
+        <point x="394" y="1956" />
+        <point x="2075" y="1956" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

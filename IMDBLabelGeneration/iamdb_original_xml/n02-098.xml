@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="n02-098" last-modified="2002-07-17" skew="-63" status="final" version="3.0_beta" width="2479" writer-id="567">
+  <machine-printed-part>
+    <machine-print-line text="She wavered, and at last said slowly, &amp;quot;If you must drag the truth out of me, I must" />
+    <machine-print-line text="ask you to regard it as confidential.&amp;quot; &amp;quot;My dear Beryl, don&apos;t tell me anything, if you&apos;d" />
+    <machine-print-line text="rather not.&amp;quot; He was clearly startled by her words. &amp;quot;But remember, it was you, not" />
+    <machine-print-line text="I, who started this conversation.&amp;quot;" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-248" asx="0" asy="710" character-width="999" dss="-248" dsx="0" dsy="799" fd0="13348" fd1="2775" fd2="-451" filter-width="4" id="n02-098-00" lbs="-374" lbx="0" lby="771" segmentation="err" slant="90000" stroke-width="6319" threshold="203" text="She wavered, and at last said" ubs="2" ubx="0" uby="748">
+      <word id="n02-098-00-00" sentence-start="yes" tag="PP3A" text="She">
+        <cmp x="356" y="716" width="60" height="58" />
+        <cmp x="419" y="727" width="37" height="47" />
+        <cmp x="462" y="737" width="46" height="39" />
+      </word>
+      <word id="n02-098-00-01" tag="VBD" text="wavered">
+        <cmp x="558" y="733" width="60" height="48" />
+        <cmp x="623" y="746" width="48" height="31" />
+        <cmp x="682" y="742" width="43" height="33" />
+        <cmp x="719" y="746" width="69" height="29" />
+        <cmp x="787" y="749" width="36" height="28" />
+        <cmp x="834" y="725" width="62" height="55" />
+      </word>
+      <word id="n02-098-00-02" tag="," text=",">
+        <cmp x="920" y="784" width="10" height="19" />
+      </word>
+      <word id="n02-098-00-03" tag="CC" text="and">
+        <cmp x="967" y="747" width="90" height="37" />
+        <cmp x="1062" y="733" width="57" height="55" />
+      </word>
+      <word id="n02-098-00-04" tag="RB21" text="at">
+        <cmp x="1160" y="753" width="55" height="35" />
+        <cmp x="1218" y="727" width="39" height="62" />
+      </word>
+      <word id="n02-098-00-05" tag="RB22" text="last">
+        <cmp x="1306" y="730" width="74" height="58" />
+        <cmp x="1381" y="748" width="38" height="35" />
+        <cmp x="1426" y="734" width="38" height="49" />
+      </word>
+      <word id="n02-098-00-06" tag="VBD" text="said">
+        <cmp x="1507" y="739" width="125" height="39" />
+        <cmp x="1618" y="732" width="25" height="15" />
+        <cmp x="1648" y="718" width="41" height="60" />
+        <cmp x="1749" y="737" width="119" height="44" />
+      </word>
+      <lower-contour>
+        <point x="372" y="803" />
+        <point x="1869" y="803" />
+      </lower-contour>
+    </line>
+    <line ass="-150" asx="0" asy="883" character-width="999" dss="-150" dsx="0" dsy="1006" fd0="13012" fd1="2731" fd2="-771" filter-width="4" id="n02-098-01" lbs="-131" lbx="0" lby="957" segmentation="ok" slant="90000" stroke-width="6698" threshold="189" text="slowly, &amp;quot;If you must drag the truth" ubs="-189" ubx="0" uby="923">
+      <word id="n02-098-01-00" tag="RB" text="slowly">
+        <cmp x="374" y="896" width="78" height="51" />
+        <cmp x="453" y="918" width="53" height="35" />
+        <cmp x="513" y="920" width="71" height="37" />
+        <cmp x="604" y="896" width="12" height="63" />
+        <cmp x="608" y="925" width="58" height="73" />
+      </word>
+      <word id="n02-098-01-01" tag="," text=",">
+        <cmp x="682" y="952" width="12" height="35" />
+      </word>
+      <word id="n02-098-01-02" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="743" y="886" width="27" height="26" />
+      </word>
+      <word id="n02-098-01-03" tag="CS" text="If">
+        <cmp x="804" y="901" width="57" height="66" />
+        <cmp x="856" y="901" width="44" height="82" />
+      </word>
+      <word id="n02-098-01-04" tag="PP2" text="you">
+        <cmp x="931" y="925" width="40" height="65" />
+        <cmp x="989" y="925" width="103" height="38" />
+      </word>
+      <word id="n02-098-01-05" tag="MD" text="must">
+        <cmp x="1146" y="929" width="60" height="39" />
+        <cmp x="1213" y="928" width="84" height="40" />
+        <cmp x="1307" y="917" width="40" height="46" />
+      </word>
+      <word id="n02-098-01-06" tag="VB" text="drag">
+        <cmp x="1384" y="890" width="71" height="70" />
+        <cmp x="1456" y="918" width="31" height="38" />
+        <cmp x="1485" y="927" width="86" height="85" />
+      </word>
+      <word id="n02-098-01-07" tag="ATI" text="the">
+        <cmp x="1614" y="902" width="91" height="62" />
+        <cmp x="1705" y="924" width="52" height="38" />
+      </word>
+      <word id="n02-098-01-08" tag="NN" text="truth">
+        <cmp x="1786" y="899" width="133" height="66" />
+        <cmp x="1920" y="900" width="104" height="58" />
+      </word>
+      <upper-contour>
+        <point x="372" y="803" />
+        <point x="1869" y="803" />
+      </upper-contour>
+      <lower-contour>
+        <point x="378" y="1012" />
+        <point x="1989" y="1012" />
+      </lower-contour>
+    </line>
+    <line ass="-126" asx="0" asy="1066" character-width="999" dss="-126" dsx="0" dsy="1195" fd0="13065" fd1="2985" fd2="-316" filter-width="4" id="n02-098-02" lbs="-42" lbx="0" lby="1140" segmentation="ok" slant="90000" stroke-width="6981" threshold="189" text="out of me, I must ask you to regard" ubs="-295" ubx="0" uby="1100">
+      <word id="n02-098-02-00" tag="RP" text="out">
+        <cmp x="380" y="1097" width="122" height="47" />
+        <cmp x="500" y="1084" width="45" height="50" />
+      </word>
+      <word id="n02-098-02-01" tag="INO" text="of">
+        <cmp x="565" y="1095" width="45" height="40" />
+        <cmp x="610" y="1082" width="41" height="66" />
+      </word>
+      <word id="n02-098-02-02" tag="PP1O" text="me">
+        <cmp x="693" y="1103" width="63" height="38" />
+        <cmp x="755" y="1098" width="48" height="43" />
+      </word>
+      <word id="n02-098-02-03" tag="," text=",">
+        <cmp x="832" y="1127" width="12" height="29" />
+      </word>
+      <word id="n02-098-02-04" tag="PP1A" text="I">
+        <cmp x="887" y="1082" width="49" height="60" />
+      </word>
+      <word id="n02-098-02-05" tag="MD" text="must">
+        <cmp x="980" y="1098" width="71" height="44" />
+        <cmp x="1055" y="1107" width="49" height="34" />
+        <cmp x="1110" y="1101" width="34" height="39" />
+        <cmp x="1148" y="1085" width="36" height="60" />
+      </word>
+      <word id="n02-098-02-06" tag="VB" text="ask">
+        <cmp x="1227" y="1098" width="68" height="47" />
+        <cmp x="1294" y="1100" width="28" height="39" />
+        <cmp x="1332" y="1070" width="49" height="68" />
+      </word>
+      <word id="n02-098-02-07" tag="PP2" text="you">
+        <cmp x="1413" y="1114" width="64" height="86" />
+        <cmp x="1488" y="1113" width="90" height="43" />
+      </word>
+      <word id="n02-098-02-08" tag="TO" text="to">
+        <cmp x="1612" y="1095" width="77" height="56" />
+      </word>
+      <word id="n02-098-02-09" tag="VB" text="regard">
+        <cmp x="1732" y="1106" width="101" height="78" />
+        <cmp x="1837" y="1080" width="151" height="70" />
+      </word>
+      <upper-contour>
+        <point x="378" y="1012" />
+        <point x="1989" y="1012" />
+      </upper-contour>
+      <lower-contour>
+        <point x="392" y="1200" />
+        <point x="1975" y="1200" />
+      </lower-contour>
+    </line>
+    <line ass="-307" asx="0" asy="1234" character-width="999" dss="-307" dsx="0" dsy="1349" fd0="13340" fd1="3339" fd2="-190" filter-width="4" id="n02-098-03" lbs="-384" lbx="0" lby="1307" segmentation="ok" slant="90000" stroke-width="6831" threshold="189" text="it as confidential.&amp;quot; &amp;quot;My dear Beryl," ubs="-153" ubx="0" uby="1278">
+      <word id="n02-098-03-00" tag="PP3" text="it">
+        <cmp x="394" y="1278" width="9" height="40" />
+        <cmp x="395" y="1258" width="18" height="14" />
+        <cmp x="419" y="1260" width="60" height="56" />
+      </word>
+      <word id="n02-098-03-01" tag="CS" text="as">
+        <cmp x="505" y="1269" width="84" height="43" />
+      </word>
+      <word id="n02-098-03-02" tag="JJ" text="confidential">
+        <cmp x="646" y="1279" width="98" height="46" />
+        <cmp x="757" y="1265" width="106" height="68" />
+        <cmp x="852" y="1271" width="9" height="12" />
+        <cmp x="872" y="1268" width="56" height="52" />
+        <cmp x="940" y="1276" width="78" height="42" />
+        <cmp x="1027" y="1262" width="53" height="60" />
+        <cmp x="1065" y="1266" width="17" height="16" />
+        <cmp x="1082" y="1287" width="46" height="29" />
+        <cmp x="1132" y="1268" width="39" height="48" />
+      </word>
+      <word id="n02-098-03-03" tag="." text=".">
+        <cmp x="1195" y="1302" width="11" height="10" />
+      </word>
+      <word id="n02-098-03-04" tag="**&apos;" text="&quot;">
+        <cmp x="1232" y="1242" width="30" height="20" />
+      </word>
+      <word id="n02-098-03-05" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="1302" y="1244" width="27" height="27" />
+      </word>
+      <word id="n02-098-03-06" tag="PP$" text="My">
+        <cmp x="1358" y="1257" width="54" height="60" />
+        <cmp x="1393" y="1284" width="61" height="74" />
+      </word>
+      <word id="n02-098-03-07" tag="JJ" text="dear">
+        <cmp x="1494" y="1262" width="67" height="62" />
+        <cmp x="1562" y="1283" width="86" height="36" />
+        <cmp x="1647" y="1277" width="22" height="38" />
+      </word>
+      <word id="n02-098-03-08" tag="NP" text="Beryl">
+        <cmp x="1711" y="1255" width="117" height="60" />
+        <cmp x="1836" y="1283" width="50" height="70" />
+        <cmp x="1901" y="1256" width="39" height="54" />
+      </word>
+      <word id="n02-098-03-09" tag="," text=",">
+        <cmp x="1963" y="1304" width="11" height="28" />
+      </word>
+      <upper-contour>
+        <point x="392" y="1200" />
+        <point x="1975" y="1200" />
+      </upper-contour>
+      <lower-contour>
+        <point x="392" y="1358" />
+        <point x="1975" y="1358" />
+      </lower-contour>
+    </line>
+    <line ass="89" asx="0" asy="1434" character-width="999" dss="89" dsx="0" dsy="1554" fd0="12843" fd1="2709" fd2="-1013" filter-width="4" id="n02-098-04" lbs="134" lbx="0" lby="1499" segmentation="ok" slant="90000" stroke-width="6776" threshold="189" text="don&apos;t tell me anything, if you&apos;d rather" ubs="0" ubx="0" uby="1460">
+      <word id="n02-098-04-00" tag="DOX" text="don&apos;t">
+        <cmp x="385" y="1441" width="116" height="71" />
+        <cmp x="512" y="1467" width="28" height="32" />
+        <cmp x="557" y="1435" width="13" height="26" />
+        <cmp x="577" y="1440" width="42" height="57" />
+      </word>
+      <word id="n02-098-04-01" tag="VB" text="tell">
+        <cmp x="671" y="1449" width="86" height="61" />
+        <cmp x="758" y="1438" width="23" height="59" />
+        <cmp x="782" y="1443" width="17" height="55" />
+      </word>
+      <word id="n02-098-04-02" tag="PP1O" text="me">
+        <cmp x="845" y="1460" width="48" height="38" />
+        <cmp x="895" y="1456" width="44" height="44" />
+      </word>
+      <word id="n02-098-04-03" tag="PN" text="anything">
+        <cmp x="982" y="1455" width="55" height="44" />
+        <cmp x="1047" y="1462" width="36" height="39" />
+        <cmp x="1072" y="1463" width="50" height="76" />
+        <cmp x="1124" y="1442" width="44" height="56" />
+        <cmp x="1169" y="1438" width="30" height="60" />
+        <cmp x="1204" y="1460" width="13" height="33" />
+        <cmp x="1211" y="1435" width="8" height="13" />
+        <cmp x="1229" y="1459" width="51" height="39" />
+        <cmp x="1244" y="1465" width="55" height="81" />
+      </word>
+      <word id="n02-098-04-04" tag="," text=",">
+        <cmp x="1331" y="1492" width="11" height="26" />
+      </word>
+      <word id="n02-098-04-05" tag="CS" text="if">
+        <cmp x="1376" y="1471" width="13" height="28" />
+        <cmp x="1379" y="1451" width="25" height="13" />
+        <cmp x="1408" y="1448" width="43" height="73" />
+      </word>
+      <word id="n02-098-04-06" tag="PP2" text="you">
+        <cmp x="1485" y="1467" width="52" height="86" />
+        <cmp x="1549" y="1462" width="93" height="39" />
+      </word>
+      <word id="n02-098-04-07" tag="MD" text="&apos;d">
+        <cmp x="1629" y="1435" width="13" height="22" />
+        <cmp x="1654" y="1438" width="56" height="53" />
+      </word>
+      <word id="n02-098-04-08" tag="RB" text="rather">
+        <cmp x="1766" y="1458" width="91" height="43" />
+        <cmp x="1851" y="1437" width="35" height="62" />
+        <cmp x="1891" y="1435" width="45" height="64" />
+        <cmp x="1934" y="1456" width="73" height="42" />
+      </word>
+      <upper-contour>
+        <point x="392" y="1358" />
+        <point x="1975" y="1358" />
+      </upper-contour>
+      <lower-contour>
+        <point x="388" y="1553" />
+        <point x="1951" y="1553" />
+      </lower-contour>
+    </line>
+    <line ass="63" asx="0" asy="1598" character-width="999" dss="63" dsx="0" dsy="1709" fd0="13018" fd1="3163" fd2="-627" filter-width="4" id="n02-098-05" lbs="103" lbx="0" lby="1676" segmentation="ok" slant="90000" stroke-width="6652" threshold="189" text="not.&amp;quot; He was clearly startled by her" ubs="-15" ubx="0" uby="1639">
+      <word id="n02-098-05-00" tag="XNOT" text="not">
+        <cmp x="390" y="1637" width="40" height="46" />
+        <cmp x="436" y="1635" width="42" height="43" />
+        <cmp x="483" y="1622" width="29" height="57" />
+      </word>
+      <word id="n02-098-05-01" tag="." text=".">
+        <cmp x="529" y="1665" width="9" height="9" />
+      </word>
+      <word id="n02-098-05-02" tag="**&apos;" text="&quot;">
+        <cmp x="573" y="1599" width="28" height="24" />
+      </word>
+      <word id="n02-098-05-03" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="672" y="1620" width="97" height="56" />
+      </word>
+      <word id="n02-098-05-04" tag="BEDZ" text="was">
+        <cmp x="820" y="1633" width="63" height="39" />
+        <cmp x="893" y="1633" width="79" height="40" />
+      </word>
+      <word id="n02-098-05-05" tag="RB" text="clearly">
+        <cmp x="1026" y="1634" width="45" height="43" />
+        <cmp x="1080" y="1613" width="13" height="59" />
+        <cmp x="1098" y="1631" width="86" height="46" />
+        <cmp x="1188" y="1634" width="18" height="44" />
+        <cmp x="1223" y="1618" width="15" height="55" />
+        <cmp x="1230" y="1636" width="47" height="73" />
+      </word>
+      <word id="n02-098-05-06" tag="VBN" text="startled">
+        <cmp x="1312" y="1639" width="58" height="40" />
+        <cmp x="1367" y="1617" width="86" height="60" />
+        <cmp x="1458" y="1643" width="22" height="30" />
+        <cmp x="1487" y="1623" width="41" height="57" />
+        <cmp x="1538" y="1620" width="19" height="64" />
+        <cmp x="1556" y="1619" width="93" height="57" />
+      </word>
+      <word id="n02-098-05-07" tag="IN" text="by">
+        <cmp x="1694" y="1615" width="47" height="62" />
+        <cmp x="1732" y="1638" width="54" height="69" />
+      </word>
+      <word id="n02-098-05-08" tag="PP$" text="her">
+        <cmp x="1844" y="1620" width="37" height="55" />
+        <cmp x="1882" y="1633" width="68" height="42" />
+      </word>
+      <upper-contour>
+        <point x="388" y="1553" />
+        <point x="1951" y="1553" />
+      </upper-contour>
+      <lower-contour>
+        <point x="388" y="1709" />
+        <point x="1951" y="1709" />
+      </lower-contour>
+    </line>
+    <line ass="-654" asx="0" asy="1775" character-width="999" dss="-654" dsx="0" dsy="1887" fd0="13149" fd1="2557" fd2="-923" filter-width="4" id="n02-098-06" lbs="-610" lbx="0" lby="1841" segmentation="err" slant="90000" stroke-width="6821" threshold="191" text="words. &amp;quot;But remember, it was you," ubs="-742" ubx="0" uby="1803">
+      <word id="n02-098-06-00" tag="NNS" text="words">
+        <cmp x="390" y="1799" width="80" height="55" />
+        <cmp x="481" y="1812" width="41" height="37" />
+        <cmp x="527" y="1815" width="30" height="33" />
+        <cmp x="560" y="1786" width="55" height="63" />
+        <cmp x="619" y="1805" width="29" height="40" />
+      </word>
+      <word id="n02-098-06-01" tag="." text=".">
+        <cmp x="666" y="1847" width="8" height="8" />
+      </word>
+      <word id="n02-098-06-02" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="731" y="1785" width="27" height="29" />
+      </word>
+      <word id="n02-098-06-03" tag="CC" text="But">
+        <cmp x="799" y="1785" width="66" height="70" />
+        <cmp x="870" y="1811" width="52" height="39" />
+        <cmp x="924" y="1798" width="37" height="54" />
+      </word>
+      <word id="n02-098-06-04" tag="VB" text="remember">
+        <cmp x="1007" y="1817" width="139" height="45" />
+        <cmp x="1148" y="1818" width="42" height="43" />
+        <cmp x="1197" y="1820" width="47" height="37" />
+        <cmp x="1247" y="1798" width="117" height="57" />
+        <cmp x="1364" y="1845" width="13" height="25" />
+      </word>
+      <word id="n02-098-06-05" tag="," text=",">
+        <cmp x="1424" y="1819" width="16" height="37" />
+        <cmp x="1428" y="1799" width="13" height="12" />
+      </word>
+      <word id="n02-098-06-06" tag="PP3" text="it">
+        <cmp x="1455" y="1796" width="67" height="58" />
+      </word>
+      <word id="n02-098-06-07" tag="BEDZ" text="was">
+        <cmp x="1538" y="1815" width="67" height="39" />
+        <cmp x="1605" y="1821" width="55" height="35" />
+        <cmp x="1662" y="1815" width="34" height="39" />
+      </word>
+      <word id="n02-098-06-08" tag="PP2" text="you">
+        <cmp x="1746" y="1829" width="69" height="79" />
+        <cmp x="1829" y="1824" width="36" height="39" />
+        <cmp x="1880" y="1825" width="46" height="37" />
+      </word>
+      <word id="n02-098-06-09" tag="," text=",">
+        <cmp x="1946" y="1857" width="13" height="28" />
+      </word>
+      <upper-contour>
+        <point x="388" y="1709" />
+        <point x="1951" y="1709" />
+      </upper-contour>
+      <lower-contour>
+        <point x="400" y="1908" />
+        <point x="1960" y="1908" />
+      </lower-contour>
+    </line>
+    <line ass="437" asx="0" asy="1964" character-width="999" dss="437" dsx="0" dsy="2056" fd0="13158" fd1="3337" fd2="-486" filter-width="4" id="n02-098-07" lbs="437" lbx="0" lby="2042" segmentation="ok" slant="94000" stroke-width="6691" threshold="191" text="not I, who started this conversation.&amp;quot;" ubs="438" ubx="0" uby="2007">
+      <word id="n02-098-07-00" tag="XNOT" text="not">
+        <cmp x="402" y="1998" width="42" height="41" />
+        <cmp x="455" y="2001" width="39" height="41" />
+        <cmp x="513" y="1978" width="27" height="55" />
+      </word>
+      <word id="n02-098-07-01" tag="PP1A" text="I">
+        <cmp x="597" y="1972" width="51" height="70" />
+      </word>
+      <word id="n02-098-07-02" tag="," text=",">
+        <cmp x="654" y="2030" width="9" height="22" />
+      </word>
+      <word id="n02-098-07-03" tag="WP" text="who">
+        <cmp x="719" y="1993" width="56" height="48" />
+        <cmp x="793" y="1966" width="47" height="66" />
+        <cmp x="843" y="1997" width="37" height="35" />
+      </word>
+      <word id="n02-098-07-04" tag="VBD" text="started">
+        <cmp x="926" y="1993" width="47" height="39" />
+        <cmp x="968" y="1975" width="102" height="58" />
+        <cmp x="1075" y="1994" width="34" height="37" />
+        <cmp x="1116" y="1972" width="115" height="67" />
+      </word>
+      <word id="n02-098-07-05" tag="DT" text="this">
+        <cmp x="1290" y="1978" width="96" height="64" />
+        <cmp x="1392" y="1993" width="18" height="36" />
+        <cmp x="1397" y="1978" width="20" height="14" />
+        <cmp x="1416" y="1986" width="43" height="46" />
+      </word>
+      <word id="n02-098-07-06" tag="NN" text="conversation">
+        <cmp x="1505" y="1994" width="96" height="50" />
+        <cmp x="1611" y="1994" width="30" height="40" />
+        <cmp x="1649" y="1991" width="49" height="44" />
+        <cmp x="1688" y="1995" width="76" height="36" />
+        <cmp x="1770" y="1992" width="42" height="40" />
+        <cmp x="1818" y="1997" width="52" height="32" />
+        <cmp x="1858" y="1965" width="62" height="61" />
+        <cmp x="1907" y="1970" width="22" height="19" />
+        <cmp x="1927" y="1990" width="43" height="39" />
+        <cmp x="1980" y="1981" width="58" height="43" />
+      </word>
+      <word id="n02-098-07-07" tag="." text=".">
+        <cmp x="2066" y="2028" width="7" height="9" />
+      </word>
+      <word id="n02-098-07-08" tag="**&apos;" text="&quot;">
+        <cmp x="2096" y="1949" width="32" height="32" />
+      </word>
+      <upper-contour>
+        <point x="400" y="1908" />
+        <point x="1960" y="1908" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

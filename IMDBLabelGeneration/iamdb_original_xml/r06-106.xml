@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="r06-106" last-modified="2002-07-18" skew="30" status="final" version="3.0_beta" width="2479" writer-id="671">
+  <machine-printed-part>
+    <machine-print-line text="The day I promised to take Catherine down to visit my young friend Philip at his" />
+    <machine-print-line text="school in the country, we were to leave at eleven, but she arrived at nine. Her blue" />
+    <machine-print-line text="dress was new, and so were her fashionable shoes. Her hair had just been done. She" />
+    <machine-print-line text="looked more than ever like a pink and gold Renoir girl who expects everything from" />
+    <machine-print-line text="life." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-234" asx="0" asy="726" character-width="999" dss="-234" dsx="0" dsy="868" fd0="12916" fd1="3247" fd2="-43" filter-width="3" id="r06-106-00" lbs="-218" lbx="0" lby="804" segmentation="ok" slant="87999" stroke-width="5276" threshold="185" text="The day I promised to take Catherine" ubs="-267" ubx="0" uby="778">
+      <word id="r06-106-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="340" y="738" width="50" height="63" />
+        <cmp x="391" y="737" width="87" height="68" />
+      </word>
+      <word id="r06-106-00-01" tag="NN" text="day">
+        <cmp x="541" y="745" width="149" height="127" />
+      </word>
+      <word id="r06-106-00-02" tag="PP1A" text="I">
+        <cmp x="774" y="731" width="12" height="80" />
+      </word>
+      <word id="r06-106-00-03" tag="VBD" text="promised">
+        <cmp x="826" y="778" width="255" height="56" />
+        <cmp x="1072" y="757" width="7" height="7" />
+        <cmp x="1086" y="745" width="131" height="67" />
+        <cmp x="1103" y="782" width="13" height="10" />
+      </word>
+      <word id="r06-106-00-04" tag="TO" text="to">
+        <cmp x="1275" y="741" width="65" height="71" />
+      </word>
+      <word id="r06-106-00-05" tag="VB" text="take">
+        <cmp x="1374" y="752" width="82" height="62" />
+        <cmp x="1377" y="747" width="6" height="4" />
+        <cmp x="1457" y="747" width="65" height="70" />
+      </word>
+      <word id="r06-106-00-06" tag="NP" text="Catherine">
+        <cmp x="1588" y="753" width="94" height="57" />
+        <cmp x="1671" y="743" width="218" height="70" />
+        <cmp x="1884" y="756" width="6" height="8" />
+        <cmp x="1904" y="789" width="86" height="29" />
+      </word>
+      <lower-contour>
+        <point x="340" y="872" />
+        <point x="1991" y="872" />
+      </lower-contour>
+    </line>
+    <line ass="-91" asx="0" asy="912" character-width="999" dss="-91" dsx="0" dsy="1049" fd0="12993" fd1="3111" fd2="-52" filter-width="3" id="r06-106-01" lbs="-55" lbx="0" lby="983" segmentation="ok" slant="90000" stroke-width="5375" threshold="184" text="down to visit my young friend Philip" ubs="-163" ubx="0" uby="957">
+      <word id="r06-106-01-00" tag="RP" text="down">
+        <cmp x="342" y="958" width="24" height="26" />
+        <cmp x="366" y="924" width="197" height="64" />
+      </word>
+      <word id="r06-106-01-01" tag="TO" text="to">
+        <cmp x="617" y="915" width="59" height="64" />
+      </word>
+      <word id="r06-106-01-02" tag="VB" text="visit">
+        <cmp x="715" y="957" width="53" height="32" />
+        <cmp x="761" y="932" width="6" height="9" />
+        <cmp x="777" y="956" width="28" height="31" />
+        <cmp x="819" y="955" width="9" height="30" />
+        <cmp x="822" y="924" width="8" height="10" />
+        <cmp x="846" y="923" width="32" height="60" />
+      </word>
+      <word id="r06-106-01-03" tag="PP$" text="my">
+        <cmp x="969" y="956" width="118" height="81" />
+      </word>
+      <word id="r06-106-01-04" tag="JJ" text="young">
+        <cmp x="1161" y="961" width="44" height="90" />
+        <cmp x="1207" y="960" width="172" height="37" />
+        <cmp x="1374" y="966" width="45" height="80" />
+      </word>
+      <word id="r06-106-01-05" tag="NN" text="friend">
+        <cmp x="1501" y="915" width="260" height="99" />
+        <cmp x="1586" y="930" width="7" height="8" />
+      </word>
+      <word id="r06-106-01-06" tag="NP" text="Philip">
+        <cmp x="1807" y="924" width="44" height="65" />
+        <cmp x="1860" y="927" width="75" height="62" />
+        <cmp x="1925" y="931" width="6" height="13" />
+        <cmp x="1949" y="923" width="58" height="65" />
+        <cmp x="1993" y="934" width="6" height="10" />
+        <cmp x="2018" y="965" width="42" height="49" />
+      </word>
+      <upper-contour>
+        <point x="340" y="872" />
+        <point x="1991" y="872" />
+      </upper-contour>
+      <lower-contour>
+        <point x="340" y="1051" />
+        <point x="2061" y="1051" />
+      </lower-contour>
+    </line>
+    <line ass="-182" asx="0" asy="1099" character-width="999" dss="-182" dsx="0" dsy="1224" fd0="12944" fd1="3609" fd2="544" filter-width="3" id="r06-106-02" lbs="-110" lbx="0" lby="1165" segmentation="ok" slant="89000" stroke-width="5412" threshold="185" text="at his school in the country, we were" ubs="-327" ubx="0" uby="1138">
+      <word id="r06-106-02-00" tag="IN" text="at">
+        <cmp x="329" y="1101" width="92" height="67" />
+      </word>
+      <word id="r06-106-02-01" tag="PP$" text="his">
+        <cmp x="482" y="1101" width="63" height="67" />
+        <cmp x="532" y="1103" width="7" height="9" />
+        <cmp x="557" y="1133" width="24" height="35" />
+      </word>
+      <word id="r06-106-02-02" tag="NN" text="school">
+        <cmp x="652" y="1134" width="42" height="34" />
+        <cmp x="686" y="1104" width="196" height="67" />
+        <cmp x="887" y="1103" width="11" height="63" />
+      </word>
+      <word id="r06-106-02-03" tag="IN" text="in">
+        <cmp x="969" y="1139" width="92" height="28" />
+        <cmp x="970" y="1110" width="6" height="7" />
+      </word>
+      <word id="r06-106-02-04" tag="ATI" text="the">
+        <cmp x="1094" y="1108" width="125" height="65" />
+      </word>
+      <word id="r06-106-02-05" tag="NN" text="country">
+        <cmp x="1275" y="1139" width="228" height="31" />
+        <cmp x="1508" y="1116" width="123" height="115" />
+      </word>
+      <word id="r06-106-02-06" tag="," text=",">
+        <cmp x="1667" y="1158" width="14" height="35" />
+      </word>
+      <word id="r06-106-02-07" tag="PP1AS" text="we">
+        <cmp x="1725" y="1136" width="140" height="31" />
+      </word>
+      <word id="r06-106-02-08" tag="BED" text="were">
+        <cmp x="1921" y="1138" width="85" height="32" />
+        <cmp x="2006" y="1140" width="132" height="34" />
+      </word>
+      <upper-contour>
+        <point x="340" y="1051" />
+        <point x="2061" y="1051" />
+      </upper-contour>
+      <lower-contour>
+        <point x="346" y="1231" />
+        <point x="2062" y="1231" />
+      </lower-contour>
+    </line>
+    <line ass="-302" asx="0" asy="1273" character-width="999" dss="-302" dsx="0" dsy="1362" fd0="13002" fd1="3347" fd2="314" filter-width="3" id="r06-106-03" lbs="-282" lbx="0" lby="1339" segmentation="ok" slant="90000" stroke-width="5400" threshold="184" text="to leave at eleven, but she arrived" ubs="-343" ubx="0" uby="1315">
+      <word id="r06-106-03-00" tag="TO" text="to">
+        <cmp x="348" y="1282" width="65" height="62" />
+      </word>
+      <word id="r06-106-03-01" tag="VB" text="leave">
+        <cmp x="471" y="1277" width="218" height="69" />
+      </word>
+      <word id="r06-106-03-02" tag="IN" text="at">
+        <cmp x="766" y="1315" width="60" height="31" />
+        <cmp x="825" y="1278" width="36" height="65" />
+      </word>
+      <word id="r06-106-03-03" tag="CD" text="eleven">
+        <cmp x="917" y="1288" width="318" height="62" />
+      </word>
+      <word id="r06-106-03-04" tag="," text=",">
+        <cmp x="1257" y="1340" width="16" height="29" />
+      </word>
+      <word id="r06-106-03-05" tag="CC" text="but">
+        <cmp x="1309" y="1300" width="50" height="50" />
+        <cmp x="1365" y="1295" width="110" height="59" />
+      </word>
+      <word id="r06-106-03-06" tag="PP3A" text="she">
+        <cmp x="1513" y="1325" width="40" height="34" />
+        <cmp x="1567" y="1291" width="118" height="63" />
+      </word>
+      <word id="r06-106-03-07" tag="VBD" text="arrived">
+        <cmp x="1730" y="1321" width="167" height="32" />
+        <cmp x="1888" y="1293" width="8" height="15" />
+        <cmp x="1916" y="1296" width="145" height="59" />
+      </word>
+      <upper-contour>
+        <point x="346" y="1231" />
+        <point x="2062" y="1231" />
+      </upper-contour>
+      <lower-contour>
+        <point x="346" y="1369" />
+        <point x="2062" y="1369" />
+      </lower-contour>
+    </line>
+    <line ass="-586" asx="0" asy="1445" character-width="999" dss="-586" dsx="0" dsy="1528" fd0="12854" fd1="2747" fd2="179" filter-width="3" id="r06-106-04" lbs="-510" lbx="0" lby="1516" segmentation="ok" slant="90000" stroke-width="5332" threshold="185" text="at nine. Her blue dress was new," ubs="-740" ubx="0" uby="1488">
+      <word id="r06-106-04-00" tag="IN" text="at">
+        <cmp x="347" y="1449" width="101" height="68" />
+      </word>
+      <word id="r06-106-04-01" tag="CD" text="nine">
+        <cmp x="495" y="1494" width="87" height="27" />
+        <cmp x="566" y="1461" width="6" height="9" />
+        <cmp x="595" y="1496" width="84" height="28" />
+      </word>
+      <word id="r06-106-04-02" tag="." text=".">
+        <cmp x="724" y="1516" width="9" height="7" />
+      </word>
+      <word id="r06-106-04-03" sentence-start="yes" tag="PP$" text="Her">
+        <cmp x="775" y="1464" width="137" height="62" />
+      </word>
+      <word id="r06-106-04-04" tag="JJ" text="blue">
+        <cmp x="954" y="1467" width="36" height="71" />
+        <cmp x="1001" y="1463" width="146" height="71" />
+      </word>
+      <word id="r06-106-04-05" tag="NN" text="dress">
+        <cmp x="1222" y="1464" width="239" height="69" />
+        <cmp x="1449" y="1498" width="54" height="42" />
+      </word>
+      <word id="r06-106-04-06" tag="BEDZ" text="was">
+        <cmp x="1574" y="1502" width="78" height="28" />
+        <cmp x="1654" y="1502" width="100" height="38" />
+      </word>
+      <word id="r06-106-04-07" tag="JJ" text="new">
+        <cmp x="1828" y="1506" width="209" height="29" />
+      </word>
+      <word id="r06-106-04-08" tag="," text=",">
+        <cmp x="2050" y="1526" width="17" height="22" />
+      </word>
+      <upper-contour>
+        <point x="346" y="1369" />
+        <point x="2062" y="1369" />
+      </upper-contour>
+      <lower-contour>
+        <point x="345" y="1548" />
+        <point x="2067" y="1548" />
+      </lower-contour>
+    </line>
+    <line ass="-46" asx="0" asy="1638" character-width="999" dss="-46" dsx="0" dsy="1722" fd0="12828" fd1="3525" fd2="95" filter-width="3" id="r06-106-05" lbs="-89" lbx="0" lby="1703" segmentation="ok" slant="90000" stroke-width="5298" threshold="183" text="and so were her fashionable shoes. Her" ubs="40" ubx="0" uby="1685">
+      <word id="r06-106-05-00" tag="CC" text="and">
+        <cmp x="339" y="1679" width="128" height="28" />
+        <cmp x="468" y="1650" width="63" height="64" />
+      </word>
+      <word id="r06-106-05-01" tag="PN" text="so">
+        <cmp x="590" y="1675" width="32" height="32" />
+        <cmp x="627" y="1673" width="47" height="32" />
+      </word>
+      <word id="r06-106-05-02" tag="BED" text="were">
+        <cmp x="741" y="1678" width="213" height="29" />
+      </word>
+      <word id="r06-106-05-03" tag="PP$" text="her">
+        <cmp x="1011" y="1639" width="147" height="65" />
+      </word>
+      <word id="r06-106-05-04" tag="JJ" text="fashionable">
+        <cmp x="1194" y="1639" width="74" height="85" />
+        <cmp x="1272" y="1676" width="30" height="33" />
+        <cmp x="1322" y="1641" width="67" height="63" />
+        <cmp x="1379" y="1649" width="8" height="7" />
+        <cmp x="1396" y="1684" width="105" height="23" />
+        <cmp x="1508" y="1659" width="90" height="58" />
+        <cmp x="1602" y="1654" width="60" height="63" />
+      </word>
+      <word id="r06-106-05-05" tag="NNS" text="shoes">
+        <cmp x="1717" y="1678" width="42" height="32" />
+        <cmp x="1769" y="1650" width="198" height="67" />
+      </word>
+      <word id="r06-106-05-06" tag="." text=".">
+        <cmp x="1995" y="1704" width="6" height="7" />
+      </word>
+      <word id="r06-106-05-07" sentence-start="yes" tag="PP$" text="Her">
+        <cmp x="2041" y="1643" width="8" height="59" />
+        <cmp x="2049" y="1641" width="134" height="60" />
+      </word>
+      <upper-contour>
+        <point x="345" y="1548" />
+        <point x="2067" y="1548" />
+      </upper-contour>
+      <lower-contour>
+        <point x="344" y="1724" />
+        <point x="2115" y="1724" />
+      </lower-contour>
+    </line>
+    <line ass="-128" asx="0" asy="1817" character-width="999" dss="-128" dsx="0" dsy="1918" fd0="13008" fd1="3490" fd2="285" filter-width="3" id="r06-106-06" lbs="-59" lbx="0" lby="1885" segmentation="ok" slant="90000" stroke-width="5313" threshold="183" text="hair had just been done. She looked" ubs="-266" ubx="0" uby="1855">
+      <word id="r06-106-06-00" tag="NN" text="hair">
+        <cmp x="346" y="1818" width="125" height="66" />
+        <cmp x="460" y="1827" width="6" height="7" />
+        <cmp x="486" y="1851" width="33" height="33" />
+      </word>
+      <word id="r06-106-06-01" tag="HVD" text="had">
+        <cmp x="575" y="1824" width="50" height="64" />
+        <cmp x="625" y="1829" width="124" height="57" />
+      </word>
+      <word id="r06-106-06-02" tag="RB" text="just">
+        <cmp x="807" y="1860" width="27" height="60" />
+        <cmp x="830" y="1821" width="7" height="12" />
+        <cmp x="844" y="1860" width="86" height="32" />
+        <cmp x="944" y="1822" width="26" height="73" />
+      </word>
+      <word id="r06-106-06-03" tag="BEN" text="been">
+        <cmp x="1021" y="1820" width="226" height="75" />
+      </word>
+      <word id="r06-106-06-04" tag="VBN" text="done">
+        <cmp x="1300" y="1829" width="61" height="57" />
+        <cmp x="1367" y="1859" width="162" height="33" />
+      </word>
+      <word id="r06-106-06-05" tag="." text=".">
+        <cmp x="1573" y="1885" width="7" height="10" />
+      </word>
+      <word id="r06-106-06-06" sentence-start="yes" tag="PP3A" text="She">
+        <cmp x="1617" y="1837" width="44" height="51" />
+        <cmp x="1678" y="1833" width="100" height="59" />
+      </word>
+      <word id="r06-106-06-07" tag="VBD" text="looked">
+        <cmp x="1830" y="1828" width="18" height="55" />
+        <cmp x="1848" y="1833" width="267" height="63" />
+      </word>
+      <upper-contour>
+        <point x="344" y="1724" />
+        <point x="2115" y="1724" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="1920" />
+        <point x="2115" y="1920" />
+      </lower-contour>
+    </line>
+    <line ass="-209" asx="0" asy="1992" character-width="999" dss="-209" dsx="0" dsy="2109" fd0="13086" fd1="3339" fd2="259" filter-width="3" id="r06-106-07" lbs="-197" lbx="0" lby="2061" segmentation="ok" slant="90000" stroke-width="5364" threshold="184" text="more than ever like a pink and gold" ubs="-235" ubx="0" uby="2040">
+      <word id="r06-106-07-00" tag="RBR" text="more">
+        <cmp x="350" y="2030" width="197" height="38" />
+      </word>
+      <word id="r06-106-07-01" tag="CS" text="than">
+        <cmp x="626" y="1995" width="203" height="71" />
+      </word>
+      <word id="r06-106-07-02" tag="RB" text="ever">
+        <cmp x="902" y="2039" width="197" height="30" />
+      </word>
+      <word id="r06-106-07-03" tag="IN" text="like">
+        <cmp x="1142" y="2003" width="54" height="68" />
+        <cmp x="1185" y="2009" width="6" height="8" />
+        <cmp x="1206" y="2005" width="86" height="64" />
+      </word>
+      <word id="r06-106-07-04" tag="AT" text="a">
+        <cmp x="1364" y="2034" width="63" height="29" />
+      </word>
+      <word id="r06-106-07-05" tag="JJ" text="pink">
+        <cmp x="1465" y="2033" width="150" height="60" />
+        <cmp x="1528" y="2020" width="10" height="8" />
+        <cmp x="1629" y="2011" width="51" height="57" />
+      </word>
+      <word id="r06-106-07-06" tag="CC" text="and">
+        <cmp x="1734" y="2044" width="105" height="26" />
+        <cmp x="1840" y="2018" width="65" height="54" />
+      </word>
+      <word id="r06-106-07-07" tag="JJ" text="gold">
+        <cmp x="1940" y="2043" width="42" height="74" />
+        <cmp x="1983" y="2013" width="80" height="57" />
+        <cmp x="2070" y="2020" width="52" height="51" />
+      </word>
+      <upper-contour>
+        <point x="348" y="1920" />
+        <point x="2115" y="1920" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="2117" />
+        <point x="2123" y="2117" />
+      </lower-contour>
+    </line>
+    <line ass="-438" asx="0" asy="2156" character-width="999" dss="-438" dsx="0" dsy="2289" fd0="12970" fd1="2747" fd2="-401" filter-width="3" id="r06-106-08" lbs="-400" lbx="0" lby="2233" segmentation="ok" slant="90000" stroke-width="5414" threshold="182" text="Renoir girl who expects everything from" ubs="-515" ubx="0" uby="2207">
+      <word id="r06-106-08-00" tag="NP" text="Renoir">
+        <cmp x="351" y="2175" width="155" height="65" />
+        <cmp x="508" y="2212" width="62" height="34" />
+        <cmp x="557" y="2186" width="6" height="11" />
+        <cmp x="580" y="2211" width="36" height="30" />
+      </word>
+      <word id="r06-106-08-01" tag="NN" text="girl">
+        <cmp x="674" y="2214" width="40" height="79" />
+        <cmp x="723" y="2214" width="8" height="26" />
+        <cmp x="724" y="2189" width="6" height="10" />
+        <cmp x="747" y="2183" width="62" height="58" />
+      </word>
+      <word id="r06-106-08-02" tag="WP" text="who">
+        <cmp x="870" y="2213" width="70" height="30" />
+        <cmp x="950" y="2181" width="45" height="64" />
+        <cmp x="999" y="2212" width="48" height="35" />
+      </word>
+      <word id="r06-106-08-03" tag="VBZ" text="expects">
+        <cmp x="1115" y="2184" width="310" height="77" />
+      </word>
+      <word id="r06-106-08-04" tag="PN" text="everything">
+        <cmp x="1474" y="2213" width="232" height="79" />
+        <cmp x="1722" y="2178" width="98" height="67" />
+        <cmp x="1805" y="2191" width="6" height="5" />
+        <cmp x="1832" y="2226" width="57" height="20" />
+        <cmp x="1892" y="2225" width="35" height="79" />
+      </word>
+      <word id="r06-106-08-05" tag="IN" text="from">
+        <cmp x="1965" y="2172" width="202" height="92" />
+      </word>
+      <upper-contour>
+        <point x="349" y="2117" />
+        <point x="2123" y="2117" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="2240" />
+        <point x="525" y="2240" />
+      </lower-contour>
+    </line>
+    <line ass="-2487" asx="0" asy="2337" character-width="999" dss="-2487" dsx="0" dsy="2429" fd0="12713" fd1="3506" fd2="259" filter-width="3" id="r06-106-09" lbs="-1304" lbx="0" lby="2410" segmentation="ok" slant="91000" stroke-width="5113" threshold="181" text="life." ubs="-4852" ubx="0" uby="2370">
+      <word id="r06-106-09-00" tag="NN" text="life">
+        <cmp x="351" y="2354" width="46" height="66" />
+        <cmp x="387" y="2356" width="6" height="9" />
+        <cmp x="404" y="2354" width="78" height="94" />
+      </word>
+      <word id="r06-106-09-01" tag="." text=".">
+        <cmp x="518" y="2418" width="7" height="6" />
+      </word>
+      <upper-contour>
+        <point x="349" y="2240" />
+        <point x="525" y="2240" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

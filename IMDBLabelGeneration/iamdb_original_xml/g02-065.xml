@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-18" height="3542" id="g02-065" last-modified="2002-07-24" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="305">
+  <machine-printed-part>
+    <machine-print-line text="Arterial pulsation disappears with cessation of ventricular contraction. During cutting" />
+    <machine-print-line text="or puncture of the ventricles, there is often forcible expulsion of blood from the wound." />
+    <machine-print-line text="Arterial diastole is thus synchronous with cardiac systole but, when movement of" />
+    <machine-print-line text="blood through arteries is hindered by compression, infarction or interception, the" />
+    <machine-print-line text="more distal arteries pulsate less because their pulse is nothing other than the impulse" />
+    <machine-print-line text="of the blood entering them." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="284" asx="0" asy="920" character-width="999" dss="284" dsx="0" dsy="1065" fd0="13359" fd1="2804" fd2="-1619" filter-width="3" id="g02-065-00" lbs="362" lbx="0" lby="1009" segmentation="ok" slant="96000" stroke-width="5480" threshold="182" text="Arterial pulsation disappears with cessation of" ubs="129" ubx="0" uby="963">
+      <word id="g02-065-00-00" sentence-start="yes" tag="JJ" text="Arterial">
+        <cmp x="356" y="983" width="8" height="21" />
+        <cmp x="361" y="936" width="36" height="67" />
+        <cmp x="406" y="960" width="23" height="40" />
+        <cmp x="433" y="942" width="22" height="52" />
+        <cmp x="462" y="952" width="32" height="45" />
+        <cmp x="500" y="956" width="24" height="39" />
+        <cmp x="534" y="963" width="37" height="41" />
+        <cmp x="536" y="939" width="6" height="5" />
+        <cmp x="581" y="948" width="13" height="55" />
+      </word>
+      <word id="g02-065-00-01" tag="NN" text="pulsation">
+        <cmp x="661" y="963" width="30" height="79" />
+        <cmp x="699" y="955" width="28" height="48" />
+        <cmp x="736" y="938" width="12" height="54" />
+        <cmp x="750" y="966" width="31" height="41" />
+        <cmp x="780" y="968" width="29" height="37" />
+        <cmp x="813" y="948" width="23" height="56" />
+        <cmp x="852" y="939" width="8" height="9" />
+        <cmp x="854" y="964" width="13" height="40" />
+        <cmp x="873" y="960" width="59" height="43" />
+      </word>
+      <word id="g02-065-00-02" tag="VBZ" text="disappears">
+        <cmp x="990" y="945" width="34" height="64" />
+        <cmp x="1037" y="939" width="4" height="4" />
+        <cmp x="1039" y="965" width="9" height="36" />
+        <cmp x="1060" y="963" width="26" height="43" />
+        <cmp x="1089" y="966" width="31" height="36" />
+        <cmp x="1133" y="967" width="23" height="75" />
+        <cmp x="1162" y="966" width="23" height="82" />
+        <cmp x="1193" y="961" width="36" height="45" />
+        <cmp x="1199" y="980" width="6" height="4" />
+        <cmp x="1230" y="968" width="39" height="32" />
+        <cmp x="1274" y="957" width="26" height="36" />
+        <cmp x="1311" y="964" width="27" height="40" />
+      </word>
+      <word id="g02-065-00-03" tag="IN" text="with">
+        <cmp x="1381" y="957" width="38" height="47" />
+        <cmp x="1417" y="941" width="7" height="5" />
+        <cmp x="1429" y="968" width="12" height="35" />
+        <cmp x="1444" y="943" width="29" height="55" />
+        <cmp x="1473" y="941" width="48" height="59" />
+      </word>
+      <word id="g02-065-00-04" tag="NN" text="cessation">
+        <cmp x="1564" y="965" width="36" height="41" />
+        <cmp x="1605" y="960" width="39" height="44" />
+        <cmp x="1654" y="960" width="30" height="38" />
+        <cmp x="1687" y="955" width="26" height="42" />
+        <cmp x="1719" y="961" width="36" height="34" />
+        <cmp x="1775" y="939" width="39" height="58" />
+        <cmp x="1806" y="940" width="6" height="8" />
+        <cmp x="1817" y="962" width="66" height="43" />
+      </word>
+      <word id="g02-065-00-05" tag="INO" text="of">
+        <cmp x="1938" y="964" width="40" height="40" />
+        <cmp x="1993" y="912" width="22" height="144" />
+      </word>
+      <lower-contour>
+        <point x="354" y="1056" />
+        <point x="2015" y="1056" />
+      </lower-contour>
+    </line>
+    <line ass="69" asx="0" asy="1095" character-width="999" dss="69" dsx="0" dsy="1228" fd0="13017" fd1="2757" fd2="-1816" filter-width="3" id="g02-065-01" lbs="58" lbx="0" lby="1182" segmentation="ok" slant="95000" stroke-width="5426" threshold="182" text="ventricular contraction. During cutting or puncture of" ubs="89" ubx="0" uby="1140">
+      <word id="g02-065-01-00" sentence-start="yes" tag="JJ" text="ventricular">
+        <cmp x="336" y="1134" width="31" height="52" />
+        <cmp x="364" y="1136" width="78" height="47" />
+        <cmp x="446" y="1125" width="27" height="53" />
+        <cmp x="488" y="1136" width="28" height="43" />
+        <cmp x="521" y="1141" width="12" height="40" />
+        <cmp x="530" y="1124" width="6" height="5" />
+        <cmp x="543" y="1143" width="30" height="37" />
+        <cmp x="580" y="1145" width="28" height="33" />
+        <cmp x="618" y="1125" width="11" height="53" />
+        <cmp x="628" y="1142" width="35" height="35" />
+        <cmp x="672" y="1136" width="22" height="38" />
+      </word>
+      <word id="g02-065-01-01" tag="NN" text="contraction">
+        <cmp x="744" y="1134" width="106" height="44" />
+        <cmp x="853" y="1120" width="29" height="54" />
+        <cmp x="889" y="1132" width="29" height="52" />
+        <cmp x="918" y="1141" width="31" height="41" />
+        <cmp x="959" y="1147" width="28" height="37" />
+        <cmp x="1002" y="1127" width="40" height="56" />
+        <cmp x="1030" y="1128" width="7" height="6" />
+        <cmp x="1043" y="1144" width="73" height="49" />
+      </word>
+      <word id="g02-065-01-02" tag="." text=".">
+        <cmp x="1138" y="1180" width="6" height="7" />
+      </word>
+      <word id="g02-065-01-03" tag="IN" text="During">
+        <cmp x="1168" y="1131" width="32" height="60" />
+        <cmp x="1208" y="1134" width="50" height="43" />
+        <cmp x="1267" y="1116" width="5" height="4" />
+        <cmp x="1267" y="1139" width="9" height="36" />
+        <cmp x="1285" y="1144" width="33" height="36" />
+        <cmp x="1316" y="1148" width="40" height="69" />
+      </word>
+      <word id="g02-065-01-04" tag="NN" text="cutting">
+        <cmp x="1399" y="1137" width="39" height="44" />
+        <cmp x="1433" y="1120" width="80" height="59" />
+        <cmp x="1520" y="1142" width="11" height="36" />
+        <cmp x="1529" y="1116" width="5" height="7" />
+        <cmp x="1541" y="1140" width="36" height="39" />
+        <cmp x="1566" y="1143" width="46" height="77" />
+      </word>
+      <word id="g02-065-01-05" tag="CC" text="or">
+        <cmp x="1649" y="1143" width="57" height="39" />
+      </word>
+      <word id="g02-065-01-06" tag="NN" text="puncture">
+        <cmp x="1759" y="1132" width="28" height="75" />
+        <cmp x="1791" y="1137" width="62" height="42" />
+        <cmp x="1858" y="1135" width="45" height="44" />
+        <cmp x="1912" y="1117" width="127" height="58" />
+      </word>
+      <word id="g02-065-01-07" tag="INO" text="of">
+        <cmp x="2068" y="1133" width="37" height="42" />
+        <cmp x="2113" y="1094" width="29" height="132" />
+        <cmp x="2123" y="1143" width="20" height="10" />
+      </word>
+      <upper-contour>
+        <point x="354" y="1056" />
+        <point x="2015" y="1056" />
+      </upper-contour>
+      <lower-contour>
+        <point x="334" y="1226" />
+        <point x="2144" y="1226" />
+      </lower-contour>
+    </line>
+    <line ass="548" asx="0" asy="1289" character-width="999" dss="548" dsx="0" dsy="1410" fd0="13178" fd1="3233" fd2="-1359" filter-width="3" id="g02-065-02" lbs="526" lbx="0" lby="1372" segmentation="ok" slant="96000" stroke-width="5466" threshold="182" text="the ventricles, there is often forcible expulsion" ubs="592" ubx="0" uby="1329">
+      <word id="g02-065-02-00" tag="ATI" text="the">
+        <cmp x="328" y="1298" width="36" height="62" />
+        <cmp x="364" y="1297" width="82" height="68" />
+      </word>
+      <word id="g02-065-02-01" tag="NNS" text="ventricles">
+        <cmp x="487" y="1311" width="35" height="53" />
+        <cmp x="520" y="1320" width="88" height="44" />
+        <cmp x="614" y="1305" width="33" height="63" />
+        <cmp x="656" y="1321" width="29" height="43" />
+        <cmp x="693" y="1327" width="14" height="39" />
+        <cmp x="698" y="1309" width="7" height="6" />
+        <cmp x="714" y="1327" width="35" height="38" />
+        <cmp x="756" y="1311" width="90" height="57" />
+      </word>
+      <word id="g02-065-02-02" tag="," text=",">
+        <cmp x="874" y="1362" width="11" height="36" />
+      </word>
+      <word id="g02-065-02-03" tag="EX" text="there">
+        <cmp x="905" y="1301" width="40" height="62" />
+        <cmp x="954" y="1304" width="81" height="65" />
+        <cmp x="1034" y="1321" width="73" height="51" />
+      </word>
+      <word id="g02-065-02-04" tag="BEZ" text="is">
+        <cmp x="1158" y="1299" width="8" height="6" />
+        <cmp x="1167" y="1319" width="16" height="41" />
+        <cmp x="1183" y="1321" width="29" height="41" />
+      </word>
+      <word id="g02-065-02-05" tag="RB" text="often">
+        <cmp x="1246" y="1277" width="66" height="116" />
+        <cmp x="1324" y="1299" width="104" height="67" />
+      </word>
+      <word id="g02-065-02-06" tag="JJ" text="forcible">
+        <cmp x="1492" y="1277" width="33" height="119" />
+        <cmp x="1520" y="1302" width="6" height="11" />
+        <cmp x="1526" y="1307" width="68" height="50" />
+        <cmp x="1598" y="1308" width="39" height="40" />
+        <cmp x="1644" y="1311" width="11" height="40" />
+        <cmp x="1647" y="1292" width="8" height="8" />
+        <cmp x="1663" y="1290" width="38" height="69" />
+        <cmp x="1708" y="1291" width="60" height="72" />
+      </word>
+      <word id="g02-065-02-07" tag="NN" text="expulsion">
+        <cmp x="1819" y="1306" width="47" height="47" />
+        <cmp x="1871" y="1311" width="46" height="42" />
+        <cmp x="1919" y="1310" width="38" height="81" />
+        <cmp x="1961" y="1318" width="37" height="30" />
+        <cmp x="1964" y="1315" width="3" height="4" />
+        <cmp x="2006" y="1286" width="13" height="65" />
+        <cmp x="2020" y="1303" width="32" height="48" />
+        <cmp x="2059" y="1280" width="6" height="7" />
+        <cmp x="2060" y="1309" width="9" height="39" />
+        <cmp x="2077" y="1306" width="68" height="52" />
+      </word>
+      <upper-contour>
+        <point x="334" y="1226" />
+        <point x="2144" y="1226" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1398" />
+        <point x="2100" y="1398" />
+      </lower-contour>
+    </line>
+    <line ass="305" asx="0" asy="1460" character-width="999" dss="305" dsx="0" dsy="1594" fd0="12999" fd1="2896" fd2="-1141" filter-width="3" id="g02-065-03" lbs="318" lbx="0" lby="1544" segmentation="ok" slant="96000" stroke-width="5618" threshold="182" text="of blood from the wound. Arterial diastole is" ubs="280" ubx="0" uby="1500">
+      <word id="g02-065-03-00" tag="INO" text="of">
+        <cmp x="329" y="1501" width="36" height="37" />
+        <cmp x="373" y="1460" width="24" height="124" />
+      </word>
+      <word id="g02-065-03-01" tag="NN" text="blood">
+        <cmp x="457" y="1484" width="37" height="67" />
+        <cmp x="495" y="1482" width="18" height="58" />
+        <cmp x="519" y="1496" width="84" height="46" />
+        <cmp x="605" y="1467" width="56" height="69" />
+      </word>
+      <word id="g02-065-03-02" tag="IN" text="from">
+        <cmp x="730" y="1468" width="34" height="123" />
+        <cmp x="770" y="1504" width="21" height="47" />
+        <cmp x="796" y="1500" width="85" height="44" />
+      </word>
+      <word id="g02-065-03-03" tag="ATI" text="the">
+        <cmp x="935" y="1466" width="34" height="73" />
+        <cmp x="973" y="1468" width="87" height="73" />
+      </word>
+      <word id="g02-065-03-04" tag="NN" text="wound">
+        <cmp x="1083" y="1470" width="190" height="73" />
+      </word>
+      <word id="g02-065-03-05" tag="." text=".">
+        <cmp x="1301" y="1533" width="8" height="6" />
+      </word>
+      <word id="g02-065-03-06" sentence-start="yes" tag="JJ" text="Arterial">
+        <cmp x="1360" y="1471" width="70" height="70" />
+        <cmp x="1437" y="1491" width="34" height="46" />
+        <cmp x="1473" y="1472" width="27" height="66" />
+        <cmp x="1501" y="1490" width="50" height="45" />
+        <cmp x="1551" y="1489" width="45" height="41" />
+        <cmp x="1591" y="1479" width="6" height="7" />
+        <cmp x="1599" y="1501" width="39" height="31" />
+        <cmp x="1645" y="1470" width="16" height="57" />
+      </word>
+      <word id="g02-065-03-07" tag="NN" text="diastole">
+        <cmp x="1699" y="1475" width="53" height="65" />
+        <cmp x="1767" y="1501" width="8" height="35" />
+        <cmp x="1772" y="1473" width="6" height="8" />
+        <cmp x="1782" y="1492" width="80" height="46" />
+        <cmp x="1867" y="1471" width="22" height="72" />
+        <cmp x="1887" y="1496" width="37" height="39" />
+        <cmp x="1930" y="1468" width="80" height="67" />
+      </word>
+      <word id="g02-065-03-08" tag="BEZ" text="is">
+        <cmp x="2048" y="1466" width="6" height="6" />
+        <cmp x="2055" y="1489" width="10" height="43" />
+        <cmp x="2071" y="1490" width="28" height="45" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1398" />
+        <point x="2100" y="1398" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1591" />
+        <point x="2091" y="1591" />
+      </lower-contour>
+    </line>
+    <line ass="357" asx="0" asy="1652" character-width="999" dss="357" dsx="0" dsy="1771" fd0="13389" fd1="2904" fd2="-1289" filter-width="3" id="g02-065-04" lbs="412" lbx="0" lby="1724" segmentation="ok" slant="95000" stroke-width="5533" threshold="182" text="thus synchronous with cardiac systole but," ubs="247" ubx="0" uby="1680">
+      <word id="g02-065-04-00" tag="RB" text="thus">
+        <cmp x="329" y="1651" width="41" height="64" />
+        <cmp x="385" y="1650" width="40" height="61" />
+        <cmp x="437" y="1666" width="32" height="37" />
+        <cmp x="474" y="1671" width="31" height="53" />
+      </word>
+      <word id="g02-065-04-01" tag="JJ" text="synchronous">
+        <cmp x="561" y="1672" width="40" height="44" />
+        <cmp x="610" y="1673" width="37" height="80" />
+        <cmp x="662" y="1679" width="39" height="47" />
+        <cmp x="703" y="1677" width="39" height="45" />
+        <cmp x="753" y="1666" width="44" height="54" />
+        <cmp x="810" y="1675" width="26" height="42" />
+        <cmp x="833" y="1681" width="78" height="44" />
+        <cmp x="917" y="1688" width="36" height="34" />
+        <cmp x="958" y="1685" width="37" height="33" />
+        <cmp x="998" y="1679" width="34" height="44" />
+      </word>
+      <word id="g02-065-04-02" tag="IN" text="with">
+        <cmp x="1093" y="1675" width="57" height="46" />
+        <cmp x="1149" y="1662" width="6" height="5" />
+        <cmp x="1162" y="1663" width="35" height="59" />
+        <cmp x="1198" y="1663" width="38" height="67" />
+      </word>
+      <word id="g02-065-04-03" tag="JJ" text="cardiac">
+        <cmp x="1295" y="1677" width="79" height="45" />
+        <cmp x="1389" y="1676" width="25" height="36" />
+        <cmp x="1414" y="1653" width="42" height="66" />
+        <cmp x="1470" y="1686" width="10" height="33" />
+        <cmp x="1475" y="1666" width="7" height="6" />
+        <cmp x="1483" y="1679" width="42" height="37" />
+        <cmp x="1530" y="1674" width="39" height="46" />
+      </word>
+      <word id="g02-065-04-04" tag="NN" text="systole">
+        <cmp x="1629" y="1674" width="43" height="47" />
+        <cmp x="1672" y="1683" width="24" height="22" />
+        <cmp x="1683" y="1679" width="28" height="82" />
+        <cmp x="1721" y="1672" width="36" height="46" />
+        <cmp x="1753" y="1655" width="21" height="63" />
+        <cmp x="1777" y="1676" width="38" height="37" />
+        <cmp x="1827" y="1647" width="10" height="63" />
+        <cmp x="1860" y="1659" width="55" height="46" />
+      </word>
+      <word id="g02-065-04-05" tag="CC" text="but">
+        <cmp x="1956" y="1648" width="37" height="67" />
+        <cmp x="2000" y="1645" width="54" height="63" />
+      </word>
+      <word id="g02-065-04-06" tag="," text=",">
+        <cmp x="2076" y="1717" width="15" height="27" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1591" />
+        <point x="2091" y="1591" />
+      </upper-contour>
+      <lower-contour>
+        <point x="329" y="1761" />
+        <point x="2091" y="1761" />
+      </lower-contour>
+    </line>
+    <line ass="371" asx="0" asy="1822" character-width="999" dss="371" dsx="0" dsy="1966" fd0="12872" fd1="2969" fd2="-1186" filter-width="3" id="g02-065-05" lbs="282" lbx="0" lby="1904" segmentation="ok" slant="96000" stroke-width="5480" threshold="182" text="when movement of blood through arteries is" ubs="550" ubx="0" uby="1866">
+      <word id="g02-065-05-00" tag="WRB" text="when">
+        <cmp x="331" y="1852" width="43" height="50" />
+        <cmp x="381" y="1855" width="43" height="53" />
+        <cmp x="425" y="1828" width="42" height="71" />
+        <cmp x="482" y="1866" width="40" height="40" />
+      </word>
+      <word id="g02-065-05-01" tag="NN" text="movement">
+        <cmp x="620" y="1857" width="55" height="54" />
+        <cmp x="676" y="1856" width="36" height="45" />
+        <cmp x="716" y="1855" width="77" height="48" />
+        <cmp x="795" y="1859" width="52" height="46" />
+        <cmp x="850" y="1863" width="88" height="44" />
+        <cmp x="943" y="1848" width="23" height="55" />
+      </word>
+      <word id="g02-065-05-02" tag="INO" text="of">
+        <cmp x="1029" y="1816" width="66" height="120" />
+      </word>
+      <word id="g02-065-05-03" tag="NN" text="blood">
+        <cmp x="1147" y="1875" width="7" height="15" />
+        <cmp x="1149" y="1832" width="37" height="65" />
+        <cmp x="1191" y="1835" width="14" height="60" />
+        <cmp x="1206" y="1852" width="35" height="36" />
+        <cmp x="1241" y="1828" width="80" height="62" />
+      </word>
+      <word id="g02-065-05-04" tag="IN" text="through">
+        <cmp x="1370" y="1834" width="47" height="64" />
+        <cmp x="1426" y="1836" width="41" height="62" />
+        <cmp x="1486" y="1845" width="83" height="49" />
+        <cmp x="1560" y="1850" width="48" height="106" />
+        <cmp x="1623" y="1832" width="38" height="70" />
+      </word>
+      <word id="g02-065-05-05" tag="NNS" text="arteries">
+        <cmp x="1701" y="1853" width="36" height="45" />
+        <cmp x="1755" y="1850" width="32" height="46" />
+        <cmp x="1805" y="1831" width="113" height="69" />
+        <cmp x="1910" y="1829" width="7" height="9" />
+        <cmp x="1919" y="1842" width="37" height="50" />
+        <cmp x="1967" y="1851" width="35" height="47" />
+      </word>
+      <word id="g02-065-05-06" tag="BEZ" text="is">
+        <cmp x="2036" y="1829" width="9" height="14" />
+        <cmp x="2046" y="1848" width="8" height="43" />
+        <cmp x="2067" y="1850" width="38" height="58" />
+      </word>
+      <upper-contour>
+        <point x="329" y="1761" />
+        <point x="2091" y="1761" />
+      </upper-contour>
+      <lower-contour>
+        <point x="336" y="1956" />
+        <point x="2106" y="1956" />
+      </lower-contour>
+    </line>
+    <line ass="616" asx="0" asy="2008" character-width="999" dss="616" dsx="0" dsy="2132" fd0="13204" fd1="2599" fd2="-1416" filter-width="3" id="g02-065-06" lbs="644" lbx="0" lby="2087" segmentation="ok" slant="96000" stroke-width="5474" threshold="182" text="hindered by compression, infarction or inter-" ubs="560" ubx="0" uby="2049">
+      <word id="g02-065-06-00" tag="VBN" text="hindered">
+        <cmp x="338" y="2007" width="38" height="66" />
+        <cmp x="387" y="2005" width="7" height="6" />
+        <cmp x="392" y="2038" width="12" height="42" />
+        <cmp x="416" y="2032" width="47" height="51" />
+        <cmp x="467" y="2020" width="119" height="70" />
+        <cmp x="589" y="2033" width="91" height="63" />
+      </word>
+      <word id="g02-065-06-01" tag="IN" text="by">
+        <cmp x="731" y="2057" width="3" height="6" />
+        <cmp x="732" y="2013" width="38" height="64" />
+        <cmp x="774" y="2051" width="20" height="17" />
+        <cmp x="789" y="2033" width="23" height="67" />
+      </word>
+      <word id="g02-065-06-02" tag="NN" text="compression">
+        <cmp x="879" y="2030" width="130" height="47" />
+        <cmp x="1017" y="2029" width="33" height="78" />
+        <cmp x="1055" y="2031" width="121" height="55" />
+        <cmp x="1175" y="2034" width="47" height="50" />
+        <cmp x="1238" y="2015" width="10" height="12" />
+        <cmp x="1239" y="2035" width="12" height="45" />
+        <cmp x="1255" y="2032" width="73" height="46" />
+      </word>
+      <word id="g02-065-06-03" tag="," text=",">
+        <cmp x="1348" y="2085" width="12" height="33" />
+      </word>
+      <word id="g02-065-06-04" tag="NN" text="infarction">
+        <cmp x="1378" y="2013" width="5" height="10" />
+        <cmp x="1380" y="2031" width="14" height="42" />
+        <cmp x="1407" y="2031" width="43" height="36" />
+        <cmp x="1451" y="1994" width="30" height="115" />
+        <cmp x="1481" y="2034" width="44" height="40" />
+        <cmp x="1529" y="2031" width="75" height="37" />
+        <cmp x="1607" y="2009" width="45" height="62" />
+        <cmp x="1644" y="2010" width="7" height="10" />
+        <cmp x="1662" y="2030" width="74" height="45" />
+      </word>
+      <word id="g02-065-06-05" tag="CC" text="or">
+        <cmp x="1790" y="2026" width="72" height="45" />
+      </word>
+      <word id="g02-065-06-06" tag="NN-" text="inter-">
+        <cmp x="1934" y="1999" width="7" height="14" />
+        <cmp x="1944" y="2029" width="10" height="41" />
+        <cmp x="1973" y="2027" width="41" height="44" />
+        <cmp x="2030" y="2009" width="91" height="69" />
+        <cmp x="2126" y="2049" width="29" height="7" />
+      </word>
+      <upper-contour>
+        <point x="336" y="1956" />
+        <point x="2106" y="1956" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="2119" />
+        <point x="2055" y="2119" />
+      </lower-contour>
+    </line>
+    <line ass="621" asx="0" asy="2194" character-width="999" dss="621" dsx="0" dsy="2308" fd0="13234" fd1="2643" fd2="-1245" filter-width="3" id="g02-065-07" lbs="767" lbx="0" lby="2271" segmentation="ok" slant="95000" stroke-width="5561" threshold="182" text="ception, the more distal arteries pulsate" ubs="329" ubx="0" uby="2221">
+      <word id="g02-065-07-00" tag="-NN" text="ception">
+        <cmp x="349" y="2205" width="44" height="44" />
+        <cmp x="399" y="2210" width="48" height="47" />
+        <cmp x="411" y="2203" width="5" height="7" />
+        <cmp x="450" y="2211" width="37" height="78" />
+        <cmp x="494" y="2201" width="58" height="61" />
+        <cmp x="535" y="2202" width="9" height="9" />
+        <cmp x="556" y="2219" width="75" height="45" />
+      </word>
+      <word id="g02-065-07-01" tag="," text=",">
+        <cmp x="657" y="2279" width="7" height="21" />
+      </word>
+      <word id="g02-065-07-02" tag="ATI" text="the">
+        <cmp x="701" y="2201" width="41" height="57" />
+        <cmp x="751" y="2204" width="86" height="55" />
+      </word>
+      <word id="g02-065-07-03" tag="QL" text="more">
+        <cmp x="894" y="2213" width="164" height="51" />
+        <cmp x="1059" y="2256" width="4" height="3" />
+      </word>
+      <word id="g02-065-07-04" tag="JJ" text="distal">
+        <cmp x="1108" y="2196" width="53" height="57" />
+        <cmp x="1170" y="2197" width="13" height="11" />
+        <cmp x="1174" y="2226" width="9" height="24" />
+        <cmp x="1187" y="2225" width="40" height="31" />
+        <cmp x="1232" y="2198" width="22" height="63" />
+        <cmp x="1261" y="2217" width="48" height="41" />
+        <cmp x="1316" y="2193" width="15" height="57" />
+      </word>
+      <word id="g02-065-07-05" tag="NNS" text="arteries">
+        <cmp x="1411" y="2213" width="47" height="42" />
+        <cmp x="1462" y="2210" width="30" height="41" />
+        <cmp x="1519" y="2187" width="119" height="62" />
+        <cmp x="1622" y="2178" width="6" height="12" />
+        <cmp x="1646" y="2210" width="34" height="39" />
+        <cmp x="1681" y="2220" width="34" height="41" />
+      </word>
+      <word id="g02-065-07-06" tag="VB" text="pulsate">
+        <cmp x="1794" y="2209" width="34" height="80" />
+        <cmp x="1833" y="2216" width="28" height="40" />
+        <cmp x="1874" y="2182" width="11" height="67" />
+        <cmp x="1900" y="2212" width="28" height="42" />
+        <cmp x="1938" y="2212" width="34" height="43" />
+        <cmp x="1987" y="2182" width="67" height="69" />
+      </word>
+      <upper-contour>
+        <point x="347" y="2119" />
+        <point x="2055" y="2119" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="2300" />
+        <point x="2055" y="2300" />
+      </lower-contour>
+    </line>
+    <line ass="484" asx="0" asy="2372" character-width="999" dss="484" dsx="0" dsy="2490" fd0="12950" fd1="2894" fd2="-1238" filter-width="4" id="g02-065-08" lbs="489" lbx="0" lby="2446" segmentation="err" slant="94000" stroke-width="5761" threshold="182" text="less because their pulse is nothing other" ubs="474" ubx="0" uby="2402">
+      <word id="g02-065-08-00" tag="RBR" text="less">
+        <cmp x="350" y="2371" width="8" height="70" />
+        <cmp x="380" y="2394" width="41" height="53" />
+        <cmp x="421" y="2399" width="35" height="39" />
+        <cmp x="460" y="2394" width="26" height="40" />
+      </word>
+      <word id="g02-065-08-01" tag="CS" text="because">
+        <cmp x="567" y="2373" width="36" height="72" />
+        <cmp x="607" y="2400" width="36" height="44" />
+        <cmp x="644" y="2398" width="74" height="47" />
+        <cmp x="725" y="2395" width="34" height="37" />
+        <cmp x="769" y="2398" width="34" height="39" />
+        <cmp x="804" y="2392" width="41" height="52" />
+      </word>
+      <word id="g02-065-08-02" tag="PP$" text="their">
+        <cmp x="903" y="2377" width="46" height="59" />
+        <cmp x="952" y="2370" width="100" height="64" />
+        <cmp x="1039" y="2366" width="9" height="11" />
+        <cmp x="1063" y="2389" width="25" height="46" />
+      </word>
+      <word id="g02-065-08-03" tag="NN" text="pulse">
+        <cmp x="1184" y="2400" width="27" height="76" />
+        <cmp x="1219" y="2402" width="32" height="37" />
+        <cmp x="1249" y="2372" width="13" height="60" />
+        <cmp x="1268" y="2393" width="38" height="46" />
+        <cmp x="1312" y="2388" width="45" height="50" />
+      </word>
+      <word id="g02-065-08-04" tag="BEZ" text="is">
+        <cmp x="1427" y="2372" width="11" height="9" />
+        <cmp x="1437" y="2395" width="40" height="45" />
+        <cmp x="1475" y="2362" width="36" height="92" />
+      </word>
+      <word id="g02-065-08-05" tag="PN" text="nothing">
+        <cmp x="1584" y="2362" width="102" height="74" />
+        <cmp x="1690" y="2376" width="43" height="53" />
+        <cmp x="1737" y="2358" width="10" height="16" />
+        <cmp x="1743" y="2393" width="10" height="35" />
+        <cmp x="1761" y="2399" width="40" height="34" />
+        <cmp x="1781" y="2397" width="66" height="79" />
+      </word>
+      <word id="g02-065-08-06" tag="AP" text="other">
+        <cmp x="1876" y="2358" width="65" height="72" />
+        <cmp x="1941" y="2362" width="134" height="68" />
+      </word>
+      <upper-contour>
+        <point x="348" y="2300" />
+        <point x="2055" y="2300" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="2476" />
+        <point x="2076" y="2476" />
+      </lower-contour>
+    </line>
+    <line ass="703" asx="0" asy="2540" character-width="999" dss="703" dsx="0" dsy="2666" fd0="12862" fd1="2681" fd2="-1226" filter-width="3" id="g02-065-09" lbs="754" lbx="0" lby="2626" segmentation="ok" slant="94000" stroke-width="5654" threshold="182" text="than the impulse of the blood entering them." ubs="603" ubx="0" uby="2581">
+      <word id="g02-065-09-00" tag="IN" text="than">
+        <cmp x="348" y="2537" width="34" height="79" />
+        <cmp x="387" y="2547" width="39" height="72" />
+        <cmp x="426" y="2571" width="32" height="49" />
+        <cmp x="472" y="2577" width="35" height="43" />
+      </word>
+      <word id="g02-065-09-01" tag="ATI" text="the">
+        <cmp x="539" y="2548" width="38" height="77" />
+        <cmp x="579" y="2554" width="83" height="81" />
+      </word>
+      <word id="g02-065-09-02" tag="NN" text="impulse">
+        <cmp x="720" y="2547" width="11" height="10" />
+        <cmp x="734" y="2577" width="8" height="45" />
+        <cmp x="756" y="2570" width="61" height="48" />
+        <cmp x="831" y="2558" width="38" height="86" />
+        <cmp x="875" y="2564" width="40" height="44" />
+        <cmp x="921" y="2549" width="51" height="58" />
+        <cmp x="981" y="2561" width="41" height="43" />
+      </word>
+      <word id="g02-065-09-03" tag="INO" text="of">
+        <cmp x="1094" y="2575" width="42" height="37" />
+        <cmp x="1139" y="2537" width="29" height="103" />
+      </word>
+      <word id="g02-065-09-04" tag="ATI" text="the">
+        <cmp x="1215" y="2549" width="33" height="60" />
+        <cmp x="1258" y="2550" width="80" height="69" />
+      </word>
+      <word id="g02-065-09-05" tag="NN" text="blood">
+        <cmp x="1397" y="2547" width="40" height="67" />
+        <cmp x="1441" y="2548" width="14" height="57" />
+        <cmp x="1463" y="2564" width="69" height="43" />
+        <cmp x="1541" y="2547" width="53" height="70" />
+      </word>
+      <word id="g02-065-09-06" tag="VBG" text="entering">
+        <cmp x="1632" y="2565" width="90" height="47" />
+        <cmp x="1741" y="2543" width="90" height="60" />
+        <cmp x="1839" y="2562" width="13" height="39" />
+        <cmp x="1845" y="2538" width="9" height="11" />
+        <cmp x="1867" y="2564" width="41" height="34" />
+        <cmp x="1909" y="2570" width="44" height="69" />
+      </word>
+      <word id="g02-065-09-07" tag="PP3OS" text="them">
+        <cmp x="1980" y="2541" width="30" height="63" />
+        <cmp x="2022" y="2549" width="142" height="58" />
+      </word>
+      <word id="g02-065-09-08" tag="." text=".">
+        <cmp x="2192" y="2623" width="13" height="17" />
+      </word>
+      <upper-contour>
+        <point x="348" y="2476" />
+        <point x="2076" y="2476" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

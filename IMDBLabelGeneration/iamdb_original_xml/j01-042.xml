@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="j01-042" last-modified="2002-07-17" skew="-63" status="final" version="3.0_beta" width="2479" writer-id="394">
+  <machine-printed-part>
+    <machine-print-line text="Unless it is known at what oxygen potential a given material in the sodium coolant" />
+    <machine-print-line text="circuit will start to oxidise the cell can only be used as has been suggested above, as" />
+    <machine-print-line text="an oxygen concentration monitor. However, if a material oxidizes in sodium at a given" />
+    <machine-print-line text="oxygen potential the reference electrode could be held at that potential and oxidizing" />
+    <machine-print-line text="or reducing conditions in the coolant circuit for that material would be indicated by" />
+    <machine-print-line text="a negative or positive potential at the reference electrode." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-257" asx="0" asy="773" character-width="999" dss="-257" dsx="0" dsy="862" fd0="14763" fd1="3363" fd2="825" filter-width="3" id="j01-042-00" lbs="-236" lbx="0" lby="817" segmentation="ok" slant="66999" stroke-width="4861" threshold="178" text="Unless it is known at what oxygen potential a given" ubs="-298" ubx="0" uby="799">
+      <word id="j01-042-00-00" sentence-start="yes" tag="CS" text="Unless">
+        <cmp x="402" y="778" width="66" height="44" />
+        <cmp x="480" y="781" width="67" height="40" />
+      </word>
+      <word id="j01-042-00-01" tag="PP3" text="it">
+        <cmp x="612" y="807" width="6" height="13" />
+        <cmp x="624" y="785" width="5" height="4" />
+        <cmp x="627" y="780" width="21" height="45" />
+      </word>
+      <word id="j01-042-00-02" tag="BEZ" text="is">
+        <cmp x="698" y="801" width="23" height="16" />
+        <cmp x="713" y="778" width="4" height="4" />
+      </word>
+      <word id="j01-042-00-03" tag="VBN" text="known">
+        <cmp x="792" y="800" width="55" height="22" />
+        <cmp x="798" y="780" width="13" height="23" />
+        <cmp x="854" y="806" width="18" height="19" />
+        <cmp x="880" y="804" width="27" height="22" />
+        <cmp x="918" y="811" width="26" height="17" />
+      </word>
+      <word id="j01-042-00-04" tag="IN" text="at">
+        <cmp x="1013" y="808" width="26" height="18" />
+        <cmp x="1047" y="784" width="19" height="41" />
+      </word>
+      <word id="j01-042-00-05" tag="WDT" text="what">
+        <cmp x="1126" y="805" width="9" height="20" />
+        <cmp x="1135" y="810" width="22" height="19" />
+        <cmp x="1170" y="780" width="28" height="44" />
+        <cmp x="1204" y="811" width="20" height="13" />
+        <cmp x="1239" y="782" width="17" height="40" />
+      </word>
+      <word id="j01-042-00-06" tag="NN" text="oxygen">
+        <cmp x="1314" y="808" width="20" height="23" />
+        <cmp x="1339" y="806" width="22" height="23" />
+        <cmp x="1366" y="810" width="26" height="55" />
+        <cmp x="1396" y="803" width="88" height="63" />
+      </word>
+      <word id="j01-042-00-07" tag="NN" text="potential">
+        <cmp x="1538" y="809" width="41" height="60" />
+        <cmp x="1586" y="813" width="15" height="13" />
+        <cmp x="1609" y="784" width="58" height="43" />
+        <cmp x="1680" y="814" width="24" height="15" />
+        <cmp x="1683" y="783" width="14" height="30" />
+        <cmp x="1715" y="796" width="4" height="6" />
+        <cmp x="1717" y="788" width="56" height="41" />
+      </word>
+      <word id="j01-042-00-08" tag="AT" text="a">
+        <cmp x="1835" y="814" width="29" height="17" />
+      </word>
+      <word id="j01-042-00-09" tag="JJ" text="given">
+        <cmp x="1914" y="812" width="41" height="50" />
+        <cmp x="1960" y="797" width="4" height="9" />
+        <cmp x="1968" y="812" width="24" height="16" />
+        <cmp x="1997" y="809" width="50" height="22" />
+      </word>
+      <lower-contour>
+        <point x="400" y="869" />
+        <point x="2048" y="869" />
+      </lower-contour>
+    </line>
+    <line ass="139" asx="0" asy="957" character-width="999" dss="139" dsx="0" dsy="1013" fd0="15184" fd1="3443" fd2="762" filter-width="3" id="j01-042-01" lbs="169" lbx="0" lby="1008" segmentation="ok" slant="65000" stroke-width="4945" threshold="177" text="material in the sodium coolant circuit will start to" ubs="81" ubx="0" uby="990">
+      <word id="j01-042-01-00" tag="NN" text="material">
+        <cmp x="395" y="989" width="41" height="16" />
+        <cmp x="446" y="991" width="21" height="15" />
+        <cmp x="478" y="964" width="62" height="45" />
+        <cmp x="540" y="977" width="4" height="6" />
+        <cmp x="553" y="970" width="52" height="38" />
+      </word>
+      <word id="j01-042-01-01" tag="IN" text="in">
+        <cmp x="666" y="994" width="5" height="11" />
+        <cmp x="679" y="997" width="21" height="10" />
+        <cmp x="682" y="969" width="3" height="7" />
+      </word>
+      <word id="j01-042-01-02" tag="ATI" text="the">
+        <cmp x="773" y="960" width="69" height="46" />
+      </word>
+      <word id="j01-042-01-03" tag="NN" text="sodium">
+        <cmp x="911" y="989" width="21" height="16" />
+        <cmp x="941" y="987" width="12" height="16" />
+        <cmp x="964" y="965" width="41" height="39" />
+        <cmp x="1016" y="964" width="6" height="10" />
+        <cmp x="1018" y="990" width="23" height="15" />
+        <cmp x="1053" y="991" width="46" height="15" />
+      </word>
+      <word id="j01-042-01-04" tag="NN" text="coolant">
+        <cmp x="1178" y="986" width="17" height="23" />
+        <cmp x="1199" y="985" width="15" height="20" />
+        <cmp x="1223" y="987" width="15" height="21" />
+        <cmp x="1254" y="962" width="32" height="46" />
+        <cmp x="1283" y="986" width="62" height="20" />
+        <cmp x="1353" y="964" width="21" height="46" />
+      </word>
+      <word id="j01-042-01-05" tag="NN" text="circuit">
+        <cmp x="1446" y="985" width="17" height="19" />
+        <cmp x="1475" y="990" width="9" height="12" />
+        <cmp x="1477" y="968" width="3" height="6" />
+        <cmp x="1499" y="987" width="63" height="19" />
+        <cmp x="1572" y="968" width="5" height="6" />
+        <cmp x="1583" y="955" width="22" height="46" />
+      </word>
+      <word id="j01-042-01-06" tag="MD" text="will">
+        <cmp x="1673" y="989" width="36" height="18" />
+        <cmp x="1708" y="976" width="7" height="6" />
+        <cmp x="1727" y="964" width="51" height="43" />
+      </word>
+      <word id="j01-042-01-07" tag="VB" text="start">
+        <cmp x="1846" y="993" width="24" height="14" />
+        <cmp x="1878" y="962" width="56" height="44" />
+        <cmp x="1947" y="963" width="18" height="40" />
+      </word>
+      <word id="j01-042-01-08" tag="TO" text="to">
+        <cmp x="2029" y="963" width="34" height="41" />
+      </word>
+      <upper-contour>
+        <point x="400" y="869" />
+        <point x="2048" y="869" />
+      </upper-contour>
+      <lower-contour>
+        <point x="393" y="1010" />
+        <point x="1981" y="1010" />
+      </lower-contour>
+    </line>
+    <line ass="-58" asx="0" asy="1137" character-width="999" dss="-58" dsx="0" dsy="1215" fd0="14764" fd1="3026" fd2="807" filter-width="3" id="j01-042-02" lbs="-58" lbx="0" lby="1183" segmentation="ok" slant="65000" stroke-width="5071" threshold="179" text="oxidise the cell can only be used as has been" ubs="-59" ubx="0" uby="1165">
+      <word id="j01-042-02-00" tag="VB" text="oxidise">
+        <cmp x="392" y="1162" width="48" height="25" />
+        <cmp x="455" y="1166" width="4" height="13" />
+        <cmp x="462" y="1148" width="4" height="6" />
+        <cmp x="474" y="1139" width="46" height="43" />
+        <cmp x="525" y="1139" width="5" height="10" />
+        <cmp x="528" y="1164" width="17" height="15" />
+        <cmp x="556" y="1160" width="19" height="22" />
+      </word>
+      <word id="j01-042-02-01" tag="ATI" text="the">
+        <cmp x="653" y="1147" width="83" height="47" />
+      </word>
+      <word id="j01-042-02-02" tag="NN" text="cell">
+        <cmp x="803" y="1145" width="89" height="43" />
+      </word>
+      <word id="j01-042-02-03" tag="MD" text="can">
+        <cmp x="963" y="1163" width="17" height="22" />
+        <cmp x="985" y="1165" width="65" height="20" />
+      </word>
+      <word id="j01-042-02-04" tag="RB" text="only">
+        <cmp x="1125" y="1166" width="43" height="15" />
+        <cmp x="1181" y="1140" width="46" height="77" />
+      </word>
+      <word id="j01-042-02-05" tag="BE" text="be">
+        <cmp x="1311" y="1139" width="43" height="44" />
+      </word>
+      <word id="j01-042-02-06" tag="VBN" text="used">
+        <cmp x="1413" y="1165" width="48" height="17" />
+        <cmp x="1472" y="1164" width="20" height="19" />
+        <cmp x="1497" y="1141" width="43" height="40" />
+      </word>
+      <word id="j01-042-02-07" tag="CS" text="as">
+        <cmp x="1604" y="1169" width="44" height="17" />
+      </word>
+      <word id="j01-042-02-08" tag="HVZ" text="has">
+        <cmp x="1719" y="1145" width="28" height="39" />
+        <cmp x="1752" y="1168" width="47" height="17" />
+      </word>
+      <word id="j01-042-02-09" tag="BEN" text="been">
+        <cmp x="1879" y="1146" width="63" height="42" />
+        <cmp x="1955" y="1175" width="25" height="13" />
+      </word>
+      <upper-contour>
+        <point x="393" y="1010" />
+        <point x="1981" y="1010" />
+      </upper-contour>
+      <lower-contour>
+        <point x="390" y="1217" />
+        <point x="1981" y="1217" />
+      </lower-contour>
+    </line>
+    <line ass="-51" asx="0" asy="1310" character-width="999" dss="-51" dsx="0" dsy="1401" fd0="14723" fd1="3038" fd2="562" filter-width="3" id="j01-042-03" lbs="-13" lbx="0" lby="1361" segmentation="ok" slant="66999" stroke-width="5042" threshold="179" text="suggested above, as an oxygen concentration monitor." ubs="-128" ubx="0" uby="1342">
+      <word id="j01-042-03-00" tag="VBN" text="suggested">
+        <cmp x="380" y="1337" width="21" height="21" />
+        <cmp x="411" y="1344" width="27" height="16" />
+        <cmp x="441" y="1343" width="23" height="59" />
+        <cmp x="469" y="1340" width="67" height="60" />
+        <cmp x="553" y="1314" width="33" height="46" />
+        <cmp x="595" y="1319" width="39" height="41" />
+      </word>
+      <word id="j01-042-03-01" tag="RI" text="above">
+        <cmp x="717" y="1344" width="22" height="15" />
+        <cmp x="752" y="1320" width="22" height="42" />
+        <cmp x="774" y="1344" width="46" height="17" />
+        <cmp x="828" y="1343" width="17" height="20" />
+      </word>
+      <word id="j01-042-03-02" tag="," text=",">
+        <cmp x="888" y="1362" width="5" height="16" />
+      </word>
+      <word id="j01-042-03-03" tag="IN" text="as">
+        <cmp x="963" y="1343" width="40" height="23" />
+      </word>
+      <word id="j01-042-03-04" tag="AT" text="an">
+        <cmp x="1080" y="1339" width="62" height="22" />
+      </word>
+      <word id="j01-042-03-05" tag="NN" text="oxygen">
+        <cmp x="1217" y="1344" width="17" height="20" />
+        <cmp x="1242" y="1342" width="47" height="56" />
+        <cmp x="1299" y="1343" width="91" height="49" />
+      </word>
+      <word id="j01-042-03-06" tag="NN" text="concentration">
+        <cmp x="1466" y="1340" width="17" height="21" />
+        <cmp x="1492" y="1343" width="53" height="19" />
+        <cmp x="1560" y="1343" width="69" height="20" />
+        <cmp x="1641" y="1313" width="30" height="42" />
+        <cmp x="1688" y="1343" width="20" height="18" />
+        <cmp x="1721" y="1315" width="16" height="45" />
+        <cmp x="1745" y="1334" width="5" height="8" />
+        <cmp x="1757" y="1347" width="50" height="20" />
+      </word>
+      <word id="j01-042-03-07" tag="NN" text="monitor">
+        <cmp x="1880" y="1350" width="44" height="16" />
+        <cmp x="1935" y="1350" width="48" height="15" />
+        <cmp x="1994" y="1324" width="7" height="7" />
+        <cmp x="2002" y="1317" width="63" height="49" />
+      </word>
+      <word id="j01-042-03-08" tag="." text=".">
+        <cmp x="2089" y="1359" width="5" height="6" />
+      </word>
+      <upper-contour>
+        <point x="390" y="1217" />
+        <point x="1981" y="1217" />
+      </upper-contour>
+      <lower-contour>
+        <point x="393" y="1402" />
+        <point x="2094" y="1402" />
+      </lower-contour>
+    </line>
+    <line ass="35" asx="0" asy="1487" character-width="999" dss="35" dsx="0" dsy="1576" fd0="14875" fd1="3522" fd2="1037" filter-width="3" id="j01-042-04" lbs="114" lbx="0" lby="1541" segmentation="err" slant="66000" stroke-width="5035" threshold="175" text="However, if a material oxidizes in sodium at a given" ubs="-121" ubx="0" uby="1519">
+      <word id="j01-042-04-00" sentence-start="yes" tag="RB" text="However">
+        <cmp x="395" y="1488" width="42" height="51" />
+        <cmp x="436" y="1516" width="64" height="20" />
+        <cmp x="512" y="1515" width="51" height="22" />
+        <cmp x="574" y="1516" width="42" height="23" />
+      </word>
+      <word id="j01-042-04-01" tag="," text=",">
+        <cmp x="656" y="1537" width="6" height="16" />
+      </word>
+      <word id="j01-042-04-02" tag="CS" text="if">
+        <cmp x="733" y="1506" width="4" height="6" />
+        <cmp x="735" y="1499" width="35" height="66" />
+      </word>
+      <word id="j01-042-04-03" tag="AT" text="a">
+        <cmp x="822" y="1524" width="25" height="18" />
+      </word>
+      <word id="j01-042-04-04" tag="NN" text="material">
+        <cmp x="922" y="1525" width="43" height="15" />
+        <cmp x="976" y="1525" width="22" height="15" />
+        <cmp x="1009" y="1491" width="59" height="48" />
+        <cmp x="1073" y="1501" width="5" height="6" />
+        <cmp x="1081" y="1497" width="64" height="43" />
+      </word>
+      <word id="j01-042-04-05" tag="VBZ" text="oxidizes">
+        <cmp x="1222" y="1522" width="22" height="20" />
+        <cmp x="1262" y="1518" width="39" height="26" />
+        <cmp x="1304" y="1511" width="4" height="6" />
+        <cmp x="1313" y="1505" width="38" height="36" />
+        <cmp x="1367" y="1498" width="8" height="8" />
+        <cmp x="1376" y="1521" width="62" height="25" />
+      </word>
+      <word id="j01-042-04-06" tag="IN" text="in">
+        <cmp x="1517" y="1521" width="52" height="23" />
+        <cmp x="1531" y="1488" width="7" height="5" />
+      </word>
+      <word id="j01-042-04-07" tag="NN" text="sodium">
+        <cmp x="1635" y="1522" width="20" height="19" />
+        <cmp x="1668" y="1521" width="13" height="20" />
+        <cmp x="1690" y="1500" width="40" height="39" />
+        <cmp x="1737" y="1505" width="5" height="8" />
+        <cmp x="1743" y="1529" width="25" height="12" />
+      </word>
+      <word id="j01-042-04-08" tag="IN" text="at">
+        <cmp x="1780" y="1530" width="55" height="15" />
+      </word>
+      <word id="j01-042-04-09" tag="AT" text="a">
+        <cmp x="1891" y="1526" width="30" height="17" />
+        <cmp x="1926" y="1496" width="23" height="46" />
+      </word>
+      <word id="j01-042-04-10" tag="JJ" text="given">
+        <cmp x="2009" y="1522" width="45" height="53" />
+        <cmp x="2056" y="1508" width="6" height="13" />
+        <cmp x="2067" y="1523" width="24" height="14" />
+        <cmp x="2099" y="1522" width="59" height="22" />
+      </word>
+      <upper-contour>
+        <point x="393" y="1402" />
+        <point x="2094" y="1402" />
+      </upper-contour>
+      <lower-contour>
+        <point x="402" y="1575" />
+        <point x="2159" y="1575" />
+      </lower-contour>
+    </line>
+    <line ass="-121" asx="0" asy="1667" character-width="999" dss="-121" dsx="0" dsy="1756" fd0="14460" fd1="3017" fd2="375" filter-width="3" id="j01-042-05" lbs="-120" lbx="0" lby="1720" segmentation="ok" slant="87000" stroke-width="5126" threshold="176" text="oxygen potential the reference electrode could be held" ubs="-122" ubx="0" uby="1698">
+      <word id="j01-042-05-00" tag="NN" text="oxygen">
+        <cmp x="404" y="1697" width="17" height="22" />
+        <cmp x="431" y="1693" width="23" height="29" />
+        <cmp x="466" y="1705" width="23" height="52" />
+        <cmp x="494" y="1699" width="91" height="60" />
+      </word>
+      <word id="j01-042-05-01" tag="NN" text="potential">
+        <cmp x="661" y="1701" width="35" height="51" />
+        <cmp x="702" y="1703" width="17" height="19" />
+        <cmp x="728" y="1674" width="62" height="50" />
+        <cmp x="806" y="1670" width="23" height="47" />
+        <cmp x="834" y="1689" width="4" height="7" />
+        <cmp x="843" y="1678" width="62" height="45" />
+      </word>
+      <word id="j01-042-05-02" tag="ATI" text="the">
+        <cmp x="988" y="1676" width="78" height="49" />
+      </word>
+      <word id="j01-042-05-03" tag="NN" text="reference">
+        <cmp x="1134" y="1703" width="37" height="19" />
+        <cmp x="1169" y="1674" width="58" height="72" />
+        <cmp x="1237" y="1699" width="53" height="22" />
+        <cmp x="1305" y="1701" width="47" height="22" />
+      </word>
+      <word id="j01-042-05-04" tag="NN" text="electrode">
+        <cmp x="1424" y="1678" width="67" height="46" />
+        <cmp x="1504" y="1701" width="25" height="19" />
+        <cmp x="1536" y="1671" width="32" height="48" />
+        <cmp x="1579" y="1705" width="13" height="16" />
+        <cmp x="1604" y="1682" width="59" height="47" />
+      </word>
+      <word id="j01-042-05-05" tag="MD" text="could">
+        <cmp x="1752" y="1704" width="15" height="20" />
+        <cmp x="1774" y="1704" width="51" height="20" />
+        <cmp x="1838" y="1681" width="26" height="43" />
+        <cmp x="1861" y="1681" width="44" height="44" />
+      </word>
+      <word id="j01-042-05-06" tag="BE" text="be">
+        <cmp x="1980" y="1679" width="43" height="44" />
+      </word>
+      <word id="j01-042-05-07" tag="VBN" text="held">
+        <cmp x="2091" y="1681" width="49" height="45" />
+        <cmp x="2153" y="1686" width="26" height="42" />
+        <cmp x="2176" y="1690" width="41" height="36" />
+      </word>
+      <upper-contour>
+        <point x="402" y="1575" />
+        <point x="2159" y="1575" />
+      </upper-contour>
+      <lower-contour>
+        <point x="402" y="1759" />
+        <point x="2218" y="1759" />
+      </lower-contour>
+    </line>
+    <line ass="-84" asx="0" asy="1844" character-width="999" dss="-84" dsx="0" dsy="1940" fd0="15092" fd1="3333" fd2="549" filter-width="3" id="j01-042-06" lbs="-66" lbx="0" lby="1892" segmentation="ok" slant="66999" stroke-width="5101" threshold="176" text="at that potential and oxidizing or reducing conditions" ubs="-122" ubx="0" uby="1875">
+      <word id="j01-042-06-00" tag="IN" text="at">
+        <cmp x="404" y="1881" width="26" height="16" />
+        <cmp x="440" y="1848" width="22" height="49" />
+      </word>
+      <word id="j01-042-06-01" tag="DT" text="that">
+        <cmp x="539" y="1851" width="51" height="45" />
+        <cmp x="598" y="1878" width="20" height="21" />
+        <cmp x="635" y="1846" width="21" height="49" />
+      </word>
+      <word id="j01-042-06-02" tag="NN" text="potential">
+        <cmp x="736" y="1880" width="38" height="50" />
+        <cmp x="775" y="1880" width="13" height="17" />
+        <cmp x="795" y="1860" width="62" height="39" />
+        <cmp x="811" y="1849" width="5" height="9" />
+        <cmp x="867" y="1854" width="18" height="42" />
+        <cmp x="890" y="1871" width="5" height="7" />
+        <cmp x="900" y="1853" width="64" height="46" />
+      </word>
+      <word id="j01-042-06-03" tag="CC" text="and">
+        <cmp x="1049" y="1878" width="63" height="24" />
+        <cmp x="1128" y="1855" width="43" height="46" />
+      </word>
+      <word id="j01-042-06-04" tag="JJ" text="oxidizing">
+        <cmp x="1252" y="1874" width="21" height="20" />
+        <cmp x="1281" y="1874" width="23" height="23" />
+        <cmp x="1318" y="1879" width="7" height="13" />
+        <cmp x="1335" y="1858" width="3" height="4" />
+        <cmp x="1336" y="1858" width="43" height="37" />
+        <cmp x="1387" y="1851" width="7" height="8" />
+        <cmp x="1395" y="1876" width="24" height="18" />
+        <cmp x="1427" y="1859" width="5" height="8" />
+        <cmp x="1434" y="1885" width="29" height="13" />
+        <cmp x="1470" y="1882" width="26" height="59" />
+      </word>
+      <word id="j01-042-06-05" tag="CC" text="or">
+        <cmp x="1582" y="1881" width="38" height="17" />
+      </word>
+      <word id="j01-042-06-06" tag="JJ" text="reducing">
+        <cmp x="1708" y="1879" width="40" height="21" />
+        <cmp x="1755" y="1860" width="69" height="40" />
+        <cmp x="1835" y="1881" width="24" height="19" />
+        <cmp x="1869" y="1862" width="5" height="11" />
+        <cmp x="1870" y="1891" width="27" height="10" />
+        <cmp x="1898" y="1888" width="28" height="55" />
+      </word>
+      <word id="j01-042-06-07" tag="NNS" text="conditions">
+        <cmp x="1998" y="1876" width="21" height="27" />
+        <cmp x="2026" y="1884" width="50" height="16" />
+        <cmp x="2092" y="1851" width="45" height="51" />
+        <cmp x="2147" y="1860" width="5" height="8" />
+        <cmp x="2156" y="1854" width="24" height="50" />
+        <cmp x="2189" y="1874" width="5" height="8" />
+        <cmp x="2201" y="1887" width="70" height="23" />
+      </word>
+      <upper-contour>
+        <point x="402" y="1759" />
+        <point x="2218" y="1759" />
+      </upper-contour>
+      <lower-contour>
+        <point x="402" y="1943" />
+        <point x="2198" y="1943" />
+      </lower-contour>
+    </line>
+    <line ass="-303" asx="0" asy="2020" character-width="999" dss="-303" dsx="0" dsy="2093" fd0="14470" fd1="3174" fd2="714" filter-width="3" id="j01-042-07" lbs="-333" lbx="0" lby="2072" segmentation="ok" slant="65000" stroke-width="4932" threshold="179" text="in the coolant circuit for that material would be" ubs="-243" ubx="0" uby="2057">
+      <word id="j01-042-07-00" tag="IN" text="in">
+        <cmp x="404" y="2060" width="4" height="13" />
+        <cmp x="417" y="2033" width="4" height="11" />
+        <cmp x="419" y="2063" width="25" height="13" />
+      </word>
+      <word id="j01-042-07-01" tag="ATI" text="the">
+        <cmp x="519" y="2030" width="72" height="48" />
+      </word>
+      <word id="j01-042-07-02" tag="NN" text="coolant">
+        <cmp x="681" y="2051" width="16" height="27" />
+        <cmp x="704" y="2059" width="15" height="16" />
+        <cmp x="729" y="2036" width="50" height="40" />
+        <cmp x="782" y="2055" width="63" height="21" />
+        <cmp x="858" y="2029" width="21" height="42" />
+        <cmp x="861" y="2073" width="3" height="3" />
+      </word>
+      <word id="j01-042-07-03" tag="NN" text="circuit">
+        <cmp x="970" y="2059" width="25" height="18" />
+        <cmp x="1002" y="2042" width="5" height="9" />
+        <cmp x="1006" y="2061" width="14" height="17" />
+        <cmp x="1036" y="2062" width="56" height="21" />
+        <cmp x="1099" y="2047" width="5" height="8" />
+        <cmp x="1116" y="2033" width="19" height="47" />
+      </word>
+      <word id="j01-042-07-04" tag="IN" text="for">
+        <cmp x="1218" y="2039" width="63" height="62" />
+      </word>
+      <word id="j01-042-07-05" tag="DT" text="that">
+        <cmp x="1359" y="2029" width="53" height="49" />
+        <cmp x="1418" y="2063" width="25" height="13" />
+        <cmp x="1456" y="2029" width="22" height="48" />
+      </word>
+      <word id="j01-042-07-06" tag="NN" text="material">
+        <cmp x="1559" y="2062" width="44" height="19" />
+        <cmp x="1615" y="2066" width="21" height="17" />
+        <cmp x="1649" y="2032" width="56" height="50" />
+        <cmp x="1723" y="2070" width="6" height="12" />
+        <cmp x="1739" y="2047" width="4" height="8" />
+        <cmp x="1740" y="2047" width="66" height="43" />
+      </word>
+      <word id="j01-042-07-07" tag="MD" text="would">
+        <cmp x="1907" y="2057" width="28" height="25" />
+        <cmp x="1948" y="2065" width="47" height="20" />
+        <cmp x="2009" y="2040" width="26" height="45" />
+        <cmp x="2031" y="2042" width="45" height="42" />
+      </word>
+      <word id="j01-042-07-08" tag="BE" text="be">
+        <cmp x="2153" y="2037" width="44" height="46" />
+      </word>
+      <upper-contour>
+        <point x="402" y="1943" />
+        <point x="2198" y="1943" />
+      </upper-contour>
+      <lower-contour>
+        <point x="418" y="2101" />
+        <point x="2178" y="2101" />
+      </lower-contour>
+    </line>
+    <line ass="-259" asx="0" asy="2203" character-width="999" dss="-259" dsx="0" dsy="2294" fd0="14561" fd1="3611" fd2="727" filter-width="3" id="j01-042-08" lbs="-329" lbx="0" lby="2247" segmentation="err" slant="65000" stroke-width="4909" threshold="175" text="indicated by a negative or positive potential at the" ubs="-118" ubx="0" uby="2236">
+      <word id="j01-042-08-00" tag="VBN" text="indicated">
+        <cmp x="421" y="2246" width="16" height="10" />
+        <cmp x="450" y="2209" width="41" height="49" />
+        <cmp x="499" y="2216" width="8" height="9" />
+        <cmp x="502" y="2239" width="16" height="18" />
+        <cmp x="529" y="2244" width="21" height="13" />
+        <cmp x="559" y="2210" width="33" height="46" />
+        <cmp x="599" y="2211" width="40" height="46" />
+      </word>
+      <word id="j01-042-08-01" tag="IN" text="by">
+        <cmp x="738" y="2212" width="45" height="82" />
+      </word>
+      <word id="j01-042-08-02" tag="AT" text="a">
+        <cmp x="856" y="2241" width="27" height="19" />
+      </word>
+      <word id="j01-042-08-03" tag="JJ" text="negative">
+        <cmp x="959" y="2244" width="50" height="16" />
+        <cmp x="1013" y="2243" width="28" height="56" />
+        <cmp x="1051" y="2244" width="21" height="16" />
+        <cmp x="1086" y="2209" width="22" height="50" />
+        <cmp x="1114" y="2228" width="5" height="6" />
+        <cmp x="1120" y="2236" width="58" height="26" />
+      </word>
+      <word id="j01-042-08-04" tag="CC" text="or">
+        <cmp x="1265" y="2241" width="40" height="17" />
+        <cmp x="1367" y="2240" width="35" height="55" />
+      </word>
+      <word id="j01-042-08-05" tag="JJ" text="positive">
+        <cmp x="1416" y="2240" width="35" height="21" />
+        <cmp x="1467" y="2244" width="5" height="14" />
+        <cmp x="1480" y="2221" width="4" height="5" />
+        <cmp x="1492" y="2213" width="23" height="42" />
+        <cmp x="1520" y="2228" width="5" height="7" />
+        <cmp x="1528" y="2238" width="47" height="22" />
+        <cmp x="1647" y="2240" width="34" height="60" />
+      </word>
+      <word id="j01-042-08-06" tag="NN" text="potential">
+        <cmp x="1693" y="2243" width="12" height="14" />
+        <cmp x="1715" y="2216" width="65" height="44" />
+        <cmp x="1790" y="2214" width="21" height="47" />
+        <cmp x="1817" y="2234" width="5" height="7" />
+        <cmp x="1826" y="2219" width="62" height="41" />
+        <cmp x="1965" y="2242" width="27" height="20" />
+      </word>
+      <word id="j01-042-08-07" tag="IN" text="at">
+        <cmp x="2002" y="2213" width="25" height="50" />
+      </word>
+      <word id="j01-042-08-08" tag="ATI" text="the">
+        <cmp x="2107" y="2214" width="70" height="48" />
+      </word>
+      <upper-contour>
+        <point x="418" y="2101" />
+        <point x="2178" y="2101" />
+      </upper-contour>
+      <lower-contour>
+        <point x="418" y="2294" />
+        <point x="946" y="2294" />
+      </lower-contour>
+    </line>
+    <line ass="-82" asx="0" asy="2376" character-width="999" dss="-82" dsx="0" dsy="2464" fd0="14353" fd1="3033" fd2="140" filter-width="3" id="j01-042-09" lbs="-167" lbx="0" lby="2432" segmentation="err" slant="70000" stroke-width="5114" threshold="172" text="reference electrode." ubs="87" ubx="0" uby="2416">
+      <word id="j01-042-09-00" tag="NN" text="reference">
+        <cmp x="397" y="2410" width="33" height="25" />
+        <cmp x="429" y="2383" width="61" height="83" />
+        <cmp x="503" y="2414" width="52" height="19" />
+        <cmp x="569" y="2411" width="41" height="26" />
+      </word>
+      <word id="j01-042-09-01" tag="NN" text="electrode">
+        <cmp x="700" y="2390" width="62" height="46" />
+        <cmp x="778" y="2418" width="19" height="16" />
+        <cmp x="810" y="2379" width="28" height="55" />
+        <cmp x="851" y="2419" width="13" height="15" />
+      </word>
+      <word id="j01-042-09-02" tag="." text=".">
+        <cmp x="879" y="2397" width="66" height="39" />
+      </word>
+      <upper-contour>
+        <point x="418" y="2294" />
+        <point x="946" y="2294" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-16" height="3542" id="c04-017" last-modified="2002-07-17" skew="0" status="final" version="3.0_beta" width="2479" writer-id="159">
+  <machine-printed-part>
+    <machine-print-line text="But 6,000 miles seems a heck of a way to go for a new hit song. He might be" />
+    <machine-print-line text="well advised to think hard and long before his next jump into the Hollywood arena." />
+    <machine-print-line text="VERDICT: Vaughan should have by-passed this approach." />
+    <machine-print-line text="RONALD Lewis has just left for his first taste of the Hollywood treatment, thanks" />
+    <machine-print-line text="to a sound performance in &amp;quot;Taste of Fear&amp;quot; (Warner Theatre, &amp;quot;X&amp;quot;)." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="473" asx="0" asy="741" character-width="999" dss="473" dsx="0" dsy="889" fd0="13080" fd1="2974" fd2="-255" filter-width="3" id="c04-017-00" lbs="610" lbx="0" lby="843" segmentation="ok" slant="89000" stroke-width="5351" threshold="179" text="But 6,000 miles seems a heck of a way to go" ubs="199" ubx="0" uby="806">
+      <word id="c04-017-00-00" sentence-start="yes" tag="CC" text="But">
+        <cmp x="380" y="750" width="63" height="91" />
+        <cmp x="449" y="794" width="29" height="58" />
+      </word>
+      <word id="c04-017-00-01" tag="CD" text="6,000">
+        <cmp x="563" y="768" width="30" height="69" />
+        <cmp x="600" y="816" width="10" height="18" />
+        <cmp x="629" y="769" width="30" height="69" />
+        <cmp x="672" y="778" width="62" height="60" />
+      </word>
+      <word id="c04-017-00-02" tag="NNS" text="miles">
+        <cmp x="816" y="795" width="60" height="46" />
+        <cmp x="861" y="765" width="8" height="18" />
+        <cmp x="886" y="747" width="74" height="101" />
+      </word>
+      <word id="c04-017-00-03" tag="VBZ" text="seems">
+        <cmp x="1010" y="790" width="34" height="51" />
+        <cmp x="1042" y="798" width="141" height="45" />
+      </word>
+      <word id="c04-017-00-04" tag="AT" text="a">
+        <cmp x="1240" y="798" width="40" height="29" />
+        <cmp x="1273" y="793" width="6" height="5" />
+      </word>
+      <word id="c04-017-00-05" tag="NN" text="heck">
+        <cmp x="1357" y="730" width="129" height="102" />
+      </word>
+      <word id="c04-017-00-06" tag="INO" text="of">
+        <cmp x="1539" y="742" width="76" height="92" />
+      </word>
+      <word id="c04-017-00-07" tag="AT" text="a">
+        <cmp x="1667" y="803" width="31" height="29" />
+      </word>
+      <word id="c04-017-00-08" tag="NN" text="way">
+        <cmp x="1748" y="796" width="93" height="76" />
+      </word>
+      <word id="c04-017-00-09" tag="TO" text="to">
+        <cmp x="1886" y="781" width="62" height="42" />
+      </word>
+      <word id="c04-017-00-10" tag="VB" text="go">
+        <cmp x="1980" y="791" width="66" height="83" />
+        <cmp x="1997" y="815" width="7" height="3" />
+      </word>
+      <lower-contour>
+        <point x="378" y="875" />
+        <point x="2037" y="875" />
+      </lower-contour>
+    </line>
+    <line ass="207" asx="0" asy="908" character-width="999" dss="207" dsx="0" dsy="1065" fd0="12962" fd1="2429" fd2="-312" filter-width="3" id="c04-017-01" lbs="274" lbx="0" lby="1013" segmentation="ok" slant="90000" stroke-width="5478" threshold="178" text="for a new hit song. He might be well advised to" ubs="71" ubx="0" uby="982">
+      <word id="c04-017-01-00" tag="IN" text="for">
+        <cmp x="344" y="907" width="89" height="104" />
+      </word>
+      <word id="c04-017-01-01" tag="AT" text="a">
+        <cmp x="505" y="981" width="31" height="33" />
+      </word>
+      <word id="c04-017-01-02" tag="JJ" text="new">
+        <cmp x="590" y="990" width="69" height="25" />
+        <cmp x="658" y="992" width="43" height="21" />
+      </word>
+      <word id="c04-017-01-03" tag="NN" text="hit">
+        <cmp x="761" y="934" width="30" height="77" />
+        <cmp x="800" y="966" width="3" height="8" />
+        <cmp x="800" y="986" width="8" height="23" />
+        <cmp x="815" y="967" width="18" height="46" />
+      </word>
+      <word id="c04-017-01-04" tag="NN" text="song">
+        <cmp x="886" y="978" width="21" height="43" />
+        <cmp x="917" y="987" width="21" height="21" />
+        <cmp x="945" y="976" width="58" height="71" />
+      </word>
+      <word id="c04-017-01-05" tag="." text=".">
+        <cmp x="1022" y="1003" width="9" height="7" />
+      </word>
+      <word id="c04-017-01-06" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="1106" y="920" width="85" height="86" />
+      </word>
+      <word id="c04-017-01-07" tag="MD" text="might">
+        <cmp x="1256" y="956" width="85" height="106" />
+        <cmp x="1342" y="926" width="58" height="96" />
+      </word>
+      <word id="c04-017-01-08" tag="BE" text="be">
+        <cmp x="1457" y="937" width="74" height="69" />
+      </word>
+      <word id="c04-017-01-09" tag="RB" text="well">
+        <cmp x="1583" y="931" width="76" height="78" />
+        <cmp x="1662" y="955" width="8" height="51" />
+      </word>
+      <word id="c04-017-01-10" tag="VBN" text="advised">
+        <cmp x="1726" y="918" width="70" height="101" />
+        <cmp x="1800" y="988" width="36" height="26" />
+        <cmp x="1821" y="968" width="7" height="10" />
+        <cmp x="1845" y="947" width="74" height="76" />
+      </word>
+      <word id="c04-017-01-11" tag="TO" text="to">
+        <cmp x="1980" y="957" width="56" height="50" />
+      </word>
+      <upper-contour>
+        <point x="378" y="875" />
+        <point x="2037" y="875" />
+      </upper-contour>
+      <lower-contour>
+        <point x="342" y="1062" />
+        <point x="2037" y="1062" />
+      </lower-contour>
+    </line>
+    <line ass="126" asx="0" asy="1090" character-width="999" dss="126" dsx="0" dsy="1249" fd0="12758" fd1="3052" fd2="-292" filter-width="3" id="c04-017-02" lbs="267" lbx="0" lby="1198" segmentation="ok" slant="95000" stroke-width="5436" threshold="179" text="think hard and long before his next jump into the" ubs="-156" ubx="0" uby="1161">
+      <word id="c04-017-02-00" tag="VB" text="think">
+        <cmp x="339" y="1091" width="42" height="115" />
+        <cmp x="380" y="1164" width="5" height="25" />
+        <cmp x="381" y="1125" width="30" height="72" />
+        <cmp x="421" y="1131" width="3" height="4" />
+        <cmp x="421" y="1171" width="9" height="24" />
+        <cmp x="430" y="1166" width="33" height="29" />
+        <cmp x="463" y="1127" width="50" height="60" />
+      </word>
+      <word id="c04-017-02-01" tag="RB" text="hard">
+        <cmp x="594" y="1089" width="117" height="124" />
+      </word>
+      <word id="c04-017-02-02" tag="CC" text="and">
+        <cmp x="802" y="1102" width="86" height="96" />
+        <cmp x="824" y="1163" width="7" height="4" />
+      </word>
+      <word id="c04-017-02-03" tag="RB" text="long">
+        <cmp x="977" y="1115" width="13" height="76" />
+        <cmp x="995" y="1158" width="73" height="74" />
+      </word>
+      <word id="c04-017-02-04" tag="IN" text="before">
+        <cmp x="1141" y="1112" width="19" height="88" />
+        <cmp x="1166" y="1107" width="145" height="97" />
+      </word>
+      <word id="c04-017-02-05" tag="PP$" text="his">
+        <cmp x="1365" y="1114" width="31" height="83" />
+        <cmp x="1402" y="1171" width="11" height="28" />
+        <cmp x="1406" y="1150" width="18" height="18" />
+        <cmp x="1422" y="1165" width="18" height="44" />
+      </word>
+      <word id="c04-017-02-06" tag="AP" text="next">
+        <cmp x="1521" y="1170" width="60" height="35" />
+        <cmp x="1580" y="1153" width="62" height="51" />
+      </word>
+      <word id="c04-017-02-07" tag="NN" text="jump">
+        <cmp x="1664" y="1170" width="50" height="70" />
+        <cmp x="1702" y="1152" width="6" height="15" />
+        <cmp x="1714" y="1162" width="45" height="38" />
+        <cmp x="1761" y="1158" width="22" height="88" />
+      </word>
+      <word id="c04-017-02-08" tag="IN" text="into">
+        <cmp x="1852" y="1139" width="7" height="17" />
+        <cmp x="1854" y="1172" width="10" height="29" />
+        <cmp x="1868" y="1174" width="26" height="21" />
+        <cmp x="1899" y="1154" width="55" height="44" />
+      </word>
+      <word id="c04-017-02-09" tag="ATI" text="the">
+        <cmp x="2019" y="1094" width="26" height="101" />
+        <cmp x="2043" y="1160" width="4" height="15" />
+        <cmp x="2049" y="1129" width="3" height="3" />
+        <cmp x="2050" y="1115" width="3" height="13" />
+        <cmp x="2054" y="1102" width="68" height="93" />
+      </word>
+      <upper-contour>
+        <point x="342" y="1062" />
+        <point x="2037" y="1062" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1213" />
+        <point x="822" y="1213" />
+      </lower-contour>
+    </line>
+    <line ass="787" asx="0" asy="1278" character-width="999" dss="787" dsx="0" dsy="1436" fd0="12558" fd1="2571" fd2="-1085" filter-width="3" id="c04-017-03" lbs="833" lbx="0" lby="1381" segmentation="ok" slant="98000" stroke-width="5519" threshold="177" text="Hollywood arena." ubs="696" ubx="0" uby="1353">
+      <word id="c04-017-03-00" tag="NP" text="Hollywood">
+        <cmp x="349" y="1284" width="4" height="8" />
+        <cmp x="349" y="1274" width="60" height="103" />
+        <cmp x="407" y="1280" width="21" height="95" />
+        <cmp x="425" y="1284" width="15" height="92" />
+        <cmp x="425" y="1347" width="43" height="84" />
+        <cmp x="474" y="1348" width="62" height="31" />
+        <cmp x="539" y="1272" width="49" height="105" />
+      </word>
+      <word id="c04-017-03-01" tag="NN" text="arena">
+        <cmp x="660" y="1341" width="77" height="33" />
+        <cmp x="740" y="1340" width="56" height="36" />
+      </word>
+      <word id="c04-017-03-02" tag="." text=".">
+        <cmp x="812" y="1384" width="9" height="9" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1213" />
+        <point x="822" y="1213" />
+      </upper-contour>
+      <lower-contour>
+        <point x="364" y="1431" />
+        <point x="822" y="1431" />
+      </lower-contour>
+    </line>
+    <line ass="-315" asx="0" asy="1455" character-width="999" dss="-315" dsx="0" dsy="1607" fd0="13113" fd1="2378" fd2="-1191" filter-width="3" id="c04-017-04" lbs="-220" lbx="0" lby="1553" segmentation="ok" slant="103000" stroke-width="5533" threshold="174" text="VERDICT: Vaughan should have by-passed this approach." ubs="-505" ubx="0" uby="1514">
+      <word id="c04-017-04-00" sentence-start="yes" tag="NN" text="VERDICT">
+        <cmp x="366" y="1479" width="34" height="74" />
+        <cmp x="405" y="1479" width="45" height="65" />
+        <cmp x="418" y="1503" width="14" height="5" />
+        <cmp x="455" y="1487" width="38" height="59" />
+        <cmp x="488" y="1480" width="27" height="74" />
+        <cmp x="523" y="1498" width="16" height="65" />
+        <cmp x="548" y="1492" width="37" height="57" />
+        <cmp x="580" y="1499" width="40" height="68" />
+      </word>
+      <word id="c04-017-04-01" tag=":" text=":">
+        <cmp x="642" y="1528" width="8" height="7" />
+        <cmp x="651" y="1546" width="7" height="6" />
+      </word>
+      <word id="c04-017-04-02" sentence-start="yes" tag="NP" text="Vaughan">
+        <cmp x="693" y="1495" width="6" height="6" />
+        <cmp x="697" y="1502" width="42" height="73" />
+        <cmp x="743" y="1530" width="31" height="35" />
+        <cmp x="778" y="1526" width="22" height="34" />
+        <cmp x="801" y="1521" width="28" height="91" />
+        <cmp x="819" y="1472" width="49" height="92" />
+        <cmp x="865" y="1531" width="62" height="46" />
+      </word>
+      <word id="c04-017-04-03" tag="MD" text="should">
+        <cmp x="971" y="1522" width="29" height="39" />
+        <cmp x="994" y="1473" width="82" height="83" />
+        <cmp x="1061" y="1462" width="33" height="92" />
+        <cmp x="1095" y="1481" width="35" height="83" />
+      </word>
+      <word id="c04-017-04-04" tag="HV" text="have">
+        <cmp x="1191" y="1472" width="78" height="86" />
+        <cmp x="1267" y="1528" width="53" height="29" />
+      </word>
+      <word id="c04-017-04-05" tag="VBN" text="by-passed">
+        <cmp x="1372" y="1479" width="55" height="111" />
+        <cmp x="1436" y="1541" width="15" height="10" />
+        <cmp x="1455" y="1517" width="26" height="69" />
+        <cmp x="1485" y="1524" width="93" height="40" />
+        <cmp x="1585" y="1471" width="35" height="89" />
+      </word>
+      <word id="c04-017-04-06" tag="DT" text="this">
+        <cmp x="1676" y="1489" width="30" height="67" />
+        <cmp x="1696" y="1466" width="61" height="94" />
+        <cmp x="1735" y="1511" width="14" height="12" />
+        <cmp x="1755" y="1521" width="20" height="31" />
+      </word>
+      <word id="c04-017-04-07" tag="NN" text="approach">
+        <cmp x="1840" y="1519" width="51" height="60" />
+        <cmp x="1893" y="1519" width="24" height="73" />
+        <cmp x="1920" y="1522" width="36" height="39" />
+        <cmp x="1958" y="1530" width="30" height="24" />
+        <cmp x="1990" y="1527" width="27" height="30" />
+        <cmp x="2010" y="1479" width="60" height="97" />
+      </word>
+      <word id="c04-017-04-08" tag="." text=".">
+        <cmp x="2085" y="1557" width="9" height="7" />
+      </word>
+      <upper-contour>
+        <point x="364" y="1431" />
+        <point x="822" y="1431" />
+      </upper-contour>
+      <lower-contour>
+        <point x="382" y="1612" />
+        <point x="2094" y="1612" />
+      </lower-contour>
+    </line>
+    <line ass="-412" asx="0" asy="1619" character-width="999" dss="-412" dsx="0" dsy="1768" fd0="12928" fd1="2232" fd2="-1092" filter-width="3" id="c04-017-05" lbs="-152" lbx="0" lby="1736" segmentation="ok" slant="103000" stroke-width="5415" threshold="171" text="RONALD Lewis has just left for his first taste of the" ubs="-932" ubx="0" uby="1684">
+      <word id="c04-017-05-00" sentence-start="yes" tag="NP" text="RONALD">
+        <cmp x="384" y="1651" width="62" height="78" />
+        <cmp x="455" y="1683" width="35" height="55" />
+        <cmp x="494" y="1676" width="31" height="56" />
+        <cmp x="531" y="1670" width="67" height="70" />
+      </word>
+      <word id="c04-017-05-01" tag="NP" text="Lewis">
+        <cmp x="609" y="1676" width="47" height="57" />
+        <cmp x="654" y="1698" width="71" height="37" />
+        <cmp x="715" y="1683" width="10" height="11" />
+        <cmp x="727" y="1707" width="14" height="29" />
+        <cmp x="738" y="1697" width="33" height="54" />
+      </word>
+      <word id="c04-017-05-02" tag="HVZ" text="has">
+        <cmp x="837" y="1657" width="91" height="96" />
+      </word>
+      <word id="c04-017-05-03" tag="RB" text="just">
+        <cmp x="972" y="1701" width="42" height="74" />
+        <cmp x="984" y="1692" width="12" height="11" />
+        <cmp x="1029" y="1706" width="31" height="26" />
+        <cmp x="1059" y="1701" width="44" height="48" />
+      </word>
+      <word id="c04-017-05-04" tag="VBN" text="left">
+        <cmp x="1168" y="1637" width="19" height="76" />
+        <cmp x="1204" y="1636" width="53" height="111" />
+        <cmp x="1257" y="1692" width="30" height="62" />
+      </word>
+      <word id="c04-017-05-05" tag="IN" text="for">
+        <cmp x="1333" y="1635" width="103" height="109" />
+      </word>
+      <word id="c04-017-05-06" tag="PP$" text="his">
+        <cmp x="1478" y="1644" width="81" height="104" />
+      </word>
+      <word id="c04-017-05-07" tag="OD" text="first">
+        <cmp x="1617" y="1635" width="30" height="113" />
+        <cmp x="1648" y="1695" width="82" height="61" />
+      </word>
+      <word id="c04-017-05-08" tag="NN" text="taste">
+        <cmp x="1791" y="1701" width="31" height="50" />
+        <cmp x="1818" y="1717" width="50" height="30" />
+        <cmp x="1874" y="1711" width="78" height="36" />
+        <cmp x="1878" y="1708" width="3" height="3" />
+      </word>
+      <word id="c04-017-05-09" tag="INO" text="of">
+        <cmp x="1997" y="1720" width="23" height="18" />
+        <cmp x="2027" y="1635" width="24" height="97" />
+      </word>
+      <word id="c04-017-05-10" tag="ATI" text="the">
+        <cmp x="2097" y="1639" width="28" height="98" />
+        <cmp x="2125" y="1645" width="58" height="87" />
+      </word>
+      <upper-contour>
+        <point x="382" y="1612" />
+        <point x="2094" y="1612" />
+      </upper-contour>
+      <lower-contour>
+        <point x="382" y="1775" />
+        <point x="2061" y="1775" />
+      </lower-contour>
+    </line>
+    <line ass="-293" asx="0" asy="1810" character-width="999" dss="-293" dsx="0" dsy="1956" fd0="13592" fd1="3014" fd2="-556" filter-width="3" id="c04-017-06" lbs="-183" lbx="0" lby="1914" segmentation="ok" slant="104000" stroke-width="5492" threshold="175" text="Hollywood treatment, thanks to a sound performance in" ubs="-513" ubx="0" uby="1883">
+      <word id="c04-017-06-00" tag="NP" text="Hollywood">
+        <cmp x="350" y="1814" width="42" height="101" />
+        <cmp x="377" y="1814" width="52" height="105" />
+        <cmp x="413" y="1814" width="39" height="103" />
+        <cmp x="434" y="1819" width="32" height="101" />
+        <cmp x="446" y="1888" width="132" height="72" />
+        <cmp x="576" y="1829" width="41" height="93" />
+      </word>
+      <word id="c04-017-06-01" tag="NN" text="treatment">
+        <cmp x="682" y="1862" width="107" height="54" />
+        <cmp x="795" y="1871" width="24" height="46" />
+        <cmp x="819" y="1892" width="49" height="29" />
+        <cmp x="858" y="1887" width="28" height="30" />
+        <cmp x="886" y="1882" width="59" height="45" />
+      </word>
+      <word id="c04-017-06-02" tag="," text=",">
+        <cmp x="958" y="1916" width="14" height="32" />
+      </word>
+      <word id="c04-017-06-03" tag="IN21" text="thanks">
+        <cmp x="1022" y="1862" width="25" height="58" />
+        <cmp x="1035" y="1826" width="96" height="94" />
+        <cmp x="1127" y="1872" width="55" height="71" />
+      </word>
+      <word id="c04-017-06-04" tag="IN22" text="to">
+        <cmp x="1220" y="1864" width="62" height="50" />
+      </word>
+      <word id="c04-017-06-05" tag="AT" text="a">
+        <cmp x="1337" y="1895" width="42" height="28" />
+      </word>
+      <word id="c04-017-06-06" tag="JJ" text="sound">
+        <cmp x="1424" y="1882" width="70" height="39" />
+        <cmp x="1498" y="1859" width="68" height="65" />
+      </word>
+      <word id="c04-017-06-07" tag="NN" text="performance">
+        <cmp x="1606" y="1891" width="93" height="66" />
+        <cmp x="1687" y="1839" width="152" height="90" />
+        <cmp x="1843" y="1907" width="23" height="16" />
+        <cmp x="1874" y="1899" width="75" height="31" />
+      </word>
+      <word id="c04-017-06-08" tag="IN" text="in">
+        <cmp x="1972" y="1868" width="26" height="24" />
+        <cmp x="1994" y="1904" width="15" height="21" />
+        <cmp x="2007" y="1896" width="53" height="29" />
+      </word>
+      <upper-contour>
+        <point x="382" y="1775" />
+        <point x="2061" y="1775" />
+      </upper-contour>
+      <lower-contour>
+        <point x="377" y="1960" />
+        <point x="1670" y="1960" />
+      </lower-contour>
+    </line>
+    <line ass="50" asx="0" asy="2000" character-width="999" dss="50" dsx="0" dsy="2129" fd0="13638" fd1="2745" fd2="-373" filter-width="3" id="c04-017-07" lbs="11" lbx="0" lby="2096" segmentation="err" slant="105000" stroke-width="5427" threshold="176" text="&amp;quot;Taste of Fear&amp;quot; (Warner Theatre, &amp;quot;X&amp;quot;)." ubs="128" ubx="0" uby="2073">
+      <word id="c04-017-07-00" tag="*&apos;" text="&quot;">
+        <cmp x="379" y="2016" width="6" height="30" />
+        <cmp x="386" y="2028" width="12" height="36" />
+      </word>
+      <word id="c04-017-07-01" tag="NN" text="Taste">
+        <cmp x="413" y="2026" width="83" height="75" />
+        <cmp x="495" y="2052" width="77" height="51" />
+      </word>
+      <word id="c04-017-07-02" tag="INO" text="of">
+        <cmp x="615" y="2079" width="25" height="21" />
+        <cmp x="628" y="2020" width="44" height="96" />
+      </word>
+      <word id="c04-017-07-03" tag="NN" text="Fear">
+        <cmp x="732" y="2005" width="83" height="90" />
+        <cmp x="812" y="2060" width="22" height="36" />
+      </word>
+      <word id="c04-017-07-04" tag="**&apos;" text="&quot;">
+        <cmp x="851" y="2001" width="7" height="27" />
+        <cmp x="864" y="2011" width="7" height="21" />
+      </word>
+      <word id="c04-017-07-05" tag="(" text="(">
+        <cmp x="923" y="2020" width="27" height="83" />
+      </word>
+      <word id="c04-017-07-06" tag="NP" text="Warner">
+        <cmp x="958" y="2031" width="5" height="4" />
+        <cmp x="960" y="2037" width="48" height="61" />
+        <cmp x="1013" y="2062" width="143" height="43" />
+      </word>
+      <word id="c04-017-07-07" tag="NPL" text="Theatre">
+        <cmp x="1180" y="2024" width="45" height="83" />
+        <cmp x="1225" y="2024" width="112" height="79" />
+        <cmp x="1341" y="2065" width="65" height="37" />
+      </word>
+      <word id="c04-017-07-08" tag="," text=",">
+        <cmp x="1422" y="2103" width="9" height="25" />
+      </word>
+      <word id="c04-017-07-09" tag="*&apos;" text="&quot;">
+        <cmp x="1491" y="2038" width="8" height="18" />
+        <cmp x="1505" y="2040" width="6" height="21" />
+      </word>
+      <word id="c04-017-07-10" tag="ZZ" text="X">
+        <cmp x="1523" y="2050" width="47" height="53" />
+        <cmp x="1580" y="2042" width="8" height="19" />
+      </word>
+      <word id="c04-017-07-11" tag="**&apos;" text="&quot;">
+        <cmp x="1599" y="2045" width="5" height="19" />
+      </word>
+      <word id="c04-017-07-12" tag=")" text=")">
+        <cmp x="1624" y="2021" width="28" height="104" />
+      </word>
+      <word id="c04-017-07-13" tag="." text=".">
+        <cmp x="1664" y="2097" width="6" height="6" />
+      </word>
+      <upper-contour>
+        <point x="377" y="1960" />
+        <point x="1670" y="1960" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

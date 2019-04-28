@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-03-16" height="3542" id="a05-062" last-modified="2002-07-17" skew="63" status="final" version="3.0_beta" width="2479" writer-id="000">
+  <machine-printed-part>
+    <machine-print-line text="With a vigour and authority which delighted old Parliamentary friends and foes alike," />
+    <machine-print-line text="the Earl of Avon, the former Sir Anthony Eden, in his maiden speech in the House of" />
+    <machine-print-line text="Lords last night, gave a warning that appeasement over Berlin could only lead to war." />
+    <machine-print-line text="To stand firm, he declared, was not to invite war, but the surest way to avert it." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="270" asx="0" asy="727" character-width="999" dss="270" dsx="0" dsy="814" fd0="14551" fd1="2899" fd2="-301" filter-width="4" id="a05-062-00" lbs="272" lbx="0" lby="791" segmentation="ok" slant="111000" stroke-width="6342" threshold="176" text="With a vigour and authority which delighted" ubs="264" ubx="0" uby="767">
+      <word id="a05-062-00-00" sentence-start="yes" tag="IN" text="With">
+        <cmp x="372" y="742" width="59" height="59" />
+        <cmp x="439" y="740" width="14" height="9" />
+        <cmp x="446" y="772" width="16" height="20" />
+        <cmp x="470" y="743" width="81" height="46" />
+      </word>
+      <word id="a05-062-00-01" tag="AT" text="a">
+        <cmp x="600" y="759" width="56" height="27" />
+      </word>
+      <word id="a05-062-00-02" tag="NN" text="vigour">
+        <cmp x="682" y="753" width="30" height="31" />
+        <cmp x="730" y="760" width="22" height="23" />
+        <cmp x="731" y="725" width="13" height="14" />
+        <cmp x="756" y="749" width="48" height="62" />
+        <cmp x="791" y="754" width="154" height="42" />
+      </word>
+      <word id="a05-062-00-03" tag="CC" text="and">
+        <cmp x="1020" y="759" width="78" height="24" />
+        <cmp x="1113" y="743" width="66" height="40" />
+      </word>
+      <word id="a05-062-00-04" tag="NN" text="authority">
+        <cmp x="1252" y="760" width="102" height="26" />
+        <cmp x="1356" y="744" width="27" height="36" />
+        <cmp x="1400" y="766" width="36" height="22" />
+        <cmp x="1437" y="763" width="71" height="28" />
+        <cmp x="1516" y="769" width="12" height="18" />
+        <cmp x="1518" y="739" width="11" height="11" />
+        <cmp x="1545" y="742" width="80" height="65" />
+      </word>
+      <word id="a05-062-00-05" tag="WDT" text="which">
+        <cmp x="1693" y="755" width="44" height="34" />
+        <cmp x="1746" y="746" width="69" height="36" />
+        <cmp x="1790" y="735" width="15" height="20" />
+        <cmp x="1831" y="756" width="86" height="23" />
+      </word>
+      <word id="a05-062-00-06" tag="VBD" text="delighted">
+        <cmp x="1997" y="752" width="95" height="29" />
+        <cmp x="2096" y="746" width="79" height="50" />
+        <cmp x="2111" y="729" width="9" height="15" />
+        <cmp x="2180" y="740" width="77" height="39" />
+        <cmp x="2261" y="743" width="58" height="37" />
+      </word>
+      <lower-contour>
+        <point x="374" y="811" />
+        <point x="2198" y="811" />
+      </lower-contour>
+    </line>
+    <line ass="332" asx="0" asy="909" character-width="999" dss="332" dsx="0" dsy="995" fd0="14032" fd1="3005" fd2="46" filter-width="4" id="a05-062-01" lbs="370" lbx="0" lby="971" segmentation="err" slant="101000" stroke-width="6207" threshold="178" text="old Parliamentary friends and foes alike," ubs="256" ubx="0" uby="948">
+      <word id="a05-062-01-00" tag="JJ" text="old">
+        <cmp x="376" y="943" width="24" height="30" />
+        <cmp x="407" y="932" width="85" height="38" />
+      </word>
+      <word id="a05-062-01-01" tag="JJ" text="Parliamentary">
+        <cmp x="544" y="913" width="111" height="58" />
+        <cmp x="664" y="928" width="37" height="35" />
+        <cmp x="677" y="915" width="10" height="12" />
+        <cmp x="705" y="938" width="197" height="32" />
+        <cmp x="903" y="945" width="57" height="24" />
+        <cmp x="970" y="946" width="44" height="40" />
+      </word>
+      <word id="a05-062-01-02" tag="NNS" text="friends">
+        <cmp x="1120" y="906" width="54" height="73" />
+        <cmp x="1185" y="936" width="116" height="29" />
+        <cmp x="1187" y="903" width="8" height="11" />
+        <cmp x="1309" y="930" width="98" height="35" />
+      </word>
+      <word id="a05-062-01-03" tag="CC" text="and">
+        <cmp x="1524" y="936" width="64" height="24" />
+        <cmp x="1597" y="924" width="57" height="35" />
+      </word>
+      <word id="a05-062-01-04" tag="NNS" text="foes">
+        <cmp x="1760" y="900" width="37" height="60" />
+        <cmp x="1774" y="962" width="14" height="9" />
+        <cmp x="1796" y="934" width="35" height="29" />
+        <cmp x="1832" y="932" width="63" height="30" />
+      </word>
+      <word id="a05-062-01-05" tag="RB" text="alike">
+        <cmp x="1990" y="924" width="45" height="30" />
+        <cmp x="2038" y="920" width="40" height="31" />
+        <cmp x="2100" y="932" width="63" height="31" />
+      </word>
+      <word id="a05-062-01-06" tag="," text=",">
+        <cmp x="2185" y="960" width="12" height="23" />
+      </word>
+      <upper-contour>
+        <point x="374" y="811" />
+        <point x="2198" y="811" />
+      </upper-contour>
+      <lower-contour>
+        <point x="375" y="986" />
+        <point x="2198" y="986" />
+      </lower-contour>
+    </line>
+    <line ass="330" asx="0" asy="1095" character-width="999" dss="330" dsx="0" dsy="1174" fd0="13719" fd1="3356" fd2="654" filter-width="4" id="a05-062-02" lbs="358" lbx="0" lby="1149" segmentation="ok" slant="108000" stroke-width="6468" threshold="176" text="the Earl of Avon, the former Sir Anthony" ubs="273" ubx="0" uby="1125">
+      <word id="a05-062-02-00" tag="ATI" text="the">
+        <cmp x="377" y="1112" width="30" height="44" />
+        <cmp x="404" y="1123" width="100" height="28" />
+      </word>
+      <word id="a05-062-02-01" tag="NPT" text="Earl">
+        <cmp x="596" y="1092" width="46" height="47" />
+        <cmp x="640" y="1113" width="84" height="25" />
+        <cmp x="726" y="1098" width="21" height="46" />
+      </word>
+      <word id="a05-062-02-02" tag="INO" text="of">
+        <cmp x="798" y="1113" width="26" height="29" />
+        <cmp x="835" y="1091" width="36" height="59" />
+      </word>
+      <word id="a05-062-02-03" tag="NP" text="Avon">
+        <cmp x="948" y="1101" width="34" height="48" />
+        <cmp x="989" y="1122" width="21" height="24" />
+        <cmp x="1015" y="1120" width="75" height="26" />
+      </word>
+      <word id="a05-062-02-04" tag="," text=",">
+        <cmp x="1152" y="1140" width="10" height="22" />
+      </word>
+      <word id="a05-062-02-05" tag="ATI" text="the">
+        <cmp x="1254" y="1099" width="28" height="42" />
+        <cmp x="1290" y="1115" width="87" height="27" />
+      </word>
+      <word id="a05-062-02-06" tag="AP" text="former">
+        <cmp x="1459" y="1095" width="25" height="64" />
+        <cmp x="1500" y="1117" width="60" height="24" />
+        <cmp x="1572" y="1111" width="141" height="36" />
+      </word>
+      <word id="a05-062-02-07" tag="NPT" text="Sir">
+        <cmp x="1820" y="1093" width="37" height="47" />
+        <cmp x="1864" y="1108" width="71" height="26" />
+        <cmp x="1869" y="1086" width="8" height="10" />
+      </word>
+      <word id="a05-062-02-08" tag="NP" text="Anthony">
+        <cmp x="2001" y="1090" width="62" height="49" />
+        <cmp x="2069" y="1095" width="22" height="35" />
+        <cmp x="2101" y="1101" width="30" height="39" />
+        <cmp x="2133" y="1114" width="110" height="48" />
+      </word>
+      <upper-contour>
+        <point x="375" y="986" />
+        <point x="2198" y="986" />
+      </upper-contour>
+      <lower-contour>
+        <point x="393" y="1163" />
+        <point x="2244" y="1163" />
+      </lower-contour>
+    </line>
+    <line ass="476" asx="0" asy="1284" character-width="999" dss="476" dsx="0" dsy="1337" fd0="13618" fd1="3694" fd2="896" filter-width="4" id="a05-062-03" lbs="433" lbx="0" lby="1329" segmentation="err" slant="106000" stroke-width="6073" threshold="179" text="Eden, in his maiden speech in the House" ubs="561" ubx="0" uby="1312">
+      <word id="a05-062-03-00" tag="NP" text="Eden">
+        <cmp x="395" y="1284" width="38" height="46" />
+        <cmp x="439" y="1298" width="144" height="28" />
+      </word>
+      <word id="a05-062-03-01" tag="," text=",">
+        <cmp x="716" y="1286" width="11" height="12" />
+      </word>
+      <word id="a05-062-03-02" tag="IN" text="in">
+        <cmp x="718" y="1310" width="57" height="15" />
+      </word>
+      <word id="a05-062-03-03" tag="PP$" text="his">
+        <cmp x="846" y="1290" width="54" height="34" />
+        <cmp x="877" y="1287" width="12" height="8" />
+        <cmp x="913" y="1310" width="22" height="16" />
+      </word>
+      <word id="a05-062-03-04" tag="JJB" text="maiden">
+        <cmp x="1033" y="1309" width="49" height="14" />
+        <cmp x="1088" y="1300" width="73" height="23" />
+        <cmp x="1142" y="1278" width="10" height="11" />
+        <cmp x="1165" y="1293" width="147" height="31" />
+      </word>
+      <word id="a05-062-03-05" tag="NN" text="speech">
+        <cmp x="1409" y="1294" width="54" height="33" />
+        <cmp x="1466" y="1288" width="70" height="27" />
+        <cmp x="1538" y="1289" width="93" height="28" />
+      </word>
+      <word id="a05-062-03-06" tag="IN" text="in">
+        <cmp x="1723" y="1271" width="13" height="11" />
+        <cmp x="1724" y="1301" width="53" height="18" />
+      </word>
+      <word id="a05-062-03-07" tag="ATI" text="the">
+        <cmp x="1829" y="1277" width="31" height="38" />
+        <cmp x="1860" y="1291" width="83" height="31" />
+      </word>
+      <word id="a05-062-03-08" tag="NPL" text="House">
+        <cmp x="2023" y="1276" width="53" height="35" />
+        <cmp x="2077" y="1288" width="168" height="29" />
+      </word>
+      <upper-contour>
+        <point x="393" y="1163" />
+        <point x="2244" y="1163" />
+      </upper-contour>
+      <lower-contour>
+        <point x="395" y="1330" />
+        <point x="2147" y="1330" />
+      </lower-contour>
+    </line>
+    <line ass="249" asx="0" asy="1339" character-width="999" dss="249" dsx="0" dsy="1535" fd0="13723" fd1="3836" fd2="1017" filter-width="4" id="a05-062-04" lbs="297" lbx="0" lby="1506" segmentation="err" slant="114999" stroke-width="6462" threshold="174" text="of Lords last night, gave a warning" ubs="152" ubx="0" uby="1483">
+      <word id="a05-062-04-00" tag="INO" text="of">
+        <cmp x="397" y="1447" width="63" height="63" />
+      </word>
+      <word id="a05-062-04-01" tag="NPTS" text="Lords">
+        <cmp x="571" y="1461" width="91" height="37" />
+        <cmp x="607" y="1338" width="10" height="16" />
+        <cmp x="663" y="1476" width="49" height="26" />
+        <cmp x="714" y="1487" width="32" height="19" />
+      </word>
+      <word id="a05-062-04-02" tag="AP" text="last">
+        <cmp x="821" y="1457" width="16" height="51" />
+        <cmp x="845" y="1481" width="72" height="21" />
+        <cmp x="920" y="1468" width="24" height="30" />
+      </word>
+      <word id="a05-062-04-03" tag="NN" text="night">
+        <cmp x="1075" y="1474" width="65" height="21" />
+        <cmp x="1122" y="1453" width="10" height="7" />
+        <cmp x="1152" y="1470" width="29" height="31" />
+        <cmp x="1185" y="1460" width="77" height="33" />
+      </word>
+      <word id="a05-062-04-04" tag="," text=",">
+        <cmp x="1302" y="1491" width="14" height="28" />
+      </word>
+      <word id="a05-062-04-05" tag="VBD" text="gave">
+        <cmp x="1402" y="1473" width="55" height="41" />
+        <cmp x="1448" y="1476" width="80" height="26" />
+        <cmp x="1532" y="1473" width="50" height="32" />
+      </word>
+      <word id="a05-062-04-06" tag="AT" text="a">
+        <cmp x="1673" y="1478" width="53" height="21" />
+      </word>
+      <word id="a05-062-04-07" tag="NN" text="warning">
+        <cmp x="1839" y="1468" width="117" height="32" />
+        <cmp x="1961" y="1474" width="102" height="19" />
+        <cmp x="2003" y="1439" width="8" height="10" />
+        <cmp x="2079" y="1471" width="67" height="55" />
+      </word>
+      <upper-contour>
+        <point x="395" y="1330" />
+        <point x="2147" y="1330" />
+      </upper-contour>
+      <lower-contour>
+        <point x="398" y="1527" />
+        <point x="2147" y="1527" />
+      </lower-contour>
+    </line>
+    <line ass="347" asx="0" asy="1631" character-width="999" dss="347" dsx="0" dsy="1706" fd0="13428" fd1="2757" fd2="-213" filter-width="4" id="a05-062-05" lbs="387" lbx="0" lby="1686" segmentation="ok" slant="113000" stroke-width="6646" threshold="169" text="that # appeasement over Berlin could" ubs="268" ubx="0" uby="1659">
+      <word id="a05-062-05-00" tag="CS" text="that">
+        <cmp x="400" y="1642" width="153" height="39" />
+      </word>
+      <word id="a05-062-05-01" tag="&amp;GA" text="#">
+        <cmp x="619" y="1649" width="200" height="55" />
+      </word>
+      <word id="a05-062-05-02" tag="NN" text="appeasement">
+        <cmp x="882" y="1654" width="40" height="25" />
+        <cmp x="932" y="1656" width="33" height="36" />
+        <cmp x="974" y="1653" width="29" height="29" />
+        <cmp x="1010" y="1649" width="29" height="30" />
+        <cmp x="1041" y="1646" width="92" height="33" />
+        <cmp x="1137" y="1649" width="45" height="31" />
+        <cmp x="1186" y="1636" width="172" height="44" />
+      </word>
+      <word id="a05-062-05-03" tag="IN" text="over">
+        <cmp x="1461" y="1649" width="66" height="31" />
+        <cmp x="1540" y="1645" width="54" height="33" />
+      </word>
+      <word id="a05-062-05-04" tag="NP" text="Berlin">
+        <cmp x="1666" y="1621" width="138" height="53" />
+        <cmp x="1817" y="1639" width="90" height="36" />
+        <cmp x="1843" y="1622" width="9" height="7" />
+      </word>
+      <word id="a05-062-05-05" tag="MD" text="could">
+        <cmp x="1979" y="1648" width="128" height="29" />
+        <cmp x="2108" y="1639" width="21" height="38" />
+        <cmp x="2128" y="1638" width="55" height="35" />
+      </word>
+      <upper-contour>
+        <point x="398" y="1527" />
+        <point x="2147" y="1527" />
+      </upper-contour>
+      <lower-contour>
+        <point x="398" y="1704" />
+        <point x="2184" y="1704" />
+      </lower-contour>
+    </line>
+    <line ass="243" asx="0" asy="1807" character-width="999" dss="243" dsx="0" dsy="1886" fd0="13549" fd1="4008" fd2="1192" filter-width="4" id="a05-062-06" lbs="280" lbx="0" lby="1861" segmentation="ok" slant="107000" stroke-width="6689" threshold="169" text="only lead to war. To stand firm, he" ubs="168" ubx="0" uby="1839">
+      <word id="a05-062-06-00" tag="RB" text="only">
+        <cmp x="399" y="1840" width="97" height="26" />
+        <cmp x="505" y="1820" width="79" height="61" />
+      </word>
+      <word id="a05-062-06-01" tag="VB" text="lead">
+        <cmp x="650" y="1830" width="116" height="34" />
+        <cmp x="764" y="1828" width="59" height="30" />
+      </word>
+      <word id="a05-062-06-02" tag="IN" text="to">
+        <cmp x="885" y="1824" width="25" height="33" />
+        <cmp x="915" y="1840" width="35" height="20" />
+      </word>
+      <word id="a05-062-06-03" tag="NN" text="war">
+        <cmp x="985" y="1832" width="154" height="26" />
+      </word>
+      <word id="a05-062-06-04" tag="." text=".">
+        <cmp x="1161" y="1856" width="8" height="9" />
+      </word>
+      <word id="a05-062-06-05" sentence-start="yes" tag="TO" text="To">
+        <cmp x="1285" y="1802" width="89" height="52" />
+        <cmp x="1363" y="1830" width="37" height="20" />
+      </word>
+      <word id="a05-062-06-06" tag="VB" text="stand">
+        <cmp x="1505" y="1831" width="25" height="19" />
+        <cmp x="1538" y="1808" width="31" height="36" />
+        <cmp x="1579" y="1830" width="67" height="19" />
+        <cmp x="1657" y="1814" width="52" height="36" />
+      </word>
+      <word id="a05-062-06-07" tag="JJ" text="firm">
+        <cmp x="1808" y="1806" width="112" height="62" />
+        <cmp x="1846" y="1804" width="9" height="9" />
+        <cmp x="1926" y="1835" width="67" height="17" />
+      </word>
+      <word id="a05-062-06-08" tag="," text=",">
+        <cmp x="2042" y="1856" width="9" height="22" />
+      </word>
+      <word id="a05-062-06-09" tag="PP3A" text="he">
+        <cmp x="2106" y="1818" width="104" height="45" />
+      </word>
+      <upper-contour>
+        <point x="398" y="1704" />
+        <point x="2184" y="1704" />
+      </upper-contour>
+      <lower-contour>
+        <point x="404" y="1881" />
+        <point x="2162" y="1881" />
+      </lower-contour>
+    </line>
+    <line ass="182" asx="0" asy="1987" character-width="999" dss="182" dsx="0" dsy="2064" fd0="13598" fd1="4000" fd2="1199" filter-width="4" id="a05-062-07" lbs="192" lbx="0" lby="2038" segmentation="err" slant="108000" stroke-width="6849" threshold="170" text="declared, was not to invite war, but" ubs="160" ubx="0" uby="2016">
+      <word id="a05-062-07-00" tag="VBD" text="declared">
+        <cmp x="406" y="2012" width="93" height="27" />
+        <cmp x="499" y="2013" width="38" height="24" />
+        <cmp x="536" y="2005" width="29" height="32" />
+        <cmp x="572" y="2012" width="94" height="21" />
+        <cmp x="670" y="2002" width="61" height="38" />
+      </word>
+      <word id="a05-062-07-01" tag="," text=",">
+        <cmp x="761" y="2035" width="15" height="27" />
+      </word>
+      <word id="a05-062-07-02" tag="BEDZ" text="was">
+        <cmp x="857" y="2014" width="51" height="28" />
+        <cmp x="916" y="2013" width="81" height="24" />
+      </word>
+      <word id="a05-062-07-03" tag="XNOT" text="not">
+        <cmp x="1062" y="2011" width="41" height="22" />
+        <cmp x="1110" y="1996" width="82" height="38" />
+      </word>
+      <word id="a05-062-07-04" tag="TO" text="to">
+        <cmp x="1285" y="2000" width="28" height="37" />
+        <cmp x="1316" y="2014" width="30" height="22" />
+      </word>
+      <word id="a05-062-07-05" tag="VB" text="invite">
+        <cmp x="1437" y="1984" width="15" height="8" />
+        <cmp x="1441" y="2017" width="62" height="16" />
+        <cmp x="1519" y="2008" width="31" height="24" />
+        <cmp x="1551" y="1987" width="13" height="11" />
+        <cmp x="1562" y="2015" width="14" height="14" />
+        <cmp x="1591" y="1994" width="76" height="44" />
+      </word>
+      <word id="a05-062-07-06" tag="NN" text="war">
+        <cmp x="1762" y="2008" width="50" height="30" />
+        <cmp x="1816" y="2009" width="94" height="26" />
+        <cmp x="1917" y="2033" width="10" height="20" />
+      </word>
+      <word id="a05-062-07-07" tag="," text=",">
+        <cmp x="2019" y="1988" width="44" height="42" />
+      </word>
+      <word id="a05-062-07-08" tag="CC" text="but">
+        <cmp x="2072" y="1990" width="89" height="40" />
+      </word>
+      <upper-contour>
+        <point x="404" y="1881" />
+        <point x="2162" y="1881" />
+      </upper-contour>
+      <lower-contour>
+        <point x="404" y="2062" />
+        <point x="1614" y="2062" />
+      </lower-contour>
+    </line>
+    <line ass="44" asx="0" asy="2161" character-width="999" dss="44" dsx="0" dsy="2236" fd0="12587" fd1="3783" fd2="1158" filter-width="4" id="a05-062-08" lbs="-76" lbx="0" lby="2214" segmentation="ok" slant="108000" stroke-width="6999" threshold="167" text="the surest way to avert it." ubs="286" ubx="0" uby="2197">
+      <word id="a05-062-08-00" tag="ATI" text="the">
+        <cmp x="406" y="2182" width="122" height="33" />
+      </word>
+      <word id="a05-062-08-01" tag="JJT" text="surest">
+        <cmp x="606" y="2198" width="110" height="21" />
+        <cmp x="717" y="2180" width="102" height="39" />
+      </word>
+      <word id="a05-062-08-02" tag="NN" text="way">
+        <cmp x="916" y="2194" width="50" height="27" />
+        <cmp x="973" y="2193" width="107" height="44" />
+      </word>
+      <word id="a05-062-08-03" tag="TO" text="to">
+        <cmp x="1155" y="2175" width="25" height="44" />
+        <cmp x="1182" y="2192" width="37" height="23" />
+      </word>
+      <word id="a05-062-08-04" tag="VB" text="avert">
+        <cmp x="1277" y="2190" width="46" height="25" />
+        <cmp x="1330" y="2192" width="21" height="21" />
+        <cmp x="1358" y="2189" width="63" height="28" />
+        <cmp x="1423" y="2166" width="35" height="46" />
+      </word>
+      <word id="a05-062-08-05" tag="PP3" text="it">
+        <cmp x="1531" y="2194" width="32" height="20" />
+        <cmp x="1537" y="2161" width="8" height="9" />
+        <cmp x="1563" y="2173" width="22" height="36" />
+      </word>
+      <word id="a05-062-08-06" tag="." text=".">
+        <cmp x="1604" y="2213" width="9" height="12" />
+      </word>
+      <upper-contour>
+        <point x="404" y="2062" />
+        <point x="1614" y="2062" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

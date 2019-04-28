@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="j06-022" last-modified="2002-07-17" skew="95" status="final" version="3.0_beta" width="2479" writer-id="415">
+  <machine-printed-part>
+    <machine-print-line text="The most clearly substantiated case is that of the copepod Anomalocera patersoni," />
+    <machine-print-line text="which remains permanently at the surface. Among other copepods Rhincalanus gigas," />
+    <machine-print-line text="Calanoides acutus, Microcalanus pygmaeus, Oithona frigida, and Centropages typicus" />
+    <machine-print-line text="are all reported as showing no migration. The predaceous cladoceran Bythotrephes" />
+    <machine-print-line text="longimanus also remains at one level, about 10 meters down." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-104" asx="0" asy="671" character-width="999" dss="-104" dsx="0" dsy="860" fd0="13903" fd1="2602" fd2="-489" filter-width="3" id="j06-022-00" lbs="-110" lbx="0" lby="779" segmentation="ok" slant="68000" stroke-width="5626" threshold="187" text="The most clearly substantiated case" ubs="-92" ubx="0" uby="753">
+      <word id="j06-022-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="352" y="672" width="143" height="104" />
+        <cmp x="352" y="706" width="3" height="24" />
+      </word>
+      <word id="j06-022-00-01" tag="QL" text="most">
+        <cmp x="602" y="738" width="105" height="36" />
+        <cmp x="720" y="692" width="84" height="90" />
+      </word>
+      <word id="j06-022-00-02" tag="RB" text="clearly">
+        <cmp x="895" y="696" width="226" height="109" />
+        <cmp x="985" y="703" width="4" height="11" />
+        <cmp x="1095" y="764" width="79" height="100" />
+        <cmp x="1121" y="765" width="24" height="27" />
+      </word>
+      <word id="j06-022-00-03" tag="VBN" text="substantiated">
+        <cmp x="1274" y="706" width="154" height="83" />
+        <cmp x="1409" y="696" width="14" height="20" />
+        <cmp x="1423" y="749" width="44" height="47" />
+        <cmp x="1469" y="701" width="101" height="80" />
+        <cmp x="1587" y="705" width="57" height="75" />
+        <cmp x="1635" y="754" width="44" height="28" />
+        <cmp x="1687" y="713" width="70" height="71" />
+        <cmp x="1758" y="696" width="87" height="83" />
+      </word>
+      <word id="j06-022-00-04" tag="NN" text="case">
+        <cmp x="1911" y="746" width="92" height="35" />
+        <cmp x="2004" y="748" width="105" height="37" />
+      </word>
+      <lower-contour>
+        <point x="350" y="805" />
+        <point x="1095" y="864" />
+        <point x="2022" y="864" />
+      </lower-contour>
+    </line>
+    <line ass="410" asx="0" asy="845" character-width="999" dss="410" dsx="0" dsy="996" fd0="13333" fd1="2735" fd2="-491" filter-width="4" id="j06-022-01" lbs="503" lbx="0" lby="962" segmentation="ok" slant="66000" stroke-width="6074" threshold="184" text="is that of the copepod Anomalocera" ubs="224" ubx="0" uby="928">
+      <word id="j06-022-01-00" tag="BEZ" text="is">
+        <cmp x="350" y="905" width="55" height="60" />
+      </word>
+      <word id="j06-022-01-01" tag="DT" text="that">
+        <cmp x="498" y="842" width="151" height="124" />
+      </word>
+      <word id="j06-022-01-02" tag="INO" text="of">
+        <cmp x="701" y="866" width="90" height="125" />
+        <cmp x="713" y="918" width="7" height="9" />
+      </word>
+      <word id="j06-022-01-03" tag="ATI" text="the">
+        <cmp x="862" y="855" width="93" height="95" />
+      </word>
+      <word id="j06-022-01-04" tag="NN" text="copepod">
+        <cmp x="1003" y="928" width="88" height="34" />
+        <cmp x="1098" y="926" width="92" height="63" />
+        <cmp x="1183" y="882" width="169" height="107" />
+      </word>
+      <word id="j06-022-01-05" tag="&amp;FW" text="Anomalocera">
+        <cmp x="1449" y="890" width="159" height="71" />
+        <cmp x="1610" y="920" width="124" height="29" />
+        <cmp x="1770" y="881" width="75" height="68" />
+        <cmp x="1860" y="909" width="162" height="37" />
+      </word>
+      <upper-contour>
+        <point x="350" y="805" />
+        <point x="1095" y="864" />
+        <point x="2022" y="864" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="992" />
+        <point x="2022" y="992" />
+      </lower-contour>
+    </line>
+    <line ass="-124" asx="0" asy="1024" character-width="999" dss="-124" dsx="0" dsy="1217" fd0="13970" fd1="2437" fd2="-299" filter-width="4" id="j06-022-02" lbs="-175" lbx="0" lby="1131" segmentation="err" slant="76000" stroke-width="5889" threshold="186" text="patersoni, which remains permanently" ubs="-22" ubx="0" uby="1105">
+      <word id="j06-022-02-00" tag="&amp;FW" text="patersoni">
+        <cmp x="313" y="1110" width="51" height="80" />
+        <cmp x="401" y="1105" width="38" height="29" />
+        <cmp x="461" y="1046" width="118" height="104" />
+        <cmp x="570" y="1074" width="162" height="68" />
+      </word>
+      <word id="j06-022-02-01" tag="," text=",">
+        <cmp x="808" y="1100" width="78" height="34" />
+      </word>
+      <word id="j06-022-02-02" tag="WDT" text="which">
+        <cmp x="893" y="1027" width="171" height="108" />
+      </word>
+      <word id="j06-022-02-03" tag="VBZ" text="remains">
+        <cmp x="1148" y="1097" width="90" height="41" />
+        <cmp x="1239" y="1067" width="228" height="73" />
+        <cmp x="1467" y="1102" width="35" height="54" />
+      </word>
+      <word id="j06-022-02-04" tag="RB" text="permanently">
+        <cmp x="1564" y="1105" width="152" height="76" />
+        <cmp x="1722" y="1110" width="168" height="35" />
+        <cmp x="1903" y="1111" width="42" height="25" />
+        <cmp x="1929" y="1064" width="104" height="159" />
+      </word>
+      <upper-contour>
+        <point x="348" y="992" />
+        <point x="2022" y="992" />
+      </upper-contour>
+      <lower-contour>
+        <point x="336" y="1181" />
+        <point x="1929" y="1224" />
+        <point x="2034" y="1224" />
+      </lower-contour>
+    </line>
+    <line ass="-148" asx="0" asy="1204" character-width="999" dss="-148" dsx="0" dsy="1396" fd0="13464" fd1="2959" fd2="-301" filter-width="4" id="j06-022-03" lbs="86" lbx="0" lby="1320" segmentation="ok" slant="72000" stroke-width="6084" threshold="184" text="at the surface. Among other copepods" ubs="-618" ubx="0" uby="1273">
+      <word id="j06-022-03-00" tag="IN" text="at">
+        <cmp x="338" y="1232" width="93" height="119" />
+      </word>
+      <word id="j06-022-03-01" tag="ATI" text="the">
+        <cmp x="555" y="1206" width="100" height="105" />
+      </word>
+      <word id="j06-022-03-02" tag="NN" text="surface">
+        <cmp x="716" y="1231" width="184" height="107" />
+        <cmp x="907" y="1279" width="83" height="41" />
+      </word>
+      <word id="j06-022-03-03" tag="." text=".">
+        <cmp x="1009" y="1303" width="16" height="9" />
+      </word>
+      <word id="j06-022-03-04" sentence-start="yes" tag="IN" text="Among">
+        <cmp x="1090" y="1237" width="310" height="164" />
+      </word>
+      <word id="j06-022-03-05" tag="AP" text="other">
+        <cmp x="1483" y="1212" width="168" height="113" />
+        <cmp x="1592" y="1213" width="12" height="17" />
+      </word>
+      <word id="j06-022-03-06" tag="NNS" text="copepods">
+        <cmp x="1720" y="1284" width="79" height="41" />
+        <cmp x="1815" y="1281" width="87" height="77" />
+        <cmp x="1906" y="1241" width="158" height="115" />
+        <cmp x="2060" y="1286" width="31" height="37" />
+      </word>
+      <upper-contour>
+        <point x="336" y="1181" />
+        <point x="1929" y="1224" />
+        <point x="2034" y="1224" />
+      </upper-contour>
+      <lower-contour>
+        <point x="336" y="1366" />
+        <point x="1352" y="1401" />
+        <point x="2013" y="1401" />
+      </lower-contour>
+    </line>
+    <line ass="-164" asx="0" asy="1373" character-width="999" dss="-164" dsx="0" dsy="1569" fd0="13520" fd1="2434" fd2="-516" filter-width="4" id="j06-022-04" lbs="-19" lbx="0" lby="1500" segmentation="ok" slant="82000" stroke-width="5857" threshold="185" text="Rhincalanus gigas, Calanoides acutus," ubs="-456" ubx="0" uby="1451">
+      <word id="j06-022-04-00" tag="&amp;FW" text="Rhincalanus">
+        <cmp x="329" y="1391" width="76" height="107" />
+        <cmp x="421" y="1386" width="115" height="109" />
+        <cmp x="438" y="1376" width="10" height="6" />
+        <cmp x="563" y="1414" width="168" height="85" />
+        <cmp x="730" y="1456" width="47" height="41" />
+      </word>
+      <word id="j06-022-04-01" tag="&amp;FW" text="gigas">
+        <cmp x="846" y="1460" width="58" height="113" />
+        <cmp x="928" y="1449" width="183" height="112" />
+      </word>
+      <word id="j06-022-04-02" tag="," text=",">
+        <cmp x="1116" y="1488" width="41" height="39" />
+      </word>
+      <word id="j06-022-04-03" tag="&amp;FW" text="Calanoides">
+        <cmp x="1233" y="1429" width="82" height="81" />
+        <cmp x="1326" y="1424" width="226" height="75" />
+        <cmp x="1554" y="1421" width="83" height="77" />
+        <cmp x="1640" y="1465" width="36" height="41" />
+      </word>
+      <word id="j06-022-04-04" tag="&amp;FW" text="acutus">
+        <cmp x="1747" y="1408" width="221" height="92" />
+      </word>
+      <word id="j06-022-04-05" tag="," text=",">
+        <cmp x="1972" y="1501" width="40" height="42" />
+      </word>
+      <upper-contour>
+        <point x="336" y="1366" />
+        <point x="1352" y="1401" />
+        <point x="2013" y="1401" />
+      </upper-contour>
+      <lower-contour>
+        <point x="352" y="1573" />
+        <point x="1988" y="1573" />
+      </lower-contour>
+    </line>
+    <line ass="349" asx="0" asy="1585" character-width="999" dss="349" dsx="0" dsy="1762" fd0="13725" fd1="2663" fd2="-211" filter-width="4" id="j06-022-05" lbs="433" lbx="0" lby="1687" segmentation="err" slant="66000" stroke-width="6077" threshold="181" text="Microcalanus pygmaeus, Oithona" ubs="181" ubx="0" uby="1642">
+      <word id="j06-022-05-00" tag="&amp;FW" text="Microcalanus">
+        <cmp x="354" y="1590" width="98" height="91" />
+        <cmp x="413" y="1752" width="12" height="6" />
+        <cmp x="458" y="1646" width="15" height="33" />
+        <cmp x="478" y="1601" width="6" height="16" />
+        <cmp x="488" y="1640" width="113" height="42" />
+        <cmp x="618" y="1605" width="292" height="82" />
+        <cmp x="925" y="1642" width="30" height="43" />
+      </word>
+      <word id="j06-022-05-01" tag="&amp;FW" text="pygmaeus">
+        <cmp x="1026" y="1628" width="46" height="65" />
+        <cmp x="1070" y="1641" width="70" height="92" />
+        <cmp x="1120" y="1633" width="84" height="124" />
+        <cmp x="1228" y="1631" width="119" height="45" />
+        <cmp x="1352" y="1629" width="100" height="45" />
+        <cmp x="1467" y="1637" width="27" height="42" />
+      </word>
+      <word id="j06-022-05-02" tag="," text=",">
+        <cmp x="1501" y="1680" width="30" height="43" />
+      </word>
+      <word id="j06-022-05-03" tag="&amp;FW" text="Oithona">
+        <cmp x="1647" y="1592" width="57" height="67" />
+        <cmp x="1703" y="1640" width="11" height="27" />
+        <cmp x="1717" y="1604" width="24" height="14" />
+        <cmp x="1757" y="1575" width="69" height="100" />
+        <cmp x="1824" y="1636" width="164" height="56" />
+      </word>
+      <upper-contour>
+        <point x="352" y="1573" />
+        <point x="1988" y="1573" />
+      </upper-contour>
+      <lower-contour>
+        <point x="356" y="1757" />
+        <point x="1988" y="1757" />
+      </lower-contour>
+    </line>
+    <line ass="123" asx="0" asy="1761" character-width="999" dss="123" dsx="0" dsy="1924" fd0="13634" fd1="2545" fd2="-475" filter-width="4" id="j06-022-06" lbs="441" lbx="0" lby="1872" segmentation="err" slant="72000" stroke-width="6085" threshold="181" text="frigida, and Centropages typicus are" ubs="-512" ubx="0" uby="1814">
+      <word id="j06-022-06-00" tag="&amp;FW" text="frigida">
+        <cmp x="358" y="1761" width="68" height="146" />
+        <cmp x="425" y="1787" width="12" height="30" />
+        <cmp x="433" y="1829" width="31" height="83" />
+        <cmp x="478" y="1833" width="11" height="20" />
+        <cmp x="494" y="1792" width="6" height="12" />
+        <cmp x="499" y="1788" width="117" height="82" />
+      </word>
+      <word id="j06-022-06-01" tag="," text=",">
+        <cmp x="623" y="1852" width="26" height="42" />
+      </word>
+      <word id="j06-022-06-02" tag="CC" text="and">
+        <cmp x="693" y="1777" width="156" height="76" />
+      </word>
+      <word id="j06-022-06-03" tag="&amp;FW" text="Centropages">
+        <cmp x="939" y="1777" width="139" height="73" />
+        <cmp x="1068" y="1797" width="80" height="61" />
+        <cmp x="1156" y="1819" width="99" height="86" />
+        <cmp x="1256" y="1825" width="127" height="70" />
+      </word>
+      <word id="j06-022-06-04" tag="&amp;FW" text="typicus">
+        <cmp x="1494" y="1770" width="47" height="93" />
+        <cmp x="1519" y="1816" width="92" height="106" />
+        <cmp x="1589" y="1808" width="57" height="90" />
+        <cmp x="1656" y="1824" width="15" height="38" />
+        <cmp x="1674" y="1789" width="7" height="26" />
+        <cmp x="1692" y="1826" width="161" height="45" />
+      </word>
+      <word id="j06-022-06-05" tag="BER" text="are">
+        <cmp x="1927" y="1825" width="144" height="37" />
+      </word>
+      <upper-contour>
+        <point x="356" y="1757" />
+        <point x="1988" y="1757" />
+      </upper-contour>
+      <lower-contour>
+        <point x="379" y="1922" />
+        <point x="2072" y="1922" />
+      </lower-contour>
+    </line>
+    <line ass="-535" asx="0" asy="1934" character-width="999" dss="-535" dsx="0" dsy="2126" fd0="13643" fd1="3287" fd2="176" filter-width="4" id="j06-022-07" lbs="-347" lbx="0" lby="2032" segmentation="ok" slant="70000" stroke-width="5876" threshold="185" text="reported as showing no migration." ubs="-912" ubx="0" uby="1996">
+      <word id="j06-022-07-00" tag="VBN" text="reported">
+        <cmp x="381" y="1988" width="76" height="41" />
+        <cmp x="450" y="1991" width="64" height="77" />
+        <cmp x="525" y="1944" width="214" height="90" />
+      </word>
+      <word id="j06-022-07-01" tag="CS" text="as">
+        <cmp x="825" y="1998" width="96" height="30" />
+      </word>
+      <word id="j06-022-07-02" tag="VBG" text="showing">
+        <cmp x="1001" y="2007" width="42" height="32" />
+        <cmp x="1064" y="1944" width="108" height="98" />
+        <cmp x="1178" y="2015" width="74" height="32" />
+        <cmp x="1266" y="1976" width="164" height="165" />
+      </word>
+      <word id="j06-022-07-03" tag="ATI" text="no">
+        <cmp x="1493" y="2004" width="98" height="33" />
+      </word>
+      <word id="j06-022-07-04" tag="NN" text="migration">
+        <cmp x="1629" y="1997" width="150" height="107" />
+        <cmp x="1798" y="1978" width="251" height="83" />
+        <cmp x="1957" y="1967" width="14" height="24" />
+      </word>
+      <word id="j06-022-07-05" tag="." text=".">
+        <cmp x="2094" y="2039" width="9" height="9" />
+      </word>
+      <upper-contour>
+        <point x="379" y="1922" />
+        <point x="2072" y="1922" />
+      </upper-contour>
+      <lower-contour>
+        <point x="379" y="2067" />
+        <point x="1302" y="2141" />
+        <point x="1352" y="2130" />
+        <point x="1803" y="2060" />
+        <point x="2104" y="2060" />
+      </lower-contour>
+    </line>
+    <line ass="32" asx="0" asy="2099" character-width="999" dss="32" dsx="0" dsy="2273" fd0="13259" fd1="2130" fd2="-1107" filter-width="4" id="j06-022-08" lbs="2" lbx="0" lby="2208" segmentation="ok" slant="75000" stroke-width="6185" threshold="179" text="The predaceous cladoceran Bythotrephes" ubs="93" ubx="0" uby="2179">
+      <word id="j06-022-08-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="369" y="2099" width="142" height="115" />
+      </word>
+      <word id="j06-022-08-01" tag="JJ" text="predaceous">
+        <cmp x="563" y="2116" width="253" height="132" />
+        <cmp x="846" y="2163" width="244" height="55" />
+      </word>
+      <word id="j06-022-08-02" tag="NN" text="cladoceran">
+        <cmp x="1156" y="2117" width="239" height="98" />
+        <cmp x="1394" y="2169" width="145" height="46" />
+      </word>
+      <word id="j06-022-08-03" tag="&amp;FW" text="Bythotrephes">
+        <cmp x="1632" y="2131" width="79" height="83" />
+        <cmp x="1673" y="2180" width="78" height="94" />
+        <cmp x="1764" y="2115" width="106" height="90" />
+        <cmp x="1875" y="2131" width="102" height="80" />
+        <cmp x="1978" y="2174" width="46" height="53" />
+        <cmp x="2021" y="2138" width="91" height="82" />
+      </word>
+      <upper-contour>
+        <point x="379" y="2067" />
+        <point x="1302" y="2141" />
+        <point x="1352" y="2130" />
+        <point x="1803" y="2060" />
+        <point x="2104" y="2060" />
+      </upper-contour>
+      <lower-contour>
+        <point x="370" y="2274" />
+        <point x="2044" y="2274" />
+      </lower-contour>
+    </line>
+    <line ass="-315" asx="0" asy="2294" character-width="999" dss="-315" dsx="0" dsy="2488" fd0="13326" fd1="2581" fd2="-91" filter-width="4" id="j06-022-09" lbs="-336" lbx="0" lby="2383" segmentation="ok" slant="87999" stroke-width="6185" threshold="179" text="longimanus also remains at one" ubs="-273" ubx="0" uby="2352">
+      <word id="j06-022-09-00" tag="&amp;FW" text="longimanus">
+        <cmp x="372" y="2303" width="176" height="189" />
+        <cmp x="571" y="2352" width="21" height="39" />
+        <cmp x="599" y="2305" width="225" height="86" />
+        <cmp x="844" y="2355" width="39" height="44" />
+      </word>
+      <word id="j06-022-09-01" tag="RB" text="also">
+        <cmp x="998" y="2345" width="49" height="52" />
+        <cmp x="1056" y="2305" width="84" height="94" />
+      </word>
+      <word id="j06-022-09-02" tag="VBZ" text="remains">
+        <cmp x="1249" y="2352" width="82" height="43" />
+        <cmp x="1339" y="2332" width="176" height="61" />
+        <cmp x="1520" y="2365" width="29" height="33" />
+      </word>
+      <word id="j06-022-09-03" tag="IN" text="at">
+        <cmp x="1633" y="2303" width="120" height="94" />
+      </word>
+      <word id="j06-022-09-04" tag="CD1" text="one">
+        <cmp x="1837" y="2351" width="206" height="56" />
+      </word>
+      <upper-contour>
+        <point x="370" y="2274" />
+        <point x="2044" y="2274" />
+      </upper-contour>
+      <lower-contour>
+        <point x="370" y="2479" />
+        <point x="498" y="2491" />
+        <point x="587" y="2408" />
+        <point x="2044" y="2408" />
+      </lower-contour>
+    </line>
+    <line ass="-85" asx="0" asy="2474" character-width="999" dss="-85" dsx="0" dsy="2601" fd0="13020" fd1="2585" fd2="-778" filter-width="4" id="j06-022-10" lbs="0" lbx="0" lby="2558" segmentation="err" slant="29000" stroke-width="6219" threshold="178" text="level, about 10 meters down." ubs="-255" ubx="0" uby="2535">
+      <word id="j06-022-10-00" tag="NN" text="level">
+        <cmp x="371" y="2481" width="88" height="101" />
+        <cmp x="469" y="2537" width="43" height="32" />
+        <cmp x="506" y="2475" width="122" height="104" />
+      </word>
+      <word id="j06-022-10-01" tag="," text=",">
+        <cmp x="618" y="2560" width="36" height="42" />
+      </word>
+      <word id="j06-022-10-02" tag="RB" text="about">
+        <cmp x="713" y="2493" width="276" height="79" />
+      </word>
+      <word id="j06-022-10-03" tag="CD" text="10">
+        <cmp x="1074" y="2503" width="88" height="57" />
+        <cmp x="1165" y="2505" width="58" height="63" />
+      </word>
+      <word id="j06-022-10-04" tag="NNS" text="meters">
+        <cmp x="1259" y="2535" width="112" height="33" />
+        <cmp x="1375" y="2492" width="112" height="75" />
+        <cmp x="1488" y="2539" width="33" height="32" />
+      </word>
+      <word id="j06-022-10-05" tag="RP" text="down">
+        <cmp x="1607" y="2484" width="323" height="89" />
+        <cmp x="1936" y="2510" width="142" height="70" />
+        <cmp x="1953" y="2585" width="7" height="8" />
+        <cmp x="2090" y="2541" width="58" height="20" />
+        <cmp x="2140" y="2543" width="40" height="22" />
+      </word>
+      <word id="j06-022-10-06" tag="." text=".">
+        <cmp x="2199" y="2562" width="8" height="6" />
+      </word>
+      <upper-contour>
+        <point x="370" y="2479" />
+        <point x="498" y="2491" />
+        <point x="587" y="2408" />
+        <point x="2044" y="2408" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

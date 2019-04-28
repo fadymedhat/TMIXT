@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-24" height="3542" id="k03-180" last-modified="2002-07-17" skew="-95" status="final" version="3.0_beta" width="2479" writer-id="420">
+  <machine-printed-part>
+    <machine-print-line text="The Prime Minister looked puzzled, and said, &apos;Julia Drayford? How does she come" />
+    <machine-print-line text="into it? I can&apos;t follow these complexities -&apos; &apos;It isn&apos;t quite that. The whole business" />
+    <machine-print-line text="blew up from Melville&apos;s disgraceful indiscretion to Julia Drayford in Mrs. M&apos;landa&apos;s" />
+    <machine-print-line text="presence. I don&apos;t know the exact chain of gossip or who told who what." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-362" asx="0" asy="714" character-width="999" dss="-362" dsx="0" dsy="809" fd0="16236" fd1="3688" fd2="43" filter-width="3" id="k03-180-00" lbs="-357" lbx="0" lby="778" segmentation="err" slant="41000" stroke-width="5463" threshold="183" text="The Prime Minister looked puzzled, and said, &apos;Julia Drayford? How" ubs="-372" ubx="0" uby="765">
+      <word id="k03-180-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="354" y="733" width="51" height="61" />
+        <cmp x="379" y="722" width="63" height="10" />
+        <cmp x="382" y="745" width="33" height="39" />
+      </word>
+      <word id="k03-180-00-01" tag="NPT" text="Prime">
+        <cmp x="407" y="772" width="20" height="15" />
+        <cmp x="463" y="722" width="73" height="64" />
+        <cmp x="485" y="774" width="23" height="14" />
+        <cmp x="508" y="777" width="10" height="10" />
+        <cmp x="519" y="778" width="39" height="13" />
+        <cmp x="540" y="748" width="6" height="6" />
+        <cmp x="563" y="777" width="24" height="14" />
+      </word>
+      <word id="k03-180-00-02" tag="NPT" text="Minister">
+        <cmp x="616" y="730" width="74" height="65" />
+        <cmp x="652" y="780" width="10" height="11" />
+        <cmp x="668" y="777" width="25" height="11" />
+        <cmp x="686" y="746" width="5" height="5" />
+        <cmp x="697" y="779" width="9" height="9" />
+        <cmp x="709" y="778" width="15" height="14" />
+        <cmp x="721" y="745" width="6" height="6" />
+        <cmp x="726" y="741" width="94" height="50" />
+      </word>
+      <word id="k03-180-00-03" tag="VBD" text="looked">
+        <cmp x="864" y="742" width="51" height="43" />
+        <cmp x="882" y="769" width="23" height="16" />
+        <cmp x="906" y="771" width="22" height="13" />
+        <cmp x="926" y="748" width="42" height="37" />
+        <cmp x="955" y="774" width="44" height="15" />
+        <cmp x="1003" y="743" width="41" height="37" />
+      </word>
+      <word id="k03-180-00-04" tag="JJ" text="puzzled">
+        <cmp x="1020" y="773" width="61" height="40" />
+        <cmp x="1088" y="776" width="23" height="12" />
+        <cmp x="1118" y="774" width="23" height="14" />
+        <cmp x="1148" y="774" width="18" height="13" />
+        <cmp x="1165" y="746" width="54" height="45" />
+        <cmp x="1184" y="775" width="23" height="14" />
+        <cmp x="1210" y="773" width="20" height="15" />
+        <cmp x="1235" y="744" width="40" height="36" />
+      </word>
+      <word id="k03-180-00-05" tag="," text=",">
+        <cmp x="1230" y="786" width="30" height="25" />
+      </word>
+      <word id="k03-180-00-06" tag="CC" text="and">
+        <cmp x="1324" y="772" width="34" height="14" />
+        <cmp x="1365" y="771" width="24" height="12" />
+        <cmp x="1391" y="736" width="72" height="53" />
+      </word>
+      <word id="k03-180-00-07" tag="VBD" text="said">
+        <cmp x="1458" y="774" width="21" height="18" />
+        <cmp x="1476" y="772" width="27" height="18" />
+        <cmp x="1510" y="742" width="91" height="45" />
+        <cmp x="1531" y="740" width="5" height="6" />
+      </word>
+      <word id="k03-180-00-08" tag="," text=",">
+        <cmp x="1578" y="788" width="20" height="22" />
+      </word>
+      <word id="k03-180-00-09" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="1676" y="725" width="18" height="16" />
+      </word>
+      <word id="k03-180-00-10" tag="NP" text="Julia">
+        <cmp x="1655" y="737" width="92" height="84" />
+        <cmp x="1716" y="775" width="24" height="14" />
+        <cmp x="1748" y="744" width="41" height="41" />
+        <cmp x="1765" y="774" width="11" height="11" />
+        <cmp x="1776" y="777" width="28" height="12" />
+        <cmp x="1793" y="751" width="5" height="5" />
+      </word>
+      <word id="k03-180-00-11" tag="NP" text="Drayford">
+        <cmp x="1842" y="744" width="44" height="43" />
+        <cmp x="1858" y="729" width="63" height="46" />
+        <cmp x="1882" y="774" width="26" height="13" />
+        <cmp x="1906" y="773" width="31" height="16" />
+        <cmp x="1911" y="773" width="55" height="47" />
+        <cmp x="1940" y="727" width="100" height="88" />
+        <cmp x="1998" y="771" width="21" height="14" />
+        <cmp x="2028" y="772" width="25" height="9" />
+        <cmp x="2051" y="742" width="62" height="41" />
+      </word>
+      <word id="k03-180-00-12" tag="?" text="?">
+        <cmp x="2098" y="784" width="7" height="6" />
+        <cmp x="2113" y="738" width="40" height="38" />
+      </word>
+      <word id="k03-180-00-13" sentence-start="yes" tag="WRB" text="How">
+        <cmp x="2172" y="734" width="82" height="59" />
+        <cmp x="2209" y="775" width="20" height="13" />
+        <cmp x="2235" y="775" width="36" height="13" />
+      </word>
+      <lower-contour>
+        <point x="352" y="821" />
+        <point x="2272" y="821" />
+      </lower-contour>
+    </line>
+    <line ass="642" asx="0" asy="918" character-width="999" dss="642" dsx="0" dsy="1016" fd0="16344" fd1="3407" fd2="751" filter-width="3" id="k03-180-01" lbs="700" lbx="0" lby="977" segmentation="err" slant="42000" stroke-width="5564" threshold="183" text="does she come into it? I can&apos;t follow these complexities -&apos; &apos;It isn&apos;t" ubs="528" ubx="0" uby="959">
+      <word id="k03-180-01-00" tag="DOZ" text="does">
+        <cmp x="351" y="917" width="69" height="52" />
+        <cmp x="376" y="955" width="25" height="16" />
+        <cmp x="400" y="957" width="18" height="14" />
+        <cmp x="427" y="958" width="14" height="15" />
+      </word>
+      <word id="k03-180-01-01" tag="PP3A" text="she">
+        <cmp x="489" y="954" width="24" height="17" />
+        <cmp x="505" y="923" width="65" height="55" />
+        <cmp x="537" y="957" width="22" height="15" />
+      </word>
+      <word id="k03-180-01-02" tag="VB" text="come">
+        <cmp x="598" y="953" width="27" height="18" />
+        <cmp x="622" y="953" width="88" height="17" />
+      </word>
+      <word id="k03-180-01-03" tag="IN" text="into">
+        <cmp x="764" y="955" width="17" height="13" />
+        <cmp x="777" y="956" width="28" height="12" />
+        <cmp x="790" y="913" width="4" height="7" />
+        <cmp x="813" y="922" width="52" height="43" />
+        <cmp x="833" y="952" width="18" height="16" />
+      </word>
+      <word id="k03-180-01-04" tag="PP3" text="it">
+        <cmp x="906" y="952" width="12" height="11" />
+        <cmp x="916" y="918" width="48" height="48" />
+        <cmp x="935" y="920" width="5" height="7" />
+      </word>
+      <word id="k03-180-01-05" tag="?" text="?">
+        <cmp x="974" y="959" width="6" height="8" />
+        <cmp x="986" y="917" width="36" height="35" />
+      </word>
+      <word id="k03-180-01-06" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="1065" y="917" width="50" height="50" />
+      </word>
+      <word id="k03-180-01-07" tag="MDX" text="can&apos;t">
+        <cmp x="1136" y="945" width="30" height="23" />
+        <cmp x="1161" y="950" width="44" height="14" />
+        <cmp x="1253" y="911" width="17" height="17" />
+        <cmp x="1239" y="918" width="54" height="48" />
+      </word>
+      <word id="k03-180-01-08" tag="VB" text="follow">
+        <cmp x="1287" y="903" width="94" height="90" />
+        <cmp x="1335" y="951" width="22" height="16" />
+        <cmp x="1358" y="916" width="54" height="51" />
+        <cmp x="1363" y="919" width="57" height="52" />
+        <cmp x="1383" y="955" width="68" height="16" />
+      </word>
+      <word id="k03-180-01-09" tag="DTS" text="these">
+        <cmp x="1506" y="906" width="85" height="64" />
+        <cmp x="1589" y="953" width="11" height="13" />
+        <cmp x="1606" y="951" width="40" height="22" />
+      </word>
+      <word id="k03-180-01-10" tag="NNS" text="complexities">
+        <cmp x="1706" y="950" width="44" height="16" />
+        <cmp x="1754" y="952" width="44" height="13" />
+        <cmp x="1769" y="949" width="62" height="49" />
+        <cmp x="1833" y="915" width="59" height="54" />
+        <cmp x="1846" y="950" width="25" height="18" />
+        <cmp x="1875" y="949" width="22" height="15" />
+        <cmp x="1903" y="949" width="15" height="12" />
+        <cmp x="1912" y="920" width="50" height="45" />
+        <cmp x="1924" y="918" width="4" height="4" />
+        <cmp x="1950" y="948" width="21" height="16" />
+        <cmp x="1966" y="958" width="7" height="3" />
+        <cmp x="1973" y="950" width="16" height="16" />
+        <cmp x="1982" y="919" width="5" height="6" />
+      </word>
+      <word id="k03-180-01-11" tag="*-" text="-">
+        <cmp x="2029" y="946" width="17" height="4" />
+      </word>
+      <word id="k03-180-01-12" tag="**&apos;" text="&apos;">
+        <cmp x="2093" y="900" width="18" height="19" />
+      </word>
+      <word id="k03-180-01-13" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="2117" y="898" width="21" height="18" />
+      </word>
+      <word id="k03-180-01-14" tag="PP3" text="It">
+        <cmp x="2119" y="901" width="51" height="55" />
+        <cmp x="2134" y="916" width="44" height="43" />
+      </word>
+      <word id="k03-180-01-15" tag="BEZX" text="isn&apos;t">
+        <cmp x="2178" y="947" width="16" height="16" />
+        <cmp x="2193" y="947" width="16" height="18" />
+        <cmp x="2216" y="946" width="21" height="15" />
+        <cmp x="2220" y="920" width="9" height="8" />
+        <cmp x="2269" y="908" width="26" height="27" />
+        <cmp x="2259" y="911" width="55" height="52" />
+        <cmp x="2352" y="894" width="29" height="25" />
+      </word>
+      <upper-contour>
+        <point x="352" y="821" />
+        <point x="2272" y="821" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="998" />
+        <point x="2382" y="998" />
+      </lower-contour>
+    </line>
+    <line ass="4" asx="0" asy="1070" character-width="999" dss="4" dsx="0" dsy="1192" fd0="16311" fd1="3407" fd2="228" filter-width="3" id="k03-180-02" lbs="28" lbx="0" lby="1143" segmentation="ok" slant="43999" stroke-width="5576" threshold="183" text="quite that. The whole business blew up from Melville&apos;s disgraceful" ubs="-42" ubx="0" uby="1128">
+      <word id="k03-180-02-00" tag="RB" text="quite">
+        <cmp x="338" y="1125" width="54" height="68" />
+        <cmp x="385" y="1134" width="29" height="15" />
+        <cmp x="423" y="1137" width="10" height="11" />
+        <cmp x="444" y="1095" width="53" height="50" />
+        <cmp x="447" y="1109" width="5" height="6" />
+        <cmp x="470" y="1133" width="20" height="14" />
+      </word>
+      <word id="k03-180-02-01" tag="DT" text="that">
+        <cmp x="535" y="1094" width="79" height="59" />
+        <cmp x="583" y="1104" width="84" height="54" />
+      </word>
+      <word id="k03-180-02-02" tag="." text=".">
+        <cmp x="658" y="1145" width="6" height="5" />
+      </word>
+      <word id="k03-180-02-03" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="743" y="1108" width="44" height="48" />
+        <cmp x="760" y="1090" width="59" height="12" />
+        <cmp x="771" y="1088" width="71" height="69" />
+        <cmp x="805" y="1138" width="20" height="16" />
+      </word>
+      <word id="k03-180-02-04" tag="JJ" text="whole">
+        <cmp x="883" y="1131" width="45" height="21" />
+        <cmp x="924" y="1088" width="50" height="56" />
+        <cmp x="956" y="1130" width="21" height="15" />
+        <cmp x="977" y="1093" width="62" height="55" />
+        <cmp x="996" y="1133" width="27" height="15" />
+      </word>
+      <word id="k03-180-02-05" tag="NN" text="business">
+        <cmp x="1074" y="1090" width="58" height="53" />
+        <cmp x="1106" y="1132" width="27" height="10" />
+        <cmp x="1133" y="1129" width="20" height="15" />
+        <cmp x="1159" y="1130" width="12" height="11" />
+        <cmp x="1173" y="1132" width="24" height="11" />
+        <cmp x="1189" y="1093" width="6" height="9" />
+        <cmp x="1201" y="1128" width="41" height="18" />
+        <cmp x="1245" y="1128" width="20" height="19" />
+      </word>
+      <word id="k03-180-02-06" tag="VBD" text="blew">
+        <cmp x="1325" y="1085" width="59" height="62" />
+        <cmp x="1345" y="1090" width="59" height="57" />
+        <cmp x="1362" y="1132" width="66" height="16" />
+      </word>
+      <word id="k03-180-02-07" tag="RP" text="up">
+        <cmp x="1473" y="1132" width="33" height="14" />
+        <cmp x="1480" y="1131" width="67" height="42" />
+      </word>
+      <word id="k03-180-02-08" tag="IN" text="from">
+        <cmp x="1575" y="1070" width="110" height="103" />
+        <cmp x="1635" y="1134" width="20" height="12" />
+        <cmp x="1658" y="1132" width="20" height="14" />
+        <cmp x="1684" y="1135" width="49" height="9" />
+      </word>
+      <word id="k03-180-02-09" tag="NP$" text="Melville&apos;s">
+        <cmp x="1823" y="1087" width="87" height="60" />
+        <cmp x="1863" y="1130" width="26" height="20" />
+        <cmp x="1894" y="1090" width="58" height="55" />
+        <cmp x="1914" y="1132" width="26" height="14" />
+        <cmp x="1942" y="1131" width="14" height="13" />
+        <cmp x="1958" y="1095" width="58" height="51" />
+        <cmp x="1968" y="1104" width="8" height="6" />
+        <cmp x="1987" y="1130" width="27" height="19" />
+        <cmp x="2059" y="1083" width="18" height="18" />
+        <cmp x="2047" y="1124" width="18" height="24" />
+      </word>
+      <word id="k03-180-02-10" tag="JJ" text="disgraceful">
+        <cmp x="2133" y="1131" width="23" height="16" />
+        <cmp x="2158" y="1093" width="50" height="50" />
+        <cmp x="2174" y="1132" width="13" height="13" />
+        <cmp x="2182" y="1130" width="50" height="49" />
+        <cmp x="2187" y="1130" width="18" height="16" />
+        <cmp x="2219" y="1099" width="5" height="6" />
+        <cmp x="2242" y="1133" width="11" height="12" />
+        <cmp x="2255" y="1136" width="8" height="4" />
+        <cmp x="2264" y="1133" width="27" height="15" />
+        <cmp x="2292" y="1090" width="92" height="79" />
+        <cmp x="2374" y="1102" width="42" height="43" />
+      </word>
+      <upper-contour>
+        <point x="349" y="998" />
+        <point x="2382" y="998" />
+      </upper-contour>
+      <lower-contour>
+        <point x="361" y="1178" />
+        <point x="2343" y="1178" />
+      </lower-contour>
+    </line>
+    <line ass="-42" asx="0" asy="1266" character-width="999" dss="-42" dsx="0" dsy="1359" fd0="16543" fd1="4013" fd2="579" filter-width="3" id="k03-180-03" lbs="-8" lbx="0" lby="1320" segmentation="ok" slant="42000" stroke-width="5367" threshold="184" text="indiscretion to Julia Drayford in Mrs. M&apos;landa&apos;s presence." ubs="-111" ubx="0" uby="1306">
+      <word id="k03-180-03-00" tag="NN" text="indiscretion">
+        <cmp x="363" y="1312" width="19" height="20" />
+        <cmp x="379" y="1315" width="22" height="14" />
+        <cmp x="403" y="1282" width="75" height="52" />
+        <cmp x="415" y="1278" width="4" height="5" />
+        <cmp x="453" y="1319" width="12" height="10" />
+        <cmp x="471" y="1317" width="18" height="13" />
+        <cmp x="492" y="1314" width="20" height="17" />
+        <cmp x="502" y="1281" width="3" height="5" />
+        <cmp x="516" y="1317" width="19" height="12" />
+        <cmp x="543" y="1315" width="25" height="16" />
+        <cmp x="570" y="1272" width="60" height="59" />
+        <cmp x="590" y="1316" width="14" height="12" />
+        <cmp x="605" y="1314" width="22" height="13" />
+        <cmp x="631" y="1314" width="28" height="13" />
+        <cmp x="640" y="1281" width="6" height="6" />
+      </word>
+      <word id="k03-180-03-01" tag="IN" text="to">
+        <cmp x="753" y="1273" width="52" height="56" />
+      </word>
+      <word id="k03-180-03-02" tag="NP" text="Julia">
+        <cmp x="852" y="1271" width="94" height="86" />
+        <cmp x="910" y="1280" width="6" height="3" />
+        <cmp x="914" y="1312" width="28" height="14" />
+        <cmp x="944" y="1271" width="59" height="55" />
+        <cmp x="963" y="1315" width="12" height="11" />
+        <cmp x="988" y="1314" width="29" height="12" />
+        <cmp x="1015" y="1283" width="5" height="7" />
+      </word>
+      <word id="k03-180-03-03" tag="NP" text="Drayford">
+        <cmp x="1080" y="1277" width="52" height="48" />
+        <cmp x="1090" y="1267" width="77" height="54" />
+        <cmp x="1132" y="1314" width="24" height="8" />
+        <cmp x="1163" y="1313" width="69" height="46" />
+        <cmp x="1193" y="1275" width="102" height="86" />
+        <cmp x="1262" y="1315" width="21" height="11" />
+        <cmp x="1295" y="1317" width="15" height="8" />
+        <cmp x="1318" y="1281" width="72" height="48" />
+      </word>
+      <word id="k03-180-03-04" tag="IN" text="in">
+        <cmp x="1432" y="1313" width="17" height="13" />
+        <cmp x="1452" y="1313" width="21" height="11" />
+        <cmp x="1474" y="1275" width="5" height="6" />
+      </word>
+      <word id="k03-180-03-05" tag="NPT" text="Mrs.">
+        <cmp x="1548" y="1276" width="84" height="50" />
+        <cmp x="1597" y="1314" width="18" height="8" />
+        <cmp x="1625" y="1308" width="14" height="17" />
+        <cmp x="1652" y="1318" width="7" height="6" />
+      </word>
+      <word id="k03-180-03-06" tag="NP$" text="M&apos;landa&apos;s">
+        <cmp x="1730" y="1278" width="83" height="48" />
+        <cmp x="1830" y="1274" width="16" height="14" />
+        <cmp x="1822" y="1280" width="52" height="44" />
+        <cmp x="1841" y="1311" width="37" height="14" />
+        <cmp x="1885" y="1313" width="26" height="13" />
+        <cmp x="1914" y="1312" width="23" height="14" />
+        <cmp x="1932" y="1286" width="45" height="40" />
+        <cmp x="1950" y="1312" width="33" height="16" />
+        <cmp x="1975" y="1280" width="4" height="5" />
+        <cmp x="2024" y="1275" width="20" height="18" />
+        <cmp x="2015" y="1308" width="23" height="20" />
+      </word>
+      <word id="k03-180-03-07" tag="NN" text="presence">
+        <cmp x="2059" y="1315" width="63" height="42" />
+        <cmp x="2136" y="1315" width="12" height="9" />
+        <cmp x="2150" y="1316" width="8" height="4" />
+        <cmp x="2158" y="1313" width="25" height="17" />
+        <cmp x="2187" y="1315" width="18" height="15" />
+        <cmp x="2212" y="1313" width="57" height="16" />
+        <cmp x="2270" y="1315" width="23" height="15" />
+        <cmp x="2302" y="1315" width="27" height="16" />
+      </word>
+      <word id="k03-180-03-08" tag="." text=".">
+        <cmp x="2338" y="1325" width="5" height="5" />
+      </word>
+      <upper-contour>
+        <point x="361" y="1178" />
+        <point x="2343" y="1178" />
+      </upper-contour>
+      <lower-contour>
+        <point x="361" y="1361" />
+        <point x="2323" y="1361" />
+      </lower-contour>
+    </line>
+    <line ass="115" asx="0" asy="1440" character-width="999" dss="115" dsx="0" dsy="1554" fd0="16072" fd1="3440" fd2="1314" filter-width="3" id="k03-180-04" lbs="143" lbx="0" lby="1503" segmentation="err" slant="41000" stroke-width="5575" threshold="178" text="I don&apos;t know the exact chain of gossip or who told who" ubs="58" ubx="0" uby="1488">
+      <word id="k03-180-04-00" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="352" y="1450" width="64" height="66" />
+      </word>
+      <word id="k03-180-04-01" tag="DOX" text="don&apos;t">
+        <cmp x="437" y="1491" width="25" height="19" />
+        <cmp x="461" y="1462" width="43" height="41" />
+        <cmp x="474" y="1492" width="23" height="15" />
+        <cmp x="504" y="1494" width="24" height="12" />
+        <cmp x="568" y="1446" width="33" height="30" />
+        <cmp x="572" y="1451" width="58" height="52" />
+      </word>
+      <word id="k03-180-04-02" tag="VB" text="know">
+        <cmp x="666" y="1459" width="55" height="54" />
+        <cmp x="713" y="1498" width="27" height="14" />
+        <cmp x="750" y="1498" width="22" height="13" />
+        <cmp x="786" y="1498" width="37" height="13" />
+      </word>
+      <word id="k03-180-04-03" tag="ATI" text="the">
+        <cmp x="881" y="1457" width="65" height="55" />
+        <cmp x="915" y="1452" width="67" height="57" />
+        <cmp x="944" y="1489" width="25" height="19" />
+      </word>
+      <word id="k03-180-04-04" tag="JJ" text="exact">
+        <cmp x="1020" y="1489" width="29" height="19" />
+        <cmp x="1052" y="1487" width="27" height="16" />
+        <cmp x="1088" y="1492" width="31" height="13" />
+        <cmp x="1128" y="1491" width="21" height="11" />
+        <cmp x="1150" y="1453" width="61" height="51" />
+      </word>
+      <word id="k03-180-04-05" tag="NN" text="chain">
+        <cmp x="1245" y="1488" width="28" height="22" />
+        <cmp x="1281" y="1448" width="59" height="55" />
+        <cmp x="1311" y="1489" width="25" height="14" />
+        <cmp x="1351" y="1489" width="11" height="9" />
+        <cmp x="1363" y="1488" width="22" height="11" />
+        <cmp x="1388" y="1450" width="6" height="5" />
+      </word>
+      <word id="k03-180-04-06" tag="INO" text="of">
+        <cmp x="1447" y="1438" width="122" height="106" />
+        <cmp x="1462" y="1491" width="26" height="16" />
+      </word>
+      <word id="k03-180-04-07" tag="NN" text="gossip">
+        <cmp x="1542" y="1489" width="67" height="63" />
+        <cmp x="1615" y="1492" width="23" height="18" />
+        <cmp x="1644" y="1492" width="17" height="15" />
+        <cmp x="1663" y="1492" width="15" height="14" />
+        <cmp x="1668" y="1490" width="60" height="43" />
+        <cmp x="1686" y="1494" width="10" height="10" />
+        <cmp x="1723" y="1453" width="5" height="6" />
+      </word>
+      <word id="k03-180-04-08" tag="CC" text="or">
+        <cmp x="1792" y="1490" width="28" height="15" />
+        <cmp x="1826" y="1491" width="26" height="14" />
+      </word>
+      <word id="k03-180-04-09" tag="WP" text="who">
+        <cmp x="1904" y="1493" width="41" height="15" />
+        <cmp x="1947" y="1445" width="64" height="58" />
+        <cmp x="1976" y="1490" width="23" height="14" />
+      </word>
+      <word id="k03-180-04-10" tag="VBD" text="told">
+        <cmp x="2064" y="1454" width="52" height="46" />
+        <cmp x="2096" y="1485" width="26" height="14" />
+        <cmp x="2125" y="1455" width="57" height="45" />
+        <cmp x="2144" y="1453" width="72" height="47" />
+      </word>
+      <word id="k03-180-04-11" tag="WP" text="who">
+        <cmp x="2232" y="1454" width="90" height="55" />
+        <cmp x="2291" y="1497" width="25" height="14" />
+      </word>
+      <upper-contour>
+        <point x="361" y="1361" />
+        <point x="2323" y="1361" />
+      </upper-contour>
+      <lower-contour>
+        <point x="361" y="1512" />
+        <point x="530" y="1512" />
+      </lower-contour>
+    </line>
+    <line ass="688" asx="0" asy="1629" character-width="999" dss="688" dsx="0" dsy="1697" fd0="16742" fd1="3564" fd2="1198" filter-width="3" id="k03-180-05" lbs="1456" lbx="0" lby="1696" segmentation="ok" slant="42000" stroke-width="5551" threshold="174" text="what." ubs="-848" ubx="0" uby="1667">
+      <word id="k03-180-05-00" tag="WDT" text="what">
+        <cmp x="363" y="1668" width="38" height="21" />
+        <cmp x="401" y="1625" width="67" height="61" />
+        <cmp x="432" y="1673" width="26" height="13" />
+        <cmp x="473" y="1635" width="56" height="52" />
+      </word>
+      <word id="k03-180-05-01" tag="." text=".">
+        <cmp x="523" y="1685" width="5" height="5" />
+      </word>
+      <upper-contour>
+        <point x="361" y="1512" />
+        <point x="530" y="1512" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-15" height="3542" id="b06-015" last-modified="2002-07-17" skew="95" status="final" version="3.0_beta" width="2479" writer-id="127">
+  <machine-printed-part>
+    <machine-print-line text="A 90-day war, the West German view, provides the pretext for huge German armed" />
+    <machine-print-line text="forces (within Nato of course) and for those to have bases all over Western Europe." />
+    <machine-print-line text="In the past year West Germany has secured agreements for &amp;quot;facilities&amp;quot; in France," />
+    <machine-print-line text="Holland and Belgium. After much bargaining the British Government has agreed to" />
+    <machine-print-line text="give similar &amp;quot;facilities&amp;quot; to German troops in Britain." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-4" asx="0" asy="724" character-width="999" dss="-4" dsx="0" dsy="818" fd0="12486" fd1="2690" fd2="-992" filter-width="4" id="b06-015-00" lbs="44" lbx="0" lby="790" segmentation="ok" slant="99000" stroke-width="6488" threshold="177" text="A 90-day war, the West German" ubs="-103" ubx="0" uby="762">
+      <word id="b06-015-00-00" sentence-start="yes" tag="AT" text="A">
+        <cmp x="337" y="738" width="76" height="59" />
+      </word>
+      <word id="b06-015-00-01" tag="JJB" text="90-day">
+        <cmp x="479" y="746" width="55" height="52" />
+        <cmp x="534" y="744" width="51" height="51" />
+        <cmp x="600" y="763" width="35" height="9" />
+        <cmp x="653" y="746" width="70" height="49" />
+        <cmp x="727" y="757" width="119" height="60" />
+      </word>
+      <word id="b06-015-00-02" tag="NN" text="war">
+        <cmp x="907" y="763" width="75" height="34" />
+        <cmp x="984" y="757" width="107" height="38" />
+      </word>
+      <word id="b06-015-00-03" tag="," text=",">
+        <cmp x="1071" y="789" width="14" height="26" />
+      </word>
+      <word id="b06-015-00-04" tag="ATI" text="the">
+        <cmp x="1144" y="725" width="161" height="71" />
+      </word>
+      <word id="b06-015-00-05" tag="NP" text="West">
+        <cmp x="1372" y="729" width="87" height="68" />
+        <cmp x="1456" y="733" width="152" height="64" />
+      </word>
+      <word id="b06-015-00-06" tag="JNP" text="German">
+        <cmp x="1657" y="730" width="83" height="90" />
+        <cmp x="1732" y="759" width="193" height="32" />
+        <cmp x="1936" y="758" width="117" height="38" />
+      </word>
+      <lower-contour>
+        <point x="335" y="820" />
+        <point x="2054" y="820" />
+      </lower-contour>
+    </line>
+    <line ass="-236" asx="0" asy="897" character-width="999" dss="-236" dsx="0" dsy="1008" fd0="12051" fd1="2383" fd2="-909" filter-width="4" id="b06-015-01" lbs="-296" lbx="0" lby="969" segmentation="ok" slant="94000" stroke-width="6618" threshold="176" text="view, provides the pretext for huge" ubs="-116" ubx="0" uby="944">
+      <word id="b06-015-01-00" tag="NN" text="view">
+        <cmp x="330" y="935" width="70" height="36" />
+        <cmp x="404" y="936" width="156" height="39" />
+        <cmp x="414" y="905" width="8" height="13" />
+      </word>
+      <word id="b06-015-01-01" tag="," text=",">
+        <cmp x="571" y="962" width="8" height="29" />
+      </word>
+      <word id="b06-015-01-02" tag="VBZ" text="provides">
+        <cmp x="647" y="939" width="126" height="54" />
+        <cmp x="771" y="939" width="151" height="35" />
+        <cmp x="906" y="921" width="7" height="10" />
+        <cmp x="928" y="931" width="175" height="47" />
+      </word>
+      <word id="b06-015-01-03" tag="ATI" text="the">
+        <cmp x="1164" y="907" width="137" height="72" />
+      </word>
+      <word id="b06-015-01-04" tag="NN" text="pretext">
+        <cmp x="1356" y="918" width="334" height="77" />
+      </word>
+      <word id="b06-015-01-05" tag="IN" text="for">
+        <cmp x="1744" y="905" width="168" height="82" />
+      </word>
+      <word id="b06-015-01-06" tag="JJ" text="huge">
+        <cmp x="1962" y="907" width="217" height="111" />
+      </word>
+      <upper-contour>
+        <point x="335" y="820" />
+        <point x="2054" y="820" />
+      </upper-contour>
+      <lower-contour>
+        <point x="329" y="1019" />
+        <point x="2138" y="1019" />
+      </lower-contour>
+    </line>
+    <line ass="-144" asx="0" asy="1061" character-width="999" dss="-144" dsx="0" dsy="1182" fd0="12165" fd1="2492" fd2="-1098" filter-width="4" id="b06-015-02" lbs="-114" lbx="0" lby="1149" segmentation="ok" slant="95000" stroke-width="6580" threshold="177" text="German armed forces (within Nato" ubs="-204" ubx="0" uby="1119">
+      <word id="b06-015-02-00" tag="JNP" text="German">
+        <cmp x="331" y="1080" width="267" height="104" />
+        <cmp x="602" y="1114" width="116" height="36" />
+      </word>
+      <word id="b06-015-02-01" tag="JJ" text="armed">
+        <cmp x="788" y="1104" width="309" height="54" />
+      </word>
+      <word id="b06-015-02-02" tag="NNS" text="forces">
+        <cmp x="1158" y="1071" width="44" height="97" />
+        <cmp x="1204" y="1121" width="110" height="35" />
+        <cmp x="1310" y="1120" width="94" height="36" />
+        <cmp x="1406" y="1118" width="51" height="35" />
+      </word>
+      <word id="b06-015-02-03" tag="(" text="(">
+        <cmp x="1494" y="1066" width="21" height="101" />
+      </word>
+      <word id="b06-015-02-04" tag="IN" text="within">
+        <cmp x="1540" y="1119" width="93" height="37" />
+        <cmp x="1640" y="1095" width="238" height="64" />
+        <cmp x="1646" y="1096" width="7" height="9" />
+        <cmp x="1790" y="1096" width="7" height="14" />
+      </word>
+      <word id="b06-015-02-05" tag="NP" text="Nato">
+        <cmp x="1924" y="1093" width="213" height="64" />
+      </word>
+      <upper-contour>
+        <point x="329" y="1019" />
+        <point x="2138" y="1019" />
+      </upper-contour>
+      <lower-contour>
+        <point x="330" y="1183" />
+        <point x="2135" y="1183" />
+      </lower-contour>
+    </line>
+    <line ass="-154" asx="0" asy="1258" character-width="999" dss="-154" dsx="0" dsy="1359" fd0="11902" fd1="3231" fd2="-736" filter-width="4" id="b06-015-03" lbs="-156" lbx="0" lby="1325" segmentation="err" slant="97000" stroke-width="6533" threshold="180" text="of course) and for those to have" ubs="-151" ubx="0" uby="1298">
+      <word id="b06-015-03-00" tag="CS21" text="of">
+        <cmp x="332" y="1260" width="96" height="89" />
+      </word>
+      <word id="b06-015-03-01" tag="CS22" text="course">
+        <cmp x="483" y="1293" width="238" height="41" />
+        <cmp x="718" y="1294" width="128" height="37" />
+        <cmp x="849" y="1264" width="20" height="99" />
+      </word>
+      <word id="b06-015-03-02" tag=")" text=")">
+        <cmp x="932" y="1292" width="110" height="37" />
+      </word>
+      <word id="b06-015-03-03" tag="CC" text="and">
+        <cmp x="1046" y="1275" width="69" height="56" />
+      </word>
+      <word id="b06-015-03-04" tag="IN" text="for">
+        <cmp x="1176" y="1263" width="167" height="92" />
+      </word>
+      <word id="b06-015-03-05" tag="DTS" text="those">
+        <cmp x="1413" y="1262" width="104" height="76" />
+        <cmp x="1518" y="1300" width="166" height="35" />
+      </word>
+      <word id="b06-015-03-06" tag="TO" text="to">
+        <cmp x="1743" y="1265" width="26" height="72" />
+        <cmp x="1769" y="1300" width="60" height="35" />
+      </word>
+      <word id="b06-015-03-07" tag="HV" text="have">
+        <cmp x="1883" y="1268" width="77" height="67" />
+        <cmp x="1966" y="1299" width="168" height="40" />
+      </word>
+      <upper-contour>
+        <point x="330" y="1183" />
+        <point x="2135" y="1183" />
+      </upper-contour>
+      <lower-contour>
+        <point x="341" y="1363" />
+        <point x="2052" y="1363" />
+      </lower-contour>
+    </line>
+    <line ass="-46" asx="0" asy="1440" character-width="999" dss="-46" dsx="0" dsy="1526" fd0="12028" fd1="2752" fd2="-1328" filter-width="4" id="b06-015-04" lbs="-13" lbx="0" lby="1508" segmentation="ok" slant="95000" stroke-width="6336" threshold="179" text="bases all over Western Europe." ubs="-113" ubx="0" uby="1480">
+      <word id="b06-015-04-00" tag="NNS" text="bases">
+        <cmp x="343" y="1457" width="58" height="58" />
+        <cmp x="402" y="1474" width="97" height="38" />
+        <cmp x="502" y="1477" width="58" height="34" />
+        <cmp x="559" y="1475" width="52" height="36" />
+      </word>
+      <word id="b06-015-04-01" tag="RB" text="all">
+        <cmp x="672" y="1456" width="144" height="60" />
+      </word>
+      <word id="b06-015-04-02" tag="IN" text="over">
+        <cmp x="868" y="1474" width="235" height="38" />
+      </word>
+      <word id="b06-015-04-03" tag="JJ" text="Western">
+        <cmp x="1177" y="1441" width="141" height="76" />
+        <cmp x="1320" y="1449" width="94" height="63" />
+        <cmp x="1418" y="1478" width="154" height="36" />
+      </word>
+      <word id="b06-015-04-04" tag="NP" text="Europe">
+        <cmp x="1632" y="1444" width="215" height="70" />
+        <cmp x="1838" y="1473" width="195" height="56" />
+      </word>
+      <word id="b06-015-04-05" tag="." text=".">
+        <cmp x="2038" y="1506" width="13" height="11" />
+      </word>
+      <upper-contour>
+        <point x="341" y="1363" />
+        <point x="2052" y="1363" />
+      </upper-contour>
+      <lower-contour>
+        <point x="341" y="1530" />
+        <point x="2023" y="1530" />
+      </lower-contour>
+    </line>
+    <line ass="118" asx="0" asy="1622" character-width="999" dss="118" dsx="0" dsy="1730" fd0="12265" fd1="3320" fd2="-832" filter-width="4" id="b06-015-05" lbs="44" lbx="0" lby="1687" segmentation="ok" slant="95000" stroke-width="6421" threshold="179" text="In the past year West Germany" ubs="266" ubx="0" uby="1668">
+      <word id="b06-015-05-00" sentence-start="yes" tag="IN" text="In">
+        <cmp x="342" y="1624" width="87" height="70" />
+      </word>
+      <word id="b06-015-05-01" tag="ATI" text="the">
+        <cmp x="499" y="1622" width="87" height="72" />
+        <cmp x="587" y="1663" width="59" height="29" />
+      </word>
+      <word id="b06-015-05-02" tag="JJB" text="past">
+        <cmp x="695" y="1661" width="62" height="55" />
+        <cmp x="761" y="1660" width="59" height="33" />
+        <cmp x="821" y="1627" width="99" height="62" />
+      </word>
+      <word id="b06-015-05-03" tag="NN" text="year">
+        <cmp x="974" y="1659" width="47" height="69" />
+        <cmp x="1022" y="1654" width="164" height="41" />
+      </word>
+      <word id="b06-015-05-04" tag="NP" text="West">
+        <cmp x="1245" y="1623" width="92" height="75" />
+        <cmp x="1332" y="1625" width="155" height="68" />
+      </word>
+      <word id="b06-015-05-05" tag="NP" text="Germany">
+        <cmp x="1543" y="1619" width="266" height="101" />
+        <cmp x="1811" y="1655" width="211" height="71" />
+      </word>
+      <upper-contour>
+        <point x="341" y="1530" />
+        <point x="2023" y="1530" />
+      </upper-contour>
+      <lower-contour>
+        <point x="340" y="1728" />
+        <point x="1926" y="1728" />
+      </lower-contour>
+    </line>
+    <line ass="-206" asx="0" asy="1793" character-width="999" dss="-206" dsx="0" dsy="1895" fd0="12044" fd1="3091" fd2="-1233" filter-width="4" id="b06-015-06" lbs="-280" lbx="0" lby="1860" segmentation="ok" slant="94000" stroke-width="6151" threshold="183" text="has secured agreements for" ubs="-56" ubx="0" uby="1842">
+      <word id="b06-015-06-00" tag="HVZ" text="has">
+        <cmp x="339" y="1806" width="123" height="64" />
+        <cmp x="463" y="1836" width="55" height="37" />
+      </word>
+      <word id="b06-015-06-01" tag="VBN" text="secured">
+        <cmp x="591" y="1834" width="57" height="36" />
+        <cmp x="653" y="1837" width="246" height="34" />
+        <cmp x="885" y="1816" width="134" height="58" />
+      </word>
+      <word id="b06-015-06-02" tag="NNS" text="agreements">
+        <cmp x="1096" y="1835" width="58" height="42" />
+        <cmp x="1157" y="1838" width="123" height="63" />
+        <cmp x="1275" y="1836" width="195" height="37" />
+        <cmp x="1471" y="1811" width="163" height="62" />
+        <cmp x="1637" y="1831" width="53" height="39" />
+      </word>
+      <word id="b06-015-06-03" tag="IN" text="for">
+        <cmp x="1748" y="1800" width="177" height="99" />
+      </word>
+      <upper-contour>
+        <point x="340" y="1728" />
+        <point x="1926" y="1728" />
+      </upper-contour>
+      <lower-contour>
+        <point x="337" y="1901" />
+        <point x="1926" y="1901" />
+      </lower-contour>
+    </line>
+    <line ass="-493" asx="0" asy="1959" character-width="999" dss="-493" dsx="0" dsy="2074" fd0="12215" fd1="2617" fd2="-1166" filter-width="4" id="b06-015-07" lbs="-519" lbx="0" lby="2031" segmentation="err" slant="92999" stroke-width="6093" threshold="182" text="&amp;quot;facilities&amp;quot; in France, Holland and" ubs="-439" ubx="0" uby="2010">
+      <word id="b06-015-07-00" tag="*&apos;" text="&quot;">
+        <cmp x="333" y="1963" width="22" height="26" />
+        <cmp x="351" y="1969" width="391" height="110" />
+        <cmp x="515" y="1989" width="7" height="11" />
+        <cmp x="610" y="1987" width="7" height="13" />
+        <cmp x="680" y="1986" width="7" height="13" />
+      </word>
+      <word id="b06-015-07-01" tag="NNS" text="facilities">
+        <cmp x="744" y="2017" width="51" height="32" />
+        <cmp x="804" y="1979" width="22" height="26" />
+      </word>
+      <word id="b06-015-07-02" tag="**&apos;" text="&quot;">
+        <cmp x="875" y="1985" width="7" height="13" />
+      </word>
+      <word id="b06-015-07-03" tag="IN" text="in">
+        <cmp x="875" y="2016" width="87" height="31" />
+      </word>
+      <word id="b06-015-07-04" tag="NP" text="France">
+        <cmp x="997" y="1987" width="132" height="68" />
+        <cmp x="1118" y="2014" width="118" height="37" />
+        <cmp x="1240" y="2012" width="112" height="39" />
+        <cmp x="1314" y="2035" width="5" height="4" />
+      </word>
+      <word id="b06-015-07-05" tag="," text=",">
+        <cmp x="1359" y="2043" width="15" height="32" />
+      </word>
+      <word id="b06-015-07-06" tag="NP" text="Holland">
+        <cmp x="1431" y="1987" width="81" height="65" />
+        <cmp x="1494" y="1980" width="135" height="73" />
+        <cmp x="1624" y="1996" width="188" height="57" />
+      </word>
+      <word id="b06-015-07-07" tag="CC" text="and">
+        <cmp x="1875" y="1998" width="175" height="56" />
+      </word>
+      <upper-contour>
+        <point x="337" y="1901" />
+        <point x="1926" y="1901" />
+      </upper-contour>
+      <lower-contour>
+        <point x="337" y="2078" />
+        <point x="2051" y="2078" />
+      </lower-contour>
+    </line>
+    <line ass="-294" asx="0" asy="2152" character-width="999" dss="-294" dsx="0" dsy="2258" fd0="12223" fd1="2411" fd2="-1327" filter-width="4" id="b06-015-08" lbs="-564" lbx="0" lby="2215" segmentation="ok" slant="95000" stroke-width="6034" threshold="182" text="Belgium. After much bargaining" ubs="246" ubx="0" uby="2207">
+      <word id="b06-015-08-00" tag="NP" text="Belgium">
+        <cmp x="339" y="2161" width="171" height="69" />
+        <cmp x="508" y="2194" width="285" height="68" />
+        <cmp x="586" y="2163" width="7" height="8" />
+      </word>
+      <word id="b06-015-08-01" tag="." text=".">
+        <cmp x="799" y="2220" width="8" height="8" />
+      </word>
+      <word id="b06-015-08-02" sentence-start="yes" tag="IN" text="After">
+        <cmp x="835" y="2157" width="268" height="88" />
+      </word>
+      <word id="b06-015-08-03" tag="AP" text="much">
+        <cmp x="1161" y="2198" width="179" height="35" />
+        <cmp x="1341" y="2162" width="109" height="69" />
+      </word>
+      <word id="b06-015-08-04" tag="NN" text="bargaining">
+        <cmp x="1532" y="2167" width="53" height="69" />
+        <cmp x="1591" y="2198" width="113" height="36" />
+        <cmp x="1698" y="2197" width="58" height="69" />
+        <cmp x="1763" y="2193" width="327" height="69" />
+        <cmp x="1821" y="2171" width="8" height="10" />
+        <cmp x="1942" y="2172" width="8" height="14" />
+      </word>
+      <upper-contour>
+        <point x="337" y="2078" />
+        <point x="2051" y="2078" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="2266" />
+        <point x="1979" y="2266" />
+      </lower-contour>
+    </line>
+    <line ass="-6" asx="0" asy="2336" character-width="999" dss="-6" dsx="0" dsy="2448" fd0="12148" fd1="2538" fd2="-1189" filter-width="4" id="b06-015-09" lbs="69" lbx="0" lby="2407" segmentation="ok" slant="95000" stroke-width="6115" threshold="182" text="the British Government has" ubs="-159" ubx="0" uby="2377">
+      <word id="b06-015-09-00" tag="ATI" text="the">
+        <cmp x="350" y="2338" width="79" height="77" />
+        <cmp x="434" y="2378" width="59" height="34" />
+      </word>
+      <word id="b06-015-09-01" tag="JNP" text="British">
+        <cmp x="602" y="2349" width="237" height="62" />
+        <cmp x="753" y="2355" width="6" height="8" />
+        <cmp x="834" y="2353" width="7" height="15" />
+        <cmp x="844" y="2339" width="118" height="72" />
+      </word>
+      <word id="b06-015-09-02" tag="NN" text="Government">
+        <cmp x="1056" y="2346" width="84" height="104" />
+        <cmp x="1154" y="2374" width="397" height="38" />
+        <cmp x="1551" y="2354" width="180" height="62" />
+      </word>
+      <word id="b06-015-09-03" tag="HVZ" text="has">
+        <cmp x="1825" y="2338" width="46" height="71" />
+        <cmp x="1836" y="2379" width="5" height="5" />
+        <cmp x="1872" y="2378" width="106" height="34" />
+      </word>
+      <upper-contour>
+        <point x="348" y="2266" />
+        <point x="1979" y="2266" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="2450" />
+        <point x="1979" y="2450" />
+      </lower-contour>
+    </line>
+    <line ass="537" asx="0" asy="2525" character-width="999" dss="537" dsx="0" dsy="2638" fd0="12320" fd1="2698" fd2="-926" filter-width="4" id="b06-015-10" lbs="637" lbx="0" lby="2597" segmentation="ok" slant="95000" stroke-width="6209" threshold="181" text="agreed to give similar &amp;quot;facilities&amp;quot;" ubs="337" ubx="0" uby="2569">
+      <word id="b06-015-10-00" tag="VBN" text="agreed">
+        <cmp x="351" y="2552" width="162" height="71" />
+        <cmp x="507" y="2536" width="168" height="53" />
+      </word>
+      <word id="b06-015-10-01" tag="TO" text="to">
+        <cmp x="745" y="2524" width="92" height="70" />
+      </word>
+      <word id="b06-015-10-02" tag="VB" text="give">
+        <cmp x="892" y="2551" width="225" height="75" />
+        <cmp x="973" y="2534" width="7" height="13" />
+      </word>
+      <word id="b06-015-10-03" tag="JJ" text="similar">
+        <cmp x="1176" y="2520" width="303" height="75" />
+        <cmp x="1242" y="2535" width="6" height="13" />
+        <cmp x="1411" y="2535" width="7" height="13" />
+        <cmp x="1486" y="2556" width="102" height="33" />
+      </word>
+      <word id="b06-015-10-04" tag="*&apos;" text="&quot;">
+        <cmp x="1638" y="2513" width="23" height="25" />
+      </word>
+      <word id="b06-015-10-05" tag="NNS" text="facilities">
+        <cmp x="1681" y="2510" width="101" height="114" />
+        <cmp x="1786" y="2522" width="329" height="69" />
+        <cmp x="1847" y="2527" width="7" height="14" />
+        <cmp x="1930" y="2531" width="6" height="13" />
+        <cmp x="2002" y="2520" width="7" height="16" />
+      </word>
+      <word id="b06-015-10-06" tag="**&apos;" text="&quot;">
+        <cmp x="2125" y="2512" width="22" height="28" />
+      </word>
+      <upper-contour>
+        <point x="349" y="2450" />
+        <point x="1979" y="2450" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

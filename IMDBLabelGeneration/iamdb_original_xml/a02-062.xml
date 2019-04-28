@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-15" height="3542" id="a02-062" last-modified="2002-07-17" skew="-95" status="final" version="3.0_beta" width="2479" writer-id="031">
+  <machine-printed-part>
+    <machine-print-line text="A third man&apos;s house was watched for four days by plain-clothes men. Committee-" />
+    <machine-print-line text="member Mr. George Clark commented at a Press conference: &amp;quot;The most extraor-" />
+    <machine-print-line text="dinary things are happening.&amp;quot; Fifty committee members will appear at Bow-street" />
+    <machine-print-line text="today, including Lord Russell, Lady Russell, Lord Boyd-Orr, the Rev. Michael Scott," />
+    <machine-print-line text="and Mr. Clark." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-547" asx="0" asy="874" character-width="999" dss="-547" dsx="0" dsy="997" fd0="12730" fd1="1857" fd2="-2377" filter-width="3" id="a02-062-00" lbs="-564" lbx="0" lby="954" segmentation="err" slant="80000" stroke-width="5086" threshold="191" text="A third man&apos;s house was watched for four days" ubs="-515" ubx="0" uby="900">
+      <word id="a02-062-00-00" sentence-start="yes" tag="AT" text="A">
+        <cmp x="339" y="882" width="50" height="81" />
+      </word>
+      <word id="a02-062-00-01" tag="OD" text="third">
+        <cmp x="408" y="888" width="32" height="75" />
+        <cmp x="436" y="884" width="4" height="3" />
+        <cmp x="442" y="886" width="64" height="77" />
+        <cmp x="498" y="890" width="4" height="8" />
+        <cmp x="508" y="907" width="20" height="51" />
+        <cmp x="525" y="891" width="64" height="78" />
+      </word>
+      <word id="a02-062-00-02" tag="NN$" text="man&apos;s">
+        <cmp x="619" y="905" width="151" height="61" />
+        <cmp x="776" y="916" width="51" height="51" />
+        <cmp x="786" y="888" width="4" height="12" />
+      </word>
+      <word id="a02-062-00-03" tag="NN" text="house">
+        <cmp x="871" y="895" width="160" height="84" />
+        <cmp x="1035" y="914" width="21" height="54" />
+      </word>
+      <word id="a02-062-00-04" tag="BEDZ" text="was">
+        <cmp x="1094" y="911" width="143" height="60" />
+      </word>
+      <word id="a02-062-00-05" tag="VBN" text="watched">
+        <cmp x="1269" y="893" width="128" height="76" />
+        <cmp x="1395" y="896" width="113" height="72" />
+        <cmp x="1436" y="919" width="3" height="7" />
+        <cmp x="1510" y="894" width="59" height="73" />
+      </word>
+      <word id="a02-062-00-06" tag="IN" text="for">
+        <cmp x="1590" y="889" width="79" height="107" />
+        <cmp x="1670" y="919" width="17" height="47" />
+      </word>
+      <word id="a02-062-00-07" tag="CD" text="four">
+        <cmp x="1696" y="890" width="146" height="104" />
+      </word>
+      <word id="a02-062-00-08" tag="NNS" text="days">
+        <cmp x="1856" y="894" width="150" height="123" />
+        <cmp x="1998" y="914" width="39" height="59" />
+      </word>
+      <lower-contour>
+        <point x="337" y="1016" />
+        <point x="2038" y="1016" />
+      </lower-contour>
+    </line>
+    <line ass="590" asx="0" asy="1066" character-width="999" dss="590" dsx="0" dsy="1228" fd0="12931" fd1="1790" fd2="-2794" filter-width="3" id="a02-062-01" lbs="640" lbx="0" lby="1160" segmentation="err" slant="76000" stroke-width="4981" threshold="191" text="by plain-clothes men. Committee-member Mr. George" ubs="492" ubx="0" uby="1102">
+      <word id="a02-062-01-00" tag="IN" text="by">
+        <cmp x="330" y="1075" width="92" height="128" />
+      </word>
+      <word id="a02-062-01-01" tag="NNS" text="plain-clothes">
+        <cmp x="456" y="1089" width="57" height="87" />
+        <cmp x="515" y="1060" width="82" height="84" />
+        <cmp x="593" y="1073" width="4" height="6" />
+        <cmp x="598" y="1083" width="48" height="59" />
+        <cmp x="659" y="1111" width="23" height="4" />
+        <cmp x="690" y="1065" width="128" height="86" />
+        <cmp x="818" y="1072" width="78" height="81" />
+        <cmp x="892" y="1092" width="41" height="61" />
+      </word>
+      <word id="a02-062-01-02" tag="NNS" text="men">
+        <cmp x="970" y="1085" width="153" height="67" />
+      </word>
+      <word id="a02-062-01-03" tag="." text=".">
+        <cmp x="1134" y="1143" width="4" height="5" />
+      </word>
+      <word id="a02-062-01-04" sentence-start="yes" tag="NN" text="Committee-member">
+        <cmp x="1168" y="1065" width="63" height="88" />
+        <cmp x="1187" y="1092" width="47" height="56" />
+        <cmp x="1234" y="1092" width="61" height="57" />
+        <cmp x="1297" y="1062" width="213" height="88" />
+        <cmp x="1381" y="1071" width="4" height="5" />
+        <cmp x="1509" y="1085" width="74" height="61" />
+        <cmp x="1582" y="1083" width="34" height="62" />
+        <cmp x="1618" y="1082" width="68" height="60" />
+        <cmp x="1691" y="1069" width="109" height="81" />
+      </word>
+      <word id="a02-062-01-05" tag="NPT" text="Mr.">
+        <cmp x="1837" y="1057" width="82" height="84" />
+        <cmp x="1924" y="1135" width="6" height="6" />
+      </word>
+      <word id="a02-062-01-06" tag="NP" text="George">
+        <cmp x="1958" y="1049" width="140" height="159" />
+        <cmp x="2071" y="1077" width="102" height="132" />
+      </word>
+      <upper-contour>
+        <point x="337" y="1016" />
+        <point x="2038" y="1016" />
+      </upper-contour>
+      <lower-contour>
+        <point x="328" y="1207" />
+        <point x="2013" y="1207" />
+      </lower-contour>
+    </line>
+    <line ass="-519" asx="0" asy="1217" character-width="999" dss="-519" dsx="0" dsy="1341" fd0="13190" fd1="2347" fd2="-2251" filter-width="3" id="a02-062-02" lbs="-559" lbx="0" lby="1309" segmentation="err" slant="78000" stroke-width="4875" threshold="189" text="Clark commented at a Press conference: &amp;quot;The" ubs="-441" ubx="0" uby="1255">
+      <word id="a02-062-02-00" tag="NP" text="Clark">
+        <cmp x="308" y="1228" width="144" height="89" />
+        <cmp x="449" y="1236" width="66" height="86" />
+      </word>
+      <word id="a02-062-02-01" tag="VBD" text="commented">
+        <cmp x="537" y="1251" width="143" height="68" />
+        <cmp x="681" y="1257" width="72" height="59" />
+        <cmp x="748" y="1246" width="119" height="77" />
+        <cmp x="866" y="1259" width="38" height="65" />
+        <cmp x="896" y="1247" width="73" height="78" />
+      </word>
+      <word id="a02-062-02-02" tag="IN" text="at">
+        <cmp x="1016" y="1248" width="93" height="76" />
+      </word>
+      <word id="a02-062-02-03" tag="AT" text="a">
+        <cmp x="1138" y="1260" width="59" height="61" />
+      </word>
+      <word id="a02-062-02-04" tag="NN" text="Press">
+        <cmp x="1228" y="1228" width="68" height="57" />
+        <cmp x="1241" y="1258" width="19" height="69" />
+        <cmp x="1273" y="1266" width="23" height="55" />
+        <cmp x="1296" y="1261" width="40" height="62" />
+        <cmp x="1326" y="1264" width="73" height="63" />
+      </word>
+      <word id="a02-062-02-05" tag="NN" text="conference">
+        <cmp x="1430" y="1253" width="49" height="79" />
+        <cmp x="1456" y="1264" width="47" height="56" />
+        <cmp x="1503" y="1231" width="97" height="118" />
+        <cmp x="1574" y="1256" width="42" height="67" />
+        <cmp x="1613" y="1266" width="23" height="53" />
+        <cmp x="1629" y="1260" width="104" height="67" />
+        <cmp x="1732" y="1257" width="85" height="70" />
+      </word>
+      <word id="a02-062-02-06" tag=":" text=":">
+        <cmp x="1820" y="1319" width="4" height="4" />
+      </word>
+      <word id="a02-062-02-07" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="1825" y="1293" width="5" height="6" />
+      </word>
+      <word id="a02-062-02-08" tag="ATI" text="The">
+        <cmp x="1846" y="1313" width="10" height="46" />
+        <cmp x="1866" y="1312" width="7" height="41" />
+        <cmp x="1875" y="1238" width="103" height="6" />
+        <cmp x="1911" y="1256" width="14" height="73" />
+        <cmp x="1924" y="1251" width="56" height="75" />
+        <cmp x="1980" y="1262" width="32" height="71" />
+      </word>
+      <upper-contour>
+        <point x="328" y="1207" />
+        <point x="2013" y="1207" />
+      </upper-contour>
+      <lower-contour>
+        <point x="313" y="1358" />
+        <point x="2013" y="1358" />
+      </lower-contour>
+    </line>
+    <line ass="-299" asx="0" asy="1397" character-width="999" dss="-299" dsx="0" dsy="1559" fd0="12896" fd1="2180" fd2="-2971" filter-width="3" id="a02-062-03" lbs="-471" lbx="0" lby="1492" segmentation="err" slant="76000" stroke-width="4928" threshold="189" text="most extraordinary things are happening.&amp;quot; Fifty" ubs="45" ubx="0" uby="1444">
+      <word id="a02-062-03-00" tag="QL" text="most">
+        <cmp x="315" y="1413" width="180" height="86" />
+      </word>
+      <word id="a02-062-03-01" tag="JJ" text="extraordinary">
+        <cmp x="510" y="1436" width="46" height="70" />
+        <cmp x="554" y="1421" width="66" height="82" />
+        <cmp x="621" y="1435" width="24" height="60" />
+        <cmp x="640" y="1431" width="102" height="67" />
+        <cmp x="744" y="1438" width="20" height="55" />
+        <cmp x="760" y="1416" width="86" height="81" />
+        <cmp x="839" y="1417" width="5" height="8" />
+        <cmp x="848" y="1435" width="130" height="66" />
+        <cmp x="956" y="1442" width="65" height="123" />
+      </word>
+      <word id="a02-062-03-02" tag="NNS" text="things">
+        <cmp x="1040" y="1416" width="110" height="86" />
+        <cmp x="1147" y="1427" width="3" height="6" />
+        <cmp x="1151" y="1440" width="88" height="120" />
+        <cmp x="1246" y="1445" width="36" height="65" />
+      </word>
+      <word id="a02-062-03-03" tag="BER" text="are">
+        <cmp x="1316" y="1441" width="78" height="66" />
+        <cmp x="1398" y="1445" width="35" height="60" />
+      </word>
+      <word id="a02-062-03-04" tag="VBG" text="happening">
+        <cmp x="1468" y="1423" width="100" height="85" />
+        <cmp x="1568" y="1449" width="99" height="85" />
+        <cmp x="1666" y="1438" width="117" height="78" />
+        <cmp x="1786" y="1438" width="52" height="66" />
+        <cmp x="1816" y="1442" width="76" height="127" />
+      </word>
+      <word id="a02-062-03-05" tag="." text=".">
+        <cmp x="1892" y="1496" width="5" height="7" />
+        <cmp x="1915" y="1408" width="10" height="39" />
+      </word>
+      <word id="a02-062-03-06" tag="**&apos;" text="&quot;">
+        <cmp x="1932" y="1408" width="9" height="34" />
+      </word>
+      <word id="a02-062-03-07" sentence-start="yes" tag="CD" text="Fifty">
+        <cmp x="1959" y="1410" width="102" height="9" />
+        <cmp x="1966" y="1441" width="39" height="62" />
+        <cmp x="2010" y="1452" width="13" height="46" />
+        <cmp x="2022" y="1415" width="66" height="110" />
+        <cmp x="2023" y="1434" width="6" height="7" />
+        <cmp x="2062" y="1457" width="70" height="112" />
+        <cmp x="2084" y="1448" width="19" height="50" />
+        <cmp x="2099" y="1444" width="6" height="4" />
+      </word>
+      <upper-contour>
+        <point x="313" y="1358" />
+        <point x="2013" y="1358" />
+      </upper-contour>
+      <lower-contour>
+        <point x="313" y="1569" />
+        <point x="2127" y="1569" />
+      </lower-contour>
+    </line>
+    <line ass="-236" asx="0" asy="1587" character-width="999" dss="-236" dsx="0" dsy="1708" fd0="12903" fd1="1677" fd2="-2752" filter-width="3" id="a02-062-04" lbs="-189" lbx="0" lby="1672" segmentation="err" slant="79000" stroke-width="5070" threshold="189" text="committee members will appear at Bow-street" ubs="-331" ubx="0" uby="1617">
+      <word id="a02-062-04-00" tag="NN" text="committee">
+        <cmp x="307" y="1611" width="77" height="68" />
+        <cmp x="384" y="1617" width="67" height="59" />
+        <cmp x="450" y="1615" width="79" height="63" />
+        <cmp x="530" y="1594" width="63" height="85" />
+        <cmp x="532" y="1606" width="6" height="7" />
+        <cmp x="590" y="1614" width="85" height="63" />
+      </word>
+      <word id="a02-062-04-01" tag="NNS" text="members">
+        <cmp x="703" y="1602" width="300" height="82" />
+        <cmp x="1000" y="1625" width="51" height="58" />
+      </word>
+      <word id="a02-062-04-02" tag="MD" text="will">
+        <cmp x="1098" y="1606" width="79" height="71" />
+        <cmp x="1176" y="1624" width="11" height="48" />
+        <cmp x="1181" y="1600" width="6" height="7" />
+        <cmp x="1186" y="1596" width="63" height="82" />
+      </word>
+      <word id="a02-062-04-03" tag="VB" text="appear">
+        <cmp x="1271" y="1618" width="188" height="97" />
+        <cmp x="1461" y="1618" width="37" height="64" />
+        <cmp x="1491" y="1618" width="89" height="64" />
+      </word>
+      <word id="a02-062-04-04" tag="IN" text="at">
+        <cmp x="1604" y="1617" width="81" height="67" />
+        <cmp x="1683" y="1602" width="24" height="78" />
+      </word>
+      <word id="a02-062-04-05" tag="NP" text="Bow-street">
+        <cmp x="1731" y="1594" width="179" height="94" />
+        <cmp x="1918" y="1602" width="99" height="90" />
+        <cmp x="2011" y="1624" width="21" height="55" />
+        <cmp x="2029" y="1625" width="71" height="62" />
+        <cmp x="2095" y="1601" width="31" height="79" />
+      </word>
+      <upper-contour>
+        <point x="313" y="1569" />
+        <point x="2127" y="1569" />
+      </upper-contour>
+      <lower-contour>
+        <point x="305" y="1715" />
+        <point x="2083" y="1715" />
+      </lower-contour>
+    </line>
+    <line ass="-104" asx="0" asy="1763" character-width="999" dss="-104" dsx="0" dsy="1917" fd0="13041" fd1="1594" fd2="-2728" filter-width="3" id="a02-062-05" lbs="-19" lbx="0" lby="1850" segmentation="ok" slant="78000" stroke-width="4894" threshold="189" text="today, including Lord Russell, Lady Russell," ubs="-274" ubx="0" uby="1798">
+      <word id="a02-062-05-00" tag="NR" text="today">
+        <cmp x="303" y="1774" width="196" height="83" />
+        <cmp x="492" y="1799" width="56" height="115" />
+      </word>
+      <word id="a02-062-05-01" tag="," text=",">
+        <cmp x="552" y="1842" width="7" height="37" />
+      </word>
+      <word id="a02-062-05-02" tag="IN" text="including">
+        <cmp x="599" y="1806" width="9" height="48" />
+        <cmp x="606" y="1786" width="4" height="6" />
+        <cmp x="609" y="1794" width="46" height="62" />
+        <cmp x="654" y="1774" width="146" height="85" />
+        <cmp x="692" y="1794" width="7" height="18" />
+        <cmp x="800" y="1769" width="92" height="85" />
+        <cmp x="892" y="1795" width="60" height="63" />
+        <cmp x="946" y="1798" width="57" height="117" />
+      </word>
+      <word id="a02-062-05-03" tag="NPT" text="Lord">
+        <cmp x="1033" y="1766" width="114" height="91" />
+        <cmp x="1123" y="1809" width="3" height="6" />
+        <cmp x="1138" y="1774" width="79" height="85" />
+      </word>
+      <word id="a02-062-05-04" tag="NP" text="Russell">
+        <cmp x="1270" y="1766" width="104" height="92" />
+        <cmp x="1367" y="1775" width="179" height="86" />
+        <cmp x="1445" y="1799" width="5" height="15" />
+      </word>
+      <word id="a02-062-05-05" tag="," text=",">
+        <cmp x="1543" y="1840" width="13" height="33" />
+      </word>
+      <word id="a02-062-05-06" tag="NPT" text="Lady">
+        <cmp x="1578" y="1768" width="217" height="154" />
+      </word>
+      <word id="a02-062-05-07" tag="NP" text="Russell">
+        <cmp x="1811" y="1767" width="113" height="95" />
+        <cmp x="1913" y="1776" width="158" height="88" />
+      </word>
+      <word id="a02-062-05-08" tag="," text=",">
+        <cmp x="2066" y="1840" width="16" height="36" />
+      </word>
+      <upper-contour>
+        <point x="305" y="1715" />
+        <point x="2083" y="1715" />
+      </upper-contour>
+      <lower-contour>
+        <point x="305" y="1922" />
+        <point x="2013" y="1922" />
+      </lower-contour>
+    </line>
+    <line ass="-236" asx="0" asy="1932" character-width="999" dss="-236" dsx="0" dsy="2085" fd0="12917" fd1="1738" fd2="-2181" filter-width="3" id="a02-062-06" lbs="-452" lbx="0" lby="2024" segmentation="err" slant="75000" stroke-width="5065" threshold="203" text="Lord Boyd-Orr, the Rev. Michael Scott, and" ubs="195" ubx="0" uby="1980">
+      <word id="a02-062-06-00" tag="NPT" text="Lord">
+        <cmp x="307" y="1947" width="85" height="89" />
+        <cmp x="391" y="1974" width="19" height="56" />
+        <cmp x="405" y="1949" width="75" height="87" />
+      </word>
+      <word id="a02-062-06-01" tag="NP" text="Boyd-Orr">
+        <cmp x="510" y="1952" width="223" height="136" />
+        <cmp x="739" y="1954" width="114" height="87" />
+        <cmp x="851" y="1984" width="25" height="54" />
+        <cmp x="872" y="2023" width="13" height="40" />
+        <cmp x="925" y="1956" width="33" height="88" />
+      </word>
+      <word id="a02-062-06-02" tag="," text=",">
+        <cmp x="952" y="1966" width="93" height="71" />
+      </word>
+      <word id="a02-062-06-03" tag="ATI" text="the">
+        <cmp x="1066" y="1937" width="153" height="107" />
+        <cmp x="1224" y="2028" width="6" height="5" />
+      </word>
+      <word id="a02-062-06-04" tag="NPT" text="Rev.">
+        <cmp x="1264" y="1949" width="81" height="87" />
+        <cmp x="1339" y="1959" width="7" height="6" />
+      </word>
+      <word id="a02-062-06-05" tag="NP" text="Michael">
+        <cmp x="1348" y="1945" width="222" height="94" />
+      </word>
+      <word id="a02-062-06-06" tag="NP" text="Scott">
+        <cmp x="1591" y="1948" width="69" height="96" />
+        <cmp x="1649" y="1950" width="110" height="90" />
+        <cmp x="1743" y="1953" width="42" height="87" />
+      </word>
+      <word id="a02-062-06-07" tag="," text=",">
+        <cmp x="1778" y="2026" width="18" height="52" />
+      </word>
+      <word id="a02-062-06-08" tag="CC" text="and">
+        <cmp x="1829" y="1959" width="183" height="86" />
+      </word>
+      <upper-contour>
+        <point x="305" y="1922" />
+        <point x="2013" y="1922" />
+      </upper-contour>
+      <lower-contour>
+        <point x="316" y="2089" />
+        <point x="676" y="2089" />
+      </lower-contour>
+    </line>
+    <line ass="1758" asx="0" asy="2128" character-width="999" dss="1758" dsx="0" dsy="2226" fd0="12840" fd1="2348" fd2="-1650" filter-width="3" id="a02-062-07" lbs="1483" lbx="0" lby="2222" segmentation="ok" slant="79000" stroke-width="4890" threshold="182" text="Mr. Clark." ubs="2308" ubx="0" uby="2167">
+      <word id="a02-062-07-00" tag="NPT" text="Mr.">
+        <cmp x="318" y="2128" width="77" height="88" />
+        <cmp x="405" y="2202" width="6" height="6" />
+      </word>
+      <word id="a02-062-07-01" tag="NP" text="Clark">
+        <cmp x="440" y="2115" width="53" height="95" />
+        <cmp x="470" y="2115" width="131" height="97" />
+        <cmp x="599" y="2125" width="71" height="83" />
+      </word>
+      <word id="a02-062-07-02" tag="." text=".">
+        <cmp x="671" y="2198" width="5" height="5" />
+      </word>
+      <upper-contour>
+        <point x="316" y="2089" />
+        <point x="676" y="2089" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

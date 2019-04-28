@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-04-10" height="3542" id="g07-042" last-modified="2002-07-17" skew="286" status="final" version="3.0_beta" width="2479" writer-id="353">
+  <machine-printed-part>
+    <machine-print-line text="She had no desire to see in print that her mother, who was to have been a duchess, had" />
+    <machine-print-line text="been involved in a scandalous and ruinous divorce, that her father, &apos;Mad Jack Byron&apos;," />
+    <machine-print-line text="was a profligate and a bankrupt who had squandered every penny two successive wives" />
+    <machine-print-line text="had brought him and left the second on the verge of destitution, and that he had died" />
+    <machine-print-line text="a drunkard and perhaps a suicide, hiding in France to escape his creditors." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="174" asx="0" asy="733" character-width="999" dss="174" dsx="0" dsy="822" fd0="12004" fd1="2491" fd2="-120" filter-width="5" id="g07-042-00" lbs="168" lbx="0" lby="797" segmentation="ok" slant="80000" stroke-width="7619" threshold="132" text="She had no desire to see in print that her" ubs="185" ubx="0" uby="766">
+      <word id="g07-042-00-00" sentence-start="yes" tag="PP3A" text="She">
+        <cmp x="325" y="754" width="135" height="47" />
+      </word>
+      <word id="g07-042-00-01" tag="HVD" text="had">
+        <cmp x="498" y="751" width="157" height="49" />
+      </word>
+      <word id="g07-042-00-02" tag="ATI" text="no">
+        <cmp x="687" y="758" width="97" height="35" />
+      </word>
+      <word id="g07-042-00-03" tag="NN" text="desire">
+        <cmp x="810" y="751" width="78" height="42" />
+        <cmp x="888" y="757" width="135" height="39" />
+        <cmp x="959" y="732" width="11" height="7" />
+      </word>
+      <word id="g07-042-00-04" tag="TO" text="to">
+        <cmp x="1053" y="743" width="86" height="53" />
+      </word>
+      <word id="g07-042-00-05" tag="VB" text="see">
+        <cmp x="1179" y="765" width="112" height="38" />
+      </word>
+      <word id="g07-042-00-06" tag="IN" text="in">
+        <cmp x="1328" y="757" width="94" height="35" />
+        <cmp x="1368" y="732" width="10" height="8" />
+      </word>
+      <word id="g07-042-00-07" tag="NN" text="print">
+        <cmp x="1454" y="743" width="184" height="76" />
+        <cmp x="1566" y="740" width="14" height="10" />
+      </word>
+      <word id="g07-042-00-08" tag="CS" text="that">
+        <cmp x="1665" y="743" width="171" height="51" />
+      </word>
+      <word id="g07-042-00-09" tag="PP$" text="her">
+        <cmp x="1875" y="744" width="103" height="47" />
+      </word>
+      <lower-contour>
+        <point x="323" y="820" />
+        <point x="1979" y="820" />
+      </lower-contour>
+    </line>
+    <line ass="364" asx="0" asy="926" character-width="999" dss="364" dsx="0" dsy="1003" fd0="11639" fd1="2134" fd2="-335" filter-width="5" id="g07-042-01" lbs="426" lbx="0" lby="984" segmentation="ok" slant="71000" stroke-width="7625" threshold="132" text="mother, who was to have been a duchess, had" ubs="239" ubx="0" uby="949">
+      <word id="g07-042-01-00" tag="NN" text="mother">
+        <cmp x="322" y="932" width="264" height="51" />
+      </word>
+      <word id="g07-042-01-01" tag="," text=",">
+        <cmp x="612" y="964" width="13" height="29" />
+      </word>
+      <word id="g07-042-01-02" tag="WP" text="who">
+        <cmp x="650" y="931" width="163" height="48" />
+      </word>
+      <word id="g07-042-01-03" tag="BEDZ" text="was">
+        <cmp x="834" y="944" width="105" height="35" />
+      </word>
+      <word id="g07-042-01-04" tag="TO" text="to">
+        <cmp x="980" y="922" width="65" height="54" />
+      </word>
+      <word id="g07-042-01-05" tag="HV" text="have">
+        <cmp x="1075" y="923" width="175" height="53" />
+      </word>
+      <word id="g07-042-01-06" tag="BEN" text="been">
+        <cmp x="1296" y="918" width="154" height="58" />
+      </word>
+      <word id="g07-042-01-07" tag="AT" text="a">
+        <cmp x="1500" y="947" width="40" height="29" />
+      </word>
+      <word id="g07-042-01-08" tag="NN" text="duchess">
+        <cmp x="1591" y="924" width="98" height="47" />
+        <cmp x="1691" y="924" width="171" height="51" />
+      </word>
+      <word id="g07-042-01-09" tag="," text=",">
+        <cmp x="1889" y="959" width="12" height="32" />
+      </word>
+      <word id="g07-042-01-10" tag="HVD" text="had">
+        <cmp x="1930" y="919" width="146" height="54" />
+      </word>
+      <upper-contour>
+        <point x="323" y="820" />
+        <point x="1979" y="820" />
+      </upper-contour>
+      <lower-contour>
+        <point x="326" y="994" />
+        <point x="1964" y="994" />
+      </lower-contour>
+    </line>
+    <line ass="-3" asx="0" asy="1091" character-width="999" dss="-3" dsx="0" dsy="1155" fd0="12816" fd1="2337" fd2="-637" filter-width="5" id="g07-042-02" lbs="-21" lbx="0" lby="1152" segmentation="ok" slant="89000" stroke-width="7394" threshold="132" text="been involved in a scandalous and ruinous" ubs="34" ubx="0" uby="1126">
+      <word id="g07-042-02-00" tag="BEN" text="been">
+        <cmp x="328" y="1095" width="165" height="61" />
+      </word>
+      <word id="g07-042-02-01" tag="VBN" text="involved">
+        <cmp x="532" y="1121" width="93" height="35" />
+        <cmp x="574" y="1093" width="9" height="8" />
+        <cmp x="630" y="1125" width="35" height="29" />
+        <cmp x="660" y="1104" width="173" height="50" />
+      </word>
+      <word id="g07-042-02-02" tag="IN" text="in">
+        <cmp x="865" y="1119" width="92" height="37" />
+        <cmp x="884" y="1099" width="12" height="6" />
+      </word>
+      <word id="g07-042-02-03" tag="AT" text="a">
+        <cmp x="984" y="1125" width="54" height="32" />
+      </word>
+      <word id="g07-042-02-04" tag="JJ" text="scandalous">
+        <cmp x="1078" y="1100" width="397" height="56" />
+      </word>
+      <word id="g07-042-02-05" tag="CC" text="and">
+        <cmp x="1506" y="1110" width="149" height="45" />
+      </word>
+      <word id="g07-042-02-06" tag="JJ" text="ruinous">
+        <cmp x="1688" y="1123" width="99" height="30" />
+        <cmp x="1778" y="1102" width="7" height="7" />
+        <cmp x="1791" y="1122" width="172" height="34" />
+      </word>
+      <upper-contour>
+        <point x="326" y="994" />
+        <point x="1964" y="994" />
+      </upper-contour>
+      <lower-contour>
+        <point x="326" y="1159" />
+        <point x="1964" y="1159" />
+      </lower-contour>
+    </line>
+    <line ass="103" asx="0" asy="1270" character-width="999" dss="103" dsx="0" dsy="1374" fd0="11468" fd1="2371" fd2="-250" filter-width="5" id="g07-042-03" lbs="132" lbx="0" lby="1337" segmentation="ok" slant="83000" stroke-width="7515" threshold="133" text="divorce, that her father, &apos;Mad Jack Byron&apos;, was" ubs="46" ubx="0" uby="1304">
+      <word id="g07-042-03-00" tag="NN" text="divorce">
+        <cmp x="325" y="1293" width="246" height="47" />
+        <cmp x="387" y="1293" width="9" height="7" />
+      </word>
+      <word id="g07-042-03-01" tag="," text=",">
+        <cmp x="590" y="1323" width="13" height="22" />
+      </word>
+      <word id="g07-042-03-02" tag="CS" text="that">
+        <cmp x="627" y="1287" width="177" height="48" />
+      </word>
+      <word id="g07-042-03-03" tag="PP$" text="her">
+        <cmp x="841" y="1284" width="109" height="49" />
+      </word>
+      <word id="g07-042-03-04" tag="NN" text="father">
+        <cmp x="985" y="1279" width="40" height="88" />
+        <cmp x="1024" y="1284" width="121" height="52" />
+        <cmp x="1147" y="1297" width="57" height="33" />
+      </word>
+      <word id="g07-042-03-05" tag="," text=",">
+        <cmp x="1222" y="1322" width="10" height="22" />
+      </word>
+      <word id="g07-042-03-06" tag="*&apos;" text="&apos;">
+        <cmp x="1278" y="1281" width="7" height="19" />
+      </word>
+      <word id="g07-042-03-07" tag="JJ" text="Mad">
+        <cmp x="1310" y="1279" width="37" height="53" />
+        <cmp x="1347" y="1290" width="96" height="45" />
+      </word>
+      <word id="g07-042-03-08" tag="NP" text="Jack">
+        <cmp x="1471" y="1279" width="142" height="94" />
+      </word>
+      <word id="g07-042-03-09" tag="NP" text="Byron">
+        <cmp x="1638" y="1283" width="195" height="88" />
+      </word>
+      <word id="g07-042-03-10" tag="**&apos;" text="&apos;">
+        <cmp x="1833" y="1268" width="8" height="20" />
+      </word>
+      <word id="g07-042-03-11" tag="," text=",">
+        <cmp x="1877" y="1316" width="10" height="26" />
+      </word>
+      <word id="g07-042-03-12" tag="BEDZ" text="was">
+        <cmp x="1950" y="1295" width="117" height="37" />
+      </word>
+      <upper-contour>
+        <point x="326" y="1159" />
+        <point x="1964" y="1159" />
+      </upper-contour>
+      <lower-contour>
+        <point x="326" y="1374" />
+        <point x="1747" y="1374" />
+      </lower-contour>
+    </line>
+    <line ass="596" asx="0" asy="1466" character-width="999" dss="596" dsx="0" dsy="1565" fd0="11839" fd1="2102" fd2="-767" filter-width="5" id="g07-042-04" lbs="655" lbx="0" lby="1526" segmentation="ok" slant="104000" stroke-width="7502" threshold="130" text="a profligate and a bankrupt who had" ubs="477" ubx="0" uby="1491">
+      <word id="g07-042-04-00" tag="AT" text="a">
+        <cmp x="328" y="1485" width="51" height="33" />
+      </word>
+      <word id="g07-042-04-01" tag="NN" text="profligate">
+        <cmp x="418" y="1491" width="31" height="52" />
+        <cmp x="459" y="1486" width="54" height="33" />
+        <cmp x="518" y="1462" width="125" height="92" />
+        <cmp x="586" y="1474" width="14" height="9" />
+        <cmp x="634" y="1474" width="109" height="46" />
+      </word>
+      <word id="g07-042-04-02" tag="CC" text="and">
+        <cmp x="778" y="1472" width="145" height="46" />
+      </word>
+      <word id="g07-042-04-03" tag="AT" text="a">
+        <cmp x="952" y="1486" width="50" height="31" />
+      </word>
+      <word id="g07-042-04-04" tag="NN" text="bankrupt">
+        <cmp x="1045" y="1461" width="197" height="54" />
+        <cmp x="1243" y="1480" width="106" height="73" />
+        <cmp x="1353" y="1471" width="49" height="45" />
+      </word>
+      <word id="g07-042-04-05" tag="WP" text="who">
+        <cmp x="1441" y="1463" width="138" height="50" />
+      </word>
+      <word id="g07-042-04-06" tag="HVD" text="had">
+        <cmp x="1614" y="1455" width="132" height="55" />
+      </word>
+      <upper-contour>
+        <point x="326" y="1374" />
+        <point x="1747" y="1374" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1554" />
+        <point x="1747" y="1554" />
+      </lower-contour>
+    </line>
+    <line ass="594" asx="0" asy="1652" character-width="999" dss="594" dsx="0" dsy="1754" fd0="12204" fd1="2363" fd2="-661" filter-width="5" id="g07-042-05" lbs="659" lbx="0" lby="1701" segmentation="ok" slant="92000" stroke-width="7415" threshold="129" text="squandered every penny two successive wives" ubs="464" ubx="0" uby="1671">
+      <word id="g07-042-05-00" tag="VBN" text="squandered">
+        <cmp x="329" y="1649" width="340" height="79" />
+        <cmp x="670" y="1647" width="82" height="47" />
+      </word>
+      <word id="g07-042-05-01" tag="AT" text="every">
+        <cmp x="792" y="1658" width="165" height="88" />
+      </word>
+      <word id="g07-042-05-02" tag="NN" text="penny">
+        <cmp x="999" y="1665" width="35" height="59" />
+        <cmp x="1037" y="1659" width="68" height="32" />
+        <cmp x="1109" y="1662" width="105" height="72" />
+      </word>
+      <word id="g07-042-05-03" tag="CD" text="two">
+        <cmp x="1240" y="1640" width="122" height="50" />
+      </word>
+      <word id="g07-042-05-04" tag="JJ" text="successive">
+        <cmp x="1405" y="1657" width="41" height="32" />
+        <cmp x="1444" y="1657" width="139" height="32" />
+        <cmp x="1586" y="1655" width="119" height="35" />
+        <cmp x="1709" y="1646" width="9" height="10" />
+        <cmp x="1715" y="1658" width="70" height="32" />
+      </word>
+      <word id="g07-042-05-05" tag="NNS" text="wives">
+        <cmp x="1821" y="1659" width="75" height="27" />
+        <cmp x="1890" y="1644" width="11" height="11" />
+        <cmp x="1906" y="1660" width="100" height="29" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1554" />
+        <point x="1747" y="1554" />
+      </upper-contour>
+      <lower-contour>
+        <point x="333" y="1745" />
+        <point x="2007" y="1745" />
+      </lower-contour>
+    </line>
+    <line ass="337" asx="0" asy="1820" character-width="999" dss="337" dsx="0" dsy="1909" fd0="12397" fd1="2228" fd2="-326" filter-width="5" id="g07-042-06" lbs="352" lbx="0" lby="1878" segmentation="ok" slant="87999" stroke-width="7550" threshold="131" text="had brought him and left the second on" ubs="309" ubx="0" uby="1845">
+      <word id="g07-042-06-00" tag="HVD" text="had">
+        <cmp x="335" y="1819" width="166" height="58" />
+      </word>
+      <word id="g07-042-06-01" tag="VBN" text="brought">
+        <cmp x="557" y="1817" width="171" height="59" />
+        <cmp x="727" y="1826" width="144" height="76" />
+      </word>
+      <word id="g07-042-06-02" tag="PP3O" text="him">
+        <cmp x="918" y="1827" width="176" height="52" />
+        <cmp x="999" y="1828" width="11" height="6" />
+      </word>
+      <word id="g07-042-06-03" tag="CC" text="and">
+        <cmp x="1137" y="1836" width="148" height="43" />
+      </word>
+      <word id="g07-042-06-04" tag="VBN" text="left">
+        <cmp x="1331" y="1827" width="126" height="75" />
+      </word>
+      <word id="g07-042-06-05" tag="ATI" text="the">
+        <cmp x="1493" y="1827" width="130" height="46" />
+      </word>
+      <word id="g07-042-06-06" tag="OD" text="second">
+        <cmp x="1664" y="1821" width="233" height="49" />
+      </word>
+      <word id="g07-042-06-07" tag="IN" text="on">
+        <cmp x="1958" y="1826" width="89" height="39" />
+      </word>
+      <upper-contour>
+        <point x="333" y="1745" />
+        <point x="2007" y="1745" />
+      </upper-contour>
+      <lower-contour>
+        <point x="333" y="1902" />
+        <point x="2049" y="1902" />
+      </lower-contour>
+    </line>
+    <line ass="437" asx="0" asy="2001" character-width="999" dss="437" dsx="0" dsy="2088" fd0="11685" fd1="2149" fd2="-593" filter-width="5" id="g07-042-07" lbs="482" lbx="0" lby="2057" segmentation="ok" slant="89000" stroke-width="7655" threshold="132" text="the verge of destitution, and that he had died" ubs="345" ubx="0" uby="2022">
+      <word id="g07-042-07-00" tag="ATI" text="the">
+        <cmp x="335" y="1998" width="131" height="54" />
+      </word>
+      <word id="g07-042-07-01" tag="NN" text="verge">
+        <cmp x="509" y="2019" width="89" height="34" />
+        <cmp x="598" y="2014" width="78" height="69" />
+      </word>
+      <word id="g07-042-07-02" tag="INO" text="of">
+        <cmp x="730" y="1996" width="56" height="78" />
+      </word>
+      <word id="g07-042-07-03" tag="NN" text="destitution">
+        <cmp x="832" y="2004" width="105" height="48" />
+        <cmp x="942" y="2000" width="42" height="56" />
+        <cmp x="984" y="2008" width="8" height="6" />
+        <cmp x="990" y="2004" width="142" height="47" />
+        <cmp x="1126" y="2006" width="11" height="7" />
+        <cmp x="1137" y="2013" width="92" height="41" />
+      </word>
+      <word id="g07-042-07-04" tag="," text=",">
+        <cmp x="1235" y="2045" width="15" height="30" />
+      </word>
+      <word id="g07-042-07-05" tag="CC" text="and">
+        <cmp x="1270" y="1997" width="151" height="56" />
+      </word>
+      <word id="g07-042-07-06" tag="CS" text="that">
+        <cmp x="1479" y="1994" width="178" height="52" />
+      </word>
+      <word id="g07-042-07-07" tag="PP3A" text="he">
+        <cmp x="1684" y="1989" width="96" height="52" />
+      </word>
+      <word id="g07-042-07-08" tag="HVD" text="had">
+        <cmp x="1809" y="1989" width="147" height="55" />
+      </word>
+      <word id="g07-042-07-09" tag="VBN" text="died">
+        <cmp x="1992" y="1989" width="162" height="54" />
+        <cmp x="2083" y="1990" width="12" height="7" />
+      </word>
+      <upper-contour>
+        <point x="333" y="1902" />
+        <point x="2049" y="1902" />
+      </upper-contour>
+      <lower-contour>
+        <point x="340" y="2082" />
+        <point x="2059" y="2082" />
+      </lower-contour>
+    </line>
+    <line ass="716" asx="0" asy="2190" character-width="999" dss="716" dsx="0" dsy="2290" fd0="12656" fd1="2526" fd2="-572" filter-width="5" id="g07-042-08" lbs="694" lbx="0" lby="2244" segmentation="ok" slant="90000" stroke-width="7297" threshold="131" text="a drunkard and perhaps a suicide, hiding" ubs="761" ubx="0" uby="2215">
+      <word id="g07-042-08-00" tag="AT" text="a">
+        <cmp x="342" y="2207" width="57" height="32" />
+      </word>
+      <word id="g07-042-08-01" tag="NN" text="drunkard">
+        <cmp x="433" y="2189" width="196" height="48" />
+        <cmp x="633" y="2194" width="103" height="50" />
+        <cmp x="744" y="2187" width="51" height="49" />
+      </word>
+      <word id="g07-042-08-02" tag="CC" text="and">
+        <cmp x="828" y="2193" width="159" height="41" />
+      </word>
+      <word id="g07-042-08-03" tag="RB" text="perhaps">
+        <cmp x="1027" y="2174" width="145" height="86" />
+        <cmp x="1175" y="2198" width="129" height="76" />
+      </word>
+      <word id="g07-042-08-04" tag="AT" text="a">
+        <cmp x="1334" y="2196" width="57" height="33" />
+      </word>
+      <word id="g07-042-08-05" tag="NN" text="suicide">
+        <cmp x="1435" y="2178" width="277" height="51" />
+        <cmp x="1540" y="2183" width="9" height="8" />
+        <cmp x="1616" y="2184" width="11" height="7" />
+      </word>
+      <word id="g07-042-08-06" tag="," text=",">
+        <cmp x="1734" y="2214" width="12" height="30" />
+      </word>
+      <word id="g07-042-08-07" tag="VBG" text="hiding">
+        <cmp x="1782" y="2180" width="276" height="85" />
+        <cmp x="1855" y="2182" width="8" height="6" />
+        <cmp x="1985" y="2174" width="14" height="9" />
+      </word>
+      <upper-contour>
+        <point x="340" y="2082" />
+        <point x="2059" y="2082" />
+      </upper-contour>
+      <lower-contour>
+        <point x="340" y="2275" />
+        <point x="1640" y="2275" />
+      </lower-contour>
+    </line>
+    <line ass="805" asx="0" asy="2357" character-width="999" dss="805" dsx="0" dsy="2460" fd0="12382" fd1="2587" fd2="-450" filter-width="4" id="g07-042-09" lbs="838" lbx="0" lby="2422" segmentation="ok" slant="87000" stroke-width="7102" threshold="131" text="in France to escape his creditors." ubs="739" ubx="0" uby="2390">
+      <word id="g07-042-09-00" tag="IN" text="in">
+        <cmp x="334" y="2382" width="98" height="37" />
+        <cmp x="368" y="2353" width="11" height="7" />
+      </word>
+      <word id="g07-042-09-01" tag="NP" text="France">
+        <cmp x="489" y="2359" width="48" height="8" />
+        <cmp x="494" y="2376" width="55" height="35" />
+        <cmp x="544" y="2377" width="172" height="39" />
+      </word>
+      <word id="g07-042-09-02" tag="TO" text="to">
+        <cmp x="752" y="2362" width="75" height="57" />
+      </word>
+      <word id="g07-042-09-03" tag="VB" text="escape">
+        <cmp x="871" y="2378" width="39" height="32" />
+        <cmp x="912" y="2376" width="141" height="71" />
+        <cmp x="1059" y="2380" width="42" height="27" />
+      </word>
+      <word id="g07-042-09-04" tag="PP$" text="his">
+        <cmp x="1137" y="2353" width="129" height="59" />
+        <cmp x="1233" y="2356" width="10" height="7" />
+      </word>
+      <word id="g07-042-09-05" tag="NNS" text="creditors">
+        <cmp x="1317" y="2359" width="183" height="52" />
+        <cmp x="1480" y="2364" width="11" height="7" />
+        <cmp x="1505" y="2358" width="108" height="49" />
+      </word>
+      <word id="g07-042-09-06" tag="." text=".">
+        <cmp x="1630" y="2398" width="9" height="8" />
+      </word>
+      <upper-contour>
+        <point x="340" y="2275" />
+        <point x="1640" y="2275" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

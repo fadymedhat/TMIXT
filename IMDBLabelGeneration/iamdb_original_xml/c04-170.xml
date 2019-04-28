@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-17" height="3542" id="c04-170" last-modified="2002-07-24" skew="-159" status="final" version="3.0_beta" width="2479" writer-id="172">
+  <machine-printed-part>
+    <machine-print-line text="Shelagh Delaney and Alan Sillitoe attacked education. It was left to reporter Sevareid" />
+    <machine-print-line text="to make the strongest criticisms. He said that in the race of the modern nations," />
+    <machine-print-line text="Britain was slipping behind...." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="139" asx="0" asy="657" character-width="999" dss="139" dsx="0" dsy="786" fd0="13034" fd1="2281" fd2="-1653" filter-width="3" id="c04-170-00" lbs="99" lbx="0" lby="741" segmentation="ok" slant="90000" stroke-width="5186" threshold="188" text="Shelagh Delaney and Alan Sillitoe attacked" ubs="219" ubx="0" uby="711">
+      <word id="c04-170-00-00" sentence-start="yes" tag="NP" text="Shelagh">
+        <cmp x="373" y="666" width="47" height="74" />
+        <cmp x="430" y="666" width="34" height="73" />
+        <cmp x="473" y="705" width="33" height="36" />
+        <cmp x="509" y="664" width="79" height="77" />
+        <cmp x="597" y="710" width="41" height="75" />
+        <cmp x="641" y="686" width="5" height="9" />
+        <cmp x="642" y="696" width="34" height="53" />
+      </word>
+      <word id="c04-170-00-01" tag="NP" text="Delaney">
+        <cmp x="741" y="663" width="39" height="84" />
+        <cmp x="781" y="711" width="34" height="29" />
+        <cmp x="824" y="674" width="82" height="70" />
+        <cmp x="909" y="710" width="26" height="29" />
+        <cmp x="937" y="714" width="72" height="52" />
+        <cmp x="946" y="712" width="20" height="20" />
+        <cmp x="948" y="711" width="10" height="4" />
+      </word>
+      <word id="c04-170-00-02" tag="CC" text="and">
+        <cmp x="1056" y="654" width="128" height="92" />
+      </word>
+      <word id="c04-170-00-03" tag="NP" text="Alan">
+        <cmp x="1238" y="661" width="36" height="85" />
+        <cmp x="1279" y="654" width="82" height="90" />
+        <cmp x="1362" y="708" width="27" height="37" />
+      </word>
+      <word id="c04-170-00-04" tag="NP" text="Sillitoe">
+        <cmp x="1422" y="670" width="38" height="75" />
+        <cmp x="1467" y="700" width="8" height="9" />
+        <cmp x="1472" y="714" width="11" height="33" />
+        <cmp x="1496" y="654" width="75" height="95" />
+        <cmp x="1560" y="690" width="3" height="4" />
+        <cmp x="1585" y="660" width="57" height="78" />
+        <cmp x="1651" y="703" width="40" height="33" />
+      </word>
+      <word id="c04-170-00-05" tag="VBD" text="attacked">
+        <cmp x="1737" y="654" width="166" height="91" />
+        <cmp x="1904" y="654" width="141" height="97" />
+        <cmp x="1933" y="692" width="3" height="8" />
+      </word>
+      <lower-contour>
+        <point x="371" y="786" />
+        <point x="2046" y="786" />
+      </lower-contour>
+    </line>
+    <line ass="-114" asx="0" asy="826" character-width="999" dss="-114" dsx="0" dsy="941" fd0="13019" fd1="2603" fd2="-932" filter-width="3" id="c04-170-01" lbs="-137" lbx="0" lby="911" segmentation="ok" slant="92000" stroke-width="5610" threshold="184" text="education. It was left to reporter Sevareid" ubs="-68" ubx="0" uby="884">
+      <word id="c04-170-01-00" tag="NN" text="education">
+        <cmp x="358" y="827" width="77" height="91" />
+        <cmp x="443" y="885" width="40" height="24" />
+        <cmp x="501" y="873" width="36" height="36" />
+        <cmp x="537" y="881" width="49" height="25" />
+        <cmp x="582" y="830" width="31" height="80" />
+        <cmp x="616" y="868" width="13" height="40" />
+        <cmp x="639" y="883" width="33" height="27" />
+        <cmp x="677" y="883" width="40" height="25" />
+      </word>
+      <word id="c04-170-01-01" tag="." text=".">
+        <cmp x="729" y="904" width="8" height="7" />
+      </word>
+      <word id="c04-170-01-02" sentence-start="yes" tag="PP3" text="It">
+        <cmp x="808" y="843" width="11" height="79" />
+        <cmp x="826" y="848" width="25" height="79" />
+      </word>
+      <word id="c04-170-01-03" tag="BEDZ" text="was">
+        <cmp x="899" y="888" width="56" height="23" />
+        <cmp x="968" y="887" width="49" height="27" />
+        <cmp x="1016" y="883" width="27" height="31" />
+      </word>
+      <word id="c04-170-01-04" tag="VBN" text="left">
+        <cmp x="1096" y="847" width="114" height="74" />
+        <cmp x="1215" y="856" width="31" height="65" />
+      </word>
+      <word id="c04-170-01-05" tag="IN" text="to">
+        <cmp x="1301" y="847" width="30" height="75" />
+        <cmp x="1330" y="890" width="34" height="25" />
+      </word>
+      <word id="c04-170-01-06" tag="NN" text="reporter">
+        <cmp x="1412" y="887" width="135" height="58" />
+        <cmp x="1550" y="891" width="25" height="31" />
+        <cmp x="1580" y="838" width="114" height="87" />
+      </word>
+      <word id="c04-170-01-07" tag="NP" text="Sevareid">
+        <cmp x="1739" y="841" width="42" height="64" />
+        <cmp x="1780" y="875" width="47" height="33" />
+        <cmp x="1841" y="876" width="36" height="33" />
+        <cmp x="1871" y="877" width="51" height="32" />
+        <cmp x="1920" y="883" width="37" height="31" />
+        <cmp x="1959" y="848" width="101" height="76" />
+        <cmp x="1990" y="866" width="7" height="7" />
+      </word>
+      <upper-contour>
+        <point x="371" y="786" />
+        <point x="2046" y="786" />
+      </upper-contour>
+      <lower-contour>
+        <point x="365" y="945" />
+        <point x="1987" y="945" />
+      </lower-contour>
+    </line>
+    <line ass="52" asx="0" asy="1007" character-width="999" dss="52" dsx="0" dsy="1138" fd0="13347" fd1="3097" fd2="-511" filter-width="3" id="c04-170-02" lbs="132" lbx="0" lby="1097" segmentation="ok" slant="91000" stroke-width="5538" threshold="184" text="to make the strongest criticisms. He said" ubs="-108" ubx="0" uby="1066">
+      <word id="c04-170-02-00" tag="TO" text="to">
+        <cmp x="367" y="1008" width="26" height="95" />
+        <cmp x="395" y="1071" width="34" height="23" />
+      </word>
+      <word id="c04-170-02-01" tag="VB" text="make">
+        <cmp x="482" y="1069" width="54" height="27" />
+        <cmp x="548" y="1072" width="48" height="27" />
+        <cmp x="599" y="1065" width="45" height="35" />
+        <cmp x="648" y="1074" width="33" height="28" />
+      </word>
+      <word id="c04-170-02-02" tag="ATI" text="the">
+        <cmp x="749" y="1023" width="37" height="71" />
+        <cmp x="787" y="1037" width="38" height="53" />
+        <cmp x="836" y="1062" width="32" height="31" />
+      </word>
+      <word id="c04-170-02-03" tag="JJT" text="strongest">
+        <cmp x="934" y="1049" width="31" height="41" />
+        <cmp x="955" y="1048" width="7" height="4" />
+        <cmp x="964" y="1019" width="25" height="74" />
+        <cmp x="995" y="1060" width="55" height="34" />
+        <cmp x="1054" y="1070" width="33" height="23" />
+        <cmp x="1096" y="1064" width="47" height="73" />
+        <cmp x="1144" y="1068" width="39" height="30" />
+        <cmp x="1185" y="1058" width="28" height="40" />
+        <cmp x="1216" y="1026" width="28" height="69" />
+      </word>
+      <word id="c04-170-02-04" tag="NNS" text="criticisms">
+        <cmp x="1290" y="1058" width="28" height="40" />
+        <cmp x="1317" y="1064" width="29" height="34" />
+        <cmp x="1350" y="1048" width="4" height="5" />
+        <cmp x="1354" y="1069" width="11" height="27" />
+        <cmp x="1355" y="1051" width="4" height="3" />
+        <cmp x="1381" y="1029" width="31" height="65" />
+        <cmp x="1409" y="1040" width="5" height="6" />
+        <cmp x="1418" y="1058" width="8" height="29" />
+        <cmp x="1448" y="1059" width="24" height="35" />
+        <cmp x="1480" y="1046" width="7" height="8" />
+        <cmp x="1486" y="1072" width="9" height="27" />
+        <cmp x="1496" y="1057" width="33" height="35" />
+        <cmp x="1541" y="1062" width="43" height="29" />
+        <cmp x="1599" y="1058" width="27" height="41" />
+      </word>
+      <word id="c04-170-02-05" tag="." text=".">
+        <cmp x="1639" y="1088" width="6" height="4" />
+      </word>
+      <word id="c04-170-02-06" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="1694" y="1011" width="9" height="95" />
+        <cmp x="1706" y="1014" width="34" height="90" />
+        <cmp x="1746" y="1070" width="40" height="28" />
+      </word>
+      <word id="c04-170-02-07" tag="VBD" text="said">
+        <cmp x="1828" y="1057" width="29" height="40" />
+        <cmp x="1861" y="1071" width="79" height="31" />
+        <cmp x="1929" y="1058" width="4" height="3" />
+        <cmp x="1947" y="1029" width="39" height="77" />
+      </word>
+      <upper-contour>
+        <point x="365" y="945" />
+        <point x="1987" y="945" />
+      </upper-contour>
+      <lower-contour>
+        <point x="365" y="1137" />
+        <point x="1962" y="1137" />
+      </lower-contour>
+    </line>
+    <line ass="-49" asx="0" asy="1195" character-width="999" dss="-49" dsx="0" dsy="1295" fd0="12893" fd1="2844" fd2="-324" filter-width="3" id="c04-170-03" lbs="2" lbx="0" lby="1277" segmentation="ok" slant="92000" stroke-width="5622" threshold="184" text="that in the race of the modern nations," ubs="-152" ubx="0" uby="1246">
+      <word id="c04-170-03-00" tag="CS" text="that">
+        <cmp x="348" y="1197" width="31" height="85" />
+        <cmp x="386" y="1197" width="122" height="82" />
+      </word>
+      <word id="c04-170-03-01" tag="IN" text="in">
+        <cmp x="564" y="1231" width="9" height="5" />
+        <cmp x="568" y="1244" width="6" height="36" />
+        <cmp x="591" y="1248" width="38" height="33" />
+      </word>
+      <word id="c04-170-03-02" tag="ATI" text="the">
+        <cmp x="676" y="1206" width="30" height="77" />
+        <cmp x="720" y="1217" width="37" height="56" />
+        <cmp x="764" y="1242" width="35" height="31" />
+      </word>
+      <word id="c04-170-03-03" tag="NN" text="race">
+        <cmp x="870" y="1235" width="31" height="42" />
+        <cmp x="903" y="1249" width="68" height="31" />
+        <cmp x="976" y="1244" width="30" height="33" />
+        <cmp x="1007" y="1250" width="41" height="26" />
+      </word>
+      <word id="c04-170-03-04" tag="INO" text="of">
+        <cmp x="1093" y="1251" width="42" height="27" />
+        <cmp x="1136" y="1215" width="32" height="62" />
+      </word>
+      <word id="c04-170-03-05" tag="ATI" text="the">
+        <cmp x="1190" y="1222" width="24" height="56" />
+        <cmp x="1223" y="1234" width="41" height="43" />
+        <cmp x="1270" y="1253" width="32" height="32" />
+      </word>
+      <word id="c04-170-03-06" tag="JJ" text="modern">
+        <cmp x="1350" y="1256" width="55" height="23" />
+        <cmp x="1414" y="1261" width="35" height="20" />
+        <cmp x="1451" y="1215" width="50" height="63" />
+        <cmp x="1511" y="1245" width="75" height="31" />
+        <cmp x="1590" y="1247" width="33" height="24" />
+      </word>
+      <word id="c04-170-03-07" tag="NNS" text="nations">
+        <cmp x="1673" y="1247" width="38" height="30" />
+        <cmp x="1715" y="1206" width="79" height="74" />
+        <cmp x="1802" y="1254" width="11" height="20" />
+        <cmp x="1804" y="1237" width="8" height="8" />
+        <cmp x="1826" y="1252" width="67" height="27" />
+        <cmp x="1904" y="1245" width="26" height="34" />
+      </word>
+      <word id="c04-170-03-08" tag="," text=",">
+        <cmp x="1934" y="1271" width="27" height="25" />
+      </word>
+      <upper-contour>
+        <point x="365" y="1137" />
+        <point x="1962" y="1137" />
+      </upper-contour>
+      <lower-contour>
+        <point x="346" y="1285" />
+        <point x="1698" y="1285" />
+      </lower-contour>
+    </line>
+    <line ass="-411" asx="0" asy="1352" character-width="999" dss="-411" dsx="0" dsy="1482" fd0="13382" fd1="2677" fd2="-1163" filter-width="3" id="c04-170-04" lbs="-404" lbx="0" lby="1443" segmentation="ok" slant="91000" stroke-width="5567" threshold="185" text="Britain was slipping behind...." ubs="-423" ubx="0" uby="1419">
+      <word id="c04-170-04-00" tag="NP" text="Britain">
+        <cmp x="338" y="1356" width="45" height="102" />
+        <cmp x="395" y="1414" width="32" height="47" />
+        <cmp x="435" y="1409" width="7" height="8" />
+        <cmp x="440" y="1431" width="12" height="25" />
+        <cmp x="469" y="1386" width="25" height="68" />
+        <cmp x="473" y="1377" width="6" height="8" />
+        <cmp x="507" y="1422" width="80" height="29" />
+        <cmp x="565" y="1408" width="7" height="10" />
+        <cmp x="602" y="1419" width="44" height="27" />
+      </word>
+      <word id="c04-170-04-01" tag="BEDZ" text="was">
+        <cmp x="718" y="1413" width="64" height="41" />
+        <cmp x="785" y="1421" width="78" height="30" />
+        <cmp x="805" y="1425" width="4" height="4" />
+      </word>
+      <word id="c04-170-04-02" tag="VBG" text="slipping">
+        <cmp x="943" y="1414" width="25" height="37" />
+        <cmp x="972" y="1376" width="74" height="79" />
+        <cmp x="1028" y="1412" width="7" height="11" />
+        <cmp x="1065" y="1415" width="26" height="64" />
+        <cmp x="1098" y="1422" width="29" height="57" />
+        <cmp x="1129" y="1411" width="5" height="11" />
+        <cmp x="1136" y="1430" width="10" height="29" />
+        <cmp x="1160" y="1434" width="39" height="28" />
+        <cmp x="1204" y="1426" width="45" height="66" />
+      </word>
+      <word id="c04-170-04-03" tag="RP" text="behind">
+        <cmp x="1321" y="1385" width="49" height="79" />
+        <cmp x="1379" y="1366" width="103" height="87" />
+        <cmp x="1495" y="1408" width="7" height="12" />
+        <cmp x="1503" y="1430" width="9" height="23" />
+        <cmp x="1518" y="1419" width="40" height="29" />
+        <cmp x="1564" y="1371" width="40" height="89" />
+      </word>
+      <word id="c04-170-04-04" tag="..." text="...">
+        <cmp x="1615" y="1439" width="12" height="13" />
+        <cmp x="1651" y="1446" width="13" height="6" />
+        <cmp x="1690" y="1450" width="8" height="5" />
+      </word>
+      <word id="c04-170-04-05" tag="." text="." />
+      <upper-contour>
+        <point x="346" y="1285" />
+        <point x="1698" y="1285" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-17" height="3542" id="c06-052" last-modified="2002-07-17" skew="286" status="final" version="3.0_beta" width="2479" writer-id="126">
+  <machine-printed-part>
+    <machine-print-line text="What happened to the new book partially tape-recorded by his publishers in March" />
+    <machine-print-line text="of last year? Still a skeleton. Yet I have before me now a 12,000-word manuscript of" />
+    <machine-print-line text="a book planned to be called Confessions of an Irish Rebel which was delivered to his" />
+    <machine-print-line text="agents in June. IT begins: &amp;quot;There was a party to celebrate Deirdre&apos;s return from her" />
+    <machine-print-line text="abortion in Bristol.&amp;quot;" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-20" asx="0" asy="707" character-width="999" dss="-20" dsx="0" dsy="818" fd0="12735" fd1="2724" fd2="-1097" filter-width="4" id="c06-052-00" lbs="33" lbx="0" lby="786" segmentation="ok" slant="90000" stroke-width="5829" threshold="177" text="What happened to the new book partially tape-recorded" ubs="-128" ubx="0" uby="749">
+      <word id="c06-052-00-00" sentence-start="yes" tag="WDT" text="What">
+        <cmp x="332" y="737" width="37" height="51" />
+        <cmp x="369" y="737" width="64" height="54" />
+        <cmp x="425" y="731" width="31" height="56" />
+      </word>
+      <word id="c06-052-00-01" tag="VBD" text="happened">
+        <cmp x="482" y="727" width="6" height="7" />
+        <cmp x="487" y="732" width="35" height="57" />
+        <cmp x="523" y="753" width="129" height="66" />
+        <cmp x="653" y="728" width="67" height="69" />
+      </word>
+      <word id="c06-052-00-02" tag="IN" text="to">
+        <cmp x="752" y="723" width="75" height="62" />
+      </word>
+      <word id="c06-052-00-03" tag="ATI" text="the">
+        <cmp x="851" y="721" width="108" height="64" />
+      </word>
+      <word id="c06-052-00-04" tag="JJ" text="new">
+        <cmp x="1004" y="754" width="10" height="28" />
+        <cmp x="1012" y="748" width="53" height="39" />
+        <cmp x="1063" y="759" width="48" height="28" />
+        <cmp x="1097" y="747" width="10" height="23" />
+      </word>
+      <word id="c06-052-00-05" tag="NN" text="book">
+        <cmp x="1151" y="729" width="143" height="69" />
+      </word>
+      <word id="c06-052-00-06" tag="RB" text="partially">
+        <cmp x="1348" y="749" width="28" height="69" />
+        <cmp x="1377" y="719" width="91" height="71" />
+        <cmp x="1453" y="724" width="14" height="17" />
+        <cmp x="1478" y="752" width="33" height="36" />
+        <cmp x="1513" y="724" width="62" height="55" />
+        <cmp x="1562" y="757" width="28" height="55" />
+        <cmp x="1575" y="763" width="4" height="5" />
+      </word>
+      <word id="c06-052-00-07" tag="VBN" text="tape-recorded">
+        <cmp x="1630" y="728" width="40" height="54" />
+        <cmp x="1668" y="750" width="101" height="59" />
+        <cmp x="1770" y="751" width="29" height="9" />
+        <cmp x="1820" y="749" width="54" height="40" />
+        <cmp x="1876" y="750" width="21" height="32" />
+        <cmp x="1896" y="761" width="38" height="24" />
+        <cmp x="1933" y="708" width="127" height="87" />
+      </word>
+      <lower-contour>
+        <point x="330" y="818" />
+        <point x="2061" y="818" />
+      </lower-contour>
+    </line>
+    <line ass="124" asx="0" asy="881" character-width="999" dss="124" dsx="0" dsy="1003" fd0="13129" fd1="2593" fd2="-1192" filter-width="3" id="c06-052-01" lbs="137" lbx="0" lby="965" segmentation="ok" slant="90000" stroke-width="5687" threshold="174" text="by his publishers in March of last year? Still a skeleton. Yet" ubs="100" ubx="0" uby="927">
+      <word id="c06-052-01-00" tag="IN" text="by">
+        <cmp x="322" y="898" width="27" height="57" />
+        <cmp x="350" y="934" width="32" height="67" />
+      </word>
+      <word id="c06-052-01-01" tag="PP$" text="his">
+        <cmp x="419" y="908" width="31" height="58" />
+        <cmp x="450" y="911" width="9" height="17" />
+        <cmp x="454" y="939" width="7" height="24" />
+        <cmp x="461" y="933" width="36" height="36" />
+      </word>
+      <word id="c06-052-01-02" tag="NNS" text="publishers">
+        <cmp x="538" y="926" width="60" height="68" />
+        <cmp x="600" y="891" width="24" height="69" />
+        <cmp x="620" y="890" width="41" height="72" />
+        <cmp x="655" y="901" width="12" height="14" />
+        <cmp x="671" y="940" width="3" height="8" />
+        <cmp x="671" y="928" width="19" height="39" />
+        <cmp x="680" y="880" width="10" height="17" />
+        <cmp x="692" y="880" width="112" height="88" />
+      </word>
+      <word id="c06-052-01-03" tag="IN" text="in">
+        <cmp x="850" y="907" width="6" height="8" />
+        <cmp x="853" y="929" width="10" height="34" />
+        <cmp x="872" y="932" width="26" height="31" />
+      </word>
+      <word id="c06-052-01-04" tag="NR" text="March">
+        <cmp x="942" y="911" width="95" height="56" />
+        <cmp x="1038" y="892" width="71" height="80" />
+      </word>
+      <word id="c06-052-01-05" tag="INO" text="of">
+        <cmp x="1152" y="884" width="68" height="105" />
+        <cmp x="1206" y="911" width="11" height="18" />
+      </word>
+      <word id="c06-052-01-06" tag="AP" text="last">
+        <cmp x="1261" y="893" width="10" height="77" />
+        <cmp x="1271" y="894" width="79" height="78" />
+      </word>
+      <word id="c06-052-01-07" tag="NN" text="year">
+        <cmp x="1396" y="923" width="128" height="79" />
+      </word>
+      <word id="c06-052-01-08" tag="?" text="?">
+        <cmp x="1541" y="888" width="27" height="38" />
+        <cmp x="1551" y="942" width="6" height="13" />
+      </word>
+      <word id="c06-052-01-09" sentence-start="yes" tag="RB" text="Still">
+        <cmp x="1622" y="899" width="66" height="69" />
+        <cmp x="1665" y="899" width="13" height="13" />
+        <cmp x="1689" y="904" width="11" height="62" />
+        <cmp x="1693" y="895" width="19" height="69" />
+      </word>
+      <word id="c06-052-01-10" tag="AT" text="a">
+        <cmp x="1747" y="928" width="39" height="35" />
+      </word>
+      <word id="c06-052-01-11" tag="NN" text="skeleton">
+        <cmp x="1802" y="918" width="27" height="47" />
+        <cmp x="1831" y="886" width="68" height="76" />
+        <cmp x="1901" y="885" width="37" height="75" />
+        <cmp x="1940" y="951" width="9" height="7" />
+        <cmp x="1951" y="892" width="49" height="63" />
+        <cmp x="1956" y="884" width="3" height="7" />
+        <cmp x="2002" y="920" width="42" height="38" />
+      </word>
+      <word id="c06-052-01-12" tag="." text=".">
+        <cmp x="2059" y="960" width="9" height="9" />
+      </word>
+      <word id="c06-052-01-13" sentence-start="yes" tag="RB" text="Yet">
+        <cmp x="2081" y="896" width="48" height="77" />
+        <cmp x="2083" y="899" width="8" height="7" />
+        <cmp x="2122" y="898" width="24" height="76" />
+      </word>
+      <upper-contour>
+        <point x="330" y="818" />
+        <point x="2061" y="818" />
+      </upper-contour>
+      <lower-contour>
+        <point x="320" y="1002" />
+        <point x="2147" y="1002" />
+      </lower-contour>
+    </line>
+    <line ass="-393" asx="0" asy="1043" character-width="999" dss="-393" dsx="0" dsy="1165" fd0="13177" fd1="2364" fd2="-836" filter-width="3" id="c06-052-02" lbs="-543" lbx="0" lby="1134" segmentation="err" slant="90000" stroke-width="5702" threshold="178" text="I have before me now a 12,000-word manuscript of" ubs="-95" ubx="0" uby="1111">
+      <word id="c06-052-02-00" tag="PP1A" text="I">
+        <cmp x="314" y="1075" width="12" height="73" />
+      </word>
+      <word id="c06-052-02-01" tag="HV" text="have">
+        <cmp x="355" y="1087" width="28" height="54" />
+        <cmp x="383" y="1107" width="105" height="35" />
+        <cmp x="428" y="1110" width="4" height="11" />
+      </word>
+      <word id="c06-052-02-02" tag="IN" text="before">
+        <cmp x="518" y="1081" width="59" height="67" />
+        <cmp x="588" y="1055" width="108" height="105" />
+      </word>
+      <word id="c06-052-02-03" tag="PP1O" text="me">
+        <cmp x="740" y="1115" width="14" height="31" />
+        <cmp x="755" y="1107" width="78" height="39" />
+      </word>
+      <word id="c06-052-02-04" tag="RN" text="now">
+        <cmp x="867" y="1111" width="14" height="32" />
+        <cmp x="884" y="1107" width="61" height="36" />
+      </word>
+      <word id="c06-052-02-05" tag="AT" text="a">
+        <cmp x="951" y="1111" width="45" height="35" />
+      </word>
+      <word id="c06-052-02-06" tag="JJB" text="12,000-word">
+        <cmp x="1036" y="1114" width="40" height="33" />
+        <cmp x="1047" y="1116" width="5" height="6" />
+        <cmp x="1140" y="1090" width="60" height="74" />
+        <cmp x="1200" y="1085" width="44" height="65" />
+        <cmp x="1242" y="1070" width="12" height="29" />
+        <cmp x="1259" y="1095" width="123" height="53" />
+        <cmp x="1395" y="1110" width="31" height="12" />
+        <cmp x="1447" y="1115" width="5" height="4" />
+        <cmp x="1447" y="1109" width="147" height="39" />
+        <cmp x="1480" y="1113" width="3" height="3" />
+        <cmp x="1486" y="1114" width="5" height="6" />
+        <cmp x="1583" y="1091" width="39" height="64" />
+      </word>
+      <word id="c06-052-02-07" tag="NN" text="manuscript">
+        <cmp x="1700" y="1111" width="56" height="45" />
+        <cmp x="1759" y="1111" width="93" height="47" />
+        <cmp x="1851" y="1107" width="72" height="51" />
+        <cmp x="1936" y="1107" width="37" height="40" />
+        <cmp x="1951" y="1060" width="10" height="25" />
+        <cmp x="1983" y="1102" width="27" height="74" />
+        <cmp x="2008" y="1067" width="32" height="77" />
+      </word>
+      <word id="c06-052-02-08" tag="INO" text="of">
+        <cmp x="2078" y="1108" width="30" height="38" />
+        <cmp x="2111" y="1058" width="36" height="122" />
+      </word>
+      <upper-contour>
+        <point x="320" y="1002" />
+        <point x="2147" y="1002" />
+      </upper-contour>
+      <lower-contour>
+        <point x="312" y="1179" />
+        <point x="2017" y="1179" />
+      </lower-contour>
+    </line>
+    <line ass="-240" asx="0" asy="1229" character-width="999" dss="-240" dsx="0" dsy="1359" fd0="13032" fd1="2616" fd2="-1034" filter-width="4" id="c06-052-03" lbs="-206" lbx="0" lby="1319" segmentation="ok" slant="91000" stroke-width="5786" threshold="175" text="a book planned to be called Confessions of an Irish" ubs="-309" ubx="0" uby="1280">
+      <word id="c06-052-03-00" tag="AT" text="a">
+        <cmp x="302" y="1279" width="43" height="43" />
+      </word>
+      <word id="c06-052-03-01" tag="NN" text="book">
+        <cmp x="372" y="1252" width="100" height="69" />
+        <cmp x="475" y="1258" width="36" height="64" />
+      </word>
+      <word id="c06-052-03-02" tag="VBN" text="planned">
+        <cmp x="558" y="1290" width="34" height="64" />
+        <cmp x="584" y="1262" width="8" height="4" />
+        <cmp x="592" y="1266" width="12" height="56" />
+        <cmp x="614" y="1285" width="65" height="44" />
+        <cmp x="684" y="1257" width="101" height="71" />
+      </word>
+      <word id="c06-052-03-03" tag="TO" text="to">
+        <cmp x="823" y="1259" width="69" height="64" />
+      </word>
+      <word id="c06-052-03-04" tag="BE" text="be">
+        <cmp x="937" y="1270" width="69" height="59" />
+      </word>
+      <word id="c06-052-03-05" tag="VBN" text="called">
+        <cmp x="1043" y="1291" width="66" height="42" />
+        <cmp x="1105" y="1254" width="95" height="74" />
+      </word>
+      <word id="c06-052-03-06" tag="NNS" text="Confessions">
+        <cmp x="1263" y="1263" width="69" height="62" />
+        <cmp x="1337" y="1286" width="31" height="37" />
+        <cmp x="1373" y="1235" width="57" height="100" />
+        <cmp x="1429" y="1279" width="27" height="40" />
+        <cmp x="1453" y="1282" width="32" height="42" />
+        <cmp x="1489" y="1289" width="13" height="35" />
+        <cmp x="1496" y="1258" width="7" height="24" />
+        <cmp x="1507" y="1288" width="64" height="38" />
+        <cmp x="1565" y="1283" width="33" height="46" />
+      </word>
+      <word id="c06-052-03-07" tag="INO" text="of">
+        <cmp x="1648" y="1242" width="71" height="126" />
+      </word>
+      <word id="c06-052-03-08" tag="AT" text="an">
+        <cmp x="1743" y="1286" width="78" height="46" />
+      </word>
+      <word id="c06-052-03-09" tag="JNP" text="Irish">
+        <cmp x="1863" y="1265" width="19" height="70" />
+        <cmp x="1891" y="1287" width="67" height="44" />
+        <cmp x="1919" y="1252" width="6" height="17" />
+        <cmp x="1952" y="1242" width="64" height="86" />
+      </word>
+      <upper-contour>
+        <point x="312" y="1179" />
+        <point x="2017" y="1179" />
+      </upper-contour>
+      <lower-contour>
+        <point x="300" y="1370" />
+        <point x="2017" y="1370" />
+      </lower-contour>
+    </line>
+    <line ass="246" asx="0" asy="1436" character-width="999" dss="246" dsx="0" dsy="1566" fd0="13063" fd1="2755" fd2="-1034" filter-width="4" id="c06-052-04" lbs="292" lbx="0" lby="1507" segmentation="ok" slant="98000" stroke-width="5757" threshold="174" text="Rebel which was delivered to his agents in June. IT" ubs="154" ubx="0" uby="1472">
+      <word id="c06-052-04-00" tag="NN" text="Rebel">
+        <cmp x="302" y="1433" width="143" height="77" />
+        <cmp x="448" y="1443" width="27" height="61" />
+      </word>
+      <word id="c06-052-04-01" tag="WDT" text="which">
+        <cmp x="530" y="1466" width="31" height="44" />
+        <cmp x="562" y="1463" width="18" height="46" />
+        <cmp x="579" y="1445" width="34" height="63" />
+        <cmp x="615" y="1444" width="14" height="21" />
+        <cmp x="615" y="1466" width="13" height="39" />
+        <cmp x="635" y="1445" width="70" height="58" />
+      </word>
+      <word id="c06-052-04-02" tag="BEDZ" text="was">
+        <cmp x="747" y="1459" width="55" height="45" />
+        <cmp x="796" y="1465" width="44" height="42" />
+        <cmp x="806" y="1466" width="6" height="6" />
+        <cmp x="836" y="1464" width="36" height="47" />
+      </word>
+      <word id="c06-052-04-03" tag="VBN" text="delivered">
+        <cmp x="913" y="1443" width="82" height="68" />
+        <cmp x="996" y="1439" width="17" height="65" />
+        <cmp x="1018" y="1438" width="5" height="12" />
+        <cmp x="1019" y="1468" width="10" height="38" />
+        <cmp x="1035" y="1459" width="26" height="50" />
+        <cmp x="1066" y="1432" width="114" height="78" />
+      </word>
+      <word id="c06-052-04-04" tag="IN" text="to">
+        <cmp x="1208" y="1443" width="60" height="65" />
+      </word>
+      <word id="c06-052-04-05" tag="PP$" text="his">
+        <cmp x="1307" y="1454" width="28" height="55" />
+        <cmp x="1338" y="1480" width="12" height="26" />
+        <cmp x="1342" y="1480" width="38" height="36" />
+        <cmp x="1345" y="1464" width="5" height="7" />
+        <cmp x="1372" y="1478" width="4" height="4" />
+      </word>
+      <word id="c06-052-04-06" tag="NNS" text="agents">
+        <cmp x="1430" y="1472" width="135" height="89" />
+        <cmp x="1556" y="1433" width="66" height="73" />
+      </word>
+      <word id="c06-052-04-07" tag="IN" text="in">
+        <cmp x="1670" y="1477" width="10" height="30" />
+        <cmp x="1671" y="1451" width="8" height="18" />
+        <cmp x="1685" y="1467" width="43" height="40" />
+      </word>
+      <word id="c06-052-04-08" tag="NR" text="June">
+        <cmp x="1792" y="1487" width="6" height="7" />
+        <cmp x="1798" y="1434" width="25" height="70" />
+        <cmp x="1830" y="1466" width="36" height="42" />
+        <cmp x="1872" y="1462" width="70" height="42" />
+      </word>
+      <word id="c06-052-04-09" tag="." text=".">
+        <cmp x="1970" y="1493" width="10" height="11" />
+      </word>
+      <word id="c06-052-04-10" sentence-start="yes" tag="PP3" text="IT">
+        <cmp x="2035" y="1450" width="9" height="50" />
+        <cmp x="2049" y="1444" width="51" height="14" />
+        <cmp x="2069" y="1458" width="7" height="47" />
+      </word>
+      <upper-contour>
+        <point x="300" y="1370" />
+        <point x="2017" y="1370" />
+      </upper-contour>
+      <lower-contour>
+        <point x="300" y="1562" />
+        <point x="1921" y="1562" />
+      </lower-contour>
+    </line>
+    <line ass="120" asx="0" asy="1608" character-width="999" dss="120" dsx="0" dsy="1739" fd0="13174" fd1="2459" fd2="-1103" filter-width="4" id="c06-052-05" lbs="195" lbx="0" lby="1683" segmentation="err" slant="90000" stroke-width="5732" threshold="175" text="begins: &amp;quot;There was a party to celebrate Deirdre&apos;s" ubs="-27" ubx="0" uby="1645">
+      <word id="c06-052-05-00" tag="VBZ" text="begins">
+        <cmp x="293" y="1613" width="58" height="65" />
+        <cmp x="354" y="1643" width="32" height="71" />
+        <cmp x="390" y="1645" width="13" height="39" />
+        <cmp x="391" y="1616" width="7" height="15" />
+        <cmp x="413" y="1635" width="62" height="50" />
+      </word>
+      <word id="c06-052-05-01" tag=":" text=":">
+        <cmp x="497" y="1664" width="12" height="8" />
+      </word>
+      <word id="c06-052-05-02" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="498" y="1641" width="8" height="6" />
+      </word>
+      <word id="c06-052-05-03" tag="EX" text="There">
+        <cmp x="550" y="1607" width="208" height="81" />
+        <cmp x="550" y="1665" width="22" height="46" />
+        <cmp x="615" y="1622" width="8" height="47" />
+      </word>
+      <word id="c06-052-05-04" tag="BEDZ" text="was">
+        <cmp x="797" y="1643" width="50" height="42" />
+        <cmp x="849" y="1638" width="68" height="46" />
+        <cmp x="897" y="1633" width="5" height="4" />
+      </word>
+      <word id="c06-052-05-05" tag="AT" text="a">
+        <cmp x="944" y="1644" width="43" height="42" />
+      </word>
+      <word id="c06-052-05-06" tag="NN" text="party">
+        <cmp x="1008" y="1651" width="30" height="65" />
+        <cmp x="1039" y="1634" width="46" height="55" />
+        <cmp x="1083" y="1610" width="83" height="128" />
+      </word>
+      <word id="c06-052-05-07" tag="TO" text="to">
+        <cmp x="1195" y="1617" width="73" height="63" />
+      </word>
+      <word id="c06-052-05-08" tag="VB" text="celebrate">
+        <cmp x="1300" y="1620" width="135" height="68" />
+        <cmp x="1366" y="1612" width="10" height="17" />
+        <cmp x="1445" y="1644" width="47" height="44" />
+        <cmp x="1488" y="1605" width="85" height="84" />
+      </word>
+      <word id="c06-052-05-09" tag="NP$" text="Deirdre&apos;s">
+        <cmp x="1589" y="1626" width="122" height="64" />
+        <cmp x="1711" y="1626" width="9" height="14" />
+        <cmp x="1712" y="1656" width="14" height="28" />
+        <cmp x="1731" y="1643" width="30" height="40" />
+        <cmp x="1755" y="1626" width="43" height="60" />
+        <cmp x="1805" y="1657" width="62" height="38" />
+        <cmp x="1869" y="1615" width="9" height="36" />
+        <cmp x="1886" y="1640" width="34" height="39" />
+      </word>
+      <upper-contour>
+        <point x="300" y="1562" />
+        <point x="1921" y="1562" />
+      </upper-contour>
+      <lower-contour>
+        <point x="293" y="1738" />
+        <point x="1622" y="1738" />
+      </lower-contour>
+    </line>
+    <line ass="212" asx="0" asy="1771" character-width="999" dss="212" dsx="0" dsy="1885" fd0="13111" fd1="2843" fd2="-670" filter-width="4" id="c06-052-06" lbs="324" lbx="0" lby="1862" segmentation="err" slant="91000" stroke-width="5721" threshold="175" text="return from her abortion in Bristol.&amp;quot;" ubs="-11" ubx="0" uby="1824">
+      <word id="c06-052-06-00" tag="NN" text="return">
+        <cmp x="295" y="1817" width="67" height="50" />
+        <cmp x="356" y="1787" width="70" height="73" />
+        <cmp x="360" y="1780" width="4" height="7" />
+        <cmp x="431" y="1816" width="76" height="39" />
+      </word>
+      <word id="c06-052-06-01" tag="IN" text="from">
+        <cmp x="577" y="1771" width="85" height="114" />
+        <cmp x="662" y="1821" width="72" height="32" />
+      </word>
+      <word id="c06-052-06-02" tag="PP$" text="her">
+        <cmp x="785" y="1785" width="121" height="80" />
+      </word>
+      <word id="c06-052-06-03" tag="NN" text="abortion">
+        <cmp x="952" y="1791" width="107" height="74" />
+        <cmp x="1068" y="1824" width="23" height="33" />
+        <cmp x="1095" y="1791" width="53" height="71" />
+        <cmp x="1132" y="1794" width="7" height="12" />
+        <cmp x="1154" y="1823" width="32" height="34" />
+        <cmp x="1191" y="1817" width="44" height="52" />
+      </word>
+      <word id="c06-052-06-04" tag="IN" text="in">
+        <cmp x="1276" y="1805" width="13" height="10" />
+        <cmp x="1279" y="1824" width="15" height="42" />
+        <cmp x="1301" y="1828" width="40" height="32" />
+      </word>
+      <word id="c06-052-06-05" tag="NP" text="Bristol">
+        <cmp x="1374" y="1800" width="40" height="72" />
+        <cmp x="1416" y="1829" width="35" height="37" />
+        <cmp x="1443" y="1796" width="12" height="10" />
+        <cmp x="1461" y="1824" width="21" height="46" />
+        <cmp x="1488" y="1799" width="51" height="62" />
+        <cmp x="1544" y="1771" width="15" height="85" />
+      </word>
+      <word id="c06-052-06-06" tag="." text=".">
+        <cmp x="1582" y="1771" width="10" height="36" />
+      </word>
+      <word id="c06-052-06-07" tag="**&apos;" text="&quot;">
+        <cmp x="1597" y="1768" width="13" height="43" />
+        <cmp x="1609" y="1848" width="12" height="14" />
+      </word>
+      <upper-contour>
+        <point x="293" y="1738" />
+        <point x="1622" y="1738" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

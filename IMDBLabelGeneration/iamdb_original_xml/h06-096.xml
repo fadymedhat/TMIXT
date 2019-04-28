@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="h06-096" last-modified="2002-07-17" skew="127" status="final" version="3.0_beta" width="2479" writer-id="384">
+  <machine-printed-part>
+    <machine-print-line text="The conveyor is broken at this point to enable the sand to be applied to the under" />
+    <machine-print-line text="surface of the column, which passes on through two pairs of vibrating rollers which" />
+    <machine-print-line text="embed the sand firmly in the surfaces and is finally cut into bricks at the wire cutting" />
+    <machine-print-line text="table." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="196" asx="0" asy="673" character-width="999" dss="196" dsx="0" dsy="847" fd0="12630" fd1="2736" fd2="-923" filter-width="3" id="h06-096-00" lbs="520" lbx="0" lby="786" segmentation="ok" slant="85000" stroke-width="5203" threshold="192" text="The conveyor is broken at this point to" ubs="-450" ubx="0" uby="725">
+      <word id="h06-096-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="321" y="680" width="106" height="90" />
+        <cmp x="419" y="673" width="36" height="104" />
+        <cmp x="461" y="728" width="40" height="50" />
+      </word>
+      <word id="h06-096-00-01" tag="NN" text="conveyor">
+        <cmp x="567" y="724" width="89" height="57" />
+        <cmp x="665" y="734" width="42" height="50" />
+        <cmp x="712" y="734" width="42" height="46" />
+        <cmp x="753" y="738" width="83" height="103" />
+        <cmp x="838" y="745" width="46" height="40" />
+        <cmp x="892" y="737" width="31" height="57" />
+      </word>
+      <word id="h06-096-00-02" tag="BEZ" text="is">
+        <cmp x="1009" y="703" width="40" height="66" />
+        <cmp x="1010" y="683" width="6" height="13" />
+      </word>
+      <word id="h06-096-00-03" tag="VBN" text="broken">
+        <cmp x="1110" y="679" width="43" height="103" />
+        <cmp x="1164" y="741" width="9" height="36" />
+        <cmp x="1169" y="734" width="31" height="12" />
+        <cmp x="1207" y="739" width="47" height="36" />
+        <cmp x="1214" y="733" width="22" height="13" />
+        <cmp x="1258" y="677" width="34" height="103" />
+        <cmp x="1294" y="737" width="83" height="59" />
+      </word>
+      <word id="h06-096-00-04" tag="IN" text="at">
+        <cmp x="1443" y="739" width="67" height="50" />
+        <cmp x="1498" y="677" width="37" height="100" />
+      </word>
+      <word id="h06-096-00-05" tag="DT" text="this">
+        <cmp x="1550" y="687" width="28" height="98" />
+        <cmp x="1585" y="695" width="42" height="84" />
+        <cmp x="1647" y="738" width="6" height="46" />
+        <cmp x="1648" y="697" width="7" height="8" />
+        <cmp x="1657" y="725" width="51" height="62" />
+      </word>
+      <word id="h06-096-00-06" tag="NN" text="point">
+        <cmp x="1769" y="703" width="46" height="138" />
+        <cmp x="1817" y="740" width="37" height="40" />
+        <cmp x="1864" y="733" width="13" height="54" />
+        <cmp x="1869" y="716" width="5" height="8" />
+        <cmp x="1887" y="742" width="36" height="42" />
+        <cmp x="1925" y="693" width="51" height="88" />
+      </word>
+      <word id="h06-096-00-07" tag="TO" text="to">
+        <cmp x="2001" y="699" width="91" height="83" />
+        <cmp x="2093" y="741" width="24" height="5" />
+      </word>
+      <lower-contour>
+        <point x="363" y="842" />
+        <point x="2081" y="842" />
+      </lower-contour>
+    </line>
+    <line ass="-122" asx="0" asy="865" character-width="999" dss="-122" dsx="0" dsy="1015" fd0="12973" fd1="3110" fd2="-423" filter-width="3" id="h06-096-01" lbs="-63" lbx="0" lby="957" segmentation="ok" slant="83000" stroke-width="5231" threshold="191" text="enable the sand to be applied to" ubs="-240" ubx="0" uby="919">
+      <word id="h06-096-01-00" tag="VB" text="enable">
+        <cmp x="365" y="901" width="33" height="55" />
+        <cmp x="412" y="912" width="45" height="50" />
+        <cmp x="464" y="921" width="52" height="39" />
+        <cmp x="523" y="882" width="60" height="77" />
+        <cmp x="593" y="872" width="76" height="91" />
+      </word>
+      <word id="h06-096-01-01" tag="ATI" text="the">
+        <cmp x="744" y="887" width="47" height="88" />
+        <cmp x="791" y="884" width="45" height="83" />
+        <cmp x="846" y="921" width="46" height="39" />
+      </word>
+      <word id="h06-096-01-02" tag="NN" text="sand">
+        <cmp x="939" y="903" width="48" height="54" />
+        <cmp x="996" y="916" width="60" height="42" />
+        <cmp x="1062" y="921" width="41" height="41" />
+        <cmp x="1111" y="872" width="58" height="90" />
+      </word>
+      <word id="h06-096-01-03" tag="TO" text="to">
+        <cmp x="1221" y="880" width="43" height="86" />
+        <cmp x="1263" y="933" width="53" height="34" />
+      </word>
+      <word id="h06-096-01-04" tag="BE" text="be">
+        <cmp x="1390" y="895" width="93" height="75" />
+      </word>
+      <word id="h06-096-01-05" tag="VBN" text="applied">
+        <cmp x="1543" y="917" width="54" height="43" />
+        <cmp x="1613" y="926" width="42" height="93" />
+        <cmp x="1660" y="923" width="49" height="94" />
+        <cmp x="1703" y="869" width="80" height="87" />
+        <cmp x="1773" y="892" width="8" height="5" />
+        <cmp x="1793" y="874" width="99" height="92" />
+        <cmp x="1843" y="924" width="23" height="12" />
+      </word>
+      <word id="h06-096-01-06" tag="IN" text="to">
+        <cmp x="1970" y="888" width="110" height="80" />
+      </word>
+      <upper-contour>
+        <point x="363" y="842" />
+        <point x="2081" y="842" />
+      </upper-contour>
+      <lower-contour>
+        <point x="363" y="1019" />
+        <point x="2081" y="1019" />
+      </lower-contour>
+    </line>
+    <line ass="-175" asx="0" asy="1028" character-width="999" dss="-175" dsx="0" dsy="1167" fd0="12749" fd1="2728" fd2="-628" filter-width="3" id="h06-096-02" lbs="-192" lbx="0" lby="1137" segmentation="ok" slant="85000" stroke-width="5265" threshold="190" text="the under surface of the column, which" ubs="-143" ubx="0" uby="1098">
+      <word id="h06-096-02-00" tag="ATI" text="the">
+        <cmp x="342" y="1057" width="41" height="81" />
+        <cmp x="395" y="1050" width="30" height="85" />
+        <cmp x="435" y="1095" width="36" height="43" />
+      </word>
+      <word id="h06-096-02-01" tag="JJB" text="under">
+        <cmp x="531" y="1087" width="42" height="59" />
+        <cmp x="581" y="1108" width="41" height="34" />
+        <cmp x="628" y="1055" width="89" height="87" />
+        <cmp x="724" y="1104" width="26" height="45" />
+      </word>
+      <word id="h06-096-02-02" tag="NN" text="surface">
+        <cmp x="820" y="1095" width="104" height="46" />
+        <cmp x="934" y="1097" width="28" height="45" />
+        <cmp x="985" y="1041" width="97" height="131" />
+        <cmp x="1088" y="1098" width="42" height="44" />
+        <cmp x="1132" y="1102" width="54" height="40" />
+      </word>
+      <word id="h06-096-02-03" tag="INO" text="of">
+        <cmp x="1270" y="1100" width="30" height="49" />
+        <cmp x="1312" y="1047" width="44" height="117" />
+      </word>
+      <word id="h06-096-02-04" tag="ATI" text="the">
+        <cmp x="1419" y="1044" width="42" height="84" />
+        <cmp x="1467" y="1053" width="38" height="78" />
+        <cmp x="1514" y="1092" width="35" height="43" />
+      </word>
+      <word id="h06-096-02-05" tag="NN" text="column">
+        <cmp x="1607" y="1093" width="85" height="45" />
+        <cmp x="1650" y="1101" width="24" height="10" />
+        <cmp x="1713" y="1034" width="72" height="107" />
+        <cmp x="1793" y="1097" width="64" height="50" />
+        <cmp x="1875" y="1102" width="55" height="53" />
+      </word>
+      <word id="h06-096-02-06" tag="," text=",">
+        <cmp x="1976" y="1114" width="18" height="56" />
+      </word>
+      <word id="h06-096-02-07" tag="WDT" text="which">
+        <cmp x="2033" y="1103" width="52" height="44" />
+        <cmp x="2096" y="1059" width="37" height="81" />
+        <cmp x="2140" y="1105" width="12" height="40" />
+        <cmp x="2160" y="1081" width="4" height="7" />
+        <cmp x="2164" y="1067" width="64" height="97" />
+      </word>
+      <upper-contour>
+        <point x="363" y="1019" />
+        <point x="2081" y="1019" />
+      </upper-contour>
+      <lower-contour>
+        <point x="358" y="1172" />
+        <point x="1902" y="1172" />
+      </lower-contour>
+    </line>
+    <line ass="-252" asx="0" asy="1218" character-width="999" dss="-252" dsx="0" dsy="1374" fd0="13032" fd1="2553" fd2="-1198" filter-width="3" id="h06-096-03" lbs="-436" lbx="0" lby="1308" segmentation="ok" slant="81000" stroke-width="5324" threshold="190" text="passes on through two pairs of" ubs="117" ubx="0" uby="1280">
+      <word id="h06-096-03-00" tag="VBZ" text="passes">
+        <cmp x="360" y="1261" width="41" height="97" />
+        <cmp x="407" y="1270" width="53" height="44" />
+        <cmp x="467" y="1264" width="91" height="51" />
+        <cmp x="558" y="1266" width="66" height="46" />
+      </word>
+      <word id="h06-096-03-01" tag="RP" text="on">
+        <cmp x="700" y="1276" width="43" height="46" />
+        <cmp x="753" y="1271" width="46" height="43" />
+      </word>
+      <word id="h06-096-03-02" tag="IN" text="through">
+        <cmp x="861" y="1228" width="54" height="101" />
+        <cmp x="919" y="1234" width="41" height="86" />
+        <cmp x="981" y="1279" width="31" height="40" />
+        <cmp x="1011" y="1278" width="89" height="38" />
+        <cmp x="1101" y="1306" width="5" height="3" />
+        <cmp x="1104" y="1299" width="51" height="81" />
+        <cmp x="1113" y="1282" width="34" height="32" />
+        <cmp x="1113" y="1331" width="5" height="5" />
+        <cmp x="1154" y="1246" width="47" height="70" />
+      </word>
+      <word id="h06-096-03-03" tag="CD" text="two">
+        <cmp x="1266" y="1228" width="44" height="89" />
+        <cmp x="1319" y="1228" width="74" height="93" />
+        <cmp x="1405" y="1277" width="48" height="49" />
+        <cmp x="1415" y="1285" width="7" height="4" />
+      </word>
+      <word id="h06-096-03-04" tag="NNS" text="pairs">
+        <cmp x="1532" y="1264" width="42" height="90" />
+        <cmp x="1579" y="1271" width="89" height="46" />
+        <cmp x="1668" y="1252" width="6" height="5" />
+        <cmp x="1684" y="1269" width="33" height="43" />
+        <cmp x="1715" y="1265" width="26" height="48" />
+      </word>
+      <word id="h06-096-03-05" tag="INO" text="of">
+        <cmp x="1805" y="1281" width="44" height="43" />
+        <cmp x="1857" y="1228" width="45" height="107" />
+      </word>
+      <upper-contour>
+        <point x="358" y="1172" />
+        <point x="1902" y="1172" />
+      </upper-contour>
+      <lower-contour>
+        <point x="385" y="1380" />
+        <point x="1902" y="1380" />
+      </lower-contour>
+    </line>
+    <line ass="-163" asx="0" asy="1393" character-width="999" dss="-163" dsx="0" dsy="1600" fd0="13157" fd1="2752" fd2="-552" filter-width="3" id="h06-096-04" lbs="-66" lbx="0" lby="1494" segmentation="ok" slant="89000" stroke-width="5225" threshold="190" text="vibrating rollers which embed the sand" ubs="-356" ubx="0" uby="1452">
+      <word id="h06-096-04-00" tag="JJ" text="vibrating">
+        <cmp x="387" y="1434" width="42" height="70" />
+        <cmp x="442" y="1447" width="13" height="52" />
+        <cmp x="446" y="1431" width="3" height="6" />
+        <cmp x="466" y="1404" width="45" height="92" />
+        <cmp x="523" y="1454" width="43" height="41" />
+        <cmp x="546" y="1457" width="54" height="37" />
+        <cmp x="609" y="1396" width="44" height="104" />
+        <cmp x="652" y="1440" width="5" height="5" />
+        <cmp x="670" y="1456" width="43" height="39" />
+        <cmp x="712" y="1457" width="53" height="148" />
+        <cmp x="718" y="1456" width="26" height="18" />
+      </word>
+      <word id="h06-096-04-01" tag="NNS" text="rollers">
+        <cmp x="866" y="1452" width="40" height="53" />
+        <cmp x="913" y="1459" width="47" height="42" />
+        <cmp x="974" y="1402" width="101" height="97" />
+        <cmp x="1077" y="1459" width="35" height="42" />
+        <cmp x="1086" y="1452" width="52" height="53" />
+      </word>
+      <word id="h06-096-04-02" tag="WDT" text="which">
+        <cmp x="1200" y="1448" width="61" height="54" />
+        <cmp x="1264" y="1414" width="44" height="81" />
+        <cmp x="1320" y="1460" width="6" height="34" />
+        <cmp x="1333" y="1435" width="4" height="12" />
+        <cmp x="1334" y="1456" width="41" height="41" />
+        <cmp x="1376" y="1485" width="5" height="4" />
+        <cmp x="1381" y="1426" width="37" height="88" />
+      </word>
+      <word id="h06-096-04-03" tag="VB" text="embed">
+        <cmp x="1505" y="1453" width="100" height="58" />
+        <cmp x="1617" y="1415" width="85" height="84" />
+        <cmp x="1702" y="1418" width="65" height="88" />
+      </word>
+      <word id="h06-096-04-04" tag="ATI" text="the">
+        <cmp x="1821" y="1423" width="45" height="88" />
+        <cmp x="1866" y="1417" width="40" height="83" />
+        <cmp x="1911" y="1458" width="66" height="46" />
+      </word>
+      <word id="h06-096-04-05" tag="NN" text="sand">
+        <cmp x="1996" y="1449" width="103" height="54" />
+        <cmp x="2103" y="1463" width="42" height="38" />
+        <cmp x="2150" y="1409" width="68" height="89" />
+      </word>
+      <upper-contour>
+        <point x="385" y="1380" />
+        <point x="1902" y="1380" />
+      </upper-contour>
+      <lower-contour>
+        <point x="385" y="1566" />
+        <point x="721" y="1604" />
+        <point x="867" y="1514" />
+        <point x="2091" y="1514" />
+      </lower-contour>
+    </line>
+    <line ass="741" asx="0" asy="1574" character-width="999" dss="741" dsx="0" dsy="1789" fd0="12969" fd1="2383" fd2="-977" filter-width="3" id="h06-096-05" lbs="953" lbx="0" lby="1692" segmentation="ok" slant="83000" stroke-width="5325" threshold="189" text="firmly in the surfaces and is finally" ubs="316" ubx="0" uby="1641">
+      <word id="h06-096-05-00" tag="RB" text="firmly">
+        <cmp x="379" y="1570" width="52" height="127" />
+        <cmp x="426" y="1611" width="6" height="7" />
+        <cmp x="442" y="1632" width="31" height="40" />
+        <cmp x="476" y="1630" width="64" height="46" />
+        <cmp x="554" y="1589" width="71" height="141" />
+      </word>
+      <word id="h06-096-05-01" tag="IN" text="in">
+        <cmp x="713" y="1614" width="5" height="5" />
+        <cmp x="719" y="1635" width="7" height="48" />
+        <cmp x="736" y="1638" width="53" height="44" />
+      </word>
+      <word id="h06-096-05-02" tag="ATI" text="the">
+        <cmp x="838" y="1597" width="44" height="88" />
+        <cmp x="889" y="1602" width="40" height="77" />
+        <cmp x="943" y="1638" width="43" height="39" />
+      </word>
+      <word id="h06-096-05-03" tag="NNS" text="surfaces">
+        <cmp x="1018" y="1625" width="91" height="51" />
+        <cmp x="1114" y="1637" width="32" height="38" />
+        <cmp x="1173" y="1574" width="125" height="134" />
+        <cmp x="1299" y="1632" width="45" height="41" />
+        <cmp x="1345" y="1641" width="35" height="36" />
+      </word>
+      <word id="h06-096-05-04" tag="CC" text="and">
+        <cmp x="1468" y="1623" width="53" height="48" />
+        <cmp x="1526" y="1634" width="42" height="39" />
+        <cmp x="1577" y="1597" width="45" height="73" />
+      </word>
+      <word id="h06-096-05-05" tag="BEZ" text="is">
+        <cmp x="1680" y="1632" width="9" height="37" />
+        <cmp x="1699" y="1610" width="5" height="6" />
+        <cmp x="1710" y="1618" width="25" height="48" />
+        <cmp x="1728" y="1620" width="3" height="3" />
+      </word>
+      <word id="h06-096-05-06" tag="RB" text="finally">
+        <cmp x="1821" y="1584" width="43" height="108" />
+        <cmp x="1875" y="1619" width="5" height="5" />
+        <cmp x="1883" y="1642" width="40" height="37" />
+        <cmp x="1932" y="1594" width="158" height="170" />
+      </word>
+      <upper-contour>
+        <point x="385" y="1566" />
+        <point x="721" y="1604" />
+        <point x="867" y="1514" />
+        <point x="2091" y="1514" />
+      </upper-contour>
+      <lower-contour>
+        <point x="377" y="1729" />
+        <point x="1935" y="1729" />
+      </lower-contour>
+    </line>
+    <line ass="-59" asx="0" asy="1750" character-width="999" dss="-59" dsx="0" dsy="1939" fd0="12762" fd1="2819" fd2="-856" filter-width="3" id="h06-096-06" lbs="36" lbx="0" lby="1851" segmentation="ok" slant="90000" stroke-width="5283" threshold="189" text="cut into bricks at the wire cutting" ubs="-251" ubx="0" uby="1808">
+      <word id="h06-096-06-00" tag="VBN" text="cut">
+        <cmp x="361" y="1800" width="95" height="55" />
+        <cmp x="449" y="1778" width="34" height="76" />
+      </word>
+      <word id="h06-096-06-01" tag="IN" text="into">
+        <cmp x="525" y="1777" width="8" height="8" />
+        <cmp x="527" y="1816" width="9" height="38" />
+        <cmp x="548" y="1805" width="40" height="44" />
+        <cmp x="600" y="1753" width="78" height="108" />
+      </word>
+      <word id="h06-096-06-02" tag="NNS" text="bricks">
+        <cmp x="768" y="1766" width="48" height="87" />
+        <cmp x="831" y="1799" width="41" height="53" />
+        <cmp x="864" y="1787" width="5" height="11" />
+        <cmp x="885" y="1759" width="117" height="101" />
+      </word>
+      <word id="h06-096-06-03" tag="IN" text="at">
+        <cmp x="1086" y="1805" width="60" height="47" />
+        <cmp x="1152" y="1767" width="37" height="78" />
+      </word>
+      <word id="h06-096-06-04" tag="ATI" text="the">
+        <cmp x="1253" y="1756" width="36" height="103" />
+        <cmp x="1302" y="1753" width="35" height="98" />
+        <cmp x="1343" y="1810" width="32" height="43" />
+      </word>
+      <word id="h06-096-06-05" tag="NN" text="wire">
+        <cmp x="1421" y="1798" width="63" height="59" />
+        <cmp x="1487" y="1806" width="6" height="41" />
+        <cmp x="1492" y="1784" width="4" height="5" />
+        <cmp x="1517" y="1812" width="30" height="46" />
+        <cmp x="1537" y="1814" width="44" height="42" />
+      </word>
+      <word id="h06-096-06-06" tag="NN" text="cutting">
+        <cmp x="1627" y="1808" width="99" height="49" />
+        <cmp x="1726" y="1776" width="39" height="89" />
+        <cmp x="1764" y="1780" width="62" height="82" />
+        <cmp x="1830" y="1801" width="5" height="7" />
+        <cmp x="1844" y="1823" width="34" height="36" />
+        <cmp x="1879" y="1823" width="55" height="119" />
+        <cmp x="1903" y="1904" width="12" height="4" />
+      </word>
+      <upper-contour>
+        <point x="377" y="1729" />
+        <point x="1935" y="1729" />
+      </upper-contour>
+      <lower-contour>
+        <point x="359" y="1854" />
+        <point x="583" y="1854" />
+      </lower-contour>
+    </line>
+    <line ass="-11" asx="0" asy="1943" character-width="999" dss="-11" dsx="0" dsy="2035" fd0="12609" fd1="2682" fd2="-1305" filter-width="3" id="h06-096-07" lbs="-34" lbx="0" lby="2032" segmentation="err" slant="102000" stroke-width="5445" threshold="186" text="table." ubs="33" ubx="0" uby="1996">
+      <word id="h06-096-07-00" tag="NN" text="table">
+        <cmp x="351" y="1944" width="107" height="92" />
+        <cmp x="454" y="1953" width="54" height="85" />
+      </word>
+      <word id="h06-096-07-01" tag="." text=".">
+        <cmp x="513" y="1950" width="70" height="85" />
+      </word>
+      <upper-contour>
+        <point x="359" y="1854" />
+        <point x="583" y="1854" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

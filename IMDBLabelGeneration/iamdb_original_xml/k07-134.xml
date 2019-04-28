@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="k07-134" last-modified="2002-07-17" skew="63" status="final" version="3.0_beta" width="2479" writer-id="455">
+  <machine-printed-part>
+    <machine-print-line text="It&apos;s man&apos;s nature to teach and to teach those we love is double pleasure. And she" />
+    <machine-print-line text="might add: And don&apos;t forget to leave the lights on. You lose half the fun when you" />
+    <machine-print-line text="fumble in the dark. She had many direct comments like that. Once she quietly pushed" />
+    <machine-print-line text="him back when he kissed her too fully and too soon:" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-432" asx="0" asy="667" character-width="999" dss="-432" dsx="0" dsy="755" fd0="13203" fd1="2498" fd2="-458" filter-width="3" id="k07-134-00" lbs="-403" lbx="0" lby="745" segmentation="ok" slant="77000" stroke-width="5614" threshold="181" text="It&apos;s man&apos;s nature to teach and to teach those" ubs="-490" ubx="0" uby="708">
+      <word id="k07-134-00-00" sentence-start="yes" tag="PP3" text="It">
+        <cmp x="390" y="684" width="35" height="74" />
+        <cmp x="395" y="677" width="3" height="6" />
+      </word>
+      <word id="k07-134-00-01" tag="BEZ" text="&apos;s">
+        <cmp x="449" y="677" width="6" height="27" />
+        <cmp x="463" y="705" width="30" height="48" />
+      </word>
+      <word id="k07-134-00-02" tag="NN$" text="man&apos;s">
+        <cmp x="527" y="717" width="50" height="36" />
+        <cmp x="583" y="709" width="73" height="41" />
+        <cmp x="672" y="685" width="8" height="25" />
+        <cmp x="688" y="703" width="40" height="47" />
+      </word>
+      <word id="k07-134-00-03" tag="NN" text="nature">
+        <cmp x="754" y="707" width="32" height="42" />
+        <cmp x="792" y="685" width="183" height="65" />
+      </word>
+      <word id="k07-134-00-04" tag="TO" text="to">
+        <cmp x="1015" y="677" width="53" height="78" />
+      </word>
+      <word id="k07-134-00-05" tag="VB" text="teach">
+        <cmp x="1116" y="677" width="22" height="72" />
+        <cmp x="1139" y="707" width="89" height="44" />
+        <cmp x="1229" y="722" width="23" height="25" />
+        <cmp x="1247" y="718" width="7" height="4" />
+        <cmp x="1252" y="697" width="33" height="52" />
+      </word>
+      <word id="k07-134-00-06" tag="CC" text="and">
+        <cmp x="1316" y="714" width="91" height="40" />
+        <cmp x="1410" y="692" width="46" height="70" />
+      </word>
+      <word id="k07-134-00-07" tag="TO" text="to">
+        <cmp x="1505" y="692" width="27" height="71" />
+        <cmp x="1532" y="726" width="30" height="29" />
+      </word>
+      <word id="k07-134-00-08" tag="VB" text="teach">
+        <cmp x="1608" y="695" width="35" height="71" />
+        <cmp x="1650" y="691" width="134" height="70" />
+      </word>
+      <word id="k07-134-00-09" tag="DTS" text="those">
+        <cmp x="1836" y="685" width="194" height="77" />
+      </word>
+      <lower-contour>
+        <point x="388" y="766" />
+        <point x="1878" y="766" />
+      </lower-contour>
+    </line>
+    <line ass="383" asx="0" asy="871" character-width="999" dss="383" dsx="0" dsy="968" fd0="13966" fd1="2357" fd2="-697" filter-width="4" id="k07-134-01" lbs="452" lbx="0" lby="943" segmentation="ok" slant="59999" stroke-width="5954" threshold="177" text="we love is double pleasure. And she" ubs="245" ubx="0" uby="911">
+      <word id="k07-134-01-00" tag="PP1AS" text="we">
+        <cmp x="366" y="891" width="116" height="53" />
+      </word>
+      <word id="k07-134-01-01" tag="VB" text="love">
+        <cmp x="516" y="867" width="229" height="75" />
+      </word>
+      <word id="k07-134-01-02" tag="BEZ" text="is">
+        <cmp x="784" y="904" width="67" height="42" />
+        <cmp x="831" y="880" width="9" height="8" />
+      </word>
+      <word id="k07-134-01-03" tag="JJ" text="double">
+        <cmp x="903" y="880" width="86" height="67" />
+        <cmp x="995" y="881" width="82" height="65" />
+        <cmp x="1091" y="875" width="57" height="61" />
+      </word>
+      <word id="k07-134-01-04" tag="NN" text="pleasure">
+        <cmp x="1181" y="901" width="47" height="60" />
+        <cmp x="1234" y="866" width="144" height="72" />
+        <cmp x="1379" y="887" width="115" height="44" />
+      </word>
+      <word id="k07-134-01-05" tag="." text=".">
+        <cmp x="1517" y="925" width="12" height="13" />
+      </word>
+      <word id="k07-134-01-06" sentence-start="yes" tag="CC" text="And">
+        <cmp x="1563" y="866" width="55" height="80" />
+        <cmp x="1629" y="866" width="91" height="69" />
+        <cmp x="1719" y="920" width="5" height="4" />
+      </word>
+      <word id="k07-134-01-07" tag="PP3A" text="she">
+        <cmp x="1757" y="866" width="120" height="73" />
+      </word>
+      <upper-contour>
+        <point x="388" y="766" />
+        <point x="1878" y="766" />
+      </upper-contour>
+      <lower-contour>
+        <point x="364" y="961" />
+        <point x="1878" y="961" />
+      </lower-contour>
+    </line>
+    <line ass="-622" asx="0" asy="1022" character-width="999" dss="-622" dsx="0" dsy="1150" fd0="13384" fd1="2531" fd2="-460" filter-width="3" id="k07-134-02" lbs="-647" lbx="0" lby="1102" segmentation="err" slant="80000" stroke-width="5702" threshold="181" text="might add: And don&apos;t forget to leave the" ubs="-571" ubx="0" uby="1068">
+      <word id="k07-134-02-00" tag="MD" text="might">
+        <cmp x="358" y="1079" width="63" height="41" />
+        <cmp x="439" y="1084" width="11" height="27" />
+        <cmp x="455" y="1057" width="4" height="3" />
+        <cmp x="457" y="1059" width="6" height="5" />
+        <cmp x="461" y="1098" width="44" height="58" />
+        <cmp x="471" y="1081" width="32" height="24" />
+        <cmp x="509" y="1050" width="42" height="66" />
+        <cmp x="562" y="1044" width="30" height="76" />
+      </word>
+      <word id="k07-134-02-01" tag="VB" text="add">
+        <cmp x="645" y="1073" width="48" height="38" />
+        <cmp x="693" y="1049" width="37" height="58" />
+        <cmp x="727" y="1047" width="41" height="67" />
+      </word>
+      <word id="k07-134-02-02" tag=":" text=":">
+        <cmp x="792" y="1103" width="11" height="9" />
+        <cmp x="799" y="1075" width="7" height="8" />
+      </word>
+      <word id="k07-134-02-03" sentence-start="yes" tag="CC" text="And">
+        <cmp x="850" y="1066" width="50" height="58" />
+        <cmp x="881" y="1068" width="5" height="5" />
+        <cmp x="886" y="1060" width="5" height="6" />
+        <cmp x="894" y="1049" width="5" height="5" />
+        <cmp x="914" y="1080" width="15" height="21" />
+        <cmp x="931" y="1076" width="16" height="35" />
+        <cmp x="953" y="1040" width="43" height="78" />
+      </word>
+      <word id="k07-134-02-04" tag="DOX" text="don&apos;t">
+        <cmp x="1057" y="1044" width="53" height="72" />
+        <cmp x="1109" y="1080" width="38" height="28" />
+        <cmp x="1141" y="1083" width="27" height="34" />
+        <cmp x="1191" y="1040" width="36" height="75" />
+      </word>
+      <word id="k07-134-02-05" tag="VB" text="forget">
+        <cmp x="1264" y="1036" width="174" height="110" />
+        <cmp x="1447" y="1039" width="24" height="79" />
+        <cmp x="1461" y="1095" width="3" height="3" />
+      </word>
+      <word id="k07-134-02-06" tag="TO" text="to">
+        <cmp x="1514" y="1046" width="46" height="69" />
+        <cmp x="1556" y="1082" width="35" height="35" />
+      </word>
+      <word id="k07-134-02-07" tag="VB" text="leave">
+        <cmp x="1637" y="1047" width="217" height="82" />
+      </word>
+      <word id="k07-134-02-08" tag="ATI" text="the">
+        <cmp x="1869" y="1043" width="159" height="90" />
+      </word>
+      <upper-contour>
+        <point x="364" y="961" />
+        <point x="1878" y="961" />
+      </upper-contour>
+      <lower-contour>
+        <point x="356" y="1156" />
+        <point x="2029" y="1156" />
+      </lower-contour>
+    </line>
+    <line ass="-34" asx="0" asy="1216" character-width="999" dss="-34" dsx="0" dsy="1340" fd0="13582" fd1="2316" fd2="-1044" filter-width="4" id="k07-134-03" lbs="-17" lbx="0" lby="1305" segmentation="ok" slant="80000" stroke-width="5855" threshold="181" text="lights on. You lose half the fun when you" ubs="-67" ubx="0" uby="1270">
+      <word id="k07-134-03-00" tag="NNS" text="lights">
+        <cmp x="354" y="1233" width="164" height="109" />
+        <cmp x="462" y="1254" width="8" height="9" />
+        <cmp x="501" y="1273" width="16" height="33" />
+        <cmp x="526" y="1238" width="24" height="73" />
+        <cmp x="551" y="1266" width="34" height="43" />
+      </word>
+      <word id="k07-134-03-01" tag="RP" text="on">
+        <cmp x="640" y="1256" width="106" height="51" />
+      </word>
+      <word id="k07-134-03-02" tag="." text=".">
+        <cmp x="773" y="1282" width="12" height="12" />
+      </word>
+      <word id="k07-134-03-03" sentence-start="yes" tag="PP2" text="You">
+        <cmp x="827" y="1220" width="85" height="115" />
+        <cmp x="856" y="1242" width="11" height="9" />
+        <cmp x="879" y="1255" width="84" height="41" />
+      </word>
+      <word id="k07-134-03-04" tag="VB" text="lose">
+        <cmp x="993" y="1230" width="168" height="77" />
+      </word>
+      <word id="k07-134-03-05" tag="ABN" text="half">
+        <cmp x="1186" y="1224" width="167" height="116" />
+      </word>
+      <word id="k07-134-03-06" tag="ATI" text="the">
+        <cmp x="1394" y="1227" width="42" height="80" />
+        <cmp x="1442" y="1223" width="103" height="80" />
+      </word>
+      <word id="k07-134-03-07" tag="NN" text="fun">
+        <cmp x="1558" y="1287" width="19" height="6" />
+        <cmp x="1560" y="1217" width="75" height="112" />
+        <cmp x="1614" y="1256" width="89" height="47" />
+      </word>
+      <word id="k07-134-03-08" tag="WRB" text="when">
+        <cmp x="1749" y="1255" width="57" height="46" />
+        <cmp x="1812" y="1232" width="116" height="81" />
+      </word>
+      <word id="k07-134-03-09" tag="PP2" text="you">
+        <cmp x="1960" y="1261" width="51" height="80" />
+        <cmp x="2004" y="1272" width="94" height="36" />
+      </word>
+      <upper-contour>
+        <point x="356" y="1156" />
+        <point x="2029" y="1156" />
+      </upper-contour>
+      <lower-contour>
+        <point x="384" y="1342" />
+        <point x="2007" y="1342" />
+      </lower-contour>
+    </line>
+    <line ass="111" asx="0" asy="1387" character-width="999" dss="111" dsx="0" dsy="1507" fd0="13064" fd1="2072" fd2="-868" filter-width="4" id="k07-134-04" lbs="120" lbx="0" lby="1484" segmentation="ok" slant="75000" stroke-width="5951" threshold="181" text="fumble in the dark. She had many direct" ubs="92" ubx="0" uby="1448">
+      <word id="k07-134-04-00" tag="VB" text="fumble">
+        <cmp x="386" y="1408" width="45" height="89" />
+        <cmp x="424" y="1450" width="93" height="36" />
+        <cmp x="525" y="1411" width="30" height="76" />
+        <cmp x="559" y="1407" width="78" height="82" />
+        <cmp x="586" y="1487" width="5" height="6" />
+      </word>
+      <word id="k07-134-04-01" tag="IN" text="in">
+        <cmp x="689" y="1448" width="58" height="39" />
+        <cmp x="722" y="1420" width="8" height="8" />
+      </word>
+      <word id="k07-134-04-02" tag="ATI" text="the">
+        <cmp x="774" y="1405" width="144" height="81" />
+      </word>
+      <word id="k07-134-04-03" tag="NN" text="dark">
+        <cmp x="948" y="1399" width="53" height="70" />
+        <cmp x="991" y="1386" width="137" height="89" />
+      </word>
+      <word id="k07-134-04-04" tag="." text=".">
+        <cmp x="1154" y="1462" width="11" height="16" />
+      </word>
+      <word id="k07-134-04-05" sentence-start="yes" tag="PP3A" text="She">
+        <cmp x="1194" y="1401" width="171" height="83" />
+      </word>
+      <word id="k07-134-04-06" tag="HVD" text="had">
+        <cmp x="1378" y="1404" width="136" height="80" />
+      </word>
+      <word id="k07-134-04-07" tag="AP" text="many">
+        <cmp x="1562" y="1446" width="35" height="37" />
+        <cmp x="1591" y="1445" width="117" height="37" />
+        <cmp x="1702" y="1438" width="55" height="67" />
+      </word>
+      <word id="k07-134-04-08" tag="JJ" text="direct">
+        <cmp x="1788" y="1407" width="74" height="84" />
+        <cmp x="1861" y="1446" width="44" height="41" />
+        <cmp x="1875" y="1431" width="7" height="6" />
+        <cmp x="1905" y="1441" width="31" height="39" />
+        <cmp x="1913" y="1410" width="93" height="80" />
+      </word>
+      <upper-contour>
+        <point x="384" y="1342" />
+        <point x="2007" y="1342" />
+      </upper-contour>
+      <lower-contour>
+        <point x="384" y="1505" />
+        <point x="1928" y="1505" />
+      </lower-contour>
+    </line>
+    <line ass="-165" asx="0" asy="1577" character-width="999" dss="-165" dsx="0" dsy="1702" fd0="13532" fd1="2352" fd2="-1066" filter-width="4" id="k07-134-05" lbs="-298" lbx="0" lby="1655" segmentation="ok" slant="78000" stroke-width="5756" threshold="177" text="comments like that. Once she quietly" ubs="100" ubx="0" uby="1628">
+      <word id="k07-134-05-00" tag="NNS" text="comments">
+        <cmp x="380" y="1615" width="39" height="49" />
+        <cmp x="388" y="1632" width="70" height="33" />
+        <cmp x="461" y="1629" width="106" height="31" />
+        <cmp x="571" y="1605" width="84" height="62" />
+        <cmp x="657" y="1622" width="21" height="42" />
+      </word>
+      <word id="k07-134-05-01" tag="IN" text="like">
+        <cmp x="722" y="1583" width="92" height="83" />
+        <cmp x="810" y="1610" width="10" height="7" />
+        <cmp x="816" y="1590" width="94" height="82" />
+      </word>
+      <word id="k07-134-05-02" tag="DT" text="that">
+        <cmp x="938" y="1588" width="53" height="75" />
+        <cmp x="992" y="1596" width="23" height="57" />
+        <cmp x="1019" y="1581" width="90" height="76" />
+      </word>
+      <word id="k07-134-05-03" tag="." text=".">
+        <cmp x="1113" y="1650" width="13" height="10" />
+      </word>
+      <word id="k07-134-05-04" sentence-start="yes" tag="RB" text="Once">
+        <cmp x="1196" y="1596" width="76" height="74" />
+        <cmp x="1269" y="1624" width="39" height="43" />
+        <cmp x="1327" y="1625" width="91" height="43" />
+      </word>
+      <word id="k07-134-05-05" tag="PP3A" text="she">
+        <cmp x="1458" y="1621" width="30" height="42" />
+        <cmp x="1490" y="1620" width="11" height="6" />
+        <cmp x="1499" y="1598" width="86" height="64" />
+      </word>
+      <word id="k07-134-05-06" tag="RB" text="quietly">
+        <cmp x="1623" y="1626" width="111" height="75" />
+        <cmp x="1740" y="1626" width="9" height="33" />
+        <cmp x="1751" y="1607" width="8" height="6" />
+        <cmp x="1751" y="1594" width="176" height="115" />
+      </word>
+      <upper-contour>
+        <point x="384" y="1505" />
+        <point x="1928" y="1505" />
+      </upper-contour>
+      <lower-contour>
+        <point x="378" y="1709" />
+        <point x="1928" y="1709" />
+      </lower-contour>
+    </line>
+    <line ass="-349" asx="0" asy="1743" character-width="999" dss="-349" dsx="0" dsy="1868" fd0="13465" fd1="2555" fd2="-413" filter-width="4" id="k07-134-06" lbs="-364" lbx="0" lby="1825" segmentation="ok" slant="76000" stroke-width="5935" threshold="177" text="pushed him back when he kissed her too" ubs="-320" ubx="0" uby="1790">
+      <word id="k07-134-06-00" tag="VBD" text="pushed">
+        <cmp x="366" y="1786" width="47" height="85" />
+        <cmp x="418" y="1790" width="38" height="35" />
+        <cmp x="454" y="1787" width="32" height="46" />
+        <cmp x="486" y="1760" width="115" height="77" />
+      </word>
+      <word id="k07-134-06-01" tag="PP3O" text="him">
+        <cmp x="675" y="1763" width="53" height="67" />
+        <cmp x="732" y="1793" width="80" height="33" />
+        <cmp x="752" y="1779" width="5" height="5" />
+      </word>
+      <word id="k07-134-06-02" tag="RP" text="back">
+        <cmp x="846" y="1754" width="44" height="76" />
+        <cmp x="896" y="1786" width="37" height="39" />
+        <cmp x="950" y="1797" width="22" height="25" />
+        <cmp x="974" y="1768" width="38" height="60" />
+      </word>
+      <word id="k07-134-06-03" tag="WRB" text="when">
+        <cmp x="1065" y="1786" width="65" height="48" />
+        <cmp x="1076" y="1795" width="5" height="5" />
+        <cmp x="1140" y="1750" width="126" height="84" />
+      </word>
+      <word id="k07-134-06-04" tag="PP3A" text="he">
+        <cmp x="1307" y="1750" width="102" height="90" />
+      </word>
+      <word id="k07-134-06-05" tag="VBD" text="kissed">
+        <cmp x="1437" y="1767" width="69" height="84" />
+        <cmp x="1508" y="1786" width="12" height="7" />
+        <cmp x="1516" y="1800" width="40" height="39" />
+        <cmp x="1537" y="1802" width="40" height="38" />
+        <cmp x="1572" y="1768" width="103" height="78" />
+      </word>
+      <word id="k07-134-06-06" tag="PP3O" text="her">
+        <cmp x="1723" y="1769" width="136" height="69" />
+      </word>
+      <word id="k07-134-06-07" tag="QL" text="too">
+        <cmp x="1904" y="1766" width="69" height="69" />
+        <cmp x="1975" y="1804" width="27" height="34" />
+      </word>
+      <upper-contour>
+        <point x="378" y="1709" />
+        <point x="1928" y="1709" />
+      </upper-contour>
+      <lower-contour>
+        <point x="371" y="1862" />
+        <point x="1161" y="1862" />
+      </lower-contour>
+    </line>
+    <line ass="2235" asx="0" asy="1956" character-width="999" dss="2235" dsx="0" dsy="2077" fd0="13672" fd1="2831" fd2="-347" filter-width="3" id="k07-134-07" lbs="2257" lbx="0" lby="2037" segmentation="ok" slant="90000" stroke-width="5708" threshold="181" text="fully and too soon:" ubs="2190" ubx="0" uby="1999">
+      <word id="k07-134-07-00" tag="RB" text="fully">
+        <cmp x="373" y="1943" width="48" height="120" />
+        <cmp x="411" y="1936" width="121" height="86" />
+        <cmp x="538" y="1971" width="37" height="65" />
+        <cmp x="576" y="1972" width="4" height="5" />
+      </word>
+      <word id="k07-134-07-01" tag="CC" text="and">
+        <cmp x="630" y="1965" width="82" height="50" />
+        <cmp x="720" y="1937" width="50" height="70" />
+      </word>
+      <word id="k07-134-07-02" tag="QL" text="too">
+        <cmp x="824" y="1926" width="40" height="90" />
+        <cmp x="861" y="1968" width="47" height="37" />
+      </word>
+      <word id="k07-134-07-03" tag="RB" text="soon">
+        <cmp x="975" y="1950" width="54" height="48" />
+        <cmp x="1024" y="1963" width="26" height="27" />
+        <cmp x="1055" y="1962" width="23" height="31" />
+        <cmp x="1086" y="1962" width="35" height="32" />
+      </word>
+      <word id="k07-134-07-04" tag=":" text=":">
+        <cmp x="1139" y="1982" width="21" height="14" />
+        <cmp x="1148" y="1954" width="9" height="8" />
+      </word>
+      <upper-contour>
+        <point x="371" y="1862" />
+        <point x="1161" y="1862" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

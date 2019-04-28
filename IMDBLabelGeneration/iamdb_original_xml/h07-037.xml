@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-04-11" height="3542" id="h07-037" last-modified="2002-07-17" skew="190" status="final" version="3.0_beta" width="2479" writer-id="386">
+  <machine-printed-part>
+    <machine-print-line text="The establishment of open markets in the town centres has helped to bring custom to" />
+    <machine-print-line text="the shops and the initial fears of some of the shopkeepers that their trade would suffer" />
+    <machine-print-line text="have proved unfounded. Shopping on two levels has been introduced in a number of" />
+    <machine-print-line text="towns and has added to the interest of the town centre." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-45" asx="0" asy="705" character-width="999" dss="-45" dsx="0" dsy="815" fd0="14443" fd1="2312" fd2="-1403" filter-width="4" id="h07-037-00" lbs="-85" lbx="0" lby="778" segmentation="ok" slant="55000" stroke-width="5795" threshold="180" text="The establishment of open markets" ubs="34" ubx="0" uby="745">
+      <word id="h07-037-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="430" y="707" width="90" height="14" />
+        <cmp x="432" y="715" width="49" height="72" />
+        <cmp x="490" y="707" width="100" height="73" />
+      </word>
+      <word id="h07-037-00-01" tag="NN" text="establishment">
+        <cmp x="660" y="735" width="51" height="49" />
+        <cmp x="725" y="740" width="32" height="37" />
+        <cmp x="759" y="709" width="58" height="72" />
+        <cmp x="806" y="744" width="53" height="43" />
+        <cmp x="868" y="714" width="49" height="70" />
+        <cmp x="930" y="721" width="58" height="63" />
+        <cmp x="987" y="744" width="40" height="48" />
+        <cmp x="1000" y="717" width="5" height="8" />
+        <cmp x="1035" y="707" width="54" height="82" />
+        <cmp x="1087" y="743" width="77" height="48" />
+        <cmp x="1180" y="719" width="188" height="67" />
+      </word>
+      <word id="h07-037-00-02" tag="INO" text="of">
+        <cmp x="1408" y="744" width="51" height="45" />
+        <cmp x="1455" y="707" width="78" height="106" />
+      </word>
+      <word id="h07-037-00-03" tag="JJ" text="open">
+        <cmp x="1568" y="752" width="42" height="42" />
+        <cmp x="1594" y="755" width="74" height="63" />
+        <cmp x="1676" y="748" width="123" height="38" />
+      </word>
+      <word id="h07-037-00-04" tag="NNS" text="markets">
+        <cmp x="1839" y="744" width="80" height="38" />
+        <cmp x="1930" y="741" width="87" height="41" />
+        <cmp x="2019" y="712" width="141" height="70" />
+        <cmp x="2149" y="739" width="44" height="45" />
+      </word>
+      <lower-contour>
+        <point x="446" y="819" />
+        <point x="2064" y="819" />
+      </lower-contour>
+    </line>
+    <line ass="237" asx="0" asy="900" character-width="999" dss="237" dsx="0" dsy="1000" fd0="14437" fd1="2882" fd2="-540" filter-width="4" id="h07-037-01" lbs="169" lbx="0" lby="972" segmentation="ok" slant="55000" stroke-width="5804" threshold="180" text="in the town centres has helped to" ubs="375" ubx="0" uby="938">
+      <word id="h07-037-01-00" tag="IN" text="in">
+        <cmp x="448" y="948" width="14" height="24" />
+        <cmp x="460" y="935" width="9" height="10" />
+        <cmp x="470" y="936" width="50" height="32" />
+        <cmp x="487" y="897" width="4" height="11" />
+      </word>
+      <word id="h07-037-01-01" tag="ATI" text="the">
+        <cmp x="553" y="915" width="62" height="68" />
+        <cmp x="595" y="905" width="99" height="70" />
+      </word>
+      <word id="h07-037-01-02" tag="NN" text="town">
+        <cmp x="722" y="904" width="80" height="70" />
+        <cmp x="775" y="939" width="5" height="5" />
+        <cmp x="806" y="930" width="76" height="42" />
+        <cmp x="888" y="927" width="91" height="44" />
+      </word>
+      <word id="h07-037-01-03" tag="NNS" text="centres">
+        <cmp x="1036" y="928" width="45" height="42" />
+        <cmp x="1085" y="927" width="120" height="45" />
+        <cmp x="1214" y="897" width="145" height="77" />
+      </word>
+      <word id="h07-037-01-04" tag="HVZ" text="has">
+        <cmp x="1412" y="898" width="108" height="75" />
+        <cmp x="1522" y="928" width="40" height="37" />
+      </word>
+      <word id="h07-037-01-05" tag="VBN" text="helped">
+        <cmp x="1585" y="898" width="111" height="77" />
+        <cmp x="1701" y="905" width="38" height="55" />
+        <cmp x="1715" y="930" width="73" height="64" />
+        <cmp x="1809" y="928" width="44" height="42" />
+        <cmp x="1855" y="901" width="83" height="67" />
+      </word>
+      <word id="h07-037-01-06" tag="TO" text="to">
+        <cmp x="1968" y="895" width="96" height="78" />
+      </word>
+      <upper-contour>
+        <point x="446" y="819" />
+        <point x="2064" y="819" />
+      </upper-contour>
+      <lower-contour>
+        <point x="475" y="995" />
+        <point x="2064" y="995" />
+      </lower-contour>
+    </line>
+    <line ass="347" asx="0" asy="1081" character-width="999" dss="347" dsx="0" dsy="1186" fd0="14555" fd1="2690" fd2="-687" filter-width="4" id="h07-037-02" lbs="484" lbx="0" lby="1158" segmentation="ok" slant="53000" stroke-width="5824" threshold="180" text="bring custom to the shops and the" ubs="72" ubx="0" uby="1111">
+      <word id="h07-037-02-00" tag="VB" text="bring">
+        <cmp x="477" y="1092" width="51" height="65" />
+        <cmp x="515" y="1083" width="5" height="7" />
+        <cmp x="534" y="1114" width="41" height="40" />
+        <cmp x="579" y="1115" width="21" height="32" />
+        <cmp x="608" y="1114" width="46" height="36" />
+        <cmp x="612" y="1086" width="6" height="7" />
+        <cmp x="648" y="1114" width="56" height="69" />
+      </word>
+      <word id="h07-037-02-01" tag="NN" text="custom">
+        <cmp x="766" y="1107" width="49" height="43" />
+        <cmp x="822" y="1112" width="56" height="35" />
+        <cmp x="835" y="1114" width="5" height="4" />
+        <cmp x="880" y="1106" width="41" height="45" />
+        <cmp x="928" y="1082" width="69" height="64" />
+        <cmp x="996" y="1104" width="91" height="43" />
+      </word>
+      <word id="h07-037-02-02" tag="IN" text="to">
+        <cmp x="1145" y="1075" width="77" height="68" />
+      </word>
+      <word id="h07-037-02-03" tag="ATI" text="the">
+        <cmp x="1266" y="1081" width="65" height="68" />
+        <cmp x="1310" y="1082" width="99" height="66" />
+      </word>
+      <word id="h07-037-02-04" tag="NNS" text="shops">
+        <cmp x="1449" y="1102" width="48" height="46" />
+        <cmp x="1487" y="1087" width="54" height="56" />
+        <cmp x="1530" y="1075" width="8" height="10" />
+        <cmp x="1559" y="1105" width="27" height="33" />
+        <cmp x="1563" y="1104" width="79" height="69" />
+        <cmp x="1638" y="1102" width="47" height="37" />
+      </word>
+      <word id="h07-037-02-05" tag="CC" text="and">
+        <cmp x="1740" y="1105" width="116" height="44" />
+        <cmp x="1877" y="1086" width="78" height="67" />
+      </word>
+      <word id="h07-037-02-06" tag="ATI" text="the">
+        <cmp x="1999" y="1082" width="71" height="66" />
+        <cmp x="2046" y="1084" width="107" height="66" />
+      </word>
+      <upper-contour>
+        <point x="475" y="995" />
+        <point x="2064" y="995" />
+      </upper-contour>
+      <lower-contour>
+        <point x="486" y="1182" />
+        <point x="1863" y="1182" />
+      </lower-contour>
+    </line>
+    <line ass="-418" asx="0" asy="1244" character-width="999" dss="-418" dsx="0" dsy="1352" fd0="14286" fd1="2533" fd2="-554" filter-width="3" id="h07-037-03" lbs="-299" lbx="0" lby="1321" segmentation="ok" slant="56000" stroke-width="5659" threshold="181" text="initial fears of some of the" ubs="-655" ubx="0" uby="1285">
+      <word id="h07-037-03-00" tag="JJ" text="initial">
+        <cmp x="488" y="1297" width="22" height="35" />
+        <cmp x="508" y="1291" width="5" height="5" />
+        <cmp x="514" y="1293" width="45" height="40" />
+        <cmp x="522" y="1267" width="4" height="8" />
+        <cmp x="570" y="1293" width="23" height="38" />
+        <cmp x="608" y="1267" width="59" height="64" />
+        <cmp x="614" y="1262" width="4" height="6" />
+        <cmp x="692" y="1255" width="5" height="7" />
+        <cmp x="694" y="1261" width="117" height="68" />
+      </word>
+      <word id="h07-037-03-01" tag="NNS" text="fears">
+        <cmp x="851" y="1256" width="252" height="104" />
+      </word>
+      <word id="h07-037-03-02" tag="INO" text="of">
+        <cmp x="1155" y="1288" width="43" height="41" />
+        <cmp x="1211" y="1253" width="72" height="95" />
+        <cmp x="1277" y="1261" width="4" height="5" />
+      </word>
+      <word id="h07-037-03-03" tag="DTI" text="some">
+        <cmp x="1310" y="1285" width="49" height="46" />
+        <cmp x="1354" y="1287" width="45" height="41" />
+        <cmp x="1395" y="1291" width="155" height="44" />
+      </word>
+      <word id="h07-037-03-04" tag="INO" text="of">
+        <cmp x="1580" y="1300" width="44" height="37" />
+        <cmp x="1624" y="1267" width="68" height="99" />
+      </word>
+      <word id="h07-037-03-05" tag="ATI" text="the">
+        <cmp x="1715" y="1276" width="66" height="69" />
+        <cmp x="1759" y="1275" width="103" height="63" />
+      </word>
+      <upper-contour>
+        <point x="486" y="1182" />
+        <point x="1863" y="1182" />
+      </upper-contour>
+      <lower-contour>
+        <point x="492" y="1368" />
+        <point x="1863" y="1368" />
+      </lower-contour>
+    </line>
+    <line ass="157" asx="0" asy="1437" character-width="999" dss="157" dsx="0" dsy="1538" fd0="14720" fd1="2287" fd2="-1093" filter-width="4" id="h07-037-04" lbs="72" lbx="0" lby="1507" segmentation="ok" slant="54000" stroke-width="5832" threshold="178" text="shopkeepers that their trade" ubs="328" ubx="0" uby="1477">
+      <word id="h07-037-04-00" tag="NNS" text="shopkeepers">
+        <cmp x="494" y="1462" width="63" height="52" />
+        <cmp x="551" y="1436" width="52" height="77" />
+        <cmp x="620" y="1470" width="35" height="39" />
+        <cmp x="656" y="1474" width="72" height="61" />
+        <cmp x="744" y="1436" width="63" height="73" />
+        <cmp x="810" y="1459" width="83" height="44" />
+        <cmp x="875" y="1475" width="73" height="63" />
+        <cmp x="950" y="1469" width="95" height="46" />
+        <cmp x="1042" y="1470" width="50" height="40" />
+      </word>
+      <word id="h07-037-04-01" tag="CS" text="that">
+        <cmp x="1142" y="1443" width="57" height="66" />
+        <cmp x="1179" y="1439" width="61" height="72" />
+        <cmp x="1189" y="1438" width="5" height="6" />
+        <cmp x="1251" y="1442" width="119" height="65" />
+      </word>
+      <word id="h07-037-04-02" tag="PP$" text="their">
+        <cmp x="1396" y="1442" width="68" height="78" />
+        <cmp x="1441" y="1443" width="140" height="73" />
+        <cmp x="1584" y="1467" width="52" height="40" />
+        <cmp x="1596" y="1443" width="5" height="13" />
+      </word>
+      <word id="h07-037-04-03" tag="NN" text="trade">
+        <cmp x="1669" y="1439" width="92" height="75" />
+        <cmp x="1766" y="1459" width="51" height="45" />
+        <cmp x="1829" y="1436" width="111" height="70" />
+      </word>
+      <upper-contour>
+        <point x="492" y="1368" />
+        <point x="1863" y="1368" />
+      </upper-contour>
+      <lower-contour>
+        <point x="509" y="1537" />
+        <point x="1941" y="1537" />
+      </lower-contour>
+    </line>
+    <line ass="325" asx="0" asy="1616" character-width="999" dss="325" dsx="0" dsy="1729" fd0="14410" fd1="2773" fd2="-431" filter-width="4" id="h07-037-05" lbs="359" lbx="0" lby="1694" segmentation="ok" slant="54000" stroke-width="5859" threshold="174" text="would suffer have proved un-" ubs="257" ubx="0" uby="1656">
+      <word id="h07-037-05-00" tag="MD" text="would">
+        <cmp x="511" y="1651" width="79" height="45" />
+        <cmp x="605" y="1652" width="37" height="42" />
+        <cmp x="650" y="1655" width="68" height="42" />
+        <cmp x="660" y="1658" width="5" height="8" />
+        <cmp x="732" y="1632" width="38" height="62" />
+        <cmp x="768" y="1628" width="72" height="65" />
+      </word>
+      <word id="h07-037-05-01" tag="VB" text="suffer">
+        <cmp x="874" y="1650" width="56" height="45" />
+        <cmp x="933" y="1645" width="55" height="44" />
+        <cmp x="983" y="1611" width="95" height="114" />
+        <cmp x="1061" y="1642" width="93" height="41" />
+      </word>
+      <word id="h07-037-05-02" tag="HV" text="have">
+        <cmp x="1194" y="1610" width="184" height="77" />
+        <cmp x="1381" y="1634" width="40" height="40" />
+      </word>
+      <word id="h07-037-05-03" tag="VBN" text="proved">
+        <cmp x="1454" y="1637" width="85" height="73" />
+        <cmp x="1544" y="1642" width="39" height="36" />
+        <cmp x="1598" y="1647" width="40" height="41" />
+        <cmp x="1659" y="1649" width="47" height="37" />
+        <cmp x="1710" y="1649" width="38" height="39" />
+        <cmp x="1754" y="1620" width="79" height="73" />
+      </word>
+      <word id="h07-037-05-04" tag="JJ-" text="un-">
+        <cmp x="1867" y="1643" width="154" height="47" />
+        <cmp x="2073" y="1656" width="39" height="10" />
+      </word>
+      <upper-contour>
+        <point x="509" y="1537" />
+        <point x="1941" y="1537" />
+      </upper-contour>
+      <lower-contour>
+        <point x="509" y="1725" />
+        <point x="2113" y="1725" />
+      </lower-contour>
+    </line>
+    <line ass="287" asx="0" asy="1785" character-width="999" dss="287" dsx="0" dsy="1896" fd0="14350" fd1="2381" fd2="-1231" filter-width="4" id="h07-037-06" lbs="290" lbx="0" lby="1870" segmentation="ok" slant="51000" stroke-width="5815" threshold="176" text="founded. Shopping on two levels" ubs="279" ubx="0" uby="1838">
+      <word id="h07-037-06-00" tag="-JJ" text="founded">
+        <cmp x="495" y="1783" width="114" height="109" />
+        <cmp x="617" y="1825" width="54" height="44" />
+        <cmp x="675" y="1835" width="54" height="35" />
+        <cmp x="746" y="1800" width="103" height="69" />
+        <cmp x="859" y="1788" width="86" height="82" />
+      </word>
+      <word id="h07-037-06-01" tag="." text=".">
+        <cmp x="987" y="1856" width="8" height="10" />
+      </word>
+      <word id="h07-037-06-02" sentence-start="yes" tag="NN" text="Shopping">
+        <cmp x="1069" y="1798" width="70" height="63" />
+        <cmp x="1127" y="1793" width="51" height="67" />
+        <cmp x="1198" y="1820" width="36" height="37" />
+        <cmp x="1220" y="1826" width="62" height="59" />
+        <cmp x="1264" y="1829" width="67" height="59" />
+        <cmp x="1341" y="1833" width="19" height="25" />
+        <cmp x="1359" y="1829" width="48" height="37" />
+        <cmp x="1377" y="1789" width="6" height="8" />
+        <cmp x="1408" y="1825" width="63" height="65" />
+      </word>
+      <word id="h07-037-06-03" tag="IN" text="on">
+        <cmp x="1503" y="1823" width="44" height="42" />
+        <cmp x="1549" y="1824" width="58" height="34" />
+      </word>
+      <word id="h07-037-06-04" tag="CD" text="two">
+        <cmp x="1644" y="1792" width="125" height="74" />
+        <cmp x="1781" y="1823" width="38" height="39" />
+      </word>
+      <word id="h07-037-06-05" tag="NNS" text="levels">
+        <cmp x="1868" y="1803" width="67" height="63" />
+        <cmp x="1942" y="1827" width="48" height="39" />
+        <cmp x="1993" y="1798" width="103" height="70" />
+        <cmp x="2088" y="1822" width="50" height="39" />
+      </word>
+      <upper-contour>
+        <point x="509" y="1725" />
+        <point x="2113" y="1725" />
+      </upper-contour>
+      <lower-contour>
+        <point x="504" y="1890" />
+        <point x="2139" y="1890" />
+      </lower-contour>
+    </line>
+    <line ass="10" asx="0" asy="1968" character-width="999" dss="10" dsx="0" dsy="2053" fd0="14440" fd1="2456" fd2="-690" filter-width="4" id="h07-037-07" lbs="-11" lbx="0" lby="2041" segmentation="err" slant="53000" stroke-width="5892" threshold="177" text="has been introduced in a number" ubs="54" ubx="0" uby="2007">
+      <word id="h07-037-07-00" tag="HVZ" text="has">
+        <cmp x="506" y="1984" width="106" height="69" />
+        <cmp x="625" y="2002" width="47" height="45" />
+      </word>
+      <word id="h07-037-07-01" tag="BEN" text="been">
+        <cmp x="714" y="1983" width="47" height="61" />
+        <cmp x="750" y="1976" width="4" height="5" />
+        <cmp x="783" y="2005" width="160" height="40" />
+      </word>
+      <word id="h07-037-07-02" tag="VBN" text="introduced">
+        <cmp x="985" y="2007" width="31" height="41" />
+        <cmp x="1014" y="2008" width="45" height="31" />
+        <cmp x="1022" y="1983" width="10" height="15" />
+        <cmp x="1071" y="1971" width="81" height="71" />
+        <cmp x="1165" y="1990" width="37" height="40" />
+        <cmp x="1205" y="1971" width="130" height="66" />
+        <cmp x="1341" y="1996" width="89" height="45" />
+        <cmp x="1432" y="1968" width="87" height="73" />
+      </word>
+      <word id="h07-037-07-03" tag="IN" text="in">
+        <cmp x="1535" y="2015" width="20" height="28" />
+        <cmp x="1561" y="2008" width="54" height="36" />
+      </word>
+      <word id="h07-037-07-04" tag="AT" text="a">
+        <cmp x="1664" y="2001" width="60" height="44" />
+      </word>
+      <word id="h07-037-07-05" tag="NN" text="number">
+        <cmp x="1759" y="2006" width="136" height="43" />
+        <cmp x="1900" y="2010" width="88" height="38" />
+        <cmp x="1996" y="1975" width="60" height="68" />
+        <cmp x="2071" y="1998" width="116" height="46" />
+      </word>
+      <upper-contour>
+        <point x="504" y="1890" />
+        <point x="2139" y="1890" />
+      </upper-contour>
+      <lower-contour>
+        <point x="504" y="2052" />
+        <point x="1951" y="2052" />
+      </lower-contour>
+    </line>
+    <line ass="347" asx="0" asy="2150" character-width="999" dss="347" dsx="0" dsy="2268" fd0="14176" fd1="2687" fd2="-725" filter-width="4" id="h07-037-08" lbs="381" lbx="0" lby="2232" segmentation="ok" slant="56000" stroke-width="5715" threshold="177" text="of towns and has added to" ubs="279" ubx="0" uby="2191">
+      <word id="h07-037-08-00" tag="INO" text="of">
+        <cmp x="497" y="2183" width="50" height="47" />
+        <cmp x="538" y="2147" width="86" height="118" />
+      </word>
+      <word id="h07-037-08-01" tag="NNS" text="towns">
+        <cmp x="683" y="2161" width="90" height="71" />
+        <cmp x="780" y="2185" width="73" height="46" />
+        <cmp x="849" y="2189" width="58" height="40" />
+        <cmp x="919" y="2184" width="47" height="43" />
+      </word>
+      <word id="h07-037-08-02" tag="CC" text="and">
+        <cmp x="1016" y="2181" width="117" height="45" />
+        <cmp x="1149" y="2155" width="77" height="71" />
+      </word>
+      <word id="h07-037-08-03" tag="HVZ" text="has">
+        <cmp x="1278" y="2158" width="107" height="71" />
+        <cmp x="1396" y="2182" width="45" height="45" />
+      </word>
+      <word id="h07-037-08-04" tag="VBN" text="added">
+        <cmp x="1493" y="2183" width="58" height="38" />
+        <cmp x="1565" y="2157" width="75" height="68" />
+        <cmp x="1634" y="2157" width="102" height="66" />
+        <cmp x="1743" y="2150" width="90" height="77" />
+      </word>
+      <word id="h07-037-08-05" tag="IN" text="to">
+        <cmp x="1851" y="2165" width="99" height="62" />
+      </word>
+      <upper-contour>
+        <point x="504" y="2052" />
+        <point x="1951" y="2052" />
+      </upper-contour>
+      <lower-contour>
+        <point x="497" y="2264" />
+        <point x="1951" y="2264" />
+      </lower-contour>
+    </line>
+    <line ass="-128" asx="0" asy="2318" character-width="999" dss="-128" dsx="0" dsy="2429" fd0="14504" fd1="2376" fd2="-769" filter-width="3" id="h07-037-09" lbs="-146" lbx="0" lby="2394" segmentation="ok" slant="53000" stroke-width="5684" threshold="173" text="the interest of the town centre" ubs="-93" ubx="0" uby="2369">
+      <word id="h07-037-09-00" tag="ATI" text="the">
+        <cmp x="499" y="2327" width="57" height="74" />
+        <cmp x="548" y="2320" width="108" height="78" />
+      </word>
+      <word id="h07-037-09-01" tag="NN" text="interest">
+        <cmp x="721" y="2370" width="23" height="36" />
+        <cmp x="749" y="2370" width="50" height="34" />
+        <cmp x="770" y="2335" width="3" height="6" />
+        <cmp x="771" y="2328" width="6" height="6" />
+        <cmp x="824" y="2330" width="68" height="78" />
+        <cmp x="883" y="2355" width="121" height="52" />
+        <cmp x="1018" y="2362" width="47" height="48" />
+        <cmp x="1073" y="2327" width="61" height="73" />
+      </word>
+      <word id="h07-037-09-02" tag="INO" text="of">
+        <cmp x="1171" y="2357" width="47" height="48" />
+        <cmp x="1196" y="2376" width="5" height="3" />
+        <cmp x="1211" y="2329" width="86" height="104" />
+        <cmp x="1283" y="2346" width="4" height="4" />
+      </word>
+      <word id="h07-037-09-03" tag="ATI" text="the">
+        <cmp x="1328" y="2337" width="61" height="74" />
+        <cmp x="1374" y="2335" width="111" height="72" />
+      </word>
+      <word id="h07-037-09-04" tag="NN" text="town">
+        <cmp x="1535" y="2324" width="87" height="82" />
+        <cmp x="1628" y="2358" width="76" height="45" />
+        <cmp x="1709" y="2358" width="96" height="46" />
+        <cmp x="1731" y="2361" width="7" height="8" />
+      </word>
+      <word id="h07-037-09-05" tag="NN" text="centre">
+        <cmp x="1840" y="2362" width="54" height="44" />
+        <cmp x="1894" y="2360" width="127" height="45" />
+        <cmp x="2013" y="2324" width="142" height="76" />
+      </word>
+      <upper-contour>
+        <point x="497" y="2264" />
+        <point x="1951" y="2264" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

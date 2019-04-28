@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-16" height="3542" id="c02-082" last-modified="2002-07-24" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="148">
+  <machine-printed-part>
+    <machine-print-line text="BELMONDO reappears at the Paris Pullman in Moderato Cantabile (curiously trans-" />
+    <machine-print-line text="lated into Seven Days... Seven Nights ... A certificate), Peter Brook&apos;s film made in" />
+    <machine-print-line text="France and shown last autumn at the London Film Festival. In spite of magnificent" />
+    <machine-print-line text="performances from him and from Jeanne Moreau, this has been fairly well trounced" />
+    <machine-print-line text="by the critics wherever it has appeared. Leisurely, even slow, rhythmically repetitive," />
+    <machine-print-line text="the mysteriously simple story takes place on the banks of the Garonne, which becomes" />
+    <machine-print-line text="an unforgettable image." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-132" asx="0" asy="879" character-width="999" dss="-132" dsx="0" dsy="986" fd0="12858" fd1="2627" fd2="-1254" filter-width="4" id="c02-082-00" lbs="-182" lbx="0" lby="951" segmentation="err" slant="101000" stroke-width="5849" threshold="184" text="Belmondo reappears at the Paris Pullman" ubs="-33" ubx="0" uby="927">
+      <word id="c02-082-00-00" sentence-start="yes" tag="NP" text="Belmondo">
+        <cmp x="328" y="883" width="438" height="84" />
+      </word>
+      <word id="c02-082-00-01" tag="VBZ" text="reappears">
+        <cmp x="819" y="921" width="117" height="41" />
+        <cmp x="938" y="921" width="36" height="68" />
+        <cmp x="975" y="919" width="214" height="65" />
+      </word>
+      <word id="c02-082-00-02" tag="IN" text="at">
+        <cmp x="1241" y="908" width="94" height="54" />
+      </word>
+      <word id="c02-082-00-03" tag="ATI" text="the">
+        <cmp x="1381" y="899" width="141" height="67" />
+      </word>
+      <word id="c02-082-00-04" tag="NP" text="Paris">
+        <cmp x="1541" y="883" width="70" height="79" />
+        <cmp x="1584" y="920" width="5" height="5" />
+        <cmp x="1611" y="919" width="105" height="47" />
+        <cmp x="1709" y="911" width="4" height="6" />
+        <cmp x="1722" y="915" width="44" height="48" />
+      </word>
+      <word id="c02-082-00-05" tag="NP" text="Pullman">
+        <cmp x="1800" y="886" width="70" height="77" />
+        <cmp x="1874" y="912" width="124" height="53" />
+        <cmp x="1997" y="915" width="173" height="49" />
+      </word>
+      <lower-contour>
+        <point x="326" y="989" />
+        <point x="2139" y="989" />
+      </lower-contour>
+    </line>
+    <line ass="153" asx="0" asy="1072" character-width="999" dss="153" dsx="0" dsy="1182" fd0="12921" fd1="2919" fd2="-843" filter-width="4" id="c02-082-01" lbs="193" lbx="0" lby="1141" segmentation="ok" slant="98000" stroke-width="5829" threshold="184" text="in Moderato Cantabile (curiously trans-" ubs="72" ubx="0" uby="1107">
+      <word id="c02-082-01-00" tag="IN" text="in">
+        <cmp x="325" y="1082" width="9" height="7" />
+        <cmp x="333" y="1100" width="88" height="47" />
+      </word>
+      <word id="c02-082-01-01" tag="&amp;FW" text="Moderato">
+        <cmp x="500" y="1071" width="215" height="73" />
+        <cmp x="722" y="1101" width="64" height="41" />
+        <cmp x="784" y="1082" width="22" height="56" />
+        <cmp x="804" y="1103" width="54" height="41" />
+      </word>
+      <word id="c02-082-01-02" tag="&amp;FW" text="Cantabile">
+        <cmp x="935" y="1080" width="50" height="58" />
+        <cmp x="985" y="1097" width="112" height="47" />
+        <cmp x="1089" y="1083" width="20" height="56" />
+        <cmp x="1112" y="1081" width="103" height="61" />
+        <cmp x="1215" y="1087" width="10" height="5" />
+        <cmp x="1216" y="1081" width="93" height="59" />
+      </word>
+      <word id="c02-082-01-03" tag="(" text="(">
+        <cmp x="1382" y="1074" width="39" height="91" />
+      </word>
+      <word id="c02-082-01-04" tag="RB" text="curiously">
+        <cmp x="1433" y="1096" width="153" height="48" />
+        <cmp x="1575" y="1082" width="7" height="6" />
+        <cmp x="1590" y="1105" width="159" height="38" />
+        <cmp x="1744" y="1085" width="14" height="50" />
+        <cmp x="1765" y="1102" width="71" height="77" />
+      </word>
+      <word id="c02-082-01-05" tag="VBN-" text="trans-">
+        <cmp x="1874" y="1074" width="56" height="64" />
+        <cmp x="1931" y="1091" width="153" height="53" />
+        <cmp x="2103" y="1106" width="35" height="7" />
+      </word>
+      <upper-contour>
+        <point x="326" y="989" />
+        <point x="2139" y="989" />
+      </upper-contour>
+      <lower-contour>
+        <point x="338" y="1179" />
+        <point x="2113" y="1179" />
+      </lower-contour>
+    </line>
+    <line ass="-29" asx="0" asy="1252" character-width="999" dss="-29" dsx="0" dsy="1361" fd0="13432" fd1="2699" fd2="-1030" filter-width="4" id="c02-082-02" lbs="85" lbx="0" lby="1317" segmentation="err" slant="103000" stroke-width="5900" threshold="182" text="lated into Seven Days... Seven Nights ..." ubs="-259" ubx="0" uby="1287">
+      <word id="c02-082-02-00" tag="-VBN" text="lated">
+        <cmp x="340" y="1256" width="83" height="66" />
+        <cmp x="425" y="1258" width="123" height="64" />
+      </word>
+      <word id="c02-082-02-01" tag="IN" text="into">
+        <cmp x="602" y="1264" width="10" height="5" />
+        <cmp x="602" y="1290" width="82" height="33" />
+        <cmp x="682" y="1263" width="73" height="61" />
+      </word>
+      <word id="c02-082-02-02" tag="CD" text="Seven">
+        <cmp x="817" y="1261" width="63" height="56" />
+        <cmp x="834" y="1310" width="21" height="8" />
+        <cmp x="881" y="1280" width="171" height="43" />
+      </word>
+      <word id="c02-082-02-03" tag="NNS" text="Days">
+        <cmp x="1072" y="1253" width="234" height="108" />
+        <cmp x="1080" y="1269" width="5" height="5" />
+      </word>
+      <word id="c02-082-02-04" tag="..." text="...">
+        <cmp x="1328" y="1314" width="7" height="7" />
+        <cmp x="1354" y="1313" width="6" height="5" />
+        <cmp x="1385" y="1311" width="5" height="6" />
+        <cmp x="1407" y="1313" width="8" height="7" />
+        <cmp x="1435" y="1313" width="6" height="7" />
+      </word>
+      <word id="c02-082-02-05" tag="CD" text="Seven">
+        <cmp x="1481" y="1260" width="54" height="62" />
+        <cmp x="1538" y="1281" width="187" height="41" />
+      </word>
+      <word id="c02-082-02-06" tag="NNS" text="Nights">
+        <cmp x="1775" y="1257" width="61" height="64" />
+        <cmp x="1849" y="1268" width="10" height="9" />
+        <cmp x="1852" y="1294" width="6" height="27" />
+        <cmp x="1870" y="1283" width="46" height="79" />
+        <cmp x="1906" y="1265" width="65" height="54" />
+        <cmp x="1962" y="1264" width="84" height="52" />
+      </word>
+      <word id="c02-082-02-07" tag="..." text="...">
+        <cmp x="2058" y="1306" width="8" height="7" />
+        <cmp x="2082" y="1308" width="6" height="6" />
+        <cmp x="2106" y="1312" width="7" height="8" />
+      </word>
+      <upper-contour>
+        <point x="338" y="1179" />
+        <point x="2113" y="1179" />
+      </upper-contour>
+      <lower-contour>
+        <point x="338" y="1362" />
+        <point x="2083" y="1362" />
+      </lower-contour>
+    </line>
+    <line ass="113" asx="0" asy="1419" character-width="999" dss="113" dsx="0" dsy="1537" fd0="13104" fd1="2514" fd2="-1076" filter-width="4" id="c02-082-03" lbs="143" lbx="0" lby="1494" segmentation="ok" slant="101000" stroke-width="5869" threshold="181" text="A certificate), Peter Brook&apos;s film made" ubs="55" ubx="0" uby="1465">
+      <word id="c02-082-03-00" tag="ZZ" text="A">
+        <cmp x="333" y="1434" width="59" height="61" />
+      </word>
+      <word id="c02-082-03-01" tag="NN" text="certificate">
+        <cmp x="474" y="1459" width="106" height="50" />
+        <cmp x="581" y="1444" width="64" height="63" />
+        <cmp x="634" y="1447" width="12" height="8" />
+        <cmp x="655" y="1438" width="51" height="91" />
+        <cmp x="697" y="1457" width="8" height="4" />
+        <cmp x="714" y="1466" width="49" height="32" />
+        <cmp x="767" y="1446" width="134" height="55" />
+      </word>
+      <word id="c02-082-03-02" tag=")" text=")">
+        <cmp x="896" y="1418" width="38" height="95" />
+      </word>
+      <word id="c02-082-03-03" tag="," text=",">
+        <cmp x="965" y="1482" width="9" height="20" />
+      </word>
+      <word id="c02-082-03-04" tag="NP" text="Peter">
+        <cmp x="994" y="1419" width="72" height="79" />
+        <cmp x="1062" y="1442" width="141" height="57" />
+      </word>
+      <word id="c02-082-03-05" tag="NP$" text="Brook&apos;s">
+        <cmp x="1251" y="1418" width="72" height="89" />
+        <cmp x="1326" y="1442" width="160" height="59" />
+        <cmp x="1498" y="1422" width="9" height="20" />
+        <cmp x="1521" y="1449" width="56" height="49" />
+      </word>
+      <word id="c02-082-03-06" tag="NN" text="film">
+        <cmp x="1629" y="1432" width="63" height="103" />
+        <cmp x="1681" y="1461" width="11" height="6" />
+        <cmp x="1695" y="1447" width="115" height="51" />
+      </word>
+      <word id="c02-082-03-07" tag="VBN" text="made">
+        <cmp x="1864" y="1455" width="126" height="44" />
+        <cmp x="1992" y="1454" width="91" height="48" />
+      </word>
+      <upper-contour>
+        <point x="338" y="1362" />
+        <point x="2083" y="1362" />
+      </upper-contour>
+      <lower-contour>
+        <point x="331" y="1535" />
+        <point x="2083" y="1535" />
+      </lower-contour>
+    </line>
+    <line ass="310" asx="0" asy="1607" character-width="999" dss="310" dsx="0" dsy="1691" fd0="12990" fd1="2967" fd2="-552" filter-width="4" id="c02-082-04" lbs="392" lbx="0" lby="1683" segmentation="ok" slant="100000" stroke-width="5759" threshold="179" text="in France and shown last autumn at" ubs="146" ubx="0" uby="1648">
+      <word id="c02-082-04-00" tag="IN" text="in">
+        <cmp x="324" y="1625" width="10" height="6" />
+        <cmp x="329" y="1648" width="81" height="36" />
+      </word>
+      <word id="c02-082-04-01" tag="NP" text="France">
+        <cmp x="476" y="1605" width="65" height="15" />
+        <cmp x="505" y="1625" width="33" height="57" />
+        <cmp x="547" y="1638" width="23" height="39" />
+        <cmp x="575" y="1635" width="132" height="53" />
+        <cmp x="701" y="1642" width="91" height="33" />
+      </word>
+      <word id="c02-082-04-02" tag="CC" text="and">
+        <cmp x="838" y="1622" width="175" height="61" />
+      </word>
+      <word id="c02-082-04-03" tag="VBN" text="shown">
+        <cmp x="1078" y="1636" width="50" height="47" />
+        <cmp x="1118" y="1616" width="67" height="63" />
+        <cmp x="1180" y="1641" width="112" height="36" />
+        <cmp x="1297" y="1640" width="63" height="39" />
+      </word>
+      <word id="c02-082-04-04" tag="AP" text="last">
+        <cmp x="1422" y="1616" width="136" height="61" />
+        <cmp x="1547" y="1609" width="26" height="68" />
+      </word>
+      <word id="c02-082-04-05" tag="NN" text="autumn">
+        <cmp x="1633" y="1629" width="118" height="53" />
+        <cmp x="1749" y="1613" width="168" height="61" />
+        <cmp x="1917" y="1645" width="53" height="37" />
+      </word>
+      <word id="c02-082-04-06" tag="IN" text="at">
+        <cmp x="2006" y="1621" width="82" height="60" />
+      </word>
+      <upper-contour>
+        <point x="331" y="1535" />
+        <point x="2083" y="1535" />
+      </upper-contour>
+      <lower-contour>
+        <point x="322" y="1688" />
+        <point x="2032" y="1688" />
+      </lower-contour>
+    </line>
+    <line ass="-158" asx="0" asy="1777" character-width="999" dss="-158" dsx="0" dsy="1884" fd0="12946" fd1="3017" fd2="-507" filter-width="4" id="c02-082-05" lbs="-183" lbx="0" lby="1847" segmentation="ok" slant="99000" stroke-width="5831" threshold="181" text="the London Film Festival. In spite of" ubs="-108" ubx="0" uby="1824">
+      <word id="c02-082-05-00" tag="ATI" text="the">
+        <cmp x="323" y="1789" width="138" height="68" />
+      </word>
+      <word id="c02-082-05-01" tag="NP" text="London">
+        <cmp x="518" y="1783" width="164" height="84" />
+        <cmp x="683" y="1806" width="58" height="49" />
+        <cmp x="740" y="1826" width="111" height="30" />
+      </word>
+      <word id="c02-082-05-02" tag="NN" text="Film">
+        <cmp x="894" y="1781" width="66" height="20" />
+        <cmp x="920" y="1810" width="61" height="51" />
+        <cmp x="969" y="1817" width="8" height="7" />
+        <cmp x="990" y="1803" width="118" height="56" />
+      </word>
+      <word id="c02-082-05-03" tag="NN" text="Festival">
+        <cmp x="1143" y="1781" width="58" height="10" />
+        <cmp x="1174" y="1799" width="110" height="59" />
+        <cmp x="1275" y="1796" width="58" height="52" />
+        <cmp x="1322" y="1799" width="12" height="9" />
+        <cmp x="1342" y="1821" width="44" height="34" />
+        <cmp x="1390" y="1802" width="107" height="62" />
+      </word>
+      <word id="c02-082-05-04" tag="." text=".">
+        <cmp x="1521" y="1854" width="9" height="6" />
+      </word>
+      <word id="c02-082-05-05" sentence-start="yes" tag="IN31" text="In">
+        <cmp x="1561" y="1794" width="6" height="7" />
+        <cmp x="1562" y="1801" width="95" height="57" />
+      </word>
+      <word id="c02-082-05-06" tag="IN32" text="spite">
+        <cmp x="1732" y="1809" width="95" height="81" />
+        <cmp x="1828" y="1799" width="9" height="8" />
+        <cmp x="1832" y="1821" width="7" height="28" />
+        <cmp x="1854" y="1799" width="66" height="56" />
+      </word>
+      <word id="c02-082-05-07" tag="IN33" text="of">
+        <cmp x="1958" y="1789" width="73" height="98" />
+      </word>
+      <upper-contour>
+        <point x="322" y="1688" />
+        <point x="2032" y="1688" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1890" />
+        <point x="2032" y="1890" />
+      </lower-contour>
+    </line>
+    <line ass="559" asx="0" asy="1967" character-width="999" dss="559" dsx="0" dsy="2085" fd0="13076" fd1="2493" fd2="-1303" filter-width="4" id="c02-082-06" lbs="668" lbx="0" lby="2055" segmentation="ok" slant="99000" stroke-width="5812" threshold="182" text="magnificent performances from him and" ubs="341" ubx="0" uby="2011">
+      <word id="c02-082-06-00" tag="JJ" text="magnificent">
+        <cmp x="329" y="1989" width="126" height="54" />
+        <cmp x="456" y="1999" width="135" height="83" />
+        <cmp x="575" y="1992" width="6" height="5" />
+        <cmp x="607" y="1983" width="52" height="85" />
+        <cmp x="652" y="1994" width="9" height="8" />
+        <cmp x="677" y="2003" width="145" height="42" />
+        <cmp x="810" y="1961" width="37" height="73" />
+      </word>
+      <word id="c02-082-06-01" tag="NNS" text="performances">
+        <cmp x="929" y="1990" width="45" height="81" />
+        <cmp x="978" y="1999" width="52" height="45" />
+        <cmp x="1038" y="1977" width="26" height="96" />
+        <cmp x="1070" y="2004" width="176" height="40" />
+        <cmp x="1245" y="1985" width="116" height="52" />
+        <cmp x="1357" y="1997" width="126" height="46" />
+      </word>
+      <word id="c02-082-06-02" tag="IN" text="from">
+        <cmp x="1559" y="1968" width="36" height="100" />
+        <cmp x="1601" y="1993" width="164" height="43" />
+      </word>
+      <word id="c02-082-06-03" tag="PP3O" text="him">
+        <cmp x="1814" y="1970" width="75" height="67" />
+        <cmp x="1876" y="1985" width="10" height="10" />
+        <cmp x="1898" y="2001" width="74" height="35" />
+      </word>
+      <word id="c02-082-06-04" tag="CC" text="and">
+        <cmp x="2011" y="1975" width="161" height="63" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1890" />
+        <point x="2032" y="1890" />
+      </upper-contour>
+      <lower-contour>
+        <point x="329" y="2082" />
+        <point x="2173" y="2082" />
+      </lower-contour>
+    </line>
+    <line ass="495" asx="0" asy="2151" character-width="999" dss="495" dsx="0" dsy="2278" fd0="12985" fd1="2879" fd2="-854" filter-width="4" id="c02-082-07" lbs="473" lbx="0" lby="2220" segmentation="ok" slant="101000" stroke-width="5866" threshold="180" text="from Jeanne Moreau, this has been fairly" ubs="538" ubx="0" uby="2192">
+      <word id="c02-082-07-00" tag="IN" text="from">
+        <cmp x="331" y="2150" width="117" height="101" />
+        <cmp x="451" y="2188" width="80" height="33" />
+      </word>
+      <word id="c02-082-07-01" tag="NP" text="Jeanne">
+        <cmp x="609" y="2146" width="169" height="115" />
+        <cmp x="779" y="2178" width="103" height="37" />
+      </word>
+      <word id="c02-082-07-02" tag="NP" text="Moreau">
+        <cmp x="954" y="2144" width="53" height="68" />
+        <cmp x="1009" y="2171" width="101" height="52" />
+        <cmp x="1113" y="2169" width="134" height="50" />
+      </word>
+      <word id="c02-082-07-03" tag="," text=",">
+        <cmp x="1265" y="2199" width="10" height="33" />
+      </word>
+      <word id="c02-082-07-04" tag="DT" text="this">
+        <cmp x="1304" y="2143" width="36" height="66" />
+        <cmp x="1331" y="2139" width="147" height="73" />
+        <cmp x="1410" y="2146" width="9" height="6" />
+      </word>
+      <word id="c02-082-07-05" tag="HVZ" text="has">
+        <cmp x="1523" y="2145" width="4" height="4" />
+        <cmp x="1524" y="2151" width="54" height="61" />
+        <cmp x="1572" y="2167" width="117" height="52" />
+      </word>
+      <word id="c02-082-07-06" tag="BEN" text="been">
+        <cmp x="1724" y="2144" width="186" height="72" />
+      </word>
+      <word id="c02-082-07-07" tag="RB" text="fairly">
+        <cmp x="1964" y="2137" width="24" height="113" />
+        <cmp x="1986" y="2156" width="75" height="59" />
+        <cmp x="2069" y="2148" width="115" height="113" />
+      </word>
+      <upper-contour>
+        <point x="329" y="2082" />
+        <point x="2173" y="2082" />
+      </upper-contour>
+      <lower-contour>
+        <point x="330" y="2261" />
+        <point x="2185" y="2261" />
+      </lower-contour>
+    </line>
+    <line ass="352" asx="0" asy="2329" character-width="999" dss="352" dsx="0" dsy="2440" fd0="13204" fd1="2513" fd2="-832" filter-width="4" id="c02-082-08" lbs="333" lbx="0" lby="2399" segmentation="ok" slant="99000" stroke-width="5916" threshold="180" text="well trounced by the critics wherever it" ubs="391" ubx="0" uby="2364">
+      <word id="c02-082-08-00" tag="RB" text="well">
+        <cmp x="332" y="2329" width="141" height="76" />
+      </word>
+      <word id="c02-082-08-01" tag="VBN" text="trounced">
+        <cmp x="551" y="2325" width="107" height="75" />
+        <cmp x="659" y="2361" width="121" height="39" />
+        <cmp x="778" y="2359" width="84" height="42" />
+        <cmp x="861" y="2337" width="59" height="66" />
+      </word>
+      <word id="c02-082-08-02" tag="IN" text="by">
+        <cmp x="1001" y="2323" width="50" height="74" />
+        <cmp x="1049" y="2352" width="56" height="83" />
+      </word>
+      <word id="c02-082-08-03" tag="ATI" text="the">
+        <cmp x="1150" y="2324" width="150" height="65" />
+      </word>
+      <word id="c02-082-08-04" tag="NNS" text="critics">
+        <cmp x="1351" y="2344" width="104" height="49" />
+        <cmp x="1443" y="2334" width="10" height="7" />
+        <cmp x="1460" y="2327" width="56" height="61" />
+        <cmp x="1508" y="2344" width="8" height="9" />
+        <cmp x="1530" y="2346" width="90" height="50" />
+      </word>
+      <word id="c02-082-08-05" tag="WRB" text="wherever">
+        <cmp x="1700" y="2350" width="84" height="49" />
+        <cmp x="1786" y="2331" width="48" height="60" />
+        <cmp x="1836" y="2348" width="110" height="47" />
+        <cmp x="1950" y="2350" width="109" height="43" />
+      </word>
+      <word id="c02-082-08-06" tag="PP3" text="it">
+        <cmp x="2103" y="2322" width="13" height="5" />
+        <cmp x="2115" y="2322" width="72" height="70" />
+      </word>
+      <upper-contour>
+        <point x="330" y="2261" />
+        <point x="2185" y="2261" />
+      </upper-contour>
+      <lower-contour>
+        <point x="330" y="2435" />
+        <point x="2021" y="2435" />
+      </lower-contour>
+    </line>
+    <line ass="267" asx="0" asy="2487" character-width="999" dss="267" dsx="0" dsy="2614" fd0="13036" fd1="2352" fd2="-1214" filter-width="4" id="c02-082-09" lbs="305" lbx="0" lby="2580" segmentation="ok" slant="100000" stroke-width="5802" threshold="182" text="has appeared. Leisurely, even slow," ubs="190" ubx="0" uby="2539">
+      <word id="c02-082-09-00" tag="HVZ" text="has">
+        <cmp x="321" y="2497" width="174" height="92" />
+      </word>
+      <word id="c02-082-09-01" tag="VBN" text="appeared">
+        <cmp x="576" y="2526" width="111" height="81" />
+        <cmp x="688" y="2526" width="45" height="76" />
+        <cmp x="736" y="2532" width="41" height="37" />
+        <cmp x="778" y="2527" width="139" height="56" />
+        <cmp x="916" y="2522" width="63" height="53" />
+      </word>
+      <word id="c02-082-09-02" tag="." text=".">
+        <cmp x="1009" y="2563" width="6" height="7" />
+      </word>
+      <word id="c02-082-09-03" sentence-start="yes" tag="JJ" text="Leisurely">
+        <cmp x="1060" y="2482" width="104" height="96" />
+        <cmp x="1152" y="2520" width="8" height="7" />
+        <cmp x="1171" y="2528" width="45" height="43" />
+        <cmp x="1214" y="2531" width="147" height="40" />
+        <cmp x="1354" y="2500" width="119" height="109" />
+      </word>
+      <word id="c02-082-09-04" tag="," text=",">
+        <cmp x="1506" y="2561" width="9" height="30" />
+      </word>
+      <word id="c02-082-09-05" tag="RB" text="even">
+        <cmp x="1561" y="2518" width="190" height="62" />
+      </word>
+      <word id="c02-082-09-06" tag="JJ" text="slow">
+        <cmp x="1799" y="2498" width="69" height="78" />
+        <cmp x="1867" y="2526" width="127" height="48" />
+      </word>
+      <word id="c02-082-09-07" tag="," text=",">
+        <cmp x="2009" y="2549" width="11" height="35" />
+      </word>
+      <upper-contour>
+        <point x="330" y="2435" />
+        <point x="2021" y="2435" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

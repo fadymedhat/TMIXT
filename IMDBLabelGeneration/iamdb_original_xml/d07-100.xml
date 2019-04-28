@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-16" height="3542" id="d07-100" last-modified="2002-07-17" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="209">
+  <machine-printed-part>
+    <machine-print-line text="The proof text of bringing the tithe to the Temple is then quoted and the interpretation" />
+    <machine-print-line text="of the latter part of the verse by Rami bar Rabh is added, not because this is at" />
+    <machine-print-line text="all relevant to the discussion but because it was a familiar interpretation which had" />
+    <machine-print-line text="become so well known that it was invariably quoted whenever the verse itself was" />
+    <machine-print-line text="quoted, almost as if it were a part of the verse." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-218" asx="0" asy="713" character-width="999" dss="-218" dsx="0" dsy="858" fd0="12435" fd1="2333" fd2="-735" filter-width="4" id="d07-100-00" lbs="-287" lbx="0" lby="800" segmentation="ok" slant="90000" stroke-width="5945" threshold="173" text="The proof text of bringing the tithe to the Temple" ubs="-80" ubx="0" uby="764">
+      <word id="d07-100-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="332" y="731" width="114" height="62" />
+      </word>
+      <word id="d07-100-00-01" tag="NN" text="proof">
+        <cmp x="478" y="722" width="140" height="123" />
+      </word>
+      <word id="d07-100-00-02" tag="NN" text="text">
+        <cmp x="654" y="731" width="94" height="81" />
+        <cmp x="744" y="717" width="33" height="91" />
+      </word>
+      <word id="d07-100-00-03" tag="INO" text="of">
+        <cmp x="817" y="717" width="76" height="112" />
+      </word>
+      <word id="d07-100-00-04" tag="VBG" text="bringing">
+        <cmp x="938" y="732" width="82" height="69" />
+        <cmp x="1012" y="723" width="8" height="13" />
+        <cmp x="1025" y="766" width="122" height="93" />
+        <cmp x="1140" y="730" width="6" height="11" />
+        <cmp x="1161" y="770" width="47" height="28" />
+        <cmp x="1210" y="773" width="49" height="83" />
+      </word>
+      <word id="d07-100-00-05" tag="ATI" text="the">
+        <cmp x="1289" y="727" width="119" height="86" />
+      </word>
+      <word id="d07-100-00-06" tag="NN" text="tithe">
+        <cmp x="1459" y="734" width="34" height="73" />
+        <cmp x="1485" y="730" width="9" height="9" />
+        <cmp x="1504" y="734" width="117" height="72" />
+      </word>
+      <word id="d07-100-00-07" tag="IN" text="to">
+        <cmp x="1650" y="727" width="57" height="81" />
+      </word>
+      <word id="d07-100-00-08" tag="ATI" text="the">
+        <cmp x="1726" y="722" width="122" height="83" />
+      </word>
+      <word id="d07-100-00-09" tag="NPL" text="Temple">
+        <cmp x="1858" y="735" width="55" height="24" />
+        <cmp x="1882" y="757" width="10" height="54" />
+        <cmp x="1901" y="771" width="101" height="43" />
+        <cmp x="2005" y="735" width="111" height="132" />
+      </word>
+      <lower-contour>
+        <point x="330" y="867" />
+        <point x="2089" y="867" />
+      </lower-contour>
+    </line>
+    <line ass="-294" asx="0" asy="890" character-width="999" dss="-294" dsx="0" dsy="1019" fd0="12815" fd1="2545" fd2="-720" filter-width="4" id="d07-100-01" lbs="-279" lbx="0" lby="975" segmentation="ok" slant="86000" stroke-width="6057" threshold="171" text="is then quoted and the interpretation of the" ubs="-323" ubx="0" uby="944">
+      <word id="d07-100-01-00" tag="BEZ" text="is">
+        <cmp x="326" y="939" width="7" height="37" />
+        <cmp x="327" y="901" width="8" height="10" />
+        <cmp x="338" y="929" width="30" height="45" />
+      </word>
+      <word id="d07-100-01-01" tag="RN" text="then">
+        <cmp x="400" y="898" width="177" height="83" />
+      </word>
+      <word id="d07-100-01-02" tag="VBN" text="quoted">
+        <cmp x="621" y="945" width="105" height="79" />
+        <cmp x="733" y="949" width="36" height="36" />
+        <cmp x="780" y="908" width="57" height="76" />
+        <cmp x="838" y="903" width="53" height="85" />
+      </word>
+      <word id="d07-100-01-03" tag="CC" text="and">
+        <cmp x="929" y="906" width="157" height="83" />
+      </word>
+      <word id="d07-100-01-04" tag="ATI" text="the">
+        <cmp x="1139" y="907" width="108" height="75" />
+      </word>
+      <word id="d07-100-01-05" tag="NN" text="interpretation">
+        <cmp x="1287" y="945" width="10" height="30" />
+        <cmp x="1290" y="905" width="6" height="11" />
+        <cmp x="1306" y="947" width="45" height="29" />
+        <cmp x="1352" y="897" width="90" height="79" />
+        <cmp x="1447" y="905" width="194" height="117" />
+        <cmp x="1648" y="909" width="32" height="74" />
+        <cmp x="1675" y="910" width="9" height="11" />
+        <cmp x="1693" y="947" width="123" height="41" />
+      </word>
+      <word id="d07-100-01-06" tag="INO" text="of">
+        <cmp x="1847" y="901" width="77" height="112" />
+      </word>
+      <word id="d07-100-01-07" tag="ATI" text="the">
+        <cmp x="1966" y="901" width="122" height="90" />
+      </word>
+      <upper-contour>
+        <point x="330" y="867" />
+        <point x="2089" y="867" />
+      </upper-contour>
+      <lower-contour>
+        <point x="324" y="1024" />
+        <point x="2061" y="1024" />
+      </lower-contour>
+    </line>
+    <line ass="-45" asx="0" asy="1074" character-width="999" dss="-45" dsx="0" dsy="1208" fd0="12552" fd1="2832" fd2="-710" filter-width="4" id="d07-100-02" lbs="12" lbx="0" lby="1163" segmentation="ok" slant="89000" stroke-width="6028" threshold="172" text="latter part of the verse by Rami bar Rabh" ubs="-162" ubx="0" uby="1128">
+      <word id="d07-100-02-00" tag="AP" text="latter">
+        <cmp x="313" y="1084" width="95" height="80" />
+        <cmp x="405" y="1079" width="108" height="86" />
+      </word>
+      <word id="d07-100-02-01" tag="NN" text="part">
+        <cmp x="564" y="1120" width="123" height="90" />
+        <cmp x="696" y="1076" width="30" height="88" />
+      </word>
+      <word id="d07-100-02-02" tag="INO" text="of">
+        <cmp x="767" y="1076" width="69" height="112" />
+      </word>
+      <word id="d07-100-02-03" tag="ATI" text="the">
+        <cmp x="861" y="1081" width="150" height="86" />
+      </word>
+      <word id="d07-100-02-04" tag="NN" text="verse">
+        <cmp x="1039" y="1127" width="237" height="47" />
+      </word>
+      <word id="d07-100-02-05" tag="IN" text="by">
+        <cmp x="1320" y="1089" width="99" height="111" />
+      </word>
+      <word id="d07-100-02-06" tag="NP" text="Rami">
+        <cmp x="1460" y="1088" width="37" height="67" />
+        <cmp x="1493" y="1127" width="117" height="39" />
+        <cmp x="1592" y="1099" width="12" height="10" />
+      </word>
+      <word id="d07-100-02-07" tag="&amp;FW" text="bar">
+        <cmp x="1668" y="1098" width="116" height="74" />
+        <cmp x="1693" y="1155" width="4" height="4" />
+      </word>
+      <word id="d07-100-02-08" tag="NP" text="Rabh">
+        <cmp x="1847" y="1093" width="90" height="70" />
+        <cmp x="1937" y="1082" width="123" height="92" />
+      </word>
+      <upper-contour>
+        <point x="324" y="1024" />
+        <point x="2061" y="1024" />
+      </upper-contour>
+      <lower-contour>
+        <point x="322" y="1210" />
+        <point x="2055" y="1210" />
+      </lower-contour>
+    </line>
+    <line ass="-514" asx="0" asy="1248" character-width="999" dss="-514" dsx="0" dsy="1351" fd0="13254" fd1="2135" fd2="-948" filter-width="4" id="d07-100-03" lbs="-491" lbx="0" lby="1329" segmentation="ok" slant="83000" stroke-width="5813" threshold="174" text="is added, not because this is at all relevant" ubs="-558" ubx="0" uby="1295">
+      <word id="d07-100-03-00" tag="BEZ" text="is">
+        <cmp x="324" y="1254" width="5" height="9" />
+        <cmp x="324" y="1290" width="12" height="32" />
+        <cmp x="334" y="1292" width="34" height="41" />
+      </word>
+      <word id="d07-100-03-01" tag="VBN" text="added">
+        <cmp x="400" y="1254" width="218" height="86" />
+      </word>
+      <word id="d07-100-03-02" tag="," text=",">
+        <cmp x="623" y="1320" width="21" height="36" />
+      </word>
+      <word id="d07-100-03-03" tag="XNOT" text="not">
+        <cmp x="677" y="1303" width="81" height="33" />
+        <cmp x="765" y="1263" width="29" height="67" />
+      </word>
+      <word id="d07-100-03-04" tag="CS" text="because">
+        <cmp x="814" y="1267" width="109" height="69" />
+        <cmp x="930" y="1302" width="144" height="42" />
+        <cmp x="1071" y="1301" width="101" height="45" />
+      </word>
+      <word id="d07-100-03-05" tag="DT" text="this">
+        <cmp x="1200" y="1276" width="110" height="72" />
+        <cmp x="1302" y="1267" width="11" height="17" />
+        <cmp x="1323" y="1305" width="29" height="34" />
+      </word>
+      <word id="d07-100-03-06" tag="BEZ" text="is">
+        <cmp x="1391" y="1273" width="11" height="15" />
+        <cmp x="1394" y="1312" width="9" height="27" />
+        <cmp x="1398" y="1307" width="8" height="4" />
+        <cmp x="1421" y="1307" width="24" height="36" />
+      </word>
+      <word id="d07-100-03-07" tag="IN" text="at">
+        <cmp x="1483" y="1264" width="78" height="75" />
+      </word>
+      <word id="d07-100-03-08" tag="ABN" text="all">
+        <cmp x="1595" y="1266" width="113" height="78" />
+      </word>
+      <word id="d07-100-03-09" tag="JJ" text="relevant">
+        <cmp x="1747" y="1269" width="270" height="84" />
+        <cmp x="2017" y="1267" width="37" height="84" />
+      </word>
+      <upper-contour>
+        <point x="322" y="1210" />
+        <point x="2055" y="1210" />
+      </upper-contour>
+      <lower-contour>
+        <point x="322" y="1357" />
+        <point x="2055" y="1357" />
+      </lower-contour>
+    </line>
+    <line ass="-220" asx="0" asy="1427" character-width="999" dss="-220" dsx="0" dsy="1527" fd0="13061" fd1="2301" fd2="-1034" filter-width="4" id="d07-100-04" lbs="-319" lbx="0" lby="1511" segmentation="err" slant="86000" stroke-width="5944" threshold="174" text="to the discussion but because it was" ubs="-24" ubx="0" uby="1485">
+      <word id="d07-100-04-00" tag="IN" text="to">
+        <cmp x="297" y="1463" width="58" height="67" />
+      </word>
+      <word id="d07-100-04-01" tag="ATI" text="the">
+        <cmp x="408" y="1450" width="133" height="75" />
+        <cmp x="578" y="1457" width="110" height="68" />
+      </word>
+      <word id="d07-100-04-02" tag="NN" text="discussion">
+        <cmp x="731" y="1446" width="75" height="75" />
+        <cmp x="802" y="1441" width="7" height="11" />
+        <cmp x="815" y="1478" width="21" height="36" />
+        <cmp x="833" y="1483" width="5" height="11" />
+        <cmp x="849" y="1487" width="95" height="32" />
+        <cmp x="942" y="1484" width="97" height="37" />
+        <cmp x="1030" y="1432" width="9" height="16" />
+        <cmp x="1049" y="1481" width="121" height="38" />
+      </word>
+      <word id="d07-100-04-03" tag="CC" text="but">
+        <cmp x="1205" y="1444" width="127" height="80" />
+        <cmp x="1330" y="1440" width="43" height="74" />
+      </word>
+      <word id="d07-100-04-04" tag="CS" text="because">
+        <cmp x="1399" y="1443" width="114" height="87" />
+        <cmp x="1526" y="1489" width="139" height="39" />
+        <cmp x="1676" y="1478" width="81" height="48" />
+      </word>
+      <word id="d07-100-04-05" tag="PP3" text="it">
+        <cmp x="1796" y="1490" width="49" height="34" />
+        <cmp x="1844" y="1446" width="40" height="75" />
+        <cmp x="1845" y="1445" width="5" height="5" />
+      </word>
+      <word id="d07-100-04-06" tag="BEDZ" text="was">
+        <cmp x="1916" y="1484" width="116" height="45" />
+        <cmp x="2030" y="1481" width="29" height="45" />
+      </word>
+      <upper-contour>
+        <point x="322" y="1357" />
+        <point x="2055" y="1357" />
+      </upper-contour>
+      <lower-contour>
+        <point x="295" y="1530" />
+        <point x="1909" y="1530" />
+      </lower-contour>
+    </line>
+    <line ass="-423" asx="0" asy="1592" character-width="999" dss="-423" dsx="0" dsy="1732" fd0="12824" fd1="2713" fd2="-342" filter-width="4" id="d07-100-05" lbs="-195" lbx="0" lby="1691" segmentation="ok" slant="89000" stroke-width="5932" threshold="172" text="a familiar interpretation which had" ubs="-878" ubx="0" uby="1648">
+      <word id="d07-100-05-00" tag="AT" text="a">
+        <cmp x="281" y="1655" width="48" height="41" />
+      </word>
+      <word id="d07-100-05-01" tag="JJ" text="familiar">
+        <cmp x="392" y="1614" width="142" height="115" />
+        <cmp x="553" y="1661" width="11" height="26" />
+        <cmp x="556" y="1626" width="7" height="8" />
+        <cmp x="579" y="1622" width="15" height="61" />
+        <cmp x="602" y="1660" width="13" height="29" />
+        <cmp x="607" y="1626" width="15" height="14" />
+        <cmp x="629" y="1653" width="77" height="40" />
+      </word>
+      <word id="d07-100-05-02" tag="NN" text="interpretation">
+        <cmp x="780" y="1665" width="8" height="24" />
+        <cmp x="785" y="1625" width="6" height="8" />
+        <cmp x="792" y="1661" width="56" height="27" />
+        <cmp x="850" y="1620" width="119" height="77" />
+        <cmp x="969" y="1659" width="108" height="82" />
+        <cmp x="1085" y="1616" width="113" height="83" />
+        <cmp x="1187" y="1621" width="9" height="10" />
+        <cmp x="1204" y="1664" width="143" height="34" />
+      </word>
+      <word id="d07-100-05-03" tag="WDT" text="which">
+        <cmp x="1406" y="1637" width="127" height="64" />
+        <cmp x="1527" y="1622" width="7" height="11" />
+        <cmp x="1544" y="1613" width="117" height="98" />
+        <cmp x="1554" y="1666" width="9" height="20" />
+      </word>
+      <word id="d07-100-05-04" tag="HVD" text="had">
+        <cmp x="1718" y="1606" width="190" height="100" />
+      </word>
+      <upper-contour>
+        <point x="295" y="1530" />
+        <point x="1909" y="1530" />
+      </upper-contour>
+      <lower-contour>
+        <point x="296" y="1741" />
+        <point x="1891" y="1741" />
+      </lower-contour>
+    </line>
+    <line ass="-708" asx="0" asy="1791" character-width="999" dss="-708" dsx="0" dsy="1870" fd0="13011" fd1="2449" fd2="-623" filter-width="4" id="d07-100-06" lbs="-772" lbx="0" lby="1862" segmentation="ok" slant="79000" stroke-width="5937" threshold="172" text="become so well known that it was" ubs="-581" ubx="0" uby="1838">
+      <word id="d07-100-06-00" tag="VBN" text="become">
+        <cmp x="298" y="1810" width="320" height="65" />
+      </word>
+      <word id="d07-100-06-01" tag="QL" text="so">
+        <cmp x="667" y="1827" width="79" height="50" />
+      </word>
+      <word id="d07-100-06-02" tag="RB" text="well">
+        <cmp x="800" y="1803" width="192" height="75" />
+      </word>
+      <word id="d07-100-06-03" tag="VBN" text="known">
+        <cmp x="1058" y="1813" width="288" height="68" />
+      </word>
+      <word id="d07-100-06-04" tag="CS" text="that">
+        <cmp x="1391" y="1812" width="128" height="74" />
+        <cmp x="1527" y="1815" width="50" height="71" />
+      </word>
+      <word id="d07-100-06-05" tag="PP3" text="it">
+        <cmp x="1612" y="1860" width="11" height="25" />
+        <cmp x="1620" y="1819" width="18" height="8" />
+        <cmp x="1633" y="1818" width="26" height="69" />
+      </word>
+      <word id="d07-100-06-06" tag="BEDZ" text="was">
+        <cmp x="1713" y="1846" width="127" height="47" />
+        <cmp x="1849" y="1851" width="41" height="37" />
+      </word>
+      <upper-contour>
+        <point x="296" y="1741" />
+        <point x="1891" y="1741" />
+      </upper-contour>
+      <lower-contour>
+        <point x="314" y="1893" />
+        <point x="1891" y="1893" />
+      </lower-contour>
+    </line>
+    <line ass="-98" asx="0" asy="1982" character-width="999" dss="-98" dsx="0" dsy="2095" fd0="13019" fd1="2370" fd2="-693" filter-width="4" id="d07-100-07" lbs="-19" lbx="0" lby="2054" segmentation="ok" slant="79000" stroke-width="6062" threshold="171" text="invariably quoted whenever the verse" ubs="-256" ubx="0" uby="2023">
+      <word id="d07-100-07-00" tag="RB" text="invariably">
+        <cmp x="316" y="1986" width="4" height="15" />
+        <cmp x="316" y="2016" width="9" height="38" />
+        <cmp x="336" y="2023" width="53" height="28" />
+        <cmp x="392" y="2020" width="163" height="41" />
+        <cmp x="548" y="1992" width="8" height="10" />
+        <cmp x="569" y="1987" width="108" height="72" />
+        <cmp x="679" y="1992" width="19" height="60" />
+        <cmp x="681" y="2024" width="53" height="74" />
+      </word>
+      <word id="d07-100-07-01" tag="VBN" text="quoted">
+        <cmp x="799" y="2023" width="132" height="75" />
+        <cmp x="935" y="1984" width="124" height="81" />
+      </word>
+      <word id="d07-100-07-02" tag="WRB" text="whenever">
+        <cmp x="1128" y="1992" width="202" height="67" />
+        <cmp x="1328" y="2022" width="169" height="36" />
+      </word>
+      <word id="d07-100-07-03" tag="ATI" text="the">
+        <cmp x="1557" y="1986" width="124" height="76" />
+      </word>
+      <word id="d07-100-07-04" tag="NN" text="verse">
+        <cmp x="1720" y="2024" width="246" height="40" />
+      </word>
+      <upper-contour>
+        <point x="314" y="1893" />
+        <point x="1891" y="1893" />
+      </upper-contour>
+      <lower-contour>
+        <point x="337" y="2098" />
+        <point x="1970" y="2098" />
+      </lower-contour>
+    </line>
+    <line ass="-16" asx="0" asy="2138" character-width="999" dss="-16" dsx="0" dsy="2277" fd0="12927" fd1="2475" fd2="-592" filter-width="4" id="d07-100-08" lbs="109" lbx="0" lby="2233" segmentation="ok" slant="75000" stroke-width="6137" threshold="171" text="itself was quoted, almost as if it were a" ubs="-269" ubx="0" uby="2198">
+      <word id="d07-100-08-00" tag="PPL" text="itself">
+        <cmp x="339" y="2170" width="7" height="8" />
+        <cmp x="343" y="2192" width="10" height="33" />
+        <cmp x="366" y="2160" width="191" height="103" />
+      </word>
+      <word id="d07-100-08-01" tag="BEDZ" text="was">
+        <cmp x="607" y="2203" width="106" height="45" />
+        <cmp x="710" y="2201" width="32" height="36" />
+      </word>
+      <word id="d07-100-08-02" tag="VBN" text="quoted">
+        <cmp x="793" y="2200" width="94" height="79" />
+        <cmp x="889" y="2205" width="32" height="36" />
+        <cmp x="927" y="2157" width="111" height="85" />
+      </word>
+      <word id="d07-100-08-03" tag="," text=",">
+        <cmp x="1067" y="2226" width="12" height="24" />
+      </word>
+      <word id="d07-100-08-04" tag="RB" text="almost">
+        <cmp x="1105" y="2158" width="80" height="72" />
+        <cmp x="1186" y="2196" width="76" height="29" />
+        <cmp x="1270" y="2193" width="69" height="43" />
+        <cmp x="1343" y="2140" width="37" height="91" />
+      </word>
+      <word id="d07-100-08-05" tag="CS21" text="as">
+        <cmp x="1422" y="2197" width="74" height="38" />
+      </word>
+      <word id="d07-100-08-06" tag="CS22" text="if">
+        <cmp x="1528" y="2203" width="15" height="27" />
+        <cmp x="1539" y="2156" width="9" height="16" />
+        <cmp x="1545" y="2162" width="52" height="106" />
+      </word>
+      <word id="d07-100-08-07" tag="PP3" text="it">
+        <cmp x="1627" y="2205" width="38" height="31" />
+        <cmp x="1674" y="2162" width="7" height="8" />
+        <cmp x="1676" y="2166" width="32" height="68" />
+      </word>
+      <word id="d07-100-08-08" tag="BED" text="were">
+        <cmp x="1743" y="2196" width="189" height="46" />
+      </word>
+      <word id="d07-100-08-09" tag="AT" text="a">
+        <cmp x="1987" y="2205" width="71" height="27" />
+      </word>
+      <upper-contour>
+        <point x="337" y="2098" />
+        <point x="1970" y="2098" />
+      </upper-contour>
+      <lower-contour>
+        <point x="343" y="2279" />
+        <point x="1133" y="2279" />
+      </lower-contour>
+    </line>
+    <line ass="-174" asx="0" asy="2329" character-width="999" dss="-174" dsx="0" dsy="2462" fd0="11842" fd1="2722" fd2="-50" filter-width="4" id="d07-100-09" lbs="350" lbx="0" lby="2419" segmentation="ok" slant="85000" stroke-width="6256" threshold="170" text="part of the verse." ubs="-1224" ubx="0" uby="2372">
+      <word id="d07-100-09-00" tag="NN" text="part">
+        <cmp x="345" y="2373" width="34" height="91" />
+        <cmp x="379" y="2376" width="89" height="43" />
+        <cmp x="474" y="2334" width="44" height="78" />
+      </word>
+      <word id="d07-100-09-01" tag="INO" text="of">
+        <cmp x="572" y="2331" width="72" height="114" />
+      </word>
+      <word id="d07-100-09-02" tag="ATI" text="the">
+        <cmp x="696" y="2343" width="120" height="76" />
+      </word>
+      <word id="d07-100-09-03" tag="NN" text="verse">
+        <cmp x="857" y="2384" width="228" height="41" />
+      </word>
+      <word id="d07-100-09-04" tag="." text=".">
+        <cmp x="1121" y="2405" width="11" height="9" />
+      </word>
+      <upper-contour>
+        <point x="343" y="2279" />
+        <point x="1133" y="2279" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

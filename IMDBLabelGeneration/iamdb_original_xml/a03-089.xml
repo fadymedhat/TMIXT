@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-03-16" height="3542" id="a03-089" last-modified="2002-07-17" skew="63" status="final" version="3.0_beta" width="2479" writer-id="000">
+  <machine-printed-part>
+    <machine-print-line text="This is expected eventually to replace the Fiat G-91, and the F 104 Starfighter, the" />
+    <machine-print-line text="backbone of the German Air Force." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-481" asx="0" asy="557" character-width="999" dss="-481" dsx="0" dsy="628" fd0="13315" fd1="3010" fd2="383" filter-width="5" id="a03-089-00" lbs="-419" lbx="0" lby="606" segmentation="ok" slant="106000" stroke-width="7203" threshold="171" text="This is expected eventually to replace the" ubs="-603" ubx="0" uby="573">
+      <word id="a03-089-00-00" sentence-start="yes" tag="DT" text="This">
+        <cmp x="355" y="560" width="150" height="52" />
+        <cmp x="459" y="563" width="10" height="13" />
+      </word>
+      <word id="a03-089-00-01" tag="BEZ" text="is">
+        <cmp x="571" y="570" width="10" height="11" />
+        <cmp x="583" y="600" width="43" height="18" />
+      </word>
+      <word id="a03-089-00-02" tag="VBN" text="expected">
+        <cmp x="713" y="591" width="45" height="27" />
+        <cmp x="756" y="591" width="42" height="28" />
+        <cmp x="803" y="588" width="88" height="44" />
+        <cmp x="892" y="565" width="115" height="47" />
+        <cmp x="1005" y="579" width="56" height="33" />
+      </word>
+      <word id="a03-089-00-03" tag="RB" text="eventually">
+        <cmp x="1149" y="587" width="36" height="30" />
+        <cmp x="1192" y="586" width="38" height="33" />
+        <cmp x="1234" y="574" width="169" height="42" />
+        <cmp x="1414" y="592" width="48" height="26" />
+        <cmp x="1461" y="584" width="21" height="33" />
+        <cmp x="1480" y="583" width="74" height="59" />
+      </word>
+      <word id="a03-089-00-04" tag="TO" text="to">
+        <cmp x="1618" y="574" width="27" height="40" />
+        <cmp x="1653" y="585" width="35" height="31" />
+      </word>
+      <word id="a03-089-00-05" tag="VB" text="replace">
+        <cmp x="1744" y="588" width="67" height="31" />
+        <cmp x="1814" y="596" width="24" height="37" />
+        <cmp x="1847" y="580" width="20" height="37" />
+        <cmp x="1878" y="595" width="44" height="25" />
+        <cmp x="1931" y="595" width="82" height="30" />
+      </word>
+      <word id="a03-089-00-06" tag="ATI" text="the">
+        <cmp x="2077" y="574" width="126" height="58" />
+      </word>
+      <lower-contour>
+        <point x="353" y="642" />
+        <point x="2204" y="642" />
+      </lower-contour>
+    </line>
+    <line ass="-39" asx="0" asy="737" character-width="999" dss="-39" dsx="0" dsy="840" fd0="12874" fd1="3454" fd2="436" filter-width="5" id="a03-089-01" lbs="-126" lbx="0" lby="790" segmentation="err" slant="107000" stroke-width="7161" threshold="172" text="Fiat G-91, and the F 104 Starfighter," ubs="132" ubx="0" uby="769">
+      <word id="a03-089-01-00" tag="NP" text="Fiat">
+        <cmp x="343" y="743" width="84" height="15" />
+        <cmp x="378" y="756" width="52" height="44" />
+        <cmp x="416" y="763" width="16" height="16" />
+        <cmp x="436" y="755" width="89" height="44" />
+      </word>
+      <word id="a03-089-01-01" tag="ZZ" text="G-91">
+        <cmp x="638" y="759" width="46" height="39" />
+        <cmp x="701" y="779" width="24" height="7" />
+        <cmp x="751" y="754" width="43" height="49" />
+        <cmp x="796" y="753" width="32" height="40" />
+      </word>
+      <word id="a03-089-01-02" tag="," text=",">
+        <cmp x="858" y="786" width="17" height="29" />
+      </word>
+      <word id="a03-089-01-03" tag="CC" text="and">
+        <cmp x="960" y="769" width="80" height="27" />
+        <cmp x="1046" y="761" width="56" height="34" />
+      </word>
+      <word id="a03-089-01-04" tag="ATI" text="the">
+        <cmp x="1229" y="747" width="144" height="54" />
+      </word>
+      <word id="a03-089-01-05" tag="ZZ" text="F">
+        <cmp x="1486" y="740" width="108" height="7" />
+        <cmp x="1531" y="750" width="41" height="44" />
+        <cmp x="1605" y="755" width="39" height="38" />
+      </word>
+      <word id="a03-089-01-06" tag="CD" text="104">
+        <cmp x="1648" y="759" width="36" height="32" />
+        <cmp x="1693" y="760" width="37" height="38" />
+      </word>
+      <word id="a03-089-01-07" tag="NP" text="Starfighter">
+        <cmp x="1834" y="740" width="30" height="50" />
+        <cmp x="1874" y="740" width="20" height="50" />
+        <cmp x="1902" y="767" width="76" height="30" />
+        <cmp x="1995" y="740" width="47" height="62" />
+        <cmp x="2027" y="749" width="13" height="17" />
+        <cmp x="2059" y="776" width="25" height="37" />
+        <cmp x="2084" y="749" width="134" height="48" />
+      </word>
+      <word id="a03-089-01-08" tag="," text=",">
+        <cmp x="2200" y="810" width="20" height="32" />
+      </word>
+      <upper-contour>
+        <point x="353" y="642" />
+        <point x="2204" y="642" />
+      </upper-contour>
+      <lower-contour>
+        <point x="373" y="829" />
+        <point x="2005" y="829" />
+      </lower-contour>
+    </line>
+    <line ass="12" asx="0" asy="917" character-width="999" dss="12" dsx="0" dsy="980" fd0="12948" fd1="2696" fd2="81" filter-width="5" id="a03-089-02" lbs="-9" lbx="0" lby="972" segmentation="ok" slant="111000" stroke-width="7156" threshold="175" text="the backbone of the German Air" ubs="58" ubx="0" uby="950">
+      <word id="a03-089-02-00" tag="ATI" text="the">
+        <cmp x="375" y="934" width="151" height="38" />
+      </word>
+      <word id="a03-089-02-01" tag="NN" text="backbone">
+        <cmp x="589" y="927" width="112" height="53" />
+        <cmp x="706" y="933" width="250" height="42" />
+      </word>
+      <word id="a03-089-02-02" tag="INO" text="of">
+        <cmp x="1090" y="946" width="36" height="25" />
+        <cmp x="1125" y="918" width="37" height="54" />
+      </word>
+      <word id="a03-089-02-03" tag="ATI" text="the">
+        <cmp x="1221" y="924" width="168" height="55" />
+      </word>
+      <word id="a03-089-02-04" tag="JNP" text="German">
+        <cmp x="1519" y="929" width="45" height="45" />
+        <cmp x="1564" y="947" width="119" height="34" />
+        <cmp x="1697" y="950" width="94" height="24" />
+      </word>
+      <word id="a03-089-02-05" tag="NN" text="Air">
+        <cmp x="1892" y="926" width="112" height="51" />
+        <cmp x="1932" y="920" width="10" height="10" />
+      </word>
+      <upper-contour>
+        <point x="373" y="829" />
+        <point x="2005" y="829" />
+      </upper-contour>
+      <lower-contour>
+        <point x="373" y="980" />
+        <point x="645" y="980" />
+      </lower-contour>
+    </line>
+    <line ass="-1854" asx="0" asy="1095" character-width="999" dss="-1854" dsx="0" dsy="1141" fd0="12583" fd1="3500" fd2="436" filter-width="4" id="a03-089-03" lbs="-1556" lbx="0" lby="1139" segmentation="ok" slant="82000" stroke-width="6665" threshold="172" text="Force." ubs="-2449" ubx="0" uby="1118">
+      <word id="a03-089-03-00" tag="NN" text="Force">
+        <cmp x="331" y="1107" width="74" height="47" />
+        <cmp x="397" y="1130" width="60" height="23" />
+        <cmp x="467" y="1128" width="132" height="30" />
+      </word>
+      <word id="a03-089-03-01" tag="." text=".">
+        <cmp x="635" y="1147" width="9" height="8" />
+      </word>
+      <upper-contour>
+        <point x="373" y="980" />
+        <point x="645" y="980" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

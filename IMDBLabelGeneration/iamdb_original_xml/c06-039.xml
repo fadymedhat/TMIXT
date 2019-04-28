@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-17" height="3542" id="c06-039" last-modified="2002-07-17" skew="95" status="final" version="3.0_beta" width="2479" writer-id="123">
+  <machine-printed-part>
+    <machine-print-line text="Among other incidents he was banned from New York&apos;s St. Patrick&apos;s Day parade as" />
+    <machine-print-line text="a &amp;quot;disorderly person.&amp;quot; He was in a fight after telling a Canadian, during a chat about" />
+    <machine-print-line text="space-flight: &amp;quot;Ireland will put a shillelagh into orbit, Israel will put a matzo ball into" />
+    <machine-print-line text="orbit, and Lichtenstein will put a postage stamp into orbit before you Canadians put" />
+    <machine-print-line text="up a mouse.&amp;quot;" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-169" asx="0" asy="736" character-width="999" dss="-169" dsx="0" dsy="821" fd0="14009" fd1="2375" fd2="-1011" filter-width="4" id="c06-039-00" lbs="-162" lbx="0" lby="789" segmentation="ok" slant="66000" stroke-width="5956" threshold="172" text="Among other incidents he was banned from New" ubs="-185" ubx="0" uby="759">
+      <word id="c06-039-00-00" sentence-start="yes" tag="IN" text="Among">
+        <cmp x="348" y="738" width="102" height="54" />
+        <cmp x="452" y="761" width="69" height="33" />
+        <cmp x="523" y="764" width="36" height="59" />
+      </word>
+      <word id="c06-039-00-01" tag="AP" text="other">
+        <cmp x="619" y="754" width="36" height="39" />
+        <cmp x="653" y="739" width="121" height="52" />
+      </word>
+      <word id="c06-039-00-02" tag="NNS" text="incidents">
+        <cmp x="825" y="763" width="64" height="30" />
+        <cmp x="897" y="765" width="45" height="30" />
+        <cmp x="944" y="744" width="7" height="4" />
+        <cmp x="947" y="752" width="99" height="42" />
+        <cmp x="1055" y="746" width="44" height="46" />
+      </word>
+      <word id="c06-039-00-03" tag="PP3A" text="he">
+        <cmp x="1149" y="744" width="73" height="52" />
+      </word>
+      <word id="c06-039-00-04" tag="BEDZ" text="was">
+        <cmp x="1266" y="763" width="119" height="33" />
+      </word>
+      <word id="c06-039-00-05" tag="VBN" text="banned">
+        <cmp x="1441" y="782" width="9" height="4" />
+        <cmp x="1450" y="744" width="39" height="50" />
+        <cmp x="1491" y="759" width="159" height="33" />
+        <cmp x="1659" y="757" width="48" height="33" />
+      </word>
+      <word id="c06-039-00-06" tag="IN" text="from">
+        <cmp x="1742" y="746" width="135" height="62" />
+      </word>
+      <word id="c06-039-00-07" tag="NP" text="New">
+        <cmp x="1927" y="748" width="57" height="46" />
+        <cmp x="1979" y="759" width="85" height="38" />
+      </word>
+      <lower-contour>
+        <point x="351" y="822" />
+        <point x="2055" y="822" />
+      </lower-contour>
+    </line>
+    <line ass="-234" asx="0" asy="908" character-width="999" dss="-234" dsx="0" dsy="991" fd0="14532" fd1="3518" fd2="-543" filter-width="4" id="c06-039-01" lbs="-260" lbx="0" lby="966" segmentation="ok" slant="61000" stroke-width="6014" threshold="172" text="York&apos;s St. Patrick&apos;s Day parade as a &amp;quot;disorderly" ubs="-182" ubx="0" uby="937">
+      <word id="c06-039-01-00" tag="NP$" text="York&apos;s">
+        <cmp x="353" y="920" width="37" height="51" />
+        <cmp x="379" y="921" width="89" height="51" />
+        <cmp x="496" y="918" width="11" height="14" />
+        <cmp x="496" y="937" width="27" height="32" />
+      </word>
+      <word id="c06-039-01-01" tag="NPT" text="St.">
+        <cmp x="577" y="920" width="52" height="51" />
+        <cmp x="635" y="958" width="6" height="7" />
+      </word>
+      <word id="c06-039-01-02" tag="NP$" text="Patrick&apos;s">
+        <cmp x="685" y="922" width="39" height="50" />
+        <cmp x="708" y="926" width="117" height="46" />
+        <cmp x="821" y="921" width="9" height="7" />
+        <cmp x="830" y="926" width="66" height="47" />
+        <cmp x="927" y="922" width="7" height="9" />
+        <cmp x="935" y="938" width="27" height="31" />
+      </word>
+      <word id="c06-039-01-03" tag="NN" text="Day">
+        <cmp x="1019" y="924" width="44" height="45" />
+        <cmp x="1065" y="935" width="90" height="61" />
+      </word>
+      <word id="c06-039-01-04" tag="NN" text="parade">
+        <cmp x="1201" y="939" width="56" height="52" />
+        <cmp x="1250" y="938" width="106" height="35" />
+        <cmp x="1357" y="927" width="79" height="43" />
+      </word>
+      <word id="c06-039-01-05" tag="IN" text="as">
+        <cmp x="1475" y="941" width="81" height="33" />
+      </word>
+      <word id="c06-039-01-06" tag="AT" text="a">
+        <cmp x="1606" y="938" width="52" height="35" />
+      </word>
+      <word id="c06-039-01-07" tag="*&apos;" text="&quot;">
+        <cmp x="1740" y="917" width="18" height="15" />
+      </word>
+      <word id="c06-039-01-08" tag="JJ" text="disorderly">
+        <cmp x="1752" y="929" width="96" height="45" />
+        <cmp x="1831" y="918" width="6" height="8" />
+        <cmp x="1849" y="942" width="61" height="31" />
+        <cmp x="1907" y="931" width="147" height="69" />
+      </word>
+      <upper-contour>
+        <point x="351" y="822" />
+        <point x="2055" y="822" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="996" />
+        <point x="1806" y="996" />
+      </lower-contour>
+    </line>
+    <line ass="19" asx="0" asy="1095" character-width="999" dss="19" dsx="0" dsy="1180" fd0="14279" fd1="3128" fd2="-226" filter-width="4" id="c06-039-02" lbs="18" lbx="0" lby="1153" segmentation="ok" slant="64000" stroke-width="5892" threshold="172" text="person.&amp;quot; He was in a fight after telling a" ubs="23" ubx="0" uby="1125">
+      <word id="c06-039-02-00" tag="NN" text="person">
+        <cmp x="323" y="1120" width="52" height="54" />
+        <cmp x="367" y="1116" width="156" height="36" />
+      </word>
+      <word id="c06-039-02-01" tag="." text=".">
+        <cmp x="537" y="1145" width="9" height="8" />
+      </word>
+      <word id="c06-039-02-02" tag="**&apos;" text="&quot;">
+        <cmp x="587" y="1102" width="23" height="18" />
+      </word>
+      <word id="c06-039-02-03" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="662" y="1103" width="63" height="47" />
+      </word>
+      <word id="c06-039-02-04" tag="BEDZ" text="was">
+        <cmp x="769" y="1116" width="116" height="36" />
+      </word>
+      <word id="c06-039-02-05" tag="IN" text="in">
+        <cmp x="928" y="1123" width="65" height="29" />
+        <cmp x="958" y="1102" width="6" height="5" />
+      </word>
+      <word id="c06-039-02-06" tag="AT" text="a">
+        <cmp x="1024" y="1122" width="51" height="31" />
+      </word>
+      <word id="c06-039-02-07" tag="NN" text="fight">
+        <cmp x="1127" y="1104" width="55" height="66" />
+        <cmp x="1190" y="1110" width="115" height="63" />
+        <cmp x="1204" y="1096" width="6" height="4" />
+      </word>
+      <word id="c06-039-02-08" tag="IN" text="after">
+        <cmp x="1354" y="1108" width="153" height="60" />
+      </word>
+      <word id="c06-039-02-09" tag="VBG" text="telling">
+        <cmp x="1543" y="1105" width="137" height="49" />
+        <cmp x="1647" y="1097" width="5" height="7" />
+        <cmp x="1675" y="1129" width="30" height="52" />
+      </word>
+      <word id="c06-039-02-10" tag="AT" text="a">
+        <cmp x="1757" y="1121" width="47" height="31" />
+      </word>
+      <upper-contour>
+        <point x="351" y="996" />
+        <point x="1806" y="996" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1181" />
+        <point x="1806" y="1181" />
+      </lower-contour>
+    </line>
+    <line ass="-111" asx="0" asy="1267" character-width="999" dss="-111" dsx="0" dsy="1358" fd0="14307" fd1="2593" fd2="-739" filter-width="4" id="c06-039-03" lbs="0" lbx="0" lby="1329" segmentation="ok" slant="59000" stroke-width="6083" threshold="172" text="Canadian, during a chat about space-flight:" ubs="-334" ubx="0" uby="1295">
+      <word id="c06-039-03-00" tag="NNP" text="Canadian">
+        <cmp x="349" y="1274" width="113" height="57" />
+        <cmp x="466" y="1301" width="38" height="32" />
+        <cmp x="510" y="1280" width="164" height="51" />
+        <cmp x="584" y="1270" width="7" height="6" />
+      </word>
+      <word id="c06-039-03-01" tag="," text=",">
+        <cmp x="685" y="1321" width="19" height="22" />
+      </word>
+      <word id="c06-039-03-02" tag="IN" text="during">
+        <cmp x="763" y="1284" width="88" height="47" />
+        <cmp x="863" y="1298" width="85" height="34" />
+        <cmp x="915" y="1274" width="5" height="5" />
+        <cmp x="954" y="1304" width="33" height="56" />
+      </word>
+      <word id="c06-039-03-03" tag="AT" text="a">
+        <cmp x="1055" y="1298" width="50" height="30" />
+      </word>
+      <word id="c06-039-03-04" tag="NN" text="chat">
+        <cmp x="1148" y="1280" width="70" height="52" />
+        <cmp x="1219" y="1282" width="71" height="46" />
+      </word>
+      <word id="c06-039-03-05" tag="IN" text="about">
+        <cmp x="1344" y="1286" width="190" height="47" />
+      </word>
+      <word id="c06-039-03-06" tag="NN" text="space-flight">
+        <cmp x="1609" y="1298" width="27" height="34" />
+        <cmp x="1631" y="1299" width="42" height="47" />
+        <cmp x="1679" y="1302" width="115" height="31" />
+        <cmp x="1829" y="1309" width="24" height="6" />
+        <cmp x="1869" y="1283" width="59" height="57" />
+        <cmp x="1933" y="1291" width="98" height="61" />
+        <cmp x="1940" y="1280" width="6" height="6" />
+      </word>
+      <word id="c06-039-03-07" tag=":" text=":">
+        <cmp x="2052" y="1324" width="11" height="10" />
+        <cmp x="2066" y="1302" width="7" height="10" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1181" />
+        <point x="1806" y="1181" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1361" />
+        <point x="2029" y="1361" />
+      </lower-contour>
+    </line>
+    <line ass="-391" asx="0" asy="1438" character-width="999" dss="-391" dsx="0" dsy="1525" fd0="14319" fd1="2510" fd2="-997" filter-width="4" id="c06-039-04" lbs="-361" lbx="0" lby="1503" segmentation="ok" slant="64000" stroke-width="5944" threshold="172" text="&amp;quot;Ireland will put a shillelagh into orbit, Israel" ubs="-452" ubx="0" uby="1468">
+      <word id="c06-039-04-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="321" y="1443" width="16" height="25" />
+      </word>
+      <word id="c06-039-04-01" tag="NP" text="Ireland">
+        <cmp x="349" y="1447" width="43" height="53" />
+        <cmp x="379" y="1458" width="75" height="46" />
+        <cmp x="445" y="1468" width="140" height="38" />
+      </word>
+      <word id="c06-039-04-02" tag="MD" text="will">
+        <cmp x="644" y="1471" width="125" height="41" />
+        <cmp x="718" y="1456" width="4" height="5" />
+      </word>
+      <word id="c06-039-04-03" tag="VB" text="put">
+        <cmp x="806" y="1482" width="50" height="49" />
+        <cmp x="860" y="1474" width="76" height="37" />
+      </word>
+      <word id="c06-039-04-04" tag="AT" text="a">
+        <cmp x="960" y="1484" width="54" height="28" />
+      </word>
+      <word id="c06-039-04-05" tag="NN" text="shillelagh">
+        <cmp x="1083" y="1477" width="27" height="34" />
+        <cmp x="1110" y="1463" width="191" height="48" />
+        <cmp x="1173" y="1458" width="5" height="8" />
+        <cmp x="1300" y="1478" width="49" height="31" />
+        <cmp x="1344" y="1460" width="87" height="73" />
+      </word>
+      <word id="c06-039-04-06" tag="IN" text="into">
+        <cmp x="1491" y="1478" width="57" height="36" />
+        <cmp x="1510" y="1449" width="5" height="8" />
+        <cmp x="1557" y="1462" width="54" height="50" />
+      </word>
+      <word id="c06-039-04-07" tag="NN" text="orbit">
+        <cmp x="1657" y="1458" width="141" height="55" />
+        <cmp x="1764" y="1459" width="5" height="7" />
+      </word>
+      <word id="c06-039-04-08" tag="," text=",">
+        <cmp x="1811" y="1502" width="19" height="22" />
+      </word>
+      <word id="c06-039-04-09" tag="NP" text="Israel">
+        <cmp x="1858" y="1460" width="40" height="54" />
+        <cmp x="1883" y="1482" width="29" height="34" />
+        <cmp x="1906" y="1472" width="122" height="49" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1361" />
+        <point x="2029" y="1361" />
+      </upper-contour>
+      <lower-contour>
+        <point x="330" y="1533" />
+        <point x="2029" y="1533" />
+      </lower-contour>
+    </line>
+    <line ass="-52" asx="0" asy="1632" character-width="999" dss="-52" dsx="0" dsy="1707" fd0="14377" fd1="2537" fd2="-783" filter-width="4" id="c06-039-05" lbs="-49" lbx="0" lby="1688" segmentation="ok" slant="61000" stroke-width="5929" threshold="172" text="will put a matzo ball into orbit, and Lichtenstein" ubs="-57" ubx="0" uby="1661">
+      <word id="c06-039-05-00" tag="MD" text="will">
+        <cmp x="332" y="1645" width="131" height="44" />
+        <cmp x="407" y="1635" width="5" height="4" />
+      </word>
+      <word id="c06-039-05-01" tag="VB" text="put">
+        <cmp x="493" y="1663" width="51" height="46" />
+        <cmp x="547" y="1641" width="72" height="49" />
+      </word>
+      <word id="c06-039-05-02" tag="AT" text="a">
+        <cmp x="640" y="1656" width="49" height="33" />
+      </word>
+      <word id="c06-039-05-03" tag="NN" text="matzo">
+        <cmp x="759" y="1660" width="60" height="30" />
+        <cmp x="822" y="1647" width="74" height="45" />
+        <cmp x="889" y="1668" width="30" height="26" />
+        <cmp x="927" y="1663" width="30" height="29" />
+      </word>
+      <word id="c06-039-05-04" tag="NN" text="ball">
+        <cmp x="1006" y="1647" width="118" height="46" />
+      </word>
+      <word id="c06-039-05-05" tag="IN" text="into">
+        <cmp x="1173" y="1655" width="54" height="34" />
+        <cmp x="1200" y="1635" width="6" height="5" />
+        <cmp x="1228" y="1640" width="48" height="52" />
+      </word>
+      <word id="c06-039-05-06" tag="NN" text="orbit">
+        <cmp x="1344" y="1637" width="162" height="54" />
+        <cmp x="1468" y="1637" width="6" height="7" />
+      </word>
+      <word id="c06-039-05-07" tag="," text=",">
+        <cmp x="1527" y="1675" width="18" height="25" />
+      </word>
+      <word id="c06-039-05-08" tag="CC" text="and">
+        <cmp x="1563" y="1648" width="144" height="44" />
+      </word>
+      <word id="c06-039-05-09" tag="NP" text="Lichtenstein">
+        <cmp x="1727" y="1635" width="52" height="58" />
+        <cmp x="1783" y="1663" width="18" height="29" />
+        <cmp x="1798" y="1645" width="161" height="47" />
+        <cmp x="1820" y="1636" width="5" height="6" />
+        <cmp x="1966" y="1660" width="34" height="31" />
+        <cmp x="2004" y="1645" width="114" height="46" />
+        <cmp x="2073" y="1643" width="5" height="6" />
+      </word>
+      <upper-contour>
+        <point x="330" y="1533" />
+        <point x="2029" y="1533" />
+      </upper-contour>
+      <lower-contour>
+        <point x="335" y="1708" />
+        <point x="2041" y="1708" />
+      </lower-contour>
+    </line>
+    <line ass="10" asx="0" asy="1810" character-width="999" dss="10" dsx="0" dsy="1893" fd0="14014" fd1="2492" fd2="-1041" filter-width="4" id="c06-039-06" lbs="50" lbx="0" lby="1871" segmentation="ok" slant="59999" stroke-width="5937" threshold="172" text="will put a postage stamp into orbit before you" ubs="-68" ubx="0" uby="1838">
+      <word id="c06-039-06-00" tag="MD" text="will">
+        <cmp x="337" y="1823" width="130" height="46" />
+        <cmp x="413" y="1813" width="4" height="4" />
+      </word>
+      <word id="c06-039-06-01" tag="VB" text="put">
+        <cmp x="492" y="1835" width="51" height="49" />
+        <cmp x="545" y="1824" width="68" height="44" />
+      </word>
+      <word id="c06-039-06-02" tag="AT" text="a">
+        <cmp x="632" y="1841" width="50" height="28" />
+      </word>
+      <word id="c06-039-06-03" tag="NN" text="postage">
+        <cmp x="729" y="1837" width="51" height="48" />
+        <cmp x="779" y="1837" width="33" height="33" />
+        <cmp x="811" y="1838" width="30" height="33" />
+        <cmp x="839" y="1820" width="53" height="45" />
+        <cmp x="897" y="1836" width="63" height="58" />
+        <cmp x="961" y="1855" width="7" height="8" />
+      </word>
+      <word id="c06-039-06-04" tag="NN" text="stamp">
+        <cmp x="1023" y="1840" width="27" height="31" />
+        <cmp x="1053" y="1821" width="134" height="50" />
+        <cmp x="1186" y="1840" width="49" height="49" />
+      </word>
+      <word id="c06-039-06-05" tag="IN" text="into">
+        <cmp x="1292" y="1836" width="64" height="33" />
+        <cmp x="1328" y="1811" width="9" height="7" />
+        <cmp x="1366" y="1824" width="57" height="52" />
+      </word>
+      <word id="c06-039-06-06" tag="NN" text="orbit">
+        <cmp x="1492" y="1818" width="99" height="52" />
+        <cmp x="1589" y="1838" width="5" height="11" />
+        <cmp x="1595" y="1820" width="68" height="47" />
+        <cmp x="1617" y="1820" width="5" height="6" />
+      </word>
+      <word id="c06-039-06-07" tag="CS" text="before">
+        <cmp x="1707" y="1817" width="91" height="65" />
+        <cmp x="1784" y="1832" width="87" height="34" />
+      </word>
+      <word id="c06-039-06-08" tag="PP2" text="you">
+        <cmp x="1911" y="1834" width="129" height="52" />
+      </word>
+      <upper-contour>
+        <point x="335" y="1708" />
+        <point x="2041" y="1708" />
+      </upper-contour>
+      <lower-contour>
+        <point x="336" y="1894" />
+        <point x="1460" y="1894" />
+      </lower-contour>
+    </line>
+    <line ass="-53" asx="0" asy="1986" character-width="999" dss="-53" dsx="0" dsy="2070" fd0="14353" fd1="3418" fd2="-202" filter-width="4" id="c06-039-07" lbs="57" lbx="0" lby="2045" segmentation="ok" slant="61000" stroke-width="5768" threshold="172" text="Canadians put up a mouse.&amp;quot;" ubs="-273" ubx="0" uby="2015">
+      <word id="c06-039-07-00" tag="NNPS" text="Canadians">
+        <cmp x="338" y="1993" width="116" height="55" />
+        <cmp x="463" y="2021" width="35" height="27" />
+        <cmp x="505" y="2003" width="54" height="43" />
+        <cmp x="560" y="2019" width="20" height="28" />
+        <cmp x="584" y="2015" width="124" height="30" />
+        <cmp x="596" y="1988" width="5" height="4" />
+      </word>
+      <word id="c06-039-07-01" tag="VB" text="put">
+        <cmp x="737" y="2019" width="51" height="45" />
+        <cmp x="790" y="2003" width="77" height="42" />
+      </word>
+      <word id="c06-039-07-02" tag="RP" text="up">
+        <cmp x="919" y="2019" width="19" height="33" />
+        <cmp x="944" y="2019" width="74" height="52" />
+      </word>
+      <word id="c06-039-07-03" tag="AT" text="a">
+        <cmp x="1049" y="2014" width="53" height="33" />
+      </word>
+      <word id="c06-039-07-04" tag="NN" text="mouse">
+        <cmp x="1148" y="2010" width="71" height="35" />
+        <cmp x="1225" y="2012" width="152" height="36" />
+      </word>
+      <word id="c06-039-07-05" tag="." text=".">
+        <cmp x="1388" y="2038" width="9" height="7" />
+      </word>
+      <word id="c06-039-07-06" tag="**&apos;" text="&quot;">
+        <cmp x="1436" y="1990" width="23" height="22" />
+      </word>
+      <upper-contour>
+        <point x="336" y="1894" />
+        <point x="1460" y="1894" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

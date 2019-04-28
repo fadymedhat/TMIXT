@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-15" height="3542" id="a03-009" last-modified="2002-07-17" skew="0" status="final" version="3.0_beta" width="2479" writer-id="041">
+  <machine-printed-part>
+    <machine-print-line text="The wish was particularly apparent in comments on the occasion of the conference" />
+    <machine-print-line text="in Casablanca and, in particular, in Yugoslav approval of the idea of an inter-African" />
+    <machine-print-line text="consultative assembly which would coordinate activity on the political and economic" />
+    <machine-print-line text="sphere; and it is not difficult to see that President Tito would like some such idea" />
+    <machine-print-line text="extended also to the whole uncommitted world." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-222" asx="0" asy="742" character-width="999" dss="-222" dsx="0" dsy="862" fd0="14789" fd1="2456" fd2="-2055" filter-width="4" id="a03-009-00" lbs="-263" lbx="0" lby="806" segmentation="ok" slant="34000" stroke-width="6183" threshold="176" text="The wish was particularly apparent in comments" ubs="-139" ubx="0" uby="780">
+      <word id="a03-009-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="357" y="748" width="84" height="66" />
+        <cmp x="380" y="806" width="4" height="4" />
+        <cmp x="385" y="748" width="80" height="68" />
+      </word>
+      <word id="a03-009-00-01" tag="NN" text="wish">
+        <cmp x="497" y="754" width="166" height="62" />
+        <cmp x="620" y="747" width="4" height="4" />
+      </word>
+      <word id="a03-009-00-02" tag="BEDZ" text="was">
+        <cmp x="685" y="816" width="7" height="6" />
+        <cmp x="694" y="771" width="107" height="45" />
+        <cmp x="791" y="779" width="35" height="33" />
+      </word>
+      <word id="a03-009-00-03" tag="RB" text="particularly">
+        <cmp x="846" y="752" width="178" height="90" />
+        <cmp x="1000" y="757" width="223" height="111" />
+        <cmp x="1019" y="762" width="6" height="7" />
+      </word>
+      <word id="a03-009-00-04" tag="JJ" text="apparent">
+        <cmp x="1262" y="770" width="239" height="78" />
+        <cmp x="1489" y="762" width="54" height="59" />
+      </word>
+      <word id="a03-009-00-05" tag="IN" text="in">
+        <cmp x="1574" y="778" width="68" height="37" />
+        <cmp x="1623" y="777" width="55" height="36" />
+        <cmp x="1662" y="749" width="12" height="9" />
+      </word>
+      <word id="a03-009-00-06" tag="NNS" text="comments">
+        <cmp x="1688" y="761" width="343" height="60" />
+        <cmp x="1995" y="784" width="31" height="36" />
+      </word>
+      <lower-contour>
+        <point x="355" y="868" />
+        <point x="2032" y="868" />
+      </lower-contour>
+    </line>
+    <line ass="-25" asx="0" asy="914" character-width="999" dss="-25" dsx="0" dsy="1015" fd0="14164" fd1="2375" fd2="-1731" filter-width="4" id="a03-009-01" lbs="-3" lbx="0" lby="994" segmentation="err" slant="35000" stroke-width="6161" threshold="176" text="on the occasion of the conference in Casablanca and," ubs="-69" ubx="0" uby="962">
+      <word id="a03-009-01-00" tag="IN" text="on">
+        <cmp x="330" y="953" width="72" height="39" />
+      </word>
+      <word id="a03-009-01-01" tag="ATI" text="the">
+        <cmp x="445" y="929" width="112" height="68" />
+      </word>
+      <word id="a03-009-01-02" tag="NN" text="occasion">
+        <cmp x="617" y="1009" width="7" height="7" />
+        <cmp x="618" y="951" width="283" height="54" />
+        <cmp x="852" y="916" width="11" height="10" />
+      </word>
+      <word id="a03-009-01-03" tag="INO" text="of">
+        <cmp x="935" y="918" width="121" height="95" />
+      </word>
+      <word id="a03-009-01-04" tag="ATI" text="the">
+        <cmp x="1045" y="933" width="129" height="68" />
+        <cmp x="1110" y="932" width="16" height="11" />
+      </word>
+      <word id="a03-009-01-05" tag="NN" text="conference">
+        <cmp x="1219" y="936" width="348" height="81" />
+      </word>
+      <word id="a03-009-01-06" tag="IN" text="in">
+        <cmp x="1584" y="955" width="88" height="43" />
+        <cmp x="1660" y="933" width="9" height="9" />
+      </word>
+      <word id="a03-009-01-07" tag="NP" text="Casablanca">
+        <cmp x="1710" y="994" width="4" height="4" />
+        <cmp x="1718" y="939" width="79" height="59" />
+        <cmp x="1763" y="948" width="113" height="43" />
+        <cmp x="1870" y="924" width="214" height="73" />
+      </word>
+      <word id="a03-009-01-08" tag="CC" text="and">
+        <cmp x="2116" y="941" width="170" height="62" />
+      </word>
+      <word id="a03-009-01-09" tag="," text=",">
+        <cmp x="2243" y="983" width="24" height="29" />
+      </word>
+      <upper-contour>
+        <point x="355" y="868" />
+        <point x="2032" y="868" />
+      </upper-contour>
+      <lower-contour>
+        <point x="328" y="1017" />
+        <point x="2214" y="1017" />
+      </lower-contour>
+    </line>
+    <line ass="-82" asx="0" asy="1093" character-width="999" dss="-82" dsx="0" dsy="1211" fd0="14355" fd1="2215" fd2="-1713" filter-width="4" id="a03-009-02" lbs="0" lbx="0" lby="1171" segmentation="ok" slant="43999" stroke-width="6352" threshold="176" text="in particular, in Yugoslav approval of the idea of an" ubs="-245" ubx="0" uby="1139">
+      <word id="a03-009-02-00" tag="RB21" text="in">
+        <cmp x="318" y="1127" width="65" height="44" />
+        <cmp x="359" y="1111" width="7" height="7" />
+      </word>
+      <word id="a03-009-02-01" tag="RB22" text="particular">
+        <cmp x="408" y="1107" width="168" height="96" />
+        <cmp x="554" y="1109" width="190" height="71" />
+      </word>
+      <word id="a03-009-02-02" tag="," text=",">
+        <cmp x="740" y="1164" width="8" height="18" />
+      </word>
+      <word id="a03-009-02-03" tag="IN" text="in">
+        <cmp x="782" y="1134" width="81" height="37" />
+        <cmp x="843" y="1113" width="8" height="5" />
+      </word>
+      <word id="a03-009-02-04" tag="JNP" text="Yugoslav">
+        <cmp x="918" y="1104" width="80" height="73" />
+        <cmp x="927" y="1118" width="267" height="96" />
+      </word>
+      <word id="a03-009-02-05" tag="NN" text="approval">
+        <cmp x="1221" y="1134" width="158" height="72" />
+        <cmp x="1291" y="1175" width="4" height="4" />
+        <cmp x="1361" y="1112" width="166" height="66" />
+      </word>
+      <word id="a03-009-02-06" tag="INO" text="of">
+        <cmp x="1539" y="1097" width="106" height="91" />
+      </word>
+      <word id="a03-009-02-07" tag="ATI" text="the">
+        <cmp x="1617" y="1103" width="102" height="68" />
+        <cmp x="1673" y="1109" width="61" height="59" />
+        <cmp x="1696" y="1139" width="43" height="36" />
+      </word>
+      <word id="a03-009-02-08" tag="NN" text="idea">
+        <cmp x="1762" y="1116" width="140" height="75" />
+        <cmp x="1862" y="1097" width="11" height="4" />
+        <cmp x="1876" y="1136" width="68" height="45" />
+      </word>
+      <word id="a03-009-02-09" tag="INO" text="of">
+        <cmp x="1999" y="1163" width="6" height="5" />
+        <cmp x="2006" y="1098" width="103" height="89" />
+      </word>
+      <word id="a03-009-02-10" tag="AT" text="an">
+        <cmp x="2116" y="1136" width="97" height="34" />
+      </word>
+      <upper-contour>
+        <point x="328" y="1017" />
+        <point x="2214" y="1017" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1214" />
+        <point x="2073" y="1214" />
+      </lower-contour>
+    </line>
+    <line ass="280" asx="0" asy="1277" character-width="999" dss="280" dsx="0" dsy="1410" fd0="14768" fd1="2507" fd2="-2024" filter-width="4" id="a03-009-03" lbs="322" lbx="0" lby="1353" segmentation="ok" slant="46000" stroke-width="6223" threshold="176" text="inter-African consultative assembly which would" ubs="196" ubx="0" uby="1318">
+      <word id="a03-009-03-00" tag="JNP" text="inter-African">
+        <cmp x="329" y="1280" width="154" height="76" />
+        <cmp x="392" y="1281" width="16" height="6" />
+        <cmp x="499" y="1317" width="17" height="9" />
+        <cmp x="547" y="1274" width="136" height="102" />
+        <cmp x="668" y="1310" width="100" height="46" />
+        <cmp x="685" y="1296" width="5" height="4" />
+      </word>
+      <word id="a03-009-03-01" tag="JJ" text="consultative">
+        <cmp x="834" y="1285" width="241" height="72" />
+        <cmp x="1037" y="1287" width="165" height="69" />
+        <cmp x="1151" y="1290" width="7" height="7" />
+      </word>
+      <word id="a03-009-03-02" tag="NN" text="assembly">
+        <cmp x="1247" y="1288" width="264" height="75" />
+        <cmp x="1493" y="1290" width="71" height="114" />
+      </word>
+      <word id="a03-009-03-03" tag="WDT" text="which">
+        <cmp x="1597" y="1347" width="6" height="6" />
+        <cmp x="1605" y="1274" width="212" height="75" />
+        <cmp x="1768" y="1277" width="9" height="10" />
+      </word>
+      <word id="a03-009-03-04" tag="MD" text="would">
+        <cmp x="1838" y="1279" width="234" height="73" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1214" />
+        <point x="2073" y="1214" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1404" />
+        <point x="2073" y="1404" />
+      </lower-contour>
+    </line>
+    <line ass="359" asx="0" asy="1463" character-width="999" dss="359" dsx="0" dsy="1577" fd0="14498" fd1="2520" fd2="-2007" filter-width="4" id="a03-009-04" lbs="449" lbx="0" lby="1538" segmentation="ok" slant="36000" stroke-width="6348" threshold="176" text="coordinate activity on the political and economic" ubs="179" ubx="0" uby="1496">
+      <word id="a03-009-04-00" tag="VB" text="coordinate">
+        <cmp x="314" y="1468" width="236" height="71" />
+        <cmp x="529" y="1461" width="4" height="4" />
+        <cmp x="532" y="1467" width="108" height="74" />
+      </word>
+      <word id="a03-009-04-01" tag="NN" text="activity">
+        <cmp x="679" y="1469" width="271" height="101" />
+        <cmp x="830" y="1474" width="5" height="6" />
+        <cmp x="887" y="1478" width="5" height="10" />
+      </word>
+      <word id="a03-009-04-02" tag="IN" text="on">
+        <cmp x="989" y="1494" width="88" height="41" />
+      </word>
+      <word id="a03-009-04-03" tag="ATI" text="the">
+        <cmp x="1117" y="1464" width="119" height="76" />
+      </word>
+      <word id="a03-009-04-04" tag="JJ" text="political">
+        <cmp x="1264" y="1470" width="327" height="101" />
+        <cmp x="1501" y="1467" width="6" height="8" />
+      </word>
+      <word id="a03-009-04-05" tag="CC" text="and">
+        <cmp x="1623" y="1477" width="174" height="60" />
+      </word>
+      <word id="a03-009-04-06" tag="JJ" text="economic">
+        <cmp x="1810" y="1489" width="273" height="44" />
+        <cmp x="2068" y="1499" width="36" height="33" />
+        <cmp x="2088" y="1474" width="5" height="11" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1404" />
+        <point x="2073" y="1404" />
+      </upper-contour>
+      <lower-contour>
+        <point x="312" y="1571" />
+        <point x="2105" y="1571" />
+      </lower-contour>
+    </line>
+    <line ass="976" asx="0" asy="1643" character-width="999" dss="976" dsx="0" dsy="1757" fd0="14576" fd1="2642" fd2="-1608" filter-width="4" id="a03-009-05" lbs="992" lbx="0" lby="1727" segmentation="err" slant="37000" stroke-width="6393" threshold="176" text="sphere; and it is not difficult to see that President" ubs="942" ubx="0" uby="1698">
+      <word id="a03-009-05-00" tag="NN" text="sphere">
+        <cmp x="311" y="1635" width="197" height="116" />
+        <cmp x="518" y="1671" width="9" height="10" />
+      </word>
+      <word id="a03-009-05-01" tag=";" text=";">
+        <cmp x="491" y="1698" width="36" height="37" />
+      </word>
+      <word id="a03-009-05-02" tag="CC" text="and">
+        <cmp x="551" y="1648" width="181" height="77" />
+      </word>
+      <word id="a03-009-05-03" tag="PP3" text="it">
+        <cmp x="744" y="1651" width="121" height="68" />
+        <cmp x="815" y="1651" width="15" height="11" />
+      </word>
+      <word id="a03-009-05-04" tag="BEZ" text="is">
+        <cmp x="864" y="1682" width="94" height="40" />
+      </word>
+      <word id="a03-009-05-05" tag="XNOT" text="not">
+        <cmp x="973" y="1717" width="4" height="4" />
+        <cmp x="978" y="1655" width="180" height="64" />
+      </word>
+      <word id="a03-009-05-06" tag="JJ" text="difficult">
+        <cmp x="1176" y="1634" width="184" height="104" />
+        <cmp x="1278" y="1648" width="7" height="6" />
+        <cmp x="1320" y="1640" width="173" height="74" />
+        <cmp x="1353" y="1652" width="7" height="8" />
+      </word>
+      <word id="a03-009-05-07" tag="TO" text="to">
+        <cmp x="1494" y="1652" width="106" height="72" />
+      </word>
+      <word id="a03-009-05-08" tag="VB" text="see">
+        <cmp x="1638" y="1671" width="102" height="42" />
+      </word>
+      <word id="a03-009-05-09" tag="CS" text="that">
+        <cmp x="1752" y="1644" width="210" height="77" />
+        <cmp x="1812" y="1662" width="11" height="7" />
+      </word>
+      <word id="a03-009-05-10" tag="NPT" text="President">
+        <cmp x="1988" y="1635" width="282" height="79" />
+        <cmp x="2137" y="1635" width="7" height="15" />
+      </word>
+      <upper-contour>
+        <point x="312" y="1571" />
+        <point x="2105" y="1571" />
+      </upper-contour>
+      <lower-contour>
+        <point x="310" y="1751" />
+        <point x="2271" y="1751" />
+      </lower-contour>
+    </line>
+    <line ass="177" asx="0" asy="1815" character-width="999" dss="177" dsx="0" dsy="1914" fd0="14321" fd1="2075" fd2="-1956" filter-width="4" id="a03-009-06" lbs="91" lbx="0" lby="1890" segmentation="ok" slant="35000" stroke-width="6112" threshold="176" text="Tito would like some such idea extended also" ubs="351" ubx="0" uby="1861">
+      <word id="a03-009-06-00" tag="NP" text="Tito">
+        <cmp x="312" y="1832" width="62" height="68" />
+        <cmp x="321" y="1815" width="85" height="57" />
+        <cmp x="333" y="1829" width="121" height="64" />
+        <cmp x="389" y="1831" width="6" height="5" />
+      </word>
+      <word id="a03-009-06-01" tag="MD" text="would">
+        <cmp x="494" y="1855" width="74" height="46" />
+        <cmp x="552" y="1820" width="205" height="76" />
+      </word>
+      <word id="a03-009-06-02" tag="VB" text="like">
+        <cmp x="796" y="1832" width="170" height="81" />
+        <cmp x="877" y="1845" width="5" height="4" />
+        <cmp x="921" y="1841" width="9" height="7" />
+      </word>
+      <word id="a03-009-06-03" tag="DTI" text="some">
+        <cmp x="1041" y="1852" width="189" height="50" />
+      </word>
+      <word id="a03-009-06-04" tag="ABL" text="such">
+        <cmp x="1296" y="1827" width="179" height="66" />
+      </word>
+      <word id="a03-009-06-05" tag="NN" text="idea">
+        <cmp x="1509" y="1893" width="7" height="4" />
+        <cmp x="1517" y="1831" width="165" height="63" />
+        <cmp x="1607" y="1819" width="19" height="13" />
+      </word>
+      <word id="a03-009-06-06" tag="VBN" text="extended">
+        <cmp x="1740" y="1821" width="327" height="79" />
+      </word>
+      <word id="a03-009-06-07" tag="RB" text="also">
+        <cmp x="2093" y="1817" width="181" height="83" />
+      </word>
+      <upper-contour>
+        <point x="310" y="1751" />
+        <point x="2271" y="1751" />
+      </upper-contour>
+      <lower-contour>
+        <point x="310" y="1913" />
+        <point x="1655" y="1913" />
+      </lower-contour>
+    </line>
+    <line ass="501" asx="0" asy="2001" character-width="999" dss="501" dsx="0" dsy="2092" fd0="14309" fd1="2378" fd2="-1825" filter-width="4" id="a03-009-07" lbs="653" lbx="0" lby="2079" segmentation="ok" slant="38000" stroke-width="6302" threshold="176" text="to the whole uncommitted world" ubs="197" ubx="0" uby="2036">
+      <word id="a03-009-07-00" tag="IN" text="to">
+        <cmp x="282" y="1998" width="108" height="75" />
+      </word>
+      <word id="a03-009-07-01" tag="ATI" text="the">
+        <cmp x="429" y="2000" width="112" height="78" />
+      </word>
+      <word id="a03-009-07-02" tag="JJ" text="whole">
+        <cmp x="611" y="1997" width="217" height="82" />
+      </word>
+      <word id="a03-009-07-03" tag="JJ" text="uncommitted">
+        <cmp x="898" y="2028" width="356" height="51" />
+        <cmp x="1240" y="2000" width="170" height="70" />
+        <cmp x="1252" y="2014" width="8" height="11" />
+      </word>
+      <word id="a03-009-07-04" tag="NN" text="world">
+        <cmp x="1407" y="2028" width="78" height="53" />
+        <cmp x="1449" y="2030" width="69" height="35" />
+        <cmp x="1507" y="1997" width="147" height="66" />
+      </word>
+      <upper-contour>
+        <point x="310" y="1913" />
+        <point x="1655" y="1913" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

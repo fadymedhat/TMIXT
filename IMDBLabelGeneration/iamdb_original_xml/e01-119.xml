@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-17" height="3542" id="e01-119" last-modified="2002-07-17" skew="63" status="final" version="3.0_beta" width="2479" writer-id="217">
+  <machine-printed-part>
+    <machine-print-line text="2. Insert hook through loop and under long thread. Catch long end of thread (Fig." />
+    <machine-print-line text="2). Draw loop through. 3. Do not remove hook from thread. Pull short end and ball" />
+    <machine-print-line text="thread in opposite directions to bring loop close around the end of the hook, but not" />
+    <machine-print-line text="too tight (Fig. 3). Loop thread round little finger, across palm and behind forefinger" />
+    <machine-print-line text="(Fig. 4)." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="83" asx="0" asy="890" character-width="999" dss="83" dsx="0" dsy="1033" fd0="13021" fd1="2811" fd2="-75" filter-width="4" id="e01-119-00" lbs="131" lbx="0" lby="984" segmentation="ok" slant="86000" stroke-width="6063" threshold="162" text="2. Insert hook through loop and under long" ubs="-12" ubx="0" uby="950">
+      <word id="e01-119-00-00" sentence-start="yes" tag="CD" text="2">
+        <cmp x="380" y="915" width="36" height="57" />
+      </word>
+      <word id="e01-119-00-01" tag="." text=".">
+        <cmp x="426" y="970" width="10" height="8" />
+      </word>
+      <word id="e01-119-00-02" tag="VB" text="Insert">
+        <cmp x="561" y="891" width="16" height="101" />
+        <cmp x="581" y="949" width="29" height="31" />
+        <cmp x="623" y="925" width="102" height="58" />
+      </word>
+      <word id="e01-119-00-03" tag="NN" text="hook">
+        <cmp x="846" y="919" width="24" height="72" />
+        <cmp x="874" y="958" width="48" height="25" />
+        <cmp x="937" y="921" width="31" height="59" />
+      </word>
+      <word id="e01-119-00-04" tag="IN" text="through">
+        <cmp x="1051" y="909" width="80" height="76" />
+        <cmp x="1131" y="924" width="130" height="104" />
+      </word>
+      <word id="e01-119-00-05" tag="NN" text="loop">
+        <cmp x="1348" y="912" width="113" height="120" />
+      </word>
+      <word id="e01-119-00-06" tag="CC" text="and">
+        <cmp x="1534" y="946" width="59" height="34" />
+        <cmp x="1613" y="923" width="40" height="58" />
+      </word>
+      <word id="e01-119-00-07" tag="IN" text="under">
+        <cmp x="1725" y="951" width="37" height="29" />
+        <cmp x="1763" y="951" width="23" height="26" />
+        <cmp x="1796" y="918" width="80" height="64" />
+      </word>
+      <word id="e01-119-00-08" tag="JJ" text="long">
+        <cmp x="1936" y="910" width="11" height="72" />
+        <cmp x="1956" y="943" width="62" height="29" />
+        <cmp x="2028" y="938" width="27" height="74" />
+      </word>
+      <lower-contour>
+        <point x="378" y="1032" />
+        <point x="2056" y="1032" />
+      </lower-contour>
+    </line>
+    <line ass="-367" asx="0" asy="1072" character-width="999" dss="-367" dsx="0" dsy="1199" fd0="13407" fd1="2700" fd2="-252" filter-width="4" id="e01-119-01" lbs="-357" lbx="0" lby="1159" segmentation="ok" slant="81000" stroke-width="5997" threshold="162" text="thread. Catch long end of thread (Fig. 2)." ubs="-388" ubx="0" uby="1123">
+      <word id="e01-119-01-00" tag="NN" text="thread">
+        <cmp x="380" y="1095" width="108" height="66" />
+        <cmp x="487" y="1131" width="29" height="27" />
+        <cmp x="519" y="1111" width="26" height="58" />
+      </word>
+      <word id="e01-119-01-01" tag="." text=".">
+        <cmp x="560" y="1153" width="10" height="12" />
+      </word>
+      <word id="e01-119-01-02" sentence-start="yes" tag="VB" text="Catch">
+        <cmp x="721" y="1090" width="148" height="73" />
+      </word>
+      <word id="e01-119-01-03" tag="JJ" text="long">
+        <cmp x="960" y="1080" width="26" height="80" />
+        <cmp x="984" y="1121" width="80" height="85" />
+      </word>
+      <word id="e01-119-01-04" tag="NN" text="end">
+        <cmp x="1129" y="1129" width="59" height="46" />
+        <cmp x="1200" y="1127" width="31" height="49" />
+      </word>
+      <word id="e01-119-01-05" tag="INO" text="of">
+        <cmp x="1298" y="1114" width="72" height="95" />
+      </word>
+      <word id="e01-119-01-06" tag="NN" text="thread">
+        <cmp x="1448" y="1103" width="65" height="84" />
+        <cmp x="1520" y="1136" width="83" height="39" />
+        <cmp x="1607" y="1111" width="31" height="57" />
+      </word>
+      <word id="e01-119-01-07" tag="(" text="(">
+        <cmp x="1751" y="1104" width="45" height="73" />
+      </word>
+      <word id="e01-119-01-08" tag="NN" text="Fig.">
+        <cmp x="1804" y="1112" width="51" height="66" />
+        <cmp x="1846" y="1131" width="14" height="19" />
+        <cmp x="1848" y="1135" width="36" height="72" />
+        <cmp x="1904" y="1168" width="8" height="11" />
+      </word>
+      <word id="e01-119-01-09" tag="CD" text="2">
+        <cmp x="1982" y="1118" width="26" height="45" />
+      </word>
+      <word id="e01-119-01-10" tag=")" text=")">
+        <cmp x="2012" y="1108" width="27" height="66" />
+      </word>
+      <word id="e01-119-01-11" tag="." text=".">
+        <cmp x="2045" y="1159" width="10" height="11" />
+      </word>
+      <upper-contour>
+        <point x="378" y="1032" />
+        <point x="2056" y="1032" />
+      </upper-contour>
+      <lower-contour>
+        <point x="378" y="1209" />
+        <point x="1982" y="1209" />
+      </lower-contour>
+    </line>
+    <line ass="102" asx="0" asy="1258" character-width="999" dss="102" dsx="0" dsy="1386" fd0="13077" fd1="2761" fd2="-220" filter-width="4" id="e01-119-02" lbs="116" lbx="0" lby="1339" segmentation="ok" slant="90000" stroke-width="5959" threshold="161" text="Draw loop through. 3. Do not remove hook" ubs="75" ubx="0" uby="1308">
+      <word id="e01-119-02-00" sentence-start="yes" tag="VB" text="Draw">
+        <cmp x="371" y="1259" width="42" height="76" />
+        <cmp x="420" y="1296" width="96" height="34" />
+      </word>
+      <word id="e01-119-02-01" tag="NN" text="loop">
+        <cmp x="606" y="1261" width="12" height="77" />
+        <cmp x="627" y="1288" width="92" height="98" />
+      </word>
+      <word id="e01-119-02-02" tag="RP" text="through">
+        <cmp x="791" y="1293" width="61" height="59" />
+        <cmp x="849" y="1317" width="28" height="23" />
+        <cmp x="882" y="1314" width="61" height="29" />
+        <cmp x="935" y="1288" width="72" height="97" />
+      </word>
+      <word id="e01-119-02-03" tag="." text=".">
+        <cmp x="1025" y="1342" width="12" height="11" />
+      </word>
+      <word id="e01-119-02-04" sentence-start="yes" tag="CD" text="3">
+        <cmp x="1161" y="1284" width="34" height="59" />
+      </word>
+      <word id="e01-119-02-05" tag="." text=".">
+        <cmp x="1200" y="1335" width="10" height="10" />
+      </word>
+      <word id="e01-119-02-06" tag="DO" text="Do">
+        <cmp x="1278" y="1275" width="45" height="67" />
+        <cmp x="1324" y="1307" width="22" height="28" />
+      </word>
+      <word id="e01-119-02-07" tag="XNOT" text="not">
+        <cmp x="1416" y="1306" width="25" height="30" />
+        <cmp x="1443" y="1294" width="67" height="50" />
+      </word>
+      <word id="e01-119-02-08" tag="VB" text="remove">
+        <cmp x="1565" y="1292" width="76" height="50" />
+        <cmp x="1643" y="1304" width="41" height="30" />
+        <cmp x="1682" y="1305" width="24" height="28" />
+        <cmp x="1708" y="1294" width="56" height="39" />
+      </word>
+      <word id="e01-119-02-09" tag="NN" text="hook">
+        <cmp x="1847" y="1261" width="33" height="77" />
+        <cmp x="1887" y="1301" width="59" height="29" />
+        <cmp x="1946" y="1288" width="35" height="42" />
+      </word>
+      <upper-contour>
+        <point x="378" y="1209" />
+        <point x="1982" y="1209" />
+      </upper-contour>
+      <lower-contour>
+        <point x="369" y="1386" />
+        <point x="1982" y="1386" />
+      </lower-contour>
+    </line>
+    <line ass="31" asx="0" asy="1444" character-width="999" dss="31" dsx="0" dsy="1547" fd0="12692" fd1="3337" fd2="-187" filter-width="4" id="e01-119-03" lbs="-82" lbx="0" lby="1514" segmentation="ok" slant="90000" stroke-width="5954" threshold="158" text="from thread. Pull short end and ball thread" ubs="259" ubx="0" uby="1483">
+      <word id="e01-119-03-00" tag="IN" text="from">
+        <cmp x="353" y="1449" width="131" height="99" />
+      </word>
+      <word id="e01-119-03-01" tag="NN" text="thread">
+        <cmp x="559" y="1454" width="36" height="66" />
+        <cmp x="595" y="1466" width="131" height="48" />
+      </word>
+      <word id="e01-119-03-02" tag="." text=".">
+        <cmp x="743" y="1508" width="9" height="10" />
+      </word>
+      <word id="e01-119-03-03" sentence-start="yes" tag="VB" text="Pull">
+        <cmp x="862" y="1446" width="32" height="89" />
+        <cmp x="902" y="1451" width="59" height="60" />
+        <cmp x="965" y="1454" width="11" height="57" />
+      </word>
+      <word id="e01-119-03-04" tag="JJ" text="short">
+        <cmp x="1079" y="1464" width="26" height="56" />
+        <cmp x="1106" y="1457" width="75" height="62" />
+        <cmp x="1187" y="1467" width="36" height="52" />
+      </word>
+      <word id="e01-119-03-05" tag="NN" text="end">
+        <cmp x="1296" y="1479" width="67" height="40" />
+        <cmp x="1369" y="1466" width="29" height="54" />
+      </word>
+      <word id="e01-119-03-06" tag="CC" text="and">
+        <cmp x="1486" y="1484" width="70" height="32" />
+        <cmp x="1568" y="1457" width="33" height="59" />
+      </word>
+      <word id="e01-119-03-07" tag="NN" text="ball">
+        <cmp x="1675" y="1445" width="38" height="82" />
+        <cmp x="1717" y="1491" width="34" height="30" />
+        <cmp x="1757" y="1462" width="10" height="52" />
+        <cmp x="1779" y="1464" width="10" height="49" />
+      </word>
+      <word id="e01-119-03-08" tag="NN" text="thread">
+        <cmp x="1860" y="1459" width="143" height="59" />
+        <cmp x="2010" y="1462" width="38" height="55" />
+      </word>
+      <upper-contour>
+        <point x="369" y="1386" />
+        <point x="1982" y="1386" />
+      </upper-contour>
+      <lower-contour>
+        <point x="358" y="1548" />
+        <point x="2049" y="1548" />
+      </lower-contour>
+    </line>
+    <line ass="-145" asx="0" asy="1624" character-width="999" dss="-145" dsx="0" dsy="1738" fd0="13115" fd1="2787" fd2="-501" filter-width="4" id="e01-119-04" lbs="-173" lbx="0" lby="1698" segmentation="ok" slant="90000" stroke-width="5925" threshold="158" text="in opposite directions to bring loop close around" ubs="-91" ubx="0" uby="1668">
+      <word id="e01-119-04-00" tag="IN" text="in">
+        <cmp x="360" y="1636" width="27" height="15" />
+        <cmp x="360" y="1657" width="10" height="36" />
+        <cmp x="379" y="1663" width="25" height="23" />
+      </word>
+      <word id="e01-119-04-01" tag="JJ" text="opposite">
+        <cmp x="506" y="1656" width="61" height="65" />
+        <cmp x="573" y="1647" width="91" height="73" />
+        <cmp x="666" y="1666" width="8" height="17" />
+        <cmp x="667" y="1649" width="16" height="10" />
+        <cmp x="688" y="1640" width="43" height="60" />
+      </word>
+      <word id="e01-119-04-02" tag="NNS" text="directions">
+        <cmp x="815" y="1630" width="33" height="78" />
+        <cmp x="852" y="1681" width="13" height="23" />
+        <cmp x="854" y="1648" width="129" height="61" />
+        <cmp x="977" y="1639" width="18" height="15" />
+        <cmp x="988" y="1674" width="49" height="27" />
+        <cmp x="1055" y="1674" width="21" height="33" />
+      </word>
+      <word id="e01-119-04-03" tag="TO" text="to">
+        <cmp x="1167" y="1630" width="63" height="79" />
+      </word>
+      <word id="e01-119-04-04" tag="VB" text="bring">
+        <cmp x="1304" y="1630" width="28" height="73" />
+        <cmp x="1338" y="1668" width="25" height="32" />
+        <cmp x="1367" y="1672" width="50" height="31" />
+        <cmp x="1372" y="1643" width="22" height="12" />
+        <cmp x="1391" y="1675" width="36" height="68" />
+      </word>
+      <word id="e01-119-04-05" tag="NN" text="loop">
+        <cmp x="1498" y="1630" width="8" height="77" />
+        <cmp x="1509" y="1652" width="91" height="85" />
+      </word>
+      <word id="e01-119-04-06" tag="RB" text="close">
+        <cmp x="1691" y="1656" width="38" height="46" />
+        <cmp x="1732" y="1630" width="9" height="72" />
+        <cmp x="1748" y="1666" width="84" height="37" />
+      </word>
+      <word id="e01-119-04-07" tag="IN" text="around">
+        <cmp x="1910" y="1666" width="56" height="37" />
+        <cmp x="1966" y="1672" width="73" height="31" />
+        <cmp x="2040" y="1683" width="13" height="15" />
+        <cmp x="2054" y="1644" width="56" height="54" />
+      </word>
+      <upper-contour>
+        <point x="358" y="1548" />
+        <point x="2049" y="1548" />
+      </upper-contour>
+      <lower-contour>
+        <point x="368" y="1743" />
+        <point x="2010" y="1743" />
+      </lower-contour>
+    </line>
+    <line ass="-576" asx="0" asy="1790" character-width="999" dss="-576" dsx="0" dsy="1910" fd0="12722" fd1="3259" fd2="59" filter-width="4" id="e01-119-05" lbs="-620" lbx="0" lby="1868" segmentation="ok" slant="90000" stroke-width="6077" threshold="160" text="the end of the hook, but not too tight" ubs="-490" ubx="0" uby="1827">
+      <word id="e01-119-05-00" tag="ATI" text="the">
+        <cmp x="370" y="1810" width="65" height="65" />
+        <cmp x="442" y="1835" width="33" height="36" />
+      </word>
+      <word id="e01-119-05-01" tag="NN" text="end">
+        <cmp x="568" y="1831" width="51" height="48" />
+        <cmp x="631" y="1829" width="30" height="46" />
+      </word>
+      <word id="e01-119-05-02" tag="INO" text="of">
+        <cmp x="733" y="1809" width="64" height="110" />
+      </word>
+      <word id="e01-119-05-03" tag="ATI" text="the">
+        <cmp x="874" y="1822" width="60" height="58" />
+        <cmp x="939" y="1841" width="35" height="33" />
+      </word>
+      <word id="e01-119-05-04" tag="NN" text="hook">
+        <cmp x="1035" y="1816" width="112" height="67" />
+        <cmp x="1148" y="1819" width="32" height="65" />
+      </word>
+      <word id="e01-119-05-05" tag="," text=",">
+        <cmp x="1186" y="1877" width="22" height="36" />
+      </word>
+      <word id="e01-119-05-06" tag="CC" text="but">
+        <cmp x="1302" y="1814" width="76" height="75" />
+        <cmp x="1380" y="1831" width="23" height="58" />
+      </word>
+      <word id="e01-119-05-07" tag="XNOT" text="not">
+        <cmp x="1493" y="1849" width="29" height="39" />
+        <cmp x="1525" y="1828" width="56" height="62" />
+      </word>
+      <word id="e01-119-05-08" tag="QL" text="too">
+        <cmp x="1658" y="1826" width="91" height="65" />
+      </word>
+      <word id="e01-119-05-09" tag="JJ" text="tight">
+        <cmp x="1825" y="1809" width="54" height="81" />
+        <cmp x="1870" y="1828" width="93" height="89" />
+        <cmp x="1978" y="1826" width="31" height="56" />
+      </word>
+      <upper-contour>
+        <point x="368" y="1743" />
+        <point x="2010" y="1743" />
+      </upper-contour>
+      <lower-contour>
+        <point x="384" y="1920" />
+        <point x="1987" y="1920" />
+      </lower-contour>
+    </line>
+    <line ass="-872" asx="0" asy="1950" character-width="999" dss="-872" dsx="0" dsy="2077" fd0="12837" fd1="2936" fd2="-163" filter-width="4" id="e01-119-06" lbs="-723" lbx="0" lby="2041" segmentation="ok" slant="91000" stroke-width="5912" threshold="161" text="(Fig. 3). Loop thread round little finger," ubs="-1171" ubx="0" uby="1998">
+      <word id="e01-119-06-00" tag="(" text="(">
+        <cmp x="386" y="1983" width="31" height="77" />
+      </word>
+      <word id="e01-119-06-01" tag="NN" text="Fig.">
+        <cmp x="423" y="1985" width="55" height="75" />
+        <cmp x="471" y="2004" width="16" height="19" />
+        <cmp x="483" y="2018" width="33" height="63" />
+        <cmp x="528" y="2053" width="10" height="11" />
+      </word>
+      <word id="e01-119-06-02" tag="CD" text="3">
+        <cmp x="597" y="2000" width="23" height="53" />
+      </word>
+      <word id="e01-119-06-03" tag=")" text=")">
+        <cmp x="631" y="1997" width="19" height="57" />
+      </word>
+      <word id="e01-119-06-04" tag="." text=".">
+        <cmp x="680" y="2061" width="14" height="12" />
+      </word>
+      <word id="e01-119-06-05" sentence-start="yes" tag="VB" text="Loop">
+        <cmp x="827" y="1981" width="109" height="111" />
+        <cmp x="938" y="2022" width="15" height="30" />
+      </word>
+      <word id="e01-119-06-06" tag="NN" text="thread">
+        <cmp x="1029" y="1982" width="127" height="81" />
+        <cmp x="1156" y="1988" width="32" height="58" />
+      </word>
+      <word id="e01-119-06-07" tag="IN" text="round">
+        <cmp x="1284" y="2006" width="122" height="52" />
+        <cmp x="1418" y="1992" width="42" height="71" />
+      </word>
+      <word id="e01-119-06-08" tag="JJ" text="little">
+        <cmp x="1529" y="1996" width="10" height="70" />
+        <cmp x="1549" y="2014" width="15" height="15" />
+        <cmp x="1549" y="2036" width="8" height="19" />
+        <cmp x="1571" y="1993" width="52" height="60" />
+        <cmp x="1628" y="2025" width="32" height="29" />
+      </word>
+      <word id="e01-119-06-09" tag="NN" text="finger">
+        <cmp x="1750" y="1987" width="47" height="94" />
+        <cmp x="1801" y="2023" width="124" height="64" />
+        <cmp x="1808" y="1979" width="28" height="15" />
+      </word>
+      <word id="e01-119-06-10" tag="," text=",">
+        <cmp x="1965" y="2054" width="21" height="26" />
+      </word>
+      <upper-contour>
+        <point x="384" y="1920" />
+        <point x="1987" y="1920" />
+      </upper-contour>
+      <lower-contour>
+        <point x="385" y="2092" />
+        <point x="1987" y="2092" />
+      </lower-contour>
+    </line>
+    <line ass="-601" asx="0" asy="2150" character-width="999" dss="-601" dsx="0" dsy="2289" fd0="13190" fd1="2881" fd2="-173" filter-width="4" id="e01-119-07" lbs="-518" lbx="0" lby="2227" segmentation="ok" slant="90000" stroke-width="5835" threshold="159" text="across palm and behind forefinger (Fig. 4)." ubs="-765" ubx="0" uby="2193">
+      <word id="e01-119-07-00" tag="IN" text="across">
+        <cmp x="387" y="2191" width="39" height="50" />
+        <cmp x="427" y="2201" width="28" height="33" />
+        <cmp x="461" y="2200" width="78" height="34" />
+        <cmp x="551" y="2199" width="16" height="37" />
+      </word>
+      <word id="e01-119-07-01" tag="NN" text="palm">
+        <cmp x="686" y="2186" width="29" height="111" />
+        <cmp x="727" y="2193" width="28" height="36" />
+        <cmp x="758" y="2163" width="16" height="66" />
+        <cmp x="779" y="2201" width="40" height="27" />
+      </word>
+      <word id="e01-119-07-02" tag="CC" text="and">
+        <cmp x="919" y="2203" width="63" height="35" />
+        <cmp x="990" y="2185" width="34" height="51" />
+      </word>
+      <word id="e01-119-07-03" tag="IN" text="behind">
+        <cmp x="1122" y="2163" width="100" height="72" />
+        <cmp x="1228" y="2208" width="11" height="24" />
+        <cmp x="1236" y="2171" width="23" height="14" />
+        <cmp x="1246" y="2209" width="23" height="20" />
+        <cmp x="1272" y="2184" width="36" height="58" />
+      </word>
+      <word id="e01-119-07-04" tag="NN" text="forefinger">
+        <cmp x="1394" y="2176" width="83" height="94" />
+        <cmp x="1488" y="2187" width="86" height="84" />
+        <cmp x="1573" y="2223" width="32" height="17" />
+        <cmp x="1577" y="2174" width="17" height="17" />
+        <cmp x="1603" y="2214" width="113" height="57" />
+      </word>
+      <word id="e01-119-07-05" tag="(" text="(">
+        <cmp x="1792" y="2184" width="59" height="69" />
+      </word>
+      <word id="e01-119-07-06" tag="NN" text="Fig.">
+        <cmp x="1843" y="2178" width="53" height="73" />
+        <cmp x="1892" y="2195" width="13" height="17" />
+        <cmp x="1893" y="2205" width="34" height="60" />
+        <cmp x="1943" y="2233" width="13" height="10" />
+      </word>
+      <word id="e01-119-07-07" tag="CD" text="4">
+        <cmp x="1986" y="2199" width="42" height="49" />
+      </word>
+      <word id="e01-119-07-08" tag=")" text=")">
+        <cmp x="2033" y="2178" width="26" height="75" />
+      </word>
+      <word id="e01-119-07-09" tag="." text=".">
+        <cmp x="2067" y="2240" width="11" height="12" />
+      </word>
+      <upper-contour>
+        <point x="385" y="2092" />
+        <point x="1987" y="2092" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

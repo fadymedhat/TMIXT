@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-15" height="3542" id="a02-082" last-modified="2002-07-17" skew="-95" status="final" version="3.0_beta" width="2479" writer-id="035">
+  <machine-printed-part>
+    <machine-print-line text="He cited cases in which hundreds of UNIP supporters had been arrested or convicted" />
+    <machine-print-line text="since last year on charges of creating disturbances. During the first three weeks of the" />
+    <machine-print-line text="present trouble 287 incidents had been reported in Northern Rhodesia. More than" />
+    <machine-print-line text="500 people - 167 of them members of the UNIP - were convicted last month in the" />
+    <machine-print-line text="Northern Province alone." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-132" asx="0" asy="736" character-width="999" dss="-132" dsx="0" dsy="813" fd0="13341" fd1="3194" fd2="-316" filter-width="4" id="a02-082-00" lbs="-102" lbx="0" lby="788" segmentation="ok" slant="90000" stroke-width="6745" threshold="162" text="He cited cases in which hundreds of UNIP supporters" ubs="-191" ubx="0" uby="753">
+      <word id="a02-082-00-00" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="331" y="747" width="56" height="40" />
+      </word>
+      <word id="a02-082-00-01" tag="VBD" text="cited">
+        <cmp x="459" y="764" width="34" height="29" />
+        <cmp x="481" y="750" width="6" height="7" />
+        <cmp x="500" y="749" width="44" height="44" />
+        <cmp x="550" y="749" width="29" height="40" />
+      </word>
+      <word id="a02-082-00-02" tag="NNS" text="cases">
+        <cmp x="660" y="759" width="24" height="33" />
+        <cmp x="688" y="755" width="26" height="37" />
+        <cmp x="717" y="755" width="20" height="35" />
+        <cmp x="735" y="760" width="33" height="30" />
+        <cmp x="772" y="760" width="20" height="30" />
+      </word>
+      <word id="a02-082-00-03" tag="IN" text="in">
+        <cmp x="863" y="758" width="40" height="37" />
+      </word>
+      <word id="a02-082-00-04" tag="WDT" text="which">
+        <cmp x="966" y="759" width="39" height="34" />
+        <cmp x="1008" y="745" width="52" height="45" />
+        <cmp x="1056" y="756" width="6" height="9" />
+        <cmp x="1071" y="744" width="61" height="47" />
+      </word>
+      <word id="a02-082-00-05" tag="CDS" text="hundreds">
+        <cmp x="1205" y="745" width="42" height="48" />
+        <cmp x="1254" y="759" width="73" height="31" />
+        <cmp x="1330" y="746" width="92" height="46" />
+        <cmp x="1425" y="745" width="28" height="42" />
+        <cmp x="1463" y="752" width="22" height="38" />
+      </word>
+      <word id="a02-082-00-06" tag="INO" text="of">
+        <cmp x="1539" y="742" width="55" height="65" />
+      </word>
+      <word id="a02-082-00-07" tag="NP" text="UNIP">
+        <cmp x="1665" y="754" width="30" height="41" />
+        <cmp x="1703" y="751" width="39" height="42" />
+        <cmp x="1760" y="754" width="8" height="40" />
+        <cmp x="1763" y="742" width="7" height="4" />
+        <cmp x="1784" y="747" width="33" height="50" />
+      </word>
+      <word id="a02-082-00-08" tag="NNS" text="supporters">
+        <cmp x="1881" y="759" width="58" height="37" />
+        <cmp x="1950" y="764" width="29" height="54" />
+        <cmp x="1989" y="764" width="49" height="46" />
+        <cmp x="2041" y="747" width="90" height="44" />
+        <cmp x="2134" y="756" width="23" height="32" />
+      </word>
+      <lower-contour>
+        <point x="329" y="817" />
+        <point x="2041" y="817" />
+      </lower-contour>
+    </line>
+    <line ass="-326" asx="0" asy="914" character-width="999" dss="-326" dsx="0" dsy="987" fd0="13570" fd1="3069" fd2="-207" filter-width="4" id="a02-082-01" lbs="-331" lbx="0" lby="964" segmentation="ok" slant="90000" stroke-width="6737" threshold="163" text="had been arrested or convicted since last year on" ubs="-317" ubx="0" uby="934">
+      <word id="a02-082-01-00" tag="HVD" text="had">
+        <cmp x="319" y="924" width="24" height="47" />
+        <cmp x="350" y="939" width="21" height="32" />
+        <cmp x="374" y="926" width="26" height="45" />
+      </word>
+      <word id="a02-082-01-01" tag="BEN" text="been">
+        <cmp x="490" y="922" width="51" height="46" />
+        <cmp x="542" y="938" width="55" height="26" />
+      </word>
+      <word id="a02-082-01-02" tag="VBN" text="arrested">
+        <cmp x="678" y="931" width="69" height="35" />
+        <cmp x="747" y="936" width="32" height="30" />
+        <cmp x="783" y="933" width="23" height="31" />
+        <cmp x="809" y="922" width="43" height="47" />
+        <cmp x="856" y="922" width="32" height="47" />
+      </word>
+      <word id="a02-082-01-03" tag="CC" text="or">
+        <cmp x="972" y="941" width="42" height="32" />
+      </word>
+      <word id="a02-082-01-04" tag="VBN" text="convicted">
+        <cmp x="1071" y="945" width="18" height="28" />
+        <cmp x="1093" y="941" width="56" height="31" />
+        <cmp x="1155" y="941" width="39" height="32" />
+        <cmp x="1206" y="928" width="72" height="45" />
+        <cmp x="1282" y="926" width="34" height="43" />
+      </word>
+      <word id="a02-082-01-05" tag="IN" text="since">
+        <cmp x="1402" y="936" width="46" height="42" />
+        <cmp x="1448" y="940" width="36" height="31" />
+        <cmp x="1491" y="941" width="19" height="31" />
+        <cmp x="1513" y="942" width="37" height="28" />
+      </word>
+      <word id="a02-082-01-06" tag="AP" text="last">
+        <cmp x="1630" y="931" width="19" height="46" />
+        <cmp x="1658" y="943" width="23" height="32" />
+        <cmp x="1685" y="944" width="19" height="29" />
+        <cmp x="1718" y="924" width="18" height="49" />
+      </word>
+      <word id="a02-082-01-07" tag="NN" text="year">
+        <cmp x="1801" y="948" width="27" height="49" />
+        <cmp x="1830" y="947" width="36" height="27" />
+        <cmp x="1872" y="943" width="41" height="36" />
+      </word>
+      <word id="a02-082-01-08" tag="IN" text="on">
+        <cmp x="1970" y="944" width="70" height="32" />
+      </word>
+      <upper-contour>
+        <point x="329" y="817" />
+        <point x="2041" y="817" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="997" />
+        <point x="2041" y="997" />
+      </lower-contour>
+    </line>
+    <line ass="54" asx="0" asy="1100" character-width="999" dss="54" dsx="0" dsy="1181" fd0="13604" fd1="3081" fd2="-396" filter-width="4" id="a02-082-02" lbs="0" lbx="0" lby="1151" segmentation="ok" slant="90000" stroke-width="6699" threshold="163" text="charges of creating disturbances. During the first" ubs="163" ubx="0" uby="1124">
+      <word id="a02-082-02-00" tag="NNS" text="charges">
+        <cmp x="329" y="1106" width="119" height="73" />
+        <cmp x="450" y="1116" width="62" height="38" />
+      </word>
+      <word id="a02-082-02-01" tag="INO" text="of">
+        <cmp x="600" y="1124" width="24" height="29" />
+        <cmp x="629" y="1106" width="33" height="66" />
+      </word>
+      <word id="a02-082-02-02" tag="VBG" text="creating">
+        <cmp x="736" y="1118" width="49" height="33" />
+        <cmp x="788" y="1118" width="26" height="28" />
+        <cmp x="824" y="1100" width="62" height="48" />
+        <cmp x="888" y="1110" width="45" height="39" />
+        <cmp x="916" y="1120" width="51" height="62" />
+      </word>
+      <word id="a02-082-02-03" tag="NNS" text="disturbances">
+        <cmp x="1046" y="1109" width="68" height="43" />
+        <cmp x="1106" y="1109" width="7" height="8" />
+        <cmp x="1127" y="1117" width="18" height="29" />
+        <cmp x="1166" y="1104" width="53" height="44" />
+        <cmp x="1228" y="1104" width="49" height="49" />
+        <cmp x="1284" y="1115" width="74" height="36" />
+        <cmp x="1358" y="1121" width="19" height="29" />
+        <cmp x="1378" y="1124" width="40" height="24" />
+        <cmp x="1427" y="1119" width="22" height="32" />
+      </word>
+      <word id="a02-082-02-04" tag="." text=".">
+        <cmp x="1483" y="1147" width="6" height="7" />
+      </word>
+      <word id="a02-082-02-05" sentence-start="yes" tag="IN" text="During">
+        <cmp x="1571" y="1108" width="65" height="44" />
+        <cmp x="1640" y="1121" width="30" height="31" />
+        <cmp x="1674" y="1117" width="38" height="31" />
+        <cmp x="1688" y="1124" width="51" height="49" />
+      </word>
+      <word id="a02-082-02-06" tag="ATI" text="the">
+        <cmp x="1790" y="1100" width="54" height="48" />
+        <cmp x="1848" y="1116" width="28" height="30" />
+      </word>
+      <word id="a02-082-02-07" tag="OD" text="first">
+        <cmp x="1928" y="1100" width="29" height="63" />
+        <cmp x="1957" y="1120" width="33" height="25" />
+        <cmp x="1998" y="1114" width="19" height="34" />
+        <cmp x="2029" y="1100" width="21" height="49" />
+      </word>
+      <upper-contour>
+        <point x="327" y="997" />
+        <point x="2041" y="997" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1182" />
+        <point x="2052" y="1182" />
+      </lower-contour>
+    </line>
+    <line ass="-293" asx="0" asy="1267" character-width="999" dss="-293" dsx="0" dsy="1356" fd0="12770" fd1="3177" fd2="-311" filter-width="4" id="a02-082-03" lbs="-279" lbx="0" lby="1321" segmentation="ok" slant="90000" stroke-width="6664" threshold="163" text="three weeks of the present trouble 287 incidents" ubs="-320" ubx="0" uby="1290">
+      <word id="a02-082-03-00" tag="CD" text="three">
+        <cmp x="328" y="1275" width="123" height="53" />
+        <cmp x="450" y="1292" width="35" height="29" />
+      </word>
+      <word id="a02-082-03-01" tag="NNS" text="weeks">
+        <cmp x="545" y="1293" width="66" height="31" />
+        <cmp x="615" y="1293" width="35" height="29" />
+        <cmp x="653" y="1275" width="59" height="51" />
+      </word>
+      <word id="a02-082-03-02" tag="INO" text="of">
+        <cmp x="824" y="1300" width="35" height="33" />
+        <cmp x="857" y="1275" width="38" height="86" />
+      </word>
+      <word id="a02-082-03-03" tag="ATI" text="the">
+        <cmp x="945" y="1285" width="66" height="46" />
+        <cmp x="1013" y="1294" width="44" height="26" />
+      </word>
+      <word id="a02-082-03-04" tag="JJ" text="present">
+        <cmp x="1117" y="1295" width="77" height="57" />
+        <cmp x="1204" y="1295" width="19" height="32" />
+        <cmp x="1223" y="1301" width="49" height="25" />
+        <cmp x="1276" y="1275" width="30" height="58" />
+      </word>
+      <word id="a02-082-03-05" tag="NN" text="trouble">
+        <cmp x="1375" y="1277" width="110" height="53" />
+        <cmp x="1495" y="1280" width="24" height="49" />
+        <cmp x="1524" y="1286" width="8" height="42" />
+        <cmp x="1535" y="1299" width="56" height="25" />
+      </word>
+      <word id="a02-082-03-06" tag="CD" text="287">
+        <cmp x="1682" y="1281" width="30" height="39" />
+        <cmp x="1723" y="1280" width="25" height="45" />
+        <cmp x="1754" y="1277" width="35" height="51" />
+      </word>
+      <word id="a02-082-03-07" tag="NNS" text="incidents">
+        <cmp x="1862" y="1294" width="44" height="43" />
+        <cmp x="1912" y="1308" width="37" height="28" />
+        <cmp x="1949" y="1297" width="11" height="8" />
+        <cmp x="1965" y="1295" width="26" height="38" />
+        <cmp x="1994" y="1308" width="68" height="26" />
+        <cmp x="2068" y="1288" width="45" height="49" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1182" />
+        <point x="2052" y="1182" />
+      </upper-contour>
+      <lower-contour>
+        <point x="326" y="1361" />
+        <point x="2048" y="1361" />
+      </lower-contour>
+    </line>
+    <line ass="-14" asx="0" asy="1456" character-width="999" dss="-14" dsx="0" dsy="1531" fd0="13042" fd1="2733" fd2="-331" filter-width="4" id="a02-082-04" lbs="12" lbx="0" lby="1508" segmentation="ok" slant="90000" stroke-width="6806" threshold="157" text="had been reported in Northern Rhodesia. More" ubs="-68" ubx="0" uby="1476">
+      <word id="a02-082-04-00" tag="HVD" text="had">
+        <cmp x="326" y="1468" width="26" height="46" />
+        <cmp x="356" y="1466" width="51" height="50" />
+      </word>
+      <word id="a02-082-04-01" tag="BEN" text="been">
+        <cmp x="492" y="1467" width="24" height="49" />
+        <cmp x="514" y="1477" width="34" height="28" />
+        <cmp x="548" y="1475" width="67" height="32" />
+      </word>
+      <word id="a02-082-04-02" tag="VBN" text="reported">
+        <cmp x="706" y="1477" width="80" height="56" />
+        <cmp x="791" y="1460" width="102" height="46" />
+        <cmp x="899" y="1458" width="31" height="47" />
+      </word>
+      <word id="a02-082-04-03" tag="IN" text="in">
+        <cmp x="1058" y="1486" width="8" height="29" />
+        <cmp x="1067" y="1475" width="42" height="36" />
+      </word>
+      <word id="a02-082-04-04" tag="NP" text="Northern">
+        <cmp x="1165" y="1462" width="42" height="44" />
+        <cmp x="1214" y="1458" width="108" height="50" />
+        <cmp x="1323" y="1474" width="89" height="32" />
+      </word>
+      <word id="a02-082-04-05" tag="NP" text="Rhodesia">
+        <cmp x="1486" y="1460" width="45" height="53" />
+        <cmp x="1533" y="1458" width="100" height="53" />
+        <cmp x="1631" y="1480" width="46" height="28" />
+        <cmp x="1684" y="1476" width="36" height="31" />
+        <cmp x="1723" y="1473" width="35" height="38" />
+      </word>
+      <word id="a02-082-04-06" tag="." text=".">
+        <cmp x="1820" y="1500" width="8" height="6" />
+      </word>
+      <word id="a02-082-04-07" sentence-start="yes" tag="AP" text="More">
+        <cmp x="1887" y="1458" width="46" height="52" />
+        <cmp x="1939" y="1479" width="107" height="32" />
+      </word>
+      <upper-contour>
+        <point x="326" y="1361" />
+        <point x="2048" y="1361" />
+      </upper-contour>
+      <lower-contour>
+        <point x="334" y="1533" />
+        <point x="2043" y="1533" />
+      </lower-contour>
+    </line>
+    <line ass="-490" asx="0" asy="1621" character-width="999" dss="-490" dsx="0" dsy="1704" fd0="12896" fd1="3150" fd2="147" filter-width="4" id="a02-082-05" lbs="-466" lbx="0" lby="1678" segmentation="ok" slant="90000" stroke-width="6751" threshold="157" text="than 500 people - 167 of them members of" ubs="-538" ubx="0" uby="1647">
+      <word id="a02-082-05-00" tag="IN" text="than">
+        <cmp x="336" y="1630" width="49" height="58" />
+        <cmp x="395" y="1651" width="61" height="32" />
+      </word>
+      <word id="a02-082-05-01" tag="CD" text="500">
+        <cmp x="547" y="1639" width="123" height="51" />
+      </word>
+      <word id="a02-082-05-02" tag="NNS" text="people">
+        <cmp x="759" y="1646" width="24" height="59" />
+        <cmp x="786" y="1658" width="94" height="52" />
+        <cmp x="890" y="1644" width="8" height="40" />
+        <cmp x="899" y="1659" width="54" height="24" />
+      </word>
+      <word id="a02-082-05-03" tag="*-" text="-">
+        <cmp x="1029" y="1672" width="25" height="9" />
+      </word>
+      <word id="a02-082-05-04" tag="CD" text="167">
+        <cmp x="1102" y="1640" width="13" height="47" />
+        <cmp x="1135" y="1633" width="26" height="59" />
+        <cmp x="1179" y="1638" width="45" height="54" />
+      </word>
+      <word id="a02-082-05-05" tag="INO" text="of">
+        <cmp x="1317" y="1667" width="28" height="26" />
+        <cmp x="1350" y="1644" width="39" height="72" />
+      </word>
+      <word id="a02-082-05-06" tag="PP3OS" text="them">
+        <cmp x="1441" y="1633" width="56" height="59" />
+        <cmp x="1498" y="1662" width="92" height="29" />
+      </word>
+      <word id="a02-082-05-07" tag="NNS" text="members">
+        <cmp x="1641" y="1662" width="49" height="31" />
+        <cmp x="1691" y="1666" width="101" height="26" />
+        <cmp x="1803" y="1649" width="92" height="45" />
+        <cmp x="1896" y="1657" width="28" height="36" />
+      </word>
+      <word id="a02-082-05-08" tag="INO" text="of">
+        <cmp x="1968" y="1669" width="21" height="28" />
+        <cmp x="1997" y="1645" width="45" height="70" />
+      </word>
+      <upper-contour>
+        <point x="334" y="1533" />
+        <point x="2043" y="1533" />
+      </upper-contour>
+      <lower-contour>
+        <point x="357" y="1717" />
+        <point x="2043" y="1717" />
+      </lower-contour>
+    </line>
+    <line ass="-313" asx="0" asy="1800" character-width="999" dss="-313" dsx="0" dsy="1871" fd0="13252" fd1="3404" fd2="85" filter-width="4" id="a02-082-06" lbs="-241" lbx="0" lby="1863" segmentation="ok" slant="91000" stroke-width="6635" threshold="162" text="the UNIP - were convicted last month in the" ubs="-456" ubx="0" uby="1825">
+      <word id="a02-082-06-00" tag="ATI" text="the">
+        <cmp x="359" y="1809" width="61" height="65" />
+        <cmp x="417" y="1832" width="39" height="28" />
+      </word>
+      <word id="a02-082-06-01" tag="NP" text="UNIP">
+        <cmp x="545" y="1817" width="27" height="42" />
+        <cmp x="582" y="1818" width="35" height="42" />
+        <cmp x="629" y="1820" width="7" height="42" />
+        <cmp x="631" y="1805" width="8" height="6" />
+        <cmp x="650" y="1810" width="39" height="48" />
+      </word>
+      <word id="a02-082-06-02" tag="*-" text="-">
+        <cmp x="727" y="1833" width="36" height="7" />
+      </word>
+      <word id="a02-082-06-03" tag="BED" text="were">
+        <cmp x="842" y="1831" width="91" height="39" />
+        <cmp x="930" y="1839" width="41" height="29" />
+      </word>
+      <word id="a02-082-06-04" tag="VBN" text="convicted">
+        <cmp x="1060" y="1841" width="26" height="34" />
+        <cmp x="1090" y="1840" width="52" height="33" />
+        <cmp x="1156" y="1839" width="39" height="35" />
+        <cmp x="1194" y="1819" width="116" height="49" />
+      </word>
+      <word id="a02-082-06-05" tag="AP" text="last">
+        <cmp x="1398" y="1817" width="24" height="52" />
+        <cmp x="1431" y="1830" width="31" height="38" />
+        <cmp x="1467" y="1836" width="16" height="30" />
+        <cmp x="1499" y="1817" width="25" height="51" />
+      </word>
+      <word id="a02-082-06-06" tag="NN" text="month">
+        <cmp x="1577" y="1839" width="55" height="33" />
+        <cmp x="1635" y="1841" width="68" height="30" />
+        <cmp x="1703" y="1820" width="66" height="52" />
+      </word>
+      <word id="a02-082-06-07" tag="IN" text="in">
+        <cmp x="1811" y="1844" width="7" height="29" />
+        <cmp x="1824" y="1831" width="36" height="41" />
+      </word>
+      <word id="a02-082-06-08" tag="ATI" text="the">
+        <cmp x="1919" y="1818" width="65" height="56" />
+        <cmp x="1989" y="1844" width="61" height="27" />
+      </word>
+      <upper-contour>
+        <point x="357" y="1717" />
+        <point x="2043" y="1717" />
+      </upper-contour>
+      <lower-contour>
+        <point x="357" y="1875" />
+        <point x="1283" y="1875" />
+      </lower-contour>
+    </line>
+    <line ass="44" asx="0" asy="1991" character-width="999" dss="44" dsx="0" dsy="2070" fd0="13610" fd1="2906" fd2="-368" filter-width="4" id="a02-082-07" lbs="325" lbx="0" lby="2045" segmentation="ok" slant="95000" stroke-width="6816" threshold="162" text="Northern Province alone." ubs="-516" ubx="0" uby="2004">
+      <word id="a02-082-07-00" tag="JJ" text="Northern">
+        <cmp x="347" y="2010" width="36" height="33" />
+        <cmp x="384" y="1991" width="178" height="50" />
+      </word>
+      <word id="a02-082-07-01" tag="NN" text="Province">
+        <cmp x="666" y="2007" width="128" height="63" />
+        <cmp x="801" y="2014" width="8" height="33" />
+        <cmp x="809" y="2003" width="39" height="41" />
+        <cmp x="853" y="2012" width="24" height="33" />
+        <cmp x="883" y="2009" width="54" height="30" />
+      </word>
+      <word id="a02-082-07-02" tag="RB" text="alone">
+        <cmp x="1068" y="1999" width="33" height="44" />
+        <cmp x="1115" y="2011" width="61" height="30" />
+        <cmp x="1177" y="2013" width="65" height="27" />
+      </word>
+      <word id="a02-082-07-03" tag="." text=".">
+        <cmp x="1275" y="2024" width="8" height="7" />
+      </word>
+      <upper-contour>
+        <point x="357" y="1875" />
+        <point x="1283" y="1875" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

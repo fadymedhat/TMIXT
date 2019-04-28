@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-14" height="3542" id="b04-047" last-modified="2002-07-17" skew="0" status="final" version="3.0_beta" width="2479" writer-id="108">
+  <machine-printed-part>
+    <machine-print-line text="He says that the Scots are foreigners who have no business to be in England. The" />
+    <machine-print-line text="first ruler of the United Kingdom was a Scot. The Lord Chancellor is a Scot. The" />
+    <machine-print-line text="Prime Minister is a Scot - and so were four of his predecessors this century. Let Mr." />
+    <machine-print-line text="Newton beware. By protesting against Scotland he may be guilty of rebellion!" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-318" asx="0" asy="732" character-width="999" dss="-318" dsx="0" dsy="854" fd0="12434" fd1="2798" fd2="-743" filter-width="4" id="b04-047-00" lbs="-242" lbx="0" lby="801" segmentation="ok" slant="90000" stroke-width="6593" threshold="162" text="He says that the Scots are foreigners who have no business to" ubs="-471" ubx="0" uby="765">
+      <word id="b04-047-00-00" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="341" y="751" width="23" height="53" />
+        <cmp x="367" y="769" width="29" height="39" />
+      </word>
+      <word id="b04-047-00-01" tag="VBZ" text="says">
+        <cmp x="438" y="765" width="22" height="40" />
+        <cmp x="462" y="774" width="67" height="78" />
+      </word>
+      <word id="b04-047-00-02" tag="CS" text="that">
+        <cmp x="582" y="743" width="76" height="66" />
+        <cmp x="647" y="752" width="22" height="49" />
+      </word>
+      <word id="b04-047-00-03" tag="ATI" text="the">
+        <cmp x="722" y="743" width="67" height="59" />
+      </word>
+      <word id="b04-047-00-04" tag="NNPS" text="Scots">
+        <cmp x="844" y="752" width="36" height="51" />
+        <cmp x="881" y="746" width="79" height="68" />
+      </word>
+      <word id="b04-047-00-05" tag="BER" text="are">
+        <cmp x="1010" y="780" width="70" height="34" />
+      </word>
+      <word id="b04-047-00-06" tag="NNS" text="foreigners">
+        <cmp x="1129" y="754" width="223" height="108" />
+      </word>
+      <word id="b04-047-00-07" tag="WP" text="who">
+        <cmp x="1402" y="741" width="99" height="70" />
+      </word>
+      <word id="b04-047-00-08" tag="HV" text="have">
+        <cmp x="1536" y="741" width="109" height="71" />
+      </word>
+      <word id="b04-047-00-09" tag="ATI" text="no">
+        <cmp x="1687" y="777" width="71" height="40" />
+      </word>
+      <word id="b04-047-00-10" tag="NN" text="business">
+        <cmp x="1789" y="741" width="169" height="75" />
+        <cmp x="1876" y="751" width="7" height="6" />
+      </word>
+      <word id="b04-047-00-11" tag="TO" text="to">
+        <cmp x="2009" y="748" width="38" height="64" />
+      </word>
+      <lower-contour>
+        <point x="339" y="862" />
+        <point x="2045" y="862" />
+      </lower-contour>
+    </line>
+    <line ass="123" asx="0" asy="919" character-width="999" dss="123" dsx="0" dsy="1038" fd0="12894" fd1="2853" fd2="-354" filter-width="4" id="b04-047-01" lbs="209" lbx="0" lby="993" segmentation="ok" slant="90000" stroke-width="6611" threshold="162" text="be in England. The first ruler of the United Kingdom was a" ubs="-46" ubx="0" uby="953">
+      <word id="b04-047-01-00" tag="BE" text="be">
+        <cmp x="337" y="919" width="65" height="73" />
+      </word>
+      <word id="b04-047-01-01" tag="IN" text="in">
+        <cmp x="436" y="959" width="61" height="32" />
+        <cmp x="456" y="934" width="6" height="7" />
+      </word>
+      <word id="b04-047-01-02" tag="NP" text="England">
+        <cmp x="548" y="924" width="182" height="101" />
+      </word>
+      <word id="b04-047-01-03" tag="." text=".">
+        <cmp x="743" y="977" width="8" height="7" />
+      </word>
+      <word id="b04-047-01-04" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="795" y="937" width="52" height="54" />
+        <cmp x="843" y="924" width="59" height="58" />
+      </word>
+      <word id="b04-047-01-05" tag="OD" text="first">
+        <cmp x="940" y="932" width="95" height="90" />
+        <cmp x="990" y="930" width="7" height="6" />
+        <cmp x="1034" y="929" width="26" height="71" />
+      </word>
+      <word id="b04-047-01-06" tag="NN" text="ruler">
+        <cmp x="1096" y="928" width="130" height="68" />
+      </word>
+      <word id="b04-047-01-07" tag="INO" text="of">
+        <cmp x="1260" y="942" width="43" height="75" />
+      </word>
+      <word id="b04-047-01-08" tag="ATI" text="the">
+        <cmp x="1331" y="936" width="62" height="54" />
+      </word>
+      <word id="b04-047-01-09" tag="NP" text="United">
+        <cmp x="1442" y="922" width="152" height="71" />
+        <cmp x="1503" y="931" width="6" height="7" />
+      </word>
+      <word id="b04-047-01-10" tag="NPL" text="Kingdom">
+        <cmp x="1639" y="939" width="35" height="49" />
+        <cmp x="1671" y="937" width="191" height="99" />
+        <cmp x="1689" y="929" width="6" height="6" />
+      </word>
+      <word id="b04-047-01-11" tag="BEDZ" text="was">
+        <cmp x="1900" y="949" width="81" height="34" />
+      </word>
+      <word id="b04-047-01-12" tag="AT" text="a">
+        <cmp x="2005" y="962" width="39" height="24" />
+      </word>
+      <upper-contour>
+        <point x="339" y="862" />
+        <point x="2045" y="862" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1036" />
+        <point x="2045" y="1036" />
+      </lower-contour>
+    </line>
+    <line ass="-140" asx="0" asy="1093" character-width="999" dss="-140" dsx="0" dsy="1169" fd0="12973" fd1="2547" fd2="-214" filter-width="4" id="b04-047-02" lbs="-93" lbx="0" lby="1162" segmentation="ok" slant="79000" stroke-width="6340" threshold="162" text="Scot. The Lord Chancellor is a Scot. The Prime Minister is a" ubs="-234" ubx="0" uby="1129">
+      <word id="b04-047-02-00" tag="NNP" text="Scot">
+        <cmp x="353" y="1106" width="34" height="55" />
+        <cmp x="395" y="1100" width="73" height="61" />
+      </word>
+      <word id="b04-047-02-01" tag="." text=".">
+        <cmp x="472" y="1152" width="6" height="7" />
+      </word>
+      <word id="b04-047-02-02" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="528" y="1113" width="47" height="41" />
+        <cmp x="574" y="1097" width="60" height="64" />
+      </word>
+      <word id="b04-047-02-03" tag="NPT" text="Lord">
+        <cmp x="691" y="1105" width="92" height="58" />
+      </word>
+      <word id="b04-047-02-04" tag="NPT" text="Chancellor">
+        <cmp x="837" y="1103" width="117" height="64" />
+        <cmp x="958" y="1106" width="112" height="67" />
+      </word>
+      <word id="b04-047-02-05" tag="BEZ" text="is">
+        <cmp x="1112" y="1138" width="48" height="33" />
+        <cmp x="1130" y="1118" width="8" height="6" />
+      </word>
+      <word id="b04-047-02-06" tag="AT" text="a">
+        <cmp x="1189" y="1140" width="33" height="27" />
+      </word>
+      <word id="b04-047-02-07" tag="NNP" text="Scot">
+        <cmp x="1276" y="1110" width="36" height="52" />
+        <cmp x="1318" y="1100" width="69" height="64" />
+      </word>
+      <word id="b04-047-02-08" tag="." text=".">
+        <cmp x="1383" y="1155" width="7" height="7" />
+      </word>
+      <word id="b04-047-02-09" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="1446" y="1097" width="92" height="70" />
+      </word>
+      <word id="b04-047-02-10" tag="NPT" text="Prime">
+        <cmp x="1584" y="1114" width="29" height="48" />
+        <cmp x="1601" y="1139" width="114" height="33" />
+        <cmp x="1639" y="1118" width="7" height="7" />
+      </word>
+      <word id="b04-047-02-11" tag="NPT" text="Minister">
+        <cmp x="1758" y="1113" width="46" height="51" />
+        <cmp x="1791" y="1102" width="5" height="7" />
+        <cmp x="1802" y="1132" width="77" height="37" />
+        <cmp x="1855" y="1104" width="8" height="5" />
+        <cmp x="1884" y="1111" width="63" height="61" />
+        <cmp x="1893" y="1126" width="29" height="6" />
+      </word>
+      <word id="b04-047-02-12" tag="BEZ" text="is">
+        <cmp x="1977" y="1139" width="46" height="30" />
+        <cmp x="1994" y="1113" width="5" height="6" />
+      </word>
+      <word id="b04-047-02-13" tag="AT" text="a">
+        <cmp x="2066" y="1136" width="45" height="28" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1036" />
+        <point x="2045" y="1036" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1173" />
+        <point x="2044" y="1173" />
+      </lower-contour>
+    </line>
+    <line ass="-423" asx="0" asy="1267" character-width="999" dss="-423" dsx="0" dsy="1391" fd0="10709" fd1="2130" fd2="-687" filter-width="4" id="b04-047-03" lbs="-384" lbx="0" lby="1340" segmentation="ok" slant="80000" stroke-width="7003" threshold="162" text="Scot - and so were four of his predecessors this # century." ubs="-503" ubx="0" uby="1307">
+      <word id="b04-047-03-00" tag="NNP" text="Scot">
+        <cmp x="352" y="1285" width="40" height="59" />
+        <cmp x="397" y="1282" width="69" height="65" />
+      </word>
+      <word id="b04-047-03-01" tag="*-" text="-">
+        <cmp x="517" y="1324" width="25" height="9" />
+      </word>
+      <word id="b04-047-03-02" tag="CC" text="and">
+        <cmp x="565" y="1286" width="89" height="52" />
+      </word>
+      <word id="b04-047-03-03" tag="PN" text="so">
+        <cmp x="687" y="1303" width="25" height="34" />
+        <cmp x="718" y="1305" width="28" height="27" />
+      </word>
+      <word id="b04-047-03-04" tag="BED" text="were">
+        <cmp x="777" y="1303" width="125" height="41" />
+      </word>
+      <word id="b04-047-03-05" tag="CD" text="four">
+        <cmp x="950" y="1284" width="105" height="86" />
+      </word>
+      <word id="b04-047-03-06" tag="INO" text="of">
+        <cmp x="1073" y="1289" width="51" height="84" />
+      </word>
+      <word id="b04-047-03-07" tag="PP$" text="his">
+        <cmp x="1164" y="1276" width="73" height="69" />
+        <cmp x="1209" y="1287" width="6" height="7" />
+      </word>
+      <word id="b04-047-03-08" tag="NNS" text="predecessors">
+        <cmp x="1286" y="1294" width="114" height="69" />
+        <cmp x="1403" y="1313" width="64" height="38" />
+        <cmp x="1469" y="1318" width="58" height="31" />
+      </word>
+      <word id="b04-047-03-09" tag="DT" text="this">
+        <cmp x="1573" y="1286" width="83" height="68" />
+        <cmp x="1633" y="1294" width="8" height="7" />
+      </word>
+      <word id="b04-047-03-10" tag="&amp;GA" text="#">
+        <cmp x="1713" y="1289" width="132" height="105" />
+      </word>
+      <word id="b04-047-03-11" tag="NN" text="century">
+        <cmp x="1879" y="1287" width="139" height="119" />
+      </word>
+      <word id="b04-047-03-12" tag="." text=".">
+        <cmp x="2036" y="1338" width="7" height="6" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1173" />
+        <point x="2044" y="1173" />
+      </upper-contour>
+      <lower-contour>
+        <point x="362" y="1407" />
+        <point x="2044" y="1407" />
+      </lower-contour>
+    </line>
+    <line ass="-404" asx="0" asy="1446" character-width="999" dss="-404" dsx="0" dsy="1578" fd0="12458" fd1="3079" fd2="-375" filter-width="4" id="b04-047-04" lbs="-525" lbx="0" lby="1516" segmentation="ok" slant="90000" stroke-width="6464" threshold="162" text="Let Mr. Newton beware. By protesting against Scotland he" ubs="-160" ubx="0" uby="1479">
+      <word id="b04-047-04-00" sentence-start="yes" tag="VB" text="Let">
+        <cmp x="364" y="1470" width="62" height="58" />
+        <cmp x="427" y="1466" width="23" height="60" />
+      </word>
+      <word id="b04-047-04-01" tag="NPT" text="Mr.">
+        <cmp x="506" y="1465" width="49" height="58" />
+        <cmp x="552" y="1488" width="39" height="29" />
+        <cmp x="601" y="1506" width="7" height="7" />
+      </word>
+      <word id="b04-047-04-02" tag="NP" text="Newton">
+        <cmp x="667" y="1460" width="191" height="61" />
+      </word>
+      <word id="b04-047-04-03" tag="VB" text="beware">
+        <cmp x="902" y="1460" width="172" height="69" />
+      </word>
+      <word id="b04-047-04-04" tag="." text=".">
+        <cmp x="1097" y="1508" width="7" height="7" />
+      </word>
+      <word id="b04-047-04-05" sentence-start="yes" tag="IN" text="By">
+        <cmp x="1191" y="1463" width="31" height="62" />
+        <cmp x="1229" y="1499" width="24" height="80" />
+      </word>
+      <word id="b04-047-04-06" tag="VBG" text="protesting">
+        <cmp x="1321" y="1474" width="115" height="72" />
+        <cmp x="1438" y="1476" width="71" height="114" />
+        <cmp x="1465" y="1461" width="5" height="8" />
+      </word>
+      <word id="b04-047-04-07" tag="IN" text="against">
+        <cmp x="1558" y="1498" width="135" height="71" />
+        <cmp x="1624" y="1470" width="6" height="6" />
+        <cmp x="1695" y="1460" width="31" height="67" />
+      </word>
+      <word id="b04-047-04-08" tag="NP" text="Scotland">
+        <cmp x="1779" y="1470" width="36" height="53" />
+        <cmp x="1821" y="1462" width="147" height="76" />
+      </word>
+      <word id="b04-047-04-09" tag="PP3A" text="he">
+        <cmp x="2000" y="1460" width="59" height="69" />
+      </word>
+      <upper-contour>
+        <point x="362" y="1407" />
+        <point x="2044" y="1407" />
+      </upper-contour>
+      <lower-contour>
+        <point x="362" y="1529" />
+        <point x="1176" y="1529" />
+      </lower-contour>
+    </line>
+    <line ass="280" asx="0" asy="1627" character-width="999" dss="280" dsx="0" dsy="1762" fd0="12416" fd1="2765" fd2="-1015" filter-width="4" id="b04-047-05" lbs="357" lbx="0" lby="1707" segmentation="ok" slant="89000" stroke-width="6357" threshold="162" text="may be guilty of rebellion!" ubs="126" ubx="0" uby="1662">
+      <word id="b04-047-05-00" tag="MD" text="may">
+        <cmp x="359" y="1655" width="99" height="104" />
+      </word>
+      <word id="b04-047-05-01" tag="BE" text="be">
+        <cmp x="510" y="1626" width="69" height="81" />
+      </word>
+      <word id="b04-047-05-02" tag="JJ" text="guilty">
+        <cmp x="629" y="1651" width="87" height="99" />
+        <cmp x="663" y="1642" width="6" height="7" />
+        <cmp x="715" y="1643" width="45" height="116" />
+      </word>
+      <word id="b04-047-05-03" tag="INO" text="of">
+        <cmp x="821" y="1648" width="44" height="85" />
+      </word>
+      <word id="b04-047-05-04" tag="NN" text="rebellion">
+        <cmp x="916" y="1637" width="216" height="73" />
+        <cmp x="1065" y="1639" width="6" height="6" />
+      </word>
+      <word id="b04-047-05-05" tag="!" text="!">
+        <cmp x="1164" y="1699" width="7" height="7" />
+        <cmp x="1165" y="1623" width="10" height="57" />
+      </word>
+      <upper-contour>
+        <point x="362" y="1529" />
+        <point x="1176" y="1529" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

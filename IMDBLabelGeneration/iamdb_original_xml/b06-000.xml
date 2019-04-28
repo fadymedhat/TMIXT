@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-15" height="3542" id="b06-000" last-modified="2002-07-17" skew="63" status="final" version="3.0_beta" width="2479" writer-id="123">
+  <machine-printed-part>
+    <machine-print-line text="SOME 17 years ago, in the early summer of 1934, the German ambassador in London" />
+    <machine-print-line text="was dictating a secret report to his chief von Papen, in Berlin. &amp;quot;Britain is uncomfort-" />
+    <machine-print-line text="able in her role of champion of German rearmament, in opposition, to France.&amp;quot; Later" />
+    <machine-print-line text="that year he warned that Britain knew Germany was breaking the agreement to stop" />
+    <machine-print-line text="building bombers, and added:" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-209" asx="0" asy="739" character-width="999" dss="-209" dsx="0" dsy="822" fd0="14124" fd1="2467" fd2="-821" filter-width="4" id="b06-000-00" lbs="-187" lbx="0" lby="793" segmentation="ok" slant="65000" stroke-width="5830" threshold="172" text="SOME 17 years ago, in the early summer of 1934," ubs="-253" ubx="0" uby="757">
+      <word id="b06-000-00-00" sentence-start="yes" tag="DTI" text="SOME">
+        <cmp x="329" y="747" width="62" height="48" />
+        <cmp x="386" y="760" width="45" height="37" />
+        <cmp x="437" y="761" width="36" height="36" />
+        <cmp x="454" y="756" width="25" height="9" />
+      </word>
+      <word id="b06-000-00-01" tag="CD" text="17">
+        <cmp x="547" y="760" width="36" height="33" />
+        <cmp x="589" y="756" width="30" height="41" />
+      </word>
+      <word id="b06-000-00-02" tag="NNS" text="years">
+        <cmp x="668" y="762" width="144" height="58" />
+      </word>
+      <word id="b06-000-00-03" tag="RB" text="ago">
+        <cmp x="864" y="762" width="124" height="65" />
+      </word>
+      <word id="b06-000-00-04" tag="," text=",">
+        <cmp x="993" y="787" width="13" height="21" />
+      </word>
+      <word id="b06-000-00-05" tag="IN" text="in">
+        <cmp x="1067" y="763" width="68" height="35" />
+      </word>
+      <word id="b06-000-00-06" tag="ATI" text="the">
+        <cmp x="1172" y="749" width="95" height="46" />
+      </word>
+      <word id="b06-000-00-07" tag="JJ" text="early">
+        <cmp x="1329" y="754" width="169" height="70" />
+      </word>
+      <word id="b06-000-00-08" tag="NN" text="summer">
+        <cmp x="1562" y="756" width="35" height="41" />
+        <cmp x="1599" y="762" width="110" height="33" />
+        <cmp x="1719" y="765" width="116" height="30" />
+      </word>
+      <word id="b06-000-00-09" tag="INO" text="of">
+        <cmp x="1873" y="752" width="67" height="61" />
+      </word>
+      <word id="b06-000-00-10" tag="CD" text="1934">
+        <cmp x="1978" y="757" width="33" height="40" />
+        <cmp x="2014" y="754" width="30" height="48" />
+        <cmp x="2050" y="757" width="26" height="40" />
+        <cmp x="2086" y="757" width="35" height="46" />
+      </word>
+      <word id="b06-000-00-11" tag="," text=",">
+        <cmp x="2123" y="796" width="16" height="21" />
+      </word>
+      <lower-contour>
+        <point x="327" y="827" />
+        <point x="2115" y="827" />
+      </lower-contour>
+    </line>
+    <line ass="-220" asx="0" asy="912" character-width="999" dss="-220" dsx="0" dsy="999" fd0="14256" fd1="3145" fd2="-1013" filter-width="4" id="b06-000-01" lbs="-259" lbx="0" lby="969" segmentation="ok" slant="66000" stroke-width="5734" threshold="172" text="the German ambassador in London was dictating" ubs="-143" ubx="0" uby="944">
+      <word id="b06-000-01-00" tag="ATI" text="the">
+        <cmp x="315" y="921" width="84" height="50" />
+      </word>
+      <word id="b06-000-01-01" tag="JNP" text="German">
+        <cmp x="470" y="926" width="143" height="67" />
+        <cmp x="615" y="941" width="99" height="31" />
+      </word>
+      <word id="b06-000-01-02" tag="NN" text="ambassador">
+        <cmp x="773" y="941" width="108" height="33" />
+        <cmp x="894" y="931" width="146" height="46" />
+        <cmp x="1042" y="933" width="147" height="42" />
+      </word>
+      <word id="b06-000-01-03" tag="IN" text="in">
+        <cmp x="1224" y="947" width="73" height="31" />
+        <cmp x="1235" y="921" width="6" height="7" />
+      </word>
+      <word id="b06-000-01-04" tag="NP" text="London">
+        <cmp x="1341" y="933" width="122" height="48" />
+        <cmp x="1466" y="929" width="127" height="47" />
+      </word>
+      <word id="b06-000-01-05" tag="BEDZ" text="was">
+        <cmp x="1652" y="943" width="128" height="35" />
+      </word>
+      <word id="b06-000-01-06" tag="VBG" text="dictating">
+        <cmp x="1822" y="929" width="172" height="52" />
+        <cmp x="1903" y="921" width="6" height="8" />
+        <cmp x="1997" y="928" width="90" height="53" />
+        <cmp x="2050" y="927" width="6" height="7" />
+        <cmp x="2077" y="957" width="37" height="52" />
+      </word>
+      <upper-contour>
+        <point x="327" y="827" />
+        <point x="2115" y="827" />
+      </upper-contour>
+      <lower-contour>
+        <point x="321" y="993" />
+        <point x="2048" y="993" />
+      </lower-contour>
+    </line>
+    <line ass="-104" asx="0" asy="1090" character-width="999" dss="-104" dsx="0" dsy="1174" fd0="14287" fd1="3284" fd2="-206" filter-width="4" id="b06-000-02" lbs="7" lbx="0" lby="1154" segmentation="ok" slant="64000" stroke-width="5921" threshold="172" text="a secret report to his chief von Papen, in Berlin." ubs="-328" ubx="0" uby="1119">
+      <word id="b06-000-02-00" tag="AT" text="a">
+        <cmp x="323" y="1121" width="43" height="34" />
+      </word>
+      <word id="b06-000-02-01" tag="JJ" text="secret">
+        <cmp x="439" y="1116" width="59" height="35" />
+        <cmp x="504" y="1103" width="112" height="50" />
+      </word>
+      <word id="b06-000-02-02" tag="NN" text="report">
+        <cmp x="657" y="1121" width="101" height="51" />
+        <cmp x="759" y="1100" width="84" height="51" />
+      </word>
+      <word id="b06-000-02-03" tag="IN" text="to">
+        <cmp x="878" y="1109" width="51" height="48" />
+      </word>
+      <word id="b06-000-02-04" tag="PP$" text="his">
+        <cmp x="955" y="1106" width="103" height="50" />
+        <cmp x="1029" y="1106" width="6" height="10" />
+      </word>
+      <word id="b06-000-02-05" tag="NN" text="chief">
+        <cmp x="1105" y="1130" width="24" height="28" />
+        <cmp x="1119" y="1110" width="155" height="68" />
+        <cmp x="1198" y="1108" width="6" height="5" />
+      </word>
+      <word id="b06-000-02-06" tag="&amp;FW" text="von">
+        <cmp x="1321" y="1123" width="34" height="36" />
+        <cmp x="1350" y="1123" width="73" height="34" />
+      </word>
+      <word id="b06-000-02-07" tag="NP" text="Papen">
+        <cmp x="1480" y="1109" width="40" height="50" />
+        <cmp x="1508" y="1129" width="90" height="46" />
+        <cmp x="1598" y="1122" width="72" height="33" />
+      </word>
+      <word id="b06-000-02-08" tag="," text=",">
+        <cmp x="1685" y="1145" width="13" height="19" />
+      </word>
+      <word id="b06-000-02-09" tag="IN" text="in">
+        <cmp x="1733" y="1126" width="66" height="32" />
+      </word>
+      <word id="b06-000-02-10" tag="NP" text="Berlin">
+        <cmp x="1849" y="1110" width="163" height="48" />
+        <cmp x="1984" y="1103" width="6" height="9" />
+      </word>
+      <word id="b06-000-02-11" tag="." text=".">
+        <cmp x="2040" y="1149" width="8" height="7" />
+      </word>
+      <upper-contour>
+        <point x="321" y="993" />
+        <point x="2048" y="993" />
+      </upper-contour>
+      <lower-contour>
+        <point x="321" y="1178" />
+        <point x="2048" y="1178" />
+      </lower-contour>
+    </line>
+    <line ass="-451" asx="0" asy="1255" character-width="999" dss="-451" dsx="0" dsy="1345" fd0="14106" fd1="2637" fd2="-612" filter-width="3" id="b06-000-03" lbs="-500" lbx="0" lby="1323" segmentation="ok" slant="66000" stroke-width="5663" threshold="172" text="&amp;quot;Britain is uncomfortable in her role of champion" ubs="-352" ubx="0" uby="1300">
+      <word id="b06-000-03-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="311" y="1259" width="16" height="19" />
+      </word>
+      <word id="b06-000-03-01" tag="NP" text="Britain">
+        <cmp x="339" y="1280" width="36" height="49" />
+        <cmp x="375" y="1283" width="210" height="51" />
+        <cmp x="409" y="1274" width="6" height="7" />
+        <cmp x="520" y="1287" width="6" height="6" />
+      </word>
+      <word id="b06-000-03-02" tag="BEZ" text="is">
+        <cmp x="647" y="1303" width="48" height="28" />
+        <cmp x="670" y="1282" width="4" height="6" />
+      </word>
+      <word id="b06-000-03-03" tag="JJ" text="uncomfortable">
+        <cmp x="752" y="1302" width="90" height="32" />
+        <cmp x="851" y="1304" width="50" height="32" />
+        <cmp x="914" y="1297" width="92" height="48" />
+        <cmp x="993" y="1306" width="56" height="30" />
+        <cmp x="1052" y="1287" width="145" height="48" />
+      </word>
+      <word id="b06-000-03-04" tag="IN" text="in">
+        <cmp x="1245" y="1304" width="66" height="35" />
+        <cmp x="1267" y="1279" width="5" height="3" />
+      </word>
+      <word id="b06-000-03-05" tag="PP$" text="her">
+        <cmp x="1365" y="1286" width="32" height="49" />
+        <cmp x="1391" y="1305" width="72" height="33" />
+      </word>
+      <word id="b06-000-03-06" tag="NN" text="role">
+        <cmp x="1515" y="1292" width="115" height="49" />
+      </word>
+      <word id="b06-000-03-07" tag="INO" text="of">
+        <cmp x="1686" y="1295" width="60" height="65" />
+      </word>
+      <word id="b06-000-03-08" tag="NN" text="champion">
+        <cmp x="1770" y="1313" width="21" height="28" />
+        <cmp x="1790" y="1294" width="52" height="43" />
+        <cmp x="1847" y="1305" width="102" height="30" />
+        <cmp x="1950" y="1309" width="50" height="45" />
+        <cmp x="2010" y="1307" width="16" height="28" />
+        <cmp x="2028" y="1284" width="8" height="7" />
+        <cmp x="2028" y="1306" width="77" height="31" />
+      </word>
+      <upper-contour>
+        <point x="321" y="1178" />
+        <point x="2048" y="1178" />
+      </upper-contour>
+      <lower-contour>
+        <point x="343" y="1360" />
+        <point x="2106" y="1360" />
+      </lower-contour>
+    </line>
+    <line ass="-163" asx="0" asy="1454" character-width="999" dss="-163" dsx="0" dsy="1539" fd0="14272" fd1="3316" fd2="-578" filter-width="4" id="b06-000-04" lbs="-194" lbx="0" lby="1511" segmentation="ok" slant="66000" stroke-width="5735" threshold="172" text="of German rearmament, in opposition, to France.&amp;quot;" ubs="-101" ubx="0" uby="1485">
+      <word id="b06-000-04-00" tag="INO" text="of">
+        <cmp x="345" y="1467" width="58" height="61" />
+      </word>
+      <word id="b06-000-04-01" tag="JNP" text="German">
+        <cmp x="467" y="1466" width="151" height="76" />
+        <cmp x="622" y="1480" width="90" height="33" />
+      </word>
+      <word id="b06-000-04-02" tag="NN" text="rearmament">
+        <cmp x="779" y="1481" width="131" height="36" />
+        <cmp x="925" y="1485" width="105" height="32" />
+        <cmp x="1040" y="1482" width="148" height="35" />
+        <cmp x="1191" y="1468" width="22" height="45" />
+      </word>
+      <word id="b06-000-04-03" tag="," text=",">
+        <cmp x="1221" y="1507" width="17" height="22" />
+      </word>
+      <word id="b06-000-04-04" tag="IN" text="in">
+        <cmp x="1278" y="1483" width="79" height="30" />
+        <cmp x="1297" y="1463" width="6" height="6" />
+      </word>
+      <word id="b06-000-04-05" tag="NN" text="opposition">
+        <cmp x="1393" y="1479" width="33" height="32" />
+        <cmp x="1414" y="1483" width="53" height="47" />
+        <cmp x="1451" y="1486" width="51" height="44" />
+        <cmp x="1501" y="1486" width="30" height="29" />
+        <cmp x="1538" y="1482" width="44" height="34" />
+        <cmp x="1590" y="1463" width="35" height="53" />
+        <cmp x="1594" y="1464" width="5" height="8" />
+        <cmp x="1632" y="1483" width="80" height="33" />
+        <cmp x="1643" y="1463" width="6" height="10" />
+      </word>
+      <word id="b06-000-04-06" tag="," text=",">
+        <cmp x="1738" y="1501" width="13" height="24" />
+      </word>
+      <word id="b06-000-04-07" tag="IN" text="to">
+        <cmp x="1793" y="1464" width="54" height="50" />
+      </word>
+      <word id="b06-000-04-08" tag="NP" text="France">
+        <cmp x="1882" y="1473" width="126" height="47" />
+        <cmp x="2015" y="1488" width="49" height="31" />
+      </word>
+      <word id="b06-000-04-09" tag="." text=".">
+        <cmp x="2082" y="1513" width="8" height="8" />
+      </word>
+      <word id="b06-000-04-10" tag="**&apos;" text="&quot;">
+        <cmp x="2114" y="1462" width="27" height="20" />
+      </word>
+      <upper-contour>
+        <point x="343" y="1360" />
+        <point x="2106" y="1360" />
+      </upper-contour>
+      <lower-contour>
+        <point x="343" y="1543" />
+        <point x="2004" y="1543" />
+      </lower-contour>
+    </line>
+    <line ass="50" asx="0" asy="1638" character-width="999" dss="50" dsx="0" dsy="1714" fd0="14020" fd1="2461" fd2="-882" filter-width="4" id="b06-000-05" lbs="54" lbx="0" lby="1693" segmentation="ok" slant="64000" stroke-width="5904" threshold="172" text="Later that year he warned that Britain knew" ubs="42" ubx="0" uby="1662">
+      <word id="b06-000-05-00" sentence-start="yes" tag="RBR" text="Later">
+        <cmp x="314" y="1644" width="172" height="57" />
+      </word>
+      <word id="b06-000-05-01" tag="DT" text="that">
+        <cmp x="534" y="1641" width="58" height="50" />
+        <cmp x="600" y="1646" width="75" height="45" />
+      </word>
+      <word id="b06-000-05-02" tag="NN" text="year">
+        <cmp x="714" y="1660" width="143" height="55" />
+      </word>
+      <word id="b06-000-05-03" tag="PP3A" text="he">
+        <cmp x="909" y="1638" width="68" height="56" />
+      </word>
+      <word id="b06-000-05-04" tag="VBD" text="warned">
+        <cmp x="1031" y="1656" width="56" height="38" />
+        <cmp x="1089" y="1660" width="132" height="35" />
+        <cmp x="1225" y="1650" width="57" height="43" />
+      </word>
+      <word id="b06-000-05-05" tag="CS" text="that">
+        <cmp x="1322" y="1641" width="62" height="49" />
+        <cmp x="1385" y="1651" width="69" height="41" />
+      </word>
+      <word id="b06-000-05-06" tag="NP" text="Britain">
+        <cmp x="1529" y="1655" width="18" height="39" />
+        <cmp x="1533" y="1645" width="39" height="54" />
+        <cmp x="1577" y="1661" width="39" height="32" />
+        <cmp x="1622" y="1644" width="5" height="5" />
+        <cmp x="1628" y="1647" width="140" height="46" />
+        <cmp x="1712" y="1650" width="4" height="5" />
+      </word>
+      <word id="b06-000-05-07" tag="VBD" text="knew">
+        <cmp x="1832" y="1644" width="45" height="55" />
+        <cmp x="1879" y="1660" width="124" height="33" />
+      </word>
+      <upper-contour>
+        <point x="343" y="1543" />
+        <point x="2004" y="1543" />
+      </upper-contour>
+      <lower-contour>
+        <point x="314" y="1715" />
+        <point x="1951" y="1715" />
+      </lower-contour>
+    </line>
+    <line ass="-118" asx="0" asy="1813" character-width="999" dss="-118" dsx="0" dsy="1897" fd0="14156" fd1="2935" fd2="-1021" filter-width="4" id="b06-000-06" lbs="-47" lbx="0" lby="1873" segmentation="ok" slant="64000" stroke-width="5895" threshold="172" text="Germany was breaking the agreement to stop" ubs="-260" ubx="0" uby="1838">
+      <word id="b06-000-06-00" tag="NP" text="Germany">
+        <cmp x="316" y="1818" width="142" height="80" />
+        <cmp x="459" y="1840" width="139" height="58" />
+      </word>
+      <word id="b06-000-06-01" tag="BEDZ" text="was">
+        <cmp x="647" y="1832" width="132" height="41" />
+      </word>
+      <word id="b06-000-06-02" tag="VBG" text="breaking">
+        <cmp x="850" y="1824" width="166" height="53" />
+        <cmp x="1027" y="1845" width="65" height="28" />
+        <cmp x="1041" y="1819" width="5" height="6" />
+        <cmp x="1095" y="1846" width="30" height="53" />
+      </word>
+      <word id="b06-000-06-03" tag="ATI" text="the">
+        <cmp x="1182" y="1829" width="106" height="52" />
+      </word>
+      <word id="b06-000-06-04" tag="NN" text="agreement">
+        <cmp x="1366" y="1839" width="164" height="61" />
+        <cmp x="1538" y="1840" width="132" height="34" />
+        <cmp x="1677" y="1818" width="21" height="47" />
+      </word>
+      <word id="b06-000-06-05" tag="TO" text="to">
+        <cmp x="1732" y="1827" width="54" height="53" />
+      </word>
+      <word id="b06-000-06-06" tag="VB" text="stop">
+        <cmp x="1821" y="1845" width="27" height="33" />
+        <cmp x="1851" y="1829" width="99" height="62" />
+      </word>
+      <upper-contour>
+        <point x="314" y="1715" />
+        <point x="1951" y="1715" />
+      </upper-contour>
+      <lower-contour>
+        <point x="331" y="1901" />
+        <point x="1455" y="1901" />
+      </lower-contour>
+    </line>
+    <line ass="-43" asx="0" asy="1994" character-width="999" dss="-43" dsx="0" dsy="2080" fd0="14083" fd1="2294" fd2="-1105" filter-width="4" id="b06-000-07" lbs="4" lbx="0" lby="2052" segmentation="ok" slant="59999" stroke-width="5844" threshold="172" text="building bombers, and added:" ubs="-140" ubx="0" uby="2018">
+      <word id="b06-000-07-00" tag="VBG" text="building">
+        <cmp x="333" y="2002" width="258" height="52" />
+        <cmp x="432" y="2008" width="5" height="6" />
+        <cmp x="544" y="1996" width="10" height="6" />
+        <cmp x="589" y="2026" width="27" height="55" />
+      </word>
+      <word id="b06-000-07-01" tag="NNS" text="bombers">
+        <cmp x="656" y="2006" width="129" height="53" />
+        <cmp x="795" y="2001" width="133" height="54" />
+      </word>
+      <word id="b06-000-07-02" tag="," text=",">
+        <cmp x="947" y="2049" width="16" height="25" />
+      </word>
+      <word id="b06-000-07-03" tag="CC" text="and">
+        <cmp x="993" y="2010" width="156" height="45" />
+      </word>
+      <word id="b06-000-07-04" tag="VBD" text="added">
+        <cmp x="1203" y="2002" width="167" height="50" />
+        <cmp x="1375" y="2002" width="52" height="50" />
+      </word>
+      <word id="b06-000-07-05" tag=":" text=":">
+        <cmp x="1437" y="2045" width="7" height="8" />
+        <cmp x="1447" y="2024" width="7" height="10" />
+      </word>
+      <upper-contour>
+        <point x="331" y="1901" />
+        <point x="1455" y="1901" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-16" height="3542" id="c03-094d" last-modified="2002-07-17" skew="382" status="final" version="3.0_beta" width="2479" writer-id="153">
+  <machine-printed-part>
+    <machine-print-line text="Mr. William Lucas (Morris) is always insensitively pushing, Miss Sheila Allen his wife," />
+    <machine-print-line text="always palely appealing, Mr. James Maxwell, the editor, always comically abashed by" />
+    <machine-print-line text="the events, and Mr. Aubrey Richards, the father-in-law, always comically grotesque;" />
+    <machine-print-line text="they were not asked to modulate from their set moods but played with proper effi-" />
+    <machine-print-line text="ciency and, in the case of Mr. Richards, with lavish and suitably gaudy colour." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-427" asx="0" asy="755" character-width="999" dss="-427" dsx="0" dsy="865" fd0="14336" fd1="2664" fd2="-1230" filter-width="4" id="c03-094d-00" lbs="-641" lbx="0" lby="824" segmentation="ok" slant="53000" stroke-width="6964" threshold="156" text="Mr. William Lucas (Morris) is always" ubs="0" ubx="0" uby="794">
+      <word id="c03-094d-00-00" sentence-start="yes" tag="NPT" text="Mr.">
+        <cmp x="352" y="769" width="120" height="72" />
+        <cmp x="471" y="824" width="7" height="8" />
+      </word>
+      <word id="c03-094d-00-01" tag="NP" text="William">
+        <cmp x="546" y="760" width="74" height="78" />
+        <cmp x="593" y="770" width="139" height="69" />
+        <cmp x="649" y="771" width="8" height="8" />
+        <cmp x="725" y="797" width="124" height="42" />
+        <cmp x="735" y="775" width="8" height="8" />
+      </word>
+      <word id="c03-094d-00-02" tag="NP" text="Lucas">
+        <cmp x="916" y="765" width="253" height="75" />
+      </word>
+      <word id="c03-094d-00-03" tag="(" text="(">
+        <cmp x="1198" y="768" width="54" height="80" />
+      </word>
+      <word id="c03-094d-00-04" tag="NP" text="Morris">
+        <cmp x="1244" y="772" width="256" height="70" />
+        <cmp x="1469" y="773" width="8" height="7" />
+      </word>
+      <word id="c03-094d-00-05" tag=")" text=")">
+        <cmp x="1481" y="770" width="66" height="88" />
+      </word>
+      <word id="c03-094d-00-06" tag="BEZ" text="is">
+        <cmp x="1582" y="793" width="88" height="42" />
+        <cmp x="1629" y="775" width="10" height="8" />
+      </word>
+      <word id="c03-094d-00-07" tag="RB" text="always">
+        <cmp x="1727" y="770" width="313" height="110" />
+      </word>
+      <lower-contour>
+        <point x="350" y="884" />
+        <point x="2041" y="884" />
+      </lower-contour>
+    </line>
+    <line ass="503" asx="0" asy="954" character-width="999" dss="503" dsx="0" dsy="1080" fd0="13942" fd1="2388" fd2="-1523" filter-width="4" id="c03-094d-01" lbs="774" lbx="0" lby="1030" segmentation="ok" slant="54000" stroke-width="6987" threshold="156" text="insensitively pushing, Miss Sheila Allen" ubs="-39" ubx="0" uby="976">
+      <word id="c03-094d-01-00" tag="RB" text="insensitively">
+        <cmp x="321" y="956" width="338" height="69" />
+        <cmp x="382" y="958" width="6" height="8" />
+        <cmp x="595" y="956" width="7" height="7" />
+        <cmp x="643" y="952" width="198" height="108" />
+        <cmp x="663" y="950" width="7" height="7" />
+      </word>
+      <word id="c03-094d-01-01" tag="JJ" text="pushing">
+        <cmp x="871" y="959" width="340" height="111" />
+        <cmp x="1109" y="959" width="7" height="8" />
+      </word>
+      <word id="c03-094d-01-02" tag="," text=",">
+        <cmp x="1244" y="1016" width="19" height="23" />
+      </word>
+      <word id="c03-094d-01-03" tag="NPT" text="Miss">
+        <cmp x="1321" y="954" width="175" height="65" />
+        <cmp x="1433" y="954" width="8" height="8" />
+      </word>
+      <word id="c03-094d-01-04" tag="NP" text="Sheila">
+        <cmp x="1552" y="953" width="261" height="66" />
+        <cmp x="1722" y="963" width="6" height="7" />
+      </word>
+      <word id="c03-094d-01-05" tag="NP" text="Allen">
+        <cmp x="1865" y="954" width="203" height="65" />
+      </word>
+      <upper-contour>
+        <point x="350" y="884" />
+        <point x="2041" y="884" />
+      </upper-contour>
+      <lower-contour>
+        <point x="340" y="1070" />
+        <point x="2058" y="1070" />
+      </lower-contour>
+    </line>
+    <line ass="-208" asx="0" asy="1128" character-width="999" dss="-208" dsx="0" dsy="1241" fd0="13750" fd1="2183" fd2="-1204" filter-width="4" id="c03-094d-02" lbs="-286" lbx="0" lby="1202" segmentation="ok" slant="55000" stroke-width="7074" threshold="157" text="his wife, always palely appealing, Mr." ubs="-53" ubx="0" uby="1162">
+      <word id="c03-094d-02-00" tag="PP$" text="his">
+        <cmp x="342" y="1132" width="115" height="67" />
+        <cmp x="423" y="1137" width="8" height="8" />
+      </word>
+      <word id="c03-094d-02-01" tag="NN" text="wife">
+        <cmp x="493" y="1141" width="185" height="83" />
+        <cmp x="600" y="1146" width="8" height="8" />
+      </word>
+      <word id="c03-094d-02-02" tag="," text=",">
+        <cmp x="691" y="1191" width="29" height="31" />
+      </word>
+      <word id="c03-094d-02-03" tag="RB" text="always">
+        <cmp x="766" y="1135" width="300" height="99" />
+      </word>
+      <word id="c03-094d-02-04" tag="RB" text="palely">
+        <cmp x="1109" y="1140" width="299" height="98" />
+      </word>
+      <word id="c03-094d-02-05" tag="JJ" text="appealing">
+        <cmp x="1467" y="1139" width="375" height="109" />
+        <cmp x="1744" y="1140" width="7" height="8" />
+      </word>
+      <word id="c03-094d-02-06" tag="," text=",">
+        <cmp x="1869" y="1193" width="24" height="23" />
+      </word>
+      <word id="c03-094d-02-07" tag="NPT" text="Mr.">
+        <cmp x="1935" y="1135" width="111" height="59" />
+        <cmp x="2052" y="1187" width="6" height="7" />
+      </word>
+      <upper-contour>
+        <point x="340" y="1070" />
+        <point x="2058" y="1070" />
+      </upper-contour>
+      <lower-contour>
+        <point x="340" y="1251" />
+        <point x="2058" y="1251" />
+      </lower-contour>
+    </line>
+    <line ass="623" asx="0" asy="1313" character-width="999" dss="623" dsx="0" dsy="1436" fd0="13834" fd1="2117" fd2="-1447" filter-width="4" id="c03-094d-03" lbs="836" lbx="0" lby="1393" segmentation="ok" slant="56000" stroke-width="6900" threshold="158" text="James Maxwell, the editor, always comi-" ubs="196" ubx="0" uby="1342">
+      <word id="c03-094d-03-00" tag="NP" text="James">
+        <cmp x="326" y="1308" width="230" height="116" />
+      </word>
+      <word id="c03-094d-03-01" tag="NP" text="Maxwell">
+        <cmp x="626" y="1308" width="371" height="75" />
+      </word>
+      <word id="c03-094d-03-02" tag="," text=",">
+        <cmp x="1029" y="1375" width="24" height="27" />
+      </word>
+      <word id="c03-094d-03-03" tag="ATI" text="the">
+        <cmp x="1086" y="1313" width="114" height="64" />
+      </word>
+      <word id="c03-094d-03-04" tag="NN" text="editor">
+        <cmp x="1257" y="1309" width="257" height="68" />
+        <cmp x="1412" y="1313" width="7" height="9" />
+      </word>
+      <word id="c03-094d-03-05" tag="," text=",">
+        <cmp x="1511" y="1382" width="19" height="19" />
+      </word>
+      <word id="c03-094d-03-06" tag="RB" text="always">
+        <cmp x="1591" y="1311" width="297" height="106" />
+      </word>
+      <word id="c03-094d-03-07" tag="RB-" text="comi-">
+        <cmp x="1945" y="1329" width="171" height="48" />
+        <cmp x="2109" y="1315" width="7" height="9" />
+        <cmp x="2114" y="1351" width="30" height="7" />
+      </word>
+      <upper-contour>
+        <point x="340" y="1251" />
+        <point x="2058" y="1251" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1420" />
+        <point x="1982" y="1420" />
+      </lower-contour>
+    </line>
+    <line ass="45" asx="0" asy="1489" character-width="999" dss="45" dsx="0" dsy="1602" fd0="14315" fd1="2147" fd2="-1473" filter-width="4" id="c03-094d-04" lbs="34" lbx="0" lby="1554" segmentation="ok" slant="56000" stroke-width="6794" threshold="157" text="cally abashed by the events, and Mr." ubs="67" ubx="0" uby="1519">
+      <word id="c03-094d-04-00" tag="-RB" text="cally">
+        <cmp x="353" y="1489" width="166" height="77" />
+        <cmp x="482" y="1516" width="58" height="86" />
+      </word>
+      <word id="c03-094d-04-01" tag="VBN" text="abashed">
+        <cmp x="623" y="1489" width="331" height="78" />
+      </word>
+      <word id="c03-094d-04-02" tag="IN" text="by">
+        <cmp x="1002" y="1493" width="129" height="111" />
+      </word>
+      <word id="c03-094d-04-03" tag="ATI" text="the">
+        <cmp x="1185" y="1497" width="141" height="59" />
+      </word>
+      <word id="c03-094d-04-04" tag="NNS" text="events">
+        <cmp x="1388" y="1513" width="124" height="45" />
+        <cmp x="1502" y="1501" width="105" height="58" />
+      </word>
+      <word id="c03-094d-04-05" tag="," text=",">
+        <cmp x="1609" y="1552" width="29" height="26" />
+      </word>
+      <word id="c03-094d-04-06" tag="CC" text="and">
+        <cmp x="1677" y="1497" width="169" height="59" />
+      </word>
+      <word id="c03-094d-04-07" tag="NPT" text="Mr.">
+        <cmp x="1873" y="1490" width="108" height="62" />
+        <cmp x="1969" y="1549" width="8" height="8" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1420" />
+        <point x="1982" y="1420" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1603" />
+        <point x="1982" y="1603" />
+      </lower-contour>
+    </line>
+    <line ass="97" asx="0" asy="1673" character-width="999" dss="97" dsx="0" dsy="1790" fd0="14293" fd1="2380" fd2="-1619" filter-width="4" id="c03-094d-05" lbs="171" lbx="0" lby="1740" segmentation="ok" slant="55000" stroke-width="6718" threshold="158" text="Aubrey Richards, the father-in-law, always" ubs="-51" ubx="0" uby="1695">
+      <word id="c03-094d-05-00" tag="NP" text="Aubrey">
+        <cmp x="343" y="1673" width="284" height="114" />
+      </word>
+      <word id="c03-094d-05-01" tag="NP" text="Richards">
+        <cmp x="689" y="1675" width="336" height="69" />
+        <cmp x="768" y="1679" width="7" height="8" />
+      </word>
+      <word id="c03-094d-05-02" tag="," text=",">
+        <cmp x="1023" y="1740" width="20" height="23" />
+      </word>
+      <word id="c03-094d-05-03" tag="ATI" text="the">
+        <cmp x="1100" y="1685" width="120" height="53" />
+      </word>
+      <word id="c03-094d-05-04" tag="NN" text="father-in-law">
+        <cmp x="1254" y="1676" width="238" height="93" />
+        <cmp x="1495" y="1706" width="43" height="8" />
+        <cmp x="1534" y="1693" width="90" height="39" />
+        <cmp x="1581" y="1672" width="8" height="7" />
+        <cmp x="1638" y="1708" width="29" height="7" />
+        <cmp x="1694" y="1676" width="164" height="57" />
+      </word>
+      <word id="c03-094d-05-05" tag="," text=",">
+        <cmp x="1859" y="1733" width="21" height="20" />
+      </word>
+      <word id="c03-094d-05-06" tag="RB" text="always">
+        <cmp x="1921" y="1672" width="283" height="96" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1603" />
+        <point x="1982" y="1603" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1786" />
+        <point x="1943" y="1786" />
+      </lower-contour>
+    </line>
+    <line ass="427" asx="0" asy="1858" character-width="999" dss="427" dsx="0" dsy="1977" fd0="14212" fd1="2257" fd2="-1407" filter-width="4" id="c03-094d-06" lbs="552" lbx="0" lby="1927" segmentation="ok" slant="59999" stroke-width="6733" threshold="161" text="comically grotesque; they were not" ubs="177" ubx="0" uby="1881">
+      <word id="c03-094d-06-00" tag="RB" text="comically">
+        <cmp x="353" y="1871" width="177" height="56" />
+        <cmp x="516" y="1854" width="200" height="103" />
+        <cmp x="528" y="1856" width="7" height="9" />
+      </word>
+      <word id="c03-094d-06-01" tag="JJ" text="grotesque">
+        <cmp x="776" y="1854" width="397" height="118" />
+      </word>
+      <word id="c03-094d-06-02" tag=";" text=";">
+        <cmp x="1187" y="1906" width="31" height="37" />
+        <cmp x="1220" y="1884" width="7" height="10" />
+      </word>
+      <word id="c03-094d-06-03" tag="PP3AS" text="they">
+        <cmp x="1286" y="1858" width="165" height="61" />
+        <cmp x="1401" y="1875" width="70" height="94" />
+      </word>
+      <word id="c03-094d-06-04" tag="BED" text="were">
+        <cmp x="1522" y="1871" width="192" height="43" />
+      </word>
+      <word id="c03-094d-06-05" tag="XNOT" text="not">
+        <cmp x="1796" y="1854" width="146" height="58" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1786" />
+        <point x="1943" y="1786" />
+      </upper-contour>
+      <lower-contour>
+        <point x="354" y="1971" />
+        <point x="1943" y="1971" />
+      </lower-contour>
+    </line>
+    <line ass="83" asx="0" asy="2031" character-width="999" dss="83" dsx="0" dsy="2123" fd0="14000" fd1="2950" fd2="-1187" filter-width="4" id="c03-094d-07" lbs="40" lbx="0" lby="2093" segmentation="ok" slant="59999" stroke-width="6647" threshold="162" text="asked to modulate from their set moods" ubs="170" ubx="0" uby="2061">
+      <word id="c03-094d-07-00" tag="VBN" text="asked">
+        <cmp x="356" y="2031" width="205" height="72" />
+      </word>
+      <word id="c03-094d-07-01" tag="TO" text="to">
+        <cmp x="617" y="2031" width="105" height="65" />
+      </word>
+      <word id="c03-094d-07-02" tag="VB" text="modulate">
+        <cmp x="765" y="2033" width="401" height="67" />
+      </word>
+      <word id="c03-094d-07-03" tag="IN" text="from">
+        <cmp x="1249" y="2042" width="186" height="81" />
+      </word>
+      <word id="c03-094d-07-04" tag="PP$" text="their">
+        <cmp x="1484" y="2041" width="123" height="54" />
+        <cmp x="1607" y="2056" width="79" height="40" />
+        <cmp x="1634" y="2041" width="7" height="7" />
+      </word>
+      <word id="c03-094d-07-05" tag="JJ" text="set">
+        <cmp x="1742" y="2036" width="125" height="64" />
+      </word>
+      <word id="c03-094d-07-06" tag="NNS" text="moods">
+        <cmp x="1903" y="2031" width="264" height="61" />
+        <cmp x="1945" y="2050" width="9" height="8" />
+      </word>
+      <upper-contour>
+        <point x="354" y="1971" />
+        <point x="1943" y="1971" />
+      </upper-contour>
+      <lower-contour>
+        <point x="354" y="2123" />
+        <point x="2068" y="2123" />
+      </lower-contour>
+    </line>
+    <line ass="191" asx="0" asy="2215" character-width="999" dss="191" dsx="0" dsy="2338" fd0="14067" fd1="2180" fd2="-1451" filter-width="4" id="c03-094d-08" lbs="270" lbx="0" lby="2287" segmentation="ok" slant="57000" stroke-width="6634" threshold="159" text="but played with proper efficiency and," ubs="33" ubx="0" uby="2243">
+      <word id="c03-094d-08-00" tag="CC" text="but">
+        <cmp x="344" y="2217" width="154" height="76" />
+      </word>
+      <word id="c03-094d-08-01" tag="VBN" text="played">
+        <cmp x="537" y="2213" width="304" height="121" />
+      </word>
+      <word id="c03-094d-08-02" tag="IN" text="with">
+        <cmp x="910" y="2217" width="182" height="62" />
+        <cmp x="1022" y="2213" width="7" height="10" />
+      </word>
+      <word id="c03-094d-08-03" tag="JJ" text="proper">
+        <cmp x="1134" y="2236" width="230" height="80" />
+        <cmp x="1360" y="2241" width="38" height="28" />
+      </word>
+      <word id="c03-094d-08-04" tag="NN" text="efficiency">
+        <cmp x="1454" y="2221" width="337" height="89" />
+        <cmp x="1584" y="2225" width="6" height="7" />
+        <cmp x="1651" y="2216" width="7" height="6" />
+        <cmp x="1747" y="2229" width="73" height="95" />
+      </word>
+      <word id="c03-094d-08-05" tag="CC" text="and">
+        <cmp x="1894" y="2214" width="159" height="59" />
+      </word>
+      <word id="c03-094d-08-06" tag="," text=",">
+        <cmp x="2042" y="2263" width="25" height="26" />
+      </word>
+      <upper-contour>
+        <point x="354" y="2123" />
+        <point x="2068" y="2123" />
+      </upper-contour>
+      <lower-contour>
+        <point x="352" y="2333" />
+        <point x="2068" y="2333" />
+      </lower-contour>
+    </line>
+    <line ass="436" asx="0" asy="2401" character-width="999" dss="436" dsx="0" dsy="2493" fd0="14423" fd1="2415" fd2="-1126" filter-width="4" id="c03-094d-09" lbs="562" lbx="0" lby="2464" segmentation="ok" slant="59999" stroke-width="6383" threshold="159" text="in the case of Mr. Richards, with lavish" ubs="184" ubx="0" uby="2419">
+      <word id="c03-094d-09-00" tag="IN" text="in">
+        <cmp x="354" y="2417" width="97" height="43" />
+        <cmp x="411" y="2399" width="10" height="10" />
+      </word>
+      <word id="c03-094d-09-01" tag="ATI" text="the">
+        <cmp x="508" y="2399" width="113" height="64" />
+      </word>
+      <word id="c03-094d-09-02" tag="NN" text="case">
+        <cmp x="678" y="2410" width="158" height="47" />
+      </word>
+      <word id="c03-094d-09-03" tag="INO" text="of">
+        <cmp x="890" y="2394" width="82" height="91" />
+      </word>
+      <word id="c03-094d-09-04" tag="NPT" text="Mr.">
+        <cmp x="997" y="2394" width="104" height="62" />
+        <cmp x="1098" y="2448" width="7" height="7" />
+      </word>
+      <word id="c03-094d-09-05" tag="NP" text="Richards">
+        <cmp x="1179" y="2392" width="137" height="67" />
+        <cmp x="1257" y="2398" width="6" height="9" />
+        <cmp x="1311" y="2398" width="211" height="58" />
+      </word>
+      <word id="c03-094d-09-06" tag="," text=",">
+        <cmp x="1532" y="2459" width="25" height="24" />
+      </word>
+      <word id="c03-094d-09-07" tag="IN" text="with">
+        <cmp x="1589" y="2412" width="132" height="43" />
+        <cmp x="1703" y="2394" width="7" height="6" />
+        <cmp x="1710" y="2398" width="60" height="55" />
+      </word>
+      <word id="c03-094d-09-08" tag="JJ" text="lavish">
+        <cmp x="1830" y="2396" width="245" height="59" />
+        <cmp x="1992" y="2400" width="7" height="9" />
+      </word>
+      <upper-contour>
+        <point x="352" y="2333" />
+        <point x="2068" y="2333" />
+      </upper-contour>
+      <lower-contour>
+        <point x="356" y="2484" />
+        <point x="1584" y="2484" />
+      </lower-contour>
+    </line>
+    <line ass="345" asx="0" asy="2569" character-width="999" dss="345" dsx="0" dsy="2697" fd0="14333" fd1="2282" fd2="-1568" filter-width="4" id="c03-094d-10" lbs="460" lbx="0" lby="2636" segmentation="ok" slant="61000" stroke-width="6567" threshold="162" text="and suitably gaudy colour." ubs="114" ubx="0" uby="2594">
+      <word id="c03-094d-10-00" tag="CC" text="and">
+        <cmp x="358" y="2567" width="150" height="78" />
+      </word>
+      <word id="c03-094d-10-01" tag="RB" text="suitably">
+        <cmp x="556" y="2574" width="335" height="67" />
+        <cmp x="679" y="2574" width="7" height="9" />
+        <cmp x="854" y="2599" width="60" height="85" />
+      </word>
+      <word id="c03-094d-10-02" tag="JJ" text="gaudy">
+        <cmp x="965" y="2576" width="299" height="118" />
+      </word>
+      <word id="c03-094d-10-03" tag="NN" text="colour">
+        <cmp x="1319" y="2575" width="261" height="57" />
+      </word>
+      <word id="c03-094d-10-04" tag="." text=".">
+        <cmp x="1577" y="2630" width="6" height="7" />
+      </word>
+      <upper-contour>
+        <point x="356" y="2484" />
+        <point x="1584" y="2484" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

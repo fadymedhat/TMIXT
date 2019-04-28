@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="l01-050" last-modified="2002-07-17" skew="0" status="final" version="3.0_beta" width="2479" writer-id="460">
+  <machine-printed-part>
+    <machine-print-line text="My chance had come at last. I had to take it. I was going to smash him as he had" />
+    <machine-print-line text="twice tried to smash me. (His eyes, wild and frightened, were fixed on Tong. Tong" />
+    <machine-print-line text="guessed that they did not see him.) I told Starmouth to go at once and report exactly" />
+    <machine-print-line text="what he had seen to Dackson and his daughter. He did as he was told." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="189" asx="0" asy="646" character-width="999" dss="189" dsx="0" dsy="796" fd0="13946" fd1="2598" fd2="-1303" filter-width="3" id="l01-050-00" lbs="52" lbx="0" lby="736" segmentation="err" slant="64000" stroke-width="4936" threshold="184" text="My chance had come at last. I had to" ubs="463" ubx="0" uby="705">
+      <word id="l01-050-00-00" sentence-start="yes" tag="PP$" text="My">
+        <cmp x="387" y="689" width="87" height="107" />
+      </word>
+      <word id="l01-050-00-01" tag="NN" text="chance">
+        <cmp x="558" y="691" width="63" height="52" />
+        <cmp x="569" y="696" width="13" height="16" />
+        <cmp x="622" y="698" width="127" height="45" />
+      </word>
+      <word id="l01-050-00-02" tag="HVD" text="had">
+        <cmp x="809" y="685" width="44" height="55" />
+        <cmp x="858" y="697" width="34" height="44" />
+        <cmp x="896" y="687" width="47" height="55" />
+      </word>
+      <word id="l01-050-00-03" tag="VBN" text="come">
+        <cmp x="1004" y="692" width="25" height="43" />
+        <cmp x="1040" y="691" width="112" height="48" />
+      </word>
+      <word id="l01-050-00-04" tag="RB21" text="at">
+        <cmp x="1225" y="690" width="70" height="47" />
+      </word>
+      <word id="l01-050-00-05" tag="RB22" text="last">
+        <cmp x="1377" y="689" width="36" height="50" />
+        <cmp x="1415" y="694" width="73" height="44" />
+        <cmp x="1482" y="687" width="44" height="49" />
+      </word>
+      <word id="l01-050-00-06" tag="." text=".">
+        <cmp x="1525" y="725" width="8" height="8" />
+      </word>
+      <word id="l01-050-00-07" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="1606" y="686" width="41" height="50" />
+      </word>
+      <word id="l01-050-00-08" tag="HVD" text="had">
+        <cmp x="1710" y="692" width="42" height="43" />
+        <cmp x="1737" y="687" width="3" height="4" />
+        <cmp x="1756" y="694" width="36" height="41" />
+        <cmp x="1796" y="687" width="47" height="50" />
+      </word>
+      <word id="l01-050-00-09" tag="TO" text="to">
+        <cmp x="1926" y="683" width="73" height="49" />
+        <cmp x="1941" y="641" width="11" height="13" />
+      </word>
+      <lower-contour>
+        <point x="385" y="796" />
+        <point x="2000" y="796" />
+      </lower-contour>
+    </line>
+    <line ass="350" asx="0" asy="842" character-width="999" dss="350" dsx="0" dsy="980" fd0="14341" fd1="2667" fd2="-1070" filter-width="3" id="l01-050-01" lbs="243" lbx="0" lby="921" segmentation="ok" slant="59999" stroke-width="5107" threshold="182" text="take it. I was going to smash him as" ubs="563" ubx="0" uby="888">
+      <word id="l01-050-01-00" tag="VB" text="take">
+        <cmp x="384" y="870" width="31" height="48" />
+        <cmp x="411" y="870" width="91" height="51" />
+      </word>
+      <word id="l01-050-01-01" tag="PP3" text="it">
+        <cmp x="588" y="865" width="73" height="59" />
+        <cmp x="637" y="856" width="9" height="4" />
+      </word>
+      <word id="l01-050-01-02" tag="." text=".">
+        <cmp x="665" y="913" width="8" height="7" />
+      </word>
+      <word id="l01-050-01-03" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="751" y="861" width="46" height="56" />
+      </word>
+      <word id="l01-050-01-04" tag="BEDZ" text="was">
+        <cmp x="849" y="914" width="3" height="3" />
+        <cmp x="852" y="877" width="64" height="45" />
+        <cmp x="920" y="874" width="77" height="46" />
+      </word>
+      <word id="l01-050-01-05" tag="VBG" text="going">
+        <cmp x="1044" y="871" width="60" height="92" />
+        <cmp x="1109" y="875" width="90" height="40" />
+        <cmp x="1171" y="874" width="61" height="100" />
+        <cmp x="1192" y="836" width="7" height="3" />
+      </word>
+      <word id="l01-050-01-06" tag="TO" text="to">
+        <cmp x="1310" y="864" width="71" height="48" />
+      </word>
+      <word id="l01-050-01-07" tag="VB" text="smash">
+        <cmp x="1421" y="875" width="45" height="41" />
+        <cmp x="1460" y="877" width="63" height="38" />
+        <cmp x="1525" y="872" width="39" height="43" />
+        <cmp x="1565" y="873" width="43" height="43" />
+        <cmp x="1604" y="864" width="54" height="47" />
+      </word>
+      <word id="l01-050-01-08" tag="PP3O" text="him">
+        <cmp x="1731" y="858" width="122" height="57" />
+        <cmp x="1819" y="836" width="7" height="4" />
+      </word>
+      <word id="l01-050-01-09" tag="CS" text="as">
+        <cmp x="1939" y="873" width="77" height="42" />
+      </word>
+      <upper-contour>
+        <point x="385" y="796" />
+        <point x="2000" y="796" />
+      </upper-contour>
+      <lower-contour>
+        <point x="382" y="974" />
+        <point x="2017" y="974" />
+      </lower-contour>
+    </line>
+    <line ass="437" asx="0" asy="1034" character-width="999" dss="437" dsx="0" dsy="1146" fd0="14450" fd1="2620" fd2="-1003" filter-width="3" id="l01-050-02" lbs="414" lbx="0" lby="1102" segmentation="ok" slant="58000" stroke-width="5198" threshold="180" text="he had twice tried to smash me. (His" ubs="482" ubx="0" uby="1065">
+      <word id="l01-050-02-00" tag="PP3A" text="he">
+        <cmp x="380" y="1058" width="66" height="47" />
+      </word>
+      <word id="l01-050-02-01" tag="HVD" text="had">
+        <cmp x="551" y="1049" width="124" height="53" />
+      </word>
+      <word id="l01-050-02-02" tag="RB" text="twice">
+        <cmp x="756" y="1047" width="38" height="49" />
+        <cmp x="780" y="1060" width="63" height="39" />
+        <cmp x="836" y="1059" width="30" height="38" />
+        <cmp x="870" y="1056" width="54" height="43" />
+        <cmp x="874" y="1029" width="6" height="6" />
+      </word>
+      <word id="l01-050-02-03" tag="VBN" text="tried">
+        <cmp x="1011" y="1046" width="106" height="54" />
+        <cmp x="1115" y="1027" width="8" height="4" />
+        <cmp x="1122" y="1042" width="55" height="54" />
+      </word>
+      <word id="l01-050-02-04" tag="TO" text="to">
+        <cmp x="1240" y="1050" width="64" height="45" />
+        <cmp x="1269" y="1046" width="3" height="3" />
+      </word>
+      <word id="l01-050-02-05" tag="VB" text="smash">
+        <cmp x="1349" y="1053" width="46" height="42" />
+        <cmp x="1394" y="1056" width="64" height="36" />
+        <cmp x="1459" y="1050" width="82" height="44" />
+        <cmp x="1537" y="1039" width="55" height="53" />
+      </word>
+      <word id="l01-050-02-06" tag="PP1O" text="me">
+        <cmp x="1687" y="1052" width="89" height="42" />
+      </word>
+      <word id="l01-050-02-07" tag="." text=".">
+        <cmp x="1803" y="1080" width="10" height="6" />
+      </word>
+      <word id="l01-050-02-08" sentence-start="yes" tag="(" text="(">
+        <cmp x="1893" y="1034" width="36" height="98" />
+      </word>
+      <word id="l01-050-02-09" tag="PP$" text="His">
+        <cmp x="1946" y="1042" width="98" height="52" />
+        <cmp x="2021" y="1029" width="7" height="6" />
+      </word>
+      <upper-contour>
+        <point x="382" y="974" />
+        <point x="2017" y="974" />
+      </upper-contour>
+      <lower-contour>
+        <point x="378" y="1133" />
+        <point x="2045" y="1133" />
+      </lower-contour>
+    </line>
+    <line ass="643" asx="0" asy="1216" character-width="999" dss="643" dsx="0" dsy="1334" fd0="14564" fd1="2625" fd2="-1440" filter-width="3" id="l01-050-03" lbs="795" lbx="0" lby="1296" segmentation="ok" slant="59000" stroke-width="5169" threshold="181" text="eyes, wild and frightened, were fixed on" ubs="338" ubx="0" uby="1242">
+      <word id="l01-050-03-00" tag="NNS" text="eyes">
+        <cmp x="380" y="1241" width="67" height="90" />
+        <cmp x="447" y="1240" width="27" height="40" />
+        <cmp x="470" y="1238" width="44" height="45" />
+      </word>
+      <word id="l01-050-03-01" tag="," text=",">
+        <cmp x="525" y="1263" width="16" height="28" />
+      </word>
+      <word id="l01-050-03-02" tag="JJ" text="wild">
+        <cmp x="584" y="1235" width="79" height="42" />
+        <cmp x="656" y="1225" width="64" height="50" />
+        <cmp x="692" y="1209" width="6" height="5" />
+        <cmp x="721" y="1225" width="50" height="51" />
+      </word>
+      <word id="l01-050-03-03" tag="CC" text="and">
+        <cmp x="838" y="1232" width="87" height="44" />
+        <cmp x="926" y="1219" width="63" height="58" />
+      </word>
+      <word id="l01-050-03-04" tag="JJ" text="frightened">
+        <cmp x="1076" y="1223" width="104" height="86" />
+        <cmp x="1152" y="1233" width="55" height="87" />
+        <cmp x="1210" y="1224" width="72" height="49" />
+        <cmp x="1272" y="1234" width="76" height="41" />
+        <cmp x="1345" y="1231" width="28" height="42" />
+        <cmp x="1382" y="1219" width="51" height="53" />
+      </word>
+      <word id="l01-050-03-05" tag="," text=",">
+        <cmp x="1456" y="1260" width="14" height="23" />
+      </word>
+      <word id="l01-050-03-06" tag="BED" text="were">
+        <cmp x="1536" y="1234" width="68" height="41" />
+        <cmp x="1605" y="1232" width="76" height="42" />
+      </word>
+      <word id="l01-050-03-07" tag="VBN" text="fixed">
+        <cmp x="1741" y="1230" width="61" height="79" />
+        <cmp x="1782" y="1235" width="96" height="43" />
+        <cmp x="1832" y="1213" width="7" height="6" />
+        <cmp x="1879" y="1212" width="6" height="5" />
+        <cmp x="1880" y="1217" width="48" height="58" />
+      </word>
+      <word id="l01-050-03-08" tag="IN" text="on">
+        <cmp x="2025" y="1228" width="73" height="41" />
+      </word>
+      <upper-contour>
+        <point x="378" y="1133" />
+        <point x="2045" y="1133" />
+      </upper-contour>
+      <lower-contour>
+        <point x="383" y="1332" />
+        <point x="2005" y="1332" />
+      </lower-contour>
+    </line>
+    <line ass="956" asx="0" asy="1409" character-width="999" dss="956" dsx="0" dsy="1546" fd0="14132" fd1="2496" fd2="-1735" filter-width="3" id="l01-050-04" lbs="950" lbx="0" lby="1473" segmentation="ok" slant="58000" stroke-width="5104" threshold="182" text="Tong. Tong guessed that they did not" ubs="968" ubx="0" uby="1435">
+      <word id="l01-050-04-00" tag="NP" text="Tong">
+        <cmp x="385" y="1409" width="43" height="53" />
+        <cmp x="418" y="1418" width="107" height="99" />
+      </word>
+      <word id="l01-050-04-01" tag="." text=".">
+        <cmp x="549" y="1458" width="9" height="7" />
+      </word>
+      <word id="l01-050-04-02" sentence-start="yes" tag="NP" text="Tong">
+        <cmp x="650" y="1407" width="35" height="50" />
+        <cmp x="667" y="1400" width="35" height="6" />
+        <cmp x="687" y="1414" width="77" height="42" />
+        <cmp x="738" y="1409" width="61" height="94" />
+      </word>
+      <word id="l01-050-04-03" tag="VBD" text="guessed">
+        <cmp x="892" y="1463" width="7" height="20" />
+        <cmp x="893" y="1416" width="61" height="87" />
+        <cmp x="931" y="1416" width="11" height="13" />
+        <cmp x="961" y="1408" width="128" height="49" />
+        <cmp x="1082" y="1412" width="26" height="40" />
+        <cmp x="1110" y="1402" width="52" height="53" />
+      </word>
+      <word id="l01-050-04-04" tag="CS" text="that">
+        <cmp x="1249" y="1400" width="43" height="54" />
+        <cmp x="1276" y="1397" width="42" height="55" />
+        <cmp x="1320" y="1397" width="89" height="55" />
+      </word>
+      <word id="l01-050-04-05" tag="PP3AS" text="they">
+        <cmp x="1462" y="1405" width="130" height="117" />
+      </word>
+      <word id="l01-050-04-06" tag="DOD" text="did">
+        <cmp x="1685" y="1397" width="68" height="54" />
+        <cmp x="1758" y="1392" width="51" height="55" />
+      </word>
+      <word id="l01-050-04-07" tag="XNOT" text="not">
+        <cmp x="1868" y="1413" width="49" height="42" />
+        <cmp x="1921" y="1398" width="83" height="55" />
+      </word>
+      <upper-contour>
+        <point x="383" y="1332" />
+        <point x="2005" y="1332" />
+      </upper-contour>
+      <lower-contour>
+        <point x="383" y="1522" />
+        <point x="2005" y="1522" />
+      </lower-contour>
+    </line>
+    <line ass="614" asx="0" asy="1556" character-width="999" dss="614" dsx="0" dsy="1693" fd0="14075" fd1="2496" fd2="-982" filter-width="3" id="l01-050-05" lbs="670" lbx="0" lby="1646" segmentation="ok" slant="59999" stroke-width="5153" threshold="180" text="see him.) I told Starmouth to go at" ubs="502" ubx="0" uby="1603">
+      <word id="l01-050-05-00" tag="VB" text="see">
+        <cmp x="378" y="1600" width="53" height="45" />
+        <cmp x="429" y="1596" width="62" height="48" />
+      </word>
+      <word id="l01-050-05-01" tag="PP3O" text="him">
+        <cmp x="603" y="1583" width="139" height="52" />
+        <cmp x="674" y="1550" width="9" height="6" />
+      </word>
+      <word id="l01-050-05-02" tag="." text=".">
+        <cmp x="761" y="1622" width="10" height="11" />
+      </word>
+      <word id="l01-050-05-03" tag=")" text=")">
+        <cmp x="774" y="1556" width="44" height="112" />
+      </word>
+      <word id="l01-050-05-04" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="892" y="1579" width="48" height="53" />
+      </word>
+      <word id="l01-050-05-05" tag="VBD" text="told">
+        <cmp x="1022" y="1582" width="44" height="53" />
+        <cmp x="1065" y="1579" width="58" height="54" />
+        <cmp x="1125" y="1576" width="49" height="56" />
+      </word>
+      <word id="l01-050-05-06" tag="NP" text="Starmouth">
+        <cmp x="1274" y="1576" width="52" height="54" />
+        <cmp x="1317" y="1576" width="261" height="59" />
+        <cmp x="1571" y="1579" width="54" height="50" />
+      </word>
+      <word id="l01-050-05-07" tag="TO" text="to">
+        <cmp x="1699" y="1578" width="82" height="54" />
+      </word>
+      <word id="l01-050-05-08" tag="VB" text="go">
+        <cmp x="1785" y="1588" width="62" height="87" />
+        <cmp x="1847" y="1585" width="45" height="48" />
+      </word>
+      <word id="l01-050-05-09" tag="RB21" text="at">
+        <cmp x="1952" y="1578" width="75" height="52" />
+      </word>
+      <upper-contour>
+        <point x="383" y="1522" />
+        <point x="2005" y="1522" />
+      </upper-contour>
+      <lower-contour>
+        <point x="392" y="1675" />
+        <point x="1983" y="1675" />
+      </lower-contour>
+    </line>
+    <line ass="367" asx="0" asy="1764" character-width="999" dss="367" dsx="0" dsy="1872" fd0="14206" fd1="2355" fd2="-1696" filter-width="3" id="l01-050-06" lbs="350" lbx="0" lby="1819" segmentation="ok" slant="59000" stroke-width="5294" threshold="179" text="once and report exactly what he had" ubs="401" ubx="0" uby="1779">
+      <word id="l01-050-06-00" tag="RB22" text="once">
+        <cmp x="394" y="1774" width="124" height="46" />
+      </word>
+      <word id="l01-050-06-01" tag="CC" text="and">
+        <cmp x="598" y="1771" width="80" height="47" />
+        <cmp x="684" y="1761" width="54" height="56" />
+      </word>
+      <word id="l01-050-06-02" tag="VB" text="report">
+        <cmp x="813" y="1775" width="54" height="39" />
+        <cmp x="860" y="1773" width="54" height="60" />
+        <cmp x="913" y="1757" width="98" height="56" />
+      </word>
+      <word id="l01-050-06-03" tag="RB" text="exactly">
+        <cmp x="1086" y="1773" width="62" height="45" />
+        <cmp x="1152" y="1756" width="108" height="58" />
+        <cmp x="1250" y="1761" width="72" height="104" />
+      </word>
+      <word id="l01-050-06-04" tag="WDT" text="what">
+        <cmp x="1392" y="1769" width="80" height="44" />
+        <cmp x="1471" y="1756" width="46" height="53" />
+        <cmp x="1521" y="1757" width="75" height="53" />
+      </word>
+      <word id="l01-050-06-05" tag="PP3A" text="he">
+        <cmp x="1666" y="1755" width="84" height="59" />
+      </word>
+      <word id="l01-050-06-06" tag="HVD" text="had">
+        <cmp x="1825" y="1758" width="55" height="52" />
+        <cmp x="1881" y="1765" width="44" height="45" />
+        <cmp x="1928" y="1755" width="54" height="51" />
+      </word>
+      <upper-contour>
+        <point x="392" y="1675" />
+        <point x="1983" y="1675" />
+      </upper-contour>
+      <lower-contour>
+        <point x="393" y="1865" />
+        <point x="1970" y="1865" />
+      </lower-contour>
+    </line>
+    <line ass="606" asx="0" asy="1937" character-width="999" dss="606" dsx="0" dsy="2066" fd0="14294" fd1="2386" fd2="-1788" filter-width="3" id="l01-050-07" lbs="567" lbx="0" lby="2001" segmentation="ok" slant="58000" stroke-width="5310" threshold="180" text="seen to Dackson and his daughter." ubs="683" ubx="0" uby="1963">
+      <word id="l01-050-07-00" tag="VBN" text="seen">
+        <cmp x="395" y="1958" width="47" height="47" />
+        <cmp x="441" y="1956" width="119" height="47" />
+      </word>
+      <word id="l01-050-07-01" tag="IN" text="to">
+        <cmp x="639" y="1937" width="83" height="62" />
+      </word>
+      <word id="l01-050-07-02" tag="NP" text="Dackson">
+        <cmp x="841" y="1939" width="59" height="55" />
+        <cmp x="902" y="1937" width="93" height="56" />
+        <cmp x="989" y="1946" width="44" height="47" />
+        <cmp x="1031" y="1946" width="89" height="47" />
+      </word>
+      <word id="l01-050-07-03" tag="CC" text="and">
+        <cmp x="1212" y="1931" width="134" height="60" />
+      </word>
+      <word id="l01-050-07-04" tag="PP$" text="his">
+        <cmp x="1441" y="1935" width="65" height="52" />
+        <cmp x="1508" y="1947" width="44" height="42" />
+        <cmp x="1514" y="1922" width="6" height="3" />
+      </word>
+      <word id="l01-050-07-05" tag="NN" text="daughter">
+        <cmp x="1643" y="1925" width="169" height="124" />
+        <cmp x="1809" y="1933" width="87" height="53" />
+        <cmp x="1884" y="1941" width="72" height="46" />
+      </word>
+      <word id="l01-050-07-06" tag="." text=".">
+        <cmp x="1963" y="1974" width="7" height="7" />
+      </word>
+      <upper-contour>
+        <point x="393" y="1865" />
+        <point x="1970" y="1865" />
+      </upper-contour>
+      <lower-contour>
+        <point x="393" y="2005" />
+        <point x="1466" y="2005" />
+      </lower-contour>
+    </line>
+    <line ass="567" asx="0" asy="2108" character-width="999" dss="567" dsx="0" dsy="2188" fd0="14342" fd1="2396" fd2="-1078" filter-width="3" id="l01-050-08" lbs="601" lbx="0" lby="2183" segmentation="ok" slant="59000" stroke-width="5300" threshold="179" text="He did as he was told." ubs="499" ubx="0" uby="2138">
+      <word id="l01-050-08-00" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="386" y="2119" width="77" height="61" />
+      </word>
+      <word id="l01-050-08-01" tag="DOD" text="did">
+        <cmp x="549" y="2115" width="125" height="69" />
+        <cmp x="622" y="2103" width="9" height="3" />
+      </word>
+      <word id="l01-050-08-02" tag="CS" text="as">
+        <cmp x="745" y="2128" width="82" height="45" />
+      </word>
+      <word id="l01-050-08-03" tag="PP3A" text="he">
+        <cmp x="900" y="2114" width="78" height="62" />
+      </word>
+      <word id="l01-050-08-04" tag="BEDZ" text="was">
+        <cmp x="1049" y="2131" width="81" height="46" />
+        <cmp x="1125" y="2127" width="78" height="47" />
+      </word>
+      <word id="l01-050-08-05" tag="VBN" text="told">
+        <cmp x="1263" y="2113" width="103" height="63" />
+        <cmp x="1367" y="2109" width="49" height="62" />
+      </word>
+      <word id="l01-050-08-06" tag="." text=".">
+        <cmp x="1457" y="2155" width="9" height="6" />
+      </word>
+      <upper-contour>
+        <point x="393" y="2005" />
+        <point x="1466" y="2005" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

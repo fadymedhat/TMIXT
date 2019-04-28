@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="p02-155" last-modified="2002-07-17" skew="-63" status="final" version="3.0_beta" width="2479" writer-id="611">
+  <machine-printed-part>
+    <machine-print-line text="&amp;quot;I made it myself,&amp;quot; Gay tried to speak normally." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-336" asx="0" asy="453" character-width="999" dss="-336" dsx="0" dsy="634" fd0="12165" fd1="2480" fd2="-1422" filter-width="4" id="p02-155-00" lbs="-96" lbx="0" lby="594" segmentation="ok" slant="99000" stroke-width="5807" threshold="152" text="&amp;quot;I made it myself,&amp;quot; Gay tried to speak" ubs="-815" ubx="0" uby="517">
+      <word id="p02-155-00-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="339" y="456" width="16" height="65" />
+      </word>
+      <word id="p02-155-00-01" tag="PP1A" text="I">
+        <cmp x="399" y="471" width="19" height="112" />
+      </word>
+      <word id="p02-155-00-02" tag="VBD" text="made">
+        <cmp x="466" y="520" width="63" height="71" />
+        <cmp x="528" y="525" width="40" height="61" />
+        <cmp x="570" y="474" width="87" height="108" />
+      </word>
+      <word id="p02-155-00-03" tag="PP3" text="it">
+        <cmp x="714" y="500" width="9" height="9" />
+        <cmp x="730" y="530" width="12" height="68" />
+        <cmp x="739" y="495" width="36" height="101" />
+      </word>
+      <word id="p02-155-00-04" tag="PPL" text="myself">
+        <cmp x="850" y="522" width="56" height="70" />
+        <cmp x="900" y="523" width="53" height="109" />
+        <cmp x="944" y="480" width="120" height="131" />
+      </word>
+      <word id="p02-155-00-05" tag="," text=",">
+        <cmp x="1083" y="585" width="10" height="55" />
+      </word>
+      <word id="p02-155-00-06" tag="**&apos;" text="&quot;">
+        <cmp x="1114" y="489" width="22" height="38" />
+      </word>
+      <word id="p02-155-00-07" tag="NP" text="Gay">
+        <cmp x="1210" y="481" width="73" height="105" />
+        <cmp x="1281" y="534" width="45" height="59" />
+        <cmp x="1326" y="537" width="52" height="93" />
+      </word>
+      <word id="p02-155-00-08" tag="VBD" text="tried">
+        <cmp x="1420" y="495" width="93" height="99" />
+        <cmp x="1482" y="506" width="13" height="9" />
+        <cmp x="1511" y="487" width="68" height="108" />
+      </word>
+      <word id="p02-155-00-09" tag="TO" text="to">
+        <cmp x="1628" y="497" width="82" height="98" />
+      </word>
+      <word id="p02-155-00-10" tag="VB" text="speak">
+        <cmp x="1763" y="520" width="81" height="120" />
+        <cmp x="1847" y="539" width="35" height="56" />
+        <cmp x="1883" y="537" width="34" height="58" />
+        <cmp x="1917" y="487" width="55" height="105" />
+      </word>
+      <lower-contour>
+        <point x="353" y="591" />
+        <point x="716" y="591" />
+      </lower-contour>
+    </line>
+    <line ass="-3918" asx="0" asy="620" character-width="999" dss="-3918" dsx="0" dsy="767" fd0="12174" fd1="2516" fd2="-2945" filter-width="3" id="p02-155-01" lbs="-605" lbx="0" lby="757" segmentation="ok" slant="102000" stroke-width="5638" threshold="152" text="normally." ubs="-10543" ubx="0" uby="625">
+      <word id="p02-155-01-00" tag="RB" text="normally">
+        <cmp x="355" y="689" width="49" height="74" />
+        <cmp x="397" y="699" width="32" height="60" />
+        <cmp x="433" y="697" width="77" height="70" />
+        <cmp x="518" y="661" width="167" height="150" />
+      </word>
+      <word id="p02-155-01-01" tag="." text=".">
+        <cmp x="709" y="758" width="7" height="7" />
+      </word>
+      <upper-contour>
+        <point x="353" y="591" />
+        <point x="716" y="591" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

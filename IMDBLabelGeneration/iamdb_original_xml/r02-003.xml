@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="r02-003" last-modified="2002-07-18" skew="-95" status="final" version="3.0_beta" width="2479" writer-id="637">
+  <machine-printed-part>
+    <machine-print-line text="He read the film star&apos;s sorry story and frowned at the provisions of Schedule D" />
+    <machine-print-line text="taxation which not only allowed her to claim relief on the most unlikely purchases," />
+    <machine-print-line text="but also postponed demanding the tax until her financial year was ended, audited and" />
+    <machine-print-line text="agreed by the Inspector. The process could, and often did take several years." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-104" asx="0" asy="706" character-width="999" dss="-104" dsx="0" dsy="819" fd0="13958" fd1="3133" fd2="37" filter-width="3" id="r02-003-00" lbs="-92" lbx="0" lby="779" segmentation="ok" slant="74000" stroke-width="5681" threshold="182" text="He read the film star&apos;s sorry story and frowned at the" ubs="-129" ubx="0" uby="751">
+      <word id="r02-003-00-00" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="369" y="708" width="31" height="85" />
+        <cmp x="385" y="709" width="53" height="72" />
+      </word>
+      <word id="r02-003-00-01" tag="VBD" text="read">
+        <cmp x="473" y="732" width="143" height="59" />
+      </word>
+      <word id="r02-003-00-02" tag="ATI" text="the">
+        <cmp x="668" y="731" width="66" height="64" />
+        <cmp x="739" y="759" width="30" height="21" />
+      </word>
+      <word id="r02-003-00-03" tag="NN" text="film">
+        <cmp x="830" y="724" width="36" height="97" />
+        <cmp x="849" y="765" width="21" height="18" />
+        <cmp x="865" y="749" width="8" height="8" />
+        <cmp x="873" y="730" width="82" height="53" />
+      </word>
+      <word id="r02-003-00-04" tag="NN$" text="star&apos;s">
+        <cmp x="993" y="782" width="3" height="7" />
+        <cmp x="997" y="732" width="92" height="53" />
+        <cmp x="1101" y="734" width="9" height="21" />
+        <cmp x="1103" y="758" width="34" height="27" />
+      </word>
+      <word id="r02-003-00-05" tag="JJ" text="sorry">
+        <cmp x="1181" y="748" width="24" height="34" />
+        <cmp x="1209" y="751" width="109" height="56" />
+      </word>
+      <word id="r02-003-00-06" tag="NN" text="story">
+        <cmp x="1357" y="729" width="115" height="76" />
+      </word>
+      <word id="r02-003-00-07" tag="CC" text="and">
+        <cmp x="1508" y="751" width="67" height="31" />
+        <cmp x="1576" y="742" width="39" height="33" />
+      </word>
+      <word id="r02-003-00-08" tag="VBD" text="frowned">
+        <cmp x="1654" y="723" width="37" height="91" />
+        <cmp x="1676" y="746" width="167" height="34" />
+      </word>
+      <word id="r02-003-00-09" tag="IN" text="at">
+        <cmp x="1871" y="741" width="54" height="45" />
+      </word>
+      <word id="r02-003-00-10" tag="ATI" text="the">
+        <cmp x="1944" y="743" width="65" height="53" />
+        <cmp x="2008" y="763" width="37" height="21" />
+      </word>
+      <lower-contour>
+        <point x="370" y="822" />
+        <point x="2046" y="822" />
+      </lower-contour>
+    </line>
+    <line ass="-287" asx="0" asy="888" character-width="999" dss="-287" dsx="0" dsy="987" fd0="13821" fd1="3037" fd2="-314" filter-width="4" id="r02-003-01" lbs="-306" lbx="0" lby="950" segmentation="ok" slant="70000" stroke-width="5814" threshold="182" text="provisions of Schedule D taxation which not only allowed her" ubs="-249" ubx="0" uby="924">
+      <word id="r02-003-01-00" tag="NNS" text="provisions">
+        <cmp x="372" y="914" width="104" height="76" />
+        <cmp x="473" y="914" width="7" height="10" />
+        <cmp x="480" y="928" width="108" height="28" />
+        <cmp x="507" y="920" width="11" height="5" />
+      </word>
+      <word id="r02-003-01-01" tag="INO" text="of">
+        <cmp x="623" y="896" width="49" height="94" />
+      </word>
+      <word id="r02-003-01-02" tag="NN" text="Schedule">
+        <cmp x="712" y="893" width="38" height="70" />
+        <cmp x="747" y="896" width="50" height="61" />
+        <cmp x="802" y="912" width="135" height="43" />
+      </word>
+      <word id="r02-003-01-03" tag="ZZ" text="D">
+        <cmp x="970" y="911" width="36" height="49" />
+      </word>
+      <word id="r02-003-01-04" tag="NN" text="taxation">
+        <cmp x="1047" y="911" width="207" height="64" />
+        <cmp x="1182" y="928" width="7" height="8" />
+      </word>
+      <word id="r02-003-01-05" tag="WDT" text="which">
+        <cmp x="1305" y="902" width="107" height="68" />
+        <cmp x="1401" y="923" width="10" height="6" />
+        <cmp x="1413" y="909" width="54" height="51" />
+      </word>
+      <word id="r02-003-01-06" tag="XNOT" text="not">
+        <cmp x="1495" y="919" width="96" height="46" />
+      </word>
+      <word id="r02-003-01-07" tag="RB" text="only">
+        <cmp x="1615" y="935" width="63" height="22" />
+        <cmp x="1686" y="910" width="72" height="76" />
+      </word>
+      <word id="r02-003-01-08" tag="VBD" text="allowed">
+        <cmp x="1794" y="911" width="72" height="55" />
+        <cmp x="1866" y="936" width="63" height="23" />
+        <cmp x="1931" y="922" width="54" height="38" />
+      </word>
+      <word id="r02-003-01-09" tag="PP3O" text="her">
+        <cmp x="2016" y="900" width="90" height="75" />
+      </word>
+      <upper-contour>
+        <point x="370" y="822" />
+        <point x="2046" y="822" />
+      </upper-contour>
+      <lower-contour>
+        <point x="394" y="990" />
+        <point x="2085" y="990" />
+      </lower-contour>
+    </line>
+    <line ass="-119" asx="0" asy="1075" character-width="999" dss="-119" dsx="0" dsy="1168" fd0="14287" fd1="3126" fd2="-134" filter-width="4" id="r02-003-02" lbs="-136" lbx="0" lby="1135" segmentation="ok" slant="63000" stroke-width="6061" threshold="182" text="to claim relief on the most unlikely purchases, but also" ubs="-84" ubx="0" uby="1112">
+      <word id="r02-003-02-00" tag="TO" text="to">
+        <cmp x="396" y="1076" width="58" height="60" />
+      </word>
+      <word id="r02-003-02-01" tag="VB" text="claim">
+        <cmp x="482" y="1080" width="138" height="64" />
+        <cmp x="556" y="1106" width="7" height="5" />
+      </word>
+      <word id="r02-003-02-02" tag="NN" text="relief">
+        <cmp x="684" y="1086" width="77" height="57" />
+        <cmp x="751" y="1111" width="7" height="5" />
+        <cmp x="765" y="1087" width="46" height="69" />
+      </word>
+      <word id="r02-003-02-03" tag="IN" text="on">
+        <cmp x="841" y="1118" width="57" height="25" />
+      </word>
+      <word id="r02-003-02-04" tag="ATI" text="the">
+        <cmp x="944" y="1084" width="35" height="62" />
+        <cmp x="969" y="1085" width="44" height="47" />
+        <cmp x="1014" y="1109" width="30" height="23" />
+      </word>
+      <word id="r02-003-02-05" tag="QL" text="most">
+        <cmp x="1090" y="1115" width="46" height="25" />
+        <cmp x="1139" y="1098" width="62" height="40" />
+      </word>
+      <word id="r02-003-02-06" tag="JJ" text="unlikely">
+        <cmp x="1250" y="1111" width="89" height="30" />
+        <cmp x="1342" y="1088" width="38" height="47" />
+        <cmp x="1370" y="1111" width="8" height="6" />
+        <cmp x="1381" y="1088" width="44" height="51" />
+        <cmp x="1430" y="1091" width="86" height="75" />
+      </word>
+      <word id="r02-003-02-07" tag="NNS" text="purchases">
+        <cmp x="1547" y="1090" width="145" height="83" />
+        <cmp x="1693" y="1115" width="79" height="30" />
+      </word>
+      <word id="r02-003-02-08" tag="," text=",">
+        <cmp x="1779" y="1145" width="11" height="27" />
+      </word>
+      <word id="r02-003-02-09" tag="CC" text="but">
+        <cmp x="1828" y="1092" width="103" height="63" />
+      </word>
+      <word id="r02-003-02-10" tag="RB" text="also">
+        <cmp x="1968" y="1095" width="116" height="53" />
+      </word>
+      <upper-contour>
+        <point x="394" y="990" />
+        <point x="2085" y="990" />
+      </upper-contour>
+      <lower-contour>
+        <point x="399" y="1173" />
+        <point x="2085" y="1173" />
+      </lower-contour>
+    </line>
+    <line ass="-7" asx="0" asy="1259" character-width="999" dss="-7" dsx="0" dsy="1360" fd0="14397" fd1="3331" fd2="-147" filter-width="4" id="r02-003-03" lbs="40" lbx="0" lby="1316" segmentation="ok" slant="76000" stroke-width="6170" threshold="182" text="postponed demanding the tax until her financial year" ubs="-104" ubx="0" uby="1291">
+      <word id="r02-003-03-00" tag="VBD" text="postponed">
+        <cmp x="401" y="1281" width="50" height="73" />
+        <cmp x="449" y="1268" width="149" height="81" />
+        <cmp x="600" y="1271" width="58" height="38" />
+      </word>
+      <word id="r02-003-03-01" tag="VBG" text="demanding">
+        <cmp x="713" y="1272" width="109" height="45" />
+        <cmp x="823" y="1275" width="116" height="40" />
+        <cmp x="929" y="1289" width="10" height="6" />
+        <cmp x="941" y="1297" width="95" height="47" />
+      </word>
+      <word id="r02-003-03-02" tag="ATI" text="the">
+        <cmp x="1098" y="1266" width="79" height="69" />
+        <cmp x="1178" y="1285" width="37" height="24" />
+      </word>
+      <word id="r02-003-03-03" tag="NN" text="tax">
+        <cmp x="1252" y="1265" width="91" height="54" />
+      </word>
+      <word id="r02-003-03-04" tag="CS" text="until">
+        <cmp x="1384" y="1282" width="106" height="52" />
+        <cmp x="1492" y="1267" width="34" height="50" />
+        <cmp x="1520" y="1285" width="7" height="7" />
+        <cmp x="1534" y="1264" width="43" height="46" />
+      </word>
+      <word id="r02-003-03-05" tag="PP$" text="her">
+        <cmp x="1611" y="1260" width="52" height="69" />
+        <cmp x="1665" y="1288" width="36" height="26" />
+      </word>
+      <word id="r02-003-03-06" tag="JJ" text="financial">
+        <cmp x="1748" y="1266" width="42" height="95" />
+        <cmp x="1773" y="1303" width="23" height="17" />
+        <cmp x="1792" y="1290" width="7" height="6" />
+        <cmp x="1802" y="1303" width="42" height="18" />
+        <cmp x="1844" y="1296" width="65" height="22" />
+        <cmp x="1911" y="1298" width="39" height="21" />
+        <cmp x="1943" y="1284" width="10" height="8" />
+        <cmp x="1956" y="1275" width="70" height="46" />
+      </word>
+      <word id="r02-003-03-07" tag="NN" text="year">
+        <cmp x="2070" y="1294" width="60" height="56" />
+        <cmp x="2122" y="1290" width="56" height="30" />
+      </word>
+      <upper-contour>
+        <point x="399" y="1173" />
+        <point x="2085" y="1173" />
+      </upper-contour>
+      <lower-contour>
+        <point x="421" y="1362" />
+        <point x="2129" y="1362" />
+      </lower-contour>
+    </line>
+    <line ass="-556" asx="0" asy="1425" character-width="999" dss="-556" dsx="0" dsy="1515" fd0="14123" fd1="3322" fd2="-8" filter-width="4" id="r02-003-04" lbs="-500" lbx="0" lby="1488" segmentation="ok" slant="66000" stroke-width="6106" threshold="182" text="was ended, audited and agreed by the Inspector. The" ubs="-670" ubx="0" uby="1456">
+      <word id="r02-003-04-00" tag="BEDZ" text="was">
+        <cmp x="423" y="1461" width="115" height="52" />
+      </word>
+      <word id="r02-003-04-01" tag="VBN" text="ended">
+        <cmp x="586" y="1458" width="68" height="40" />
+        <cmp x="655" y="1451" width="109" height="41" />
+      </word>
+      <word id="r02-003-04-02" tag="," text=",">
+        <cmp x="773" y="1498" width="9" height="24" />
+      </word>
+      <word id="r02-003-04-03" tag="VBN" text="audited">
+        <cmp x="839" y="1453" width="110" height="48" />
+        <cmp x="939" y="1467" width="6" height="6" />
+        <cmp x="954" y="1455" width="94" height="43" />
+      </word>
+      <word id="r02-003-04-04" tag="CC" text="and">
+        <cmp x="1108" y="1471" width="59" height="25" />
+        <cmp x="1168" y="1458" width="35" height="35" />
+      </word>
+      <word id="r02-003-04-05" tag="VBN" text="agreed">
+        <cmp x="1234" y="1463" width="87" height="54" />
+        <cmp x="1298" y="1457" width="117" height="41" />
+      </word>
+      <word id="r02-003-04-06" tag="IN" text="by">
+        <cmp x="1458" y="1440" width="84" height="84" />
+      </word>
+      <word id="r02-003-04-07" tag="ATI" text="the">
+        <cmp x="1581" y="1453" width="37" height="52" />
+        <cmp x="1607" y="1458" width="74" height="42" />
+      </word>
+      <word id="r02-003-04-08" tag="NPT" text="Inspector">
+        <cmp x="1725" y="1468" width="75" height="41" />
+        <cmp x="1739" y="1448" width="23" height="8" />
+        <cmp x="1801" y="1480" width="44" height="53" />
+        <cmp x="1846" y="1460" width="115" height="46" />
+      </word>
+      <word id="r02-003-04-09" tag="." text=".">
+        <cmp x="1969" y="1495" width="6" height="6" />
+      </word>
+      <word id="r02-003-04-10" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="2033" y="1448" width="39" height="16" />
+        <cmp x="2033" y="1468" width="17" height="45" />
+        <cmp x="2055" y="1461" width="39" height="46" />
+        <cmp x="2099" y="1479" width="29" height="24" />
+      </word>
+      <upper-contour>
+        <point x="421" y="1362" />
+        <point x="2129" y="1362" />
+      </upper-contour>
+      <lower-contour>
+        <point x="466" y="1533" />
+        <point x="1981" y="1533" />
+      </lower-contour>
+    </line>
+    <line ass="-425" asx="0" asy="1604" character-width="999" dss="-425" dsx="0" dsy="1706" fd0="14007" fd1="3324" fd2="-22" filter-width="4" id="r02-003-05" lbs="-433" lbx="0" lby="1664" segmentation="ok" slant="77000" stroke-width="6127" threshold="182" text="process could, and often did take several years." ubs="-409" ubx="0" uby="1640">
+      <word id="r02-003-05-00" tag="NN" text="process">
+        <cmp x="468" y="1642" width="42" height="68" />
+        <cmp x="508" y="1648" width="129" height="28" />
+      </word>
+      <word id="r02-003-05-01" tag="MD" text="could">
+        <cmp x="684" y="1640" width="85" height="36" />
+        <cmp x="771" y="1622" width="59" height="42" />
+      </word>
+      <word id="r02-003-05-02" tag="," text=",">
+        <cmp x="835" y="1670" width="13" height="32" />
+      </word>
+      <word id="r02-003-05-03" tag="CC" text="and">
+        <cmp x="903" y="1635" width="111" height="40" />
+      </word>
+      <word id="r02-003-05-04" tag="RB" text="often">
+        <cmp x="1046" y="1612" width="57" height="103" />
+        <cmp x="1080" y="1624" width="92" height="53" />
+      </word>
+      <word id="r02-003-05-05" tag="DOD" text="did">
+        <cmp x="1218" y="1632" width="102" height="41" />
+        <cmp x="1262" y="1639" width="8" height="10" />
+      </word>
+      <word id="r02-003-05-06" tag="VB" text="take">
+        <cmp x="1368" y="1623" width="76" height="66" />
+        <cmp x="1445" y="1623" width="35" height="45" />
+        <cmp x="1481" y="1641" width="52" height="27" />
+      </word>
+      <word id="r02-003-05-07" tag="AP" text="several">
+        <cmp x="1588" y="1628" width="197" height="59" />
+      </word>
+      <word id="r02-003-05-08" tag="NNS" text="years">
+        <cmp x="1824" y="1656" width="63" height="56" />
+        <cmp x="1871" y="1657" width="86" height="28" />
+      </word>
+      <word id="r02-003-05-09" tag="." text=".">
+        <cmp x="1976" y="1691" width="5" height="4" />
+      </word>
+      <upper-contour>
+        <point x="466" y="1533" />
+        <point x="1981" y="1533" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

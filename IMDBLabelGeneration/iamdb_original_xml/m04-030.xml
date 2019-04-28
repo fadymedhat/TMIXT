@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="m04-030" last-modified="2002-07-25" skew="30" status="final" version="3.0_beta" width="2479" writer-id="545">
+  <machine-printed-part>
+    <machine-print-line text="&quot;Good-bye, Dai,&quot; said Morfydd, smiling from the bottom step. &quot;Good-bye, Morfydd.&quot;" />
+    <machine-print-line text="He sought to enfold her in his arms. But he was too late. She was already up the" />
+    <machine-print-line text="bus steps, and the bus was away. And Morfydd Owen waving, unkissed, from the" />
+    <machine-print-line text="window. And Dai, on the pavement, knowing in his heart that Morfydd was leaving" />
+    <machine-print-line text="him as surely as she was leaving Dinas." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-998" asx="0" asy="726" character-width="999" dss="-998" dsx="0" dsy="873" fd0="12982" fd1="2457" fd2="-1075" filter-width="4" id="m04-030-00" lbs="-1096" lbx="0" lby="808" segmentation="ok" slant="108999" stroke-width="6174" threshold="181" text="&quot;Good-bye, Dai,&quot; said Morfydd, smiling from the bottom step." ubs="-801" ubx="0" uby="784">
+      <word id="m04-030-00-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="287" y="762" width="5" height="23" />
+        <cmp x="291" y="756" width="10" height="22" />
+      </word>
+      <word id="m04-030-00-01" tag="UH" text="Good-bye">
+        <cmp x="313" y="760" width="119" height="117" />
+        <cmp x="440" y="804" width="9" height="5" />
+        <cmp x="450" y="805" width="4" height="5" />
+        <cmp x="459" y="772" width="83" height="111" />
+      </word>
+      <word id="m04-030-00-02" tag="," text=",">
+        <cmp x="569" y="835" width="6" height="19" />
+      </word>
+      <word id="m04-030-00-03" tag="NP" text="Dai">
+        <cmp x="577" y="799" width="94" height="41" />
+        <cmp x="642" y="786" width="8" height="9" />
+      </word>
+      <word id="m04-030-00-04" tag="," text=",">
+        <cmp x="686" y="839" width="6" height="13" />
+      </word>
+      <word id="m04-030-00-05" tag="**&apos;" text="&quot;">
+        <cmp x="696" y="772" width="6" height="17" />
+        <cmp x="706" y="772" width="7" height="17" />
+      </word>
+      <word id="m04-030-00-06" tag="VBD" text="said">
+        <cmp x="760" y="776" width="96" height="70" />
+        <cmp x="787" y="774" width="7" height="14" />
+      </word>
+      <word id="m04-030-00-07" tag="NP" text="Morfydd">
+        <cmp x="872" y="757" width="174" height="129" />
+      </word>
+      <word id="m04-030-00-08" tag="," text=",">
+        <cmp x="1056" y="821" width="6" height="20" />
+      </word>
+      <word id="m04-030-00-09" tag="VBG" text="smiling">
+        <cmp x="1087" y="765" width="172" height="111" />
+        <cmp x="1128" y="761" width="12" height="9" />
+        <cmp x="1193" y="773" width="22" height="6" />
+      </word>
+      <word id="m04-030-00-10" tag="IN" text="from">
+        <cmp x="1278" y="751" width="114" height="99" />
+      </word>
+      <word id="m04-030-00-11" tag="ATI" text="the">
+        <cmp x="1409" y="764" width="67" height="70" />
+      </word>
+      <word id="m04-030-00-12" tag="JJB" text="bottom">
+        <cmp x="1490" y="752" width="161" height="86" />
+      </word>
+      <word id="m04-030-00-13" tag="NN" text="step">
+        <cmp x="1681" y="756" width="97" height="104" />
+      </word>
+      <word id="m04-030-00-14" tag="." text=".">
+        <cmp x="1788" y="836" width="6" height="9" />
+      </word>
+      <lower-contour>
+        <point x="285" y="887" />
+        <point x="1794" y="887" />
+      </lower-contour>
+    </line>
+    <line ass="535" asx="0" asy="912" character-width="999" dss="535" dsx="0" dsy="1041" fd0="13152" fd1="2402" fd2="-1311" filter-width="4" id="m04-030-01" lbs="559" lbx="0" lby="999" segmentation="err" slant="104000" stroke-width="6045" threshold="181" text="&quot;Good-bye, Morfydd.&quot; He sought to enfold her in his arms. But he was too late." ubs="489" ubx="0" uby="970">
+      <word id="m04-030-01-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="261" y="921" width="7" height="17" />
+        <cmp x="270" y="913" width="9" height="23" />
+      </word>
+      <word id="m04-030-01-01" tag="UH" text="Good-bye">
+        <cmp x="291" y="917" width="107" height="96" />
+        <cmp x="394" y="960" width="17" height="8" />
+        <cmp x="425" y="923" width="72" height="100" />
+        <cmp x="522" y="980" width="6" height="18" />
+        <cmp x="534" y="907" width="175" height="121" />
+      </word>
+      <word id="m04-030-01-02" tag="," text=",">
+        <cmp x="716" y="979" width="8" height="14" />
+      </word>
+      <word id="m04-030-01-03" tag="NP" text="Morfydd">
+        <cmp x="723" y="911" width="6" height="13" />
+        <cmp x="730" y="911" width="6" height="18" />
+      </word>
+      <word id="m04-030-01-04" tag="." text=".">
+        <cmp x="777" y="931" width="58" height="76" />
+      </word>
+      <word id="m04-030-01-05" tag="**&apos;" text="&quot;" />
+      <word id="m04-030-01-06" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="859" y="903" width="146" height="131" />
+      </word>
+      <word id="m04-030-01-07" tag="VBD" text="sought">
+        <cmp x="1016" y="903" width="78" height="84" />
+      </word>
+      <word id="m04-030-01-08" tag="TO" text="to">
+        <cmp x="1114" y="903" width="139" height="120" />
+      </word>
+      <word id="m04-030-01-09" tag="VB" text="enfold">
+        <cmp x="1263" y="914" width="90" height="76" />
+      </word>
+      <word id="m04-030-01-10" tag="PP3O" text="her">
+        <cmp x="1377" y="960" width="54" height="28" />
+      </word>
+      <word id="m04-030-01-11" tag="IN" text="in">
+        <cmp x="1398" y="936" width="6" height="12" />
+      </word>
+      <word id="m04-030-01-12" tag="PP$" text="his">
+        <cmp x="1451" y="918" width="67" height="78" />
+        <cmp x="1494" y="927" width="10" height="12" />
+      </word>
+      <word id="m04-030-01-13" tag="NNS" text="arms">
+        <cmp x="1544" y="956" width="124" height="36" />
+      </word>
+      <word id="m04-030-01-14" tag="." text=".">
+        <cmp x="1688" y="979" width="7" height="14" />
+      </word>
+      <word id="m04-030-01-15" sentence-start="yes" tag="CC" text="But">
+        <cmp x="1715" y="903" width="81" height="82" />
+      </word>
+      <word id="m04-030-01-16" tag="PP3A" text="he">
+        <cmp x="1810" y="907" width="58" height="77" />
+      </word>
+      <word id="m04-030-01-17" tag="BEDZ" text="was">
+        <cmp x="1885" y="951" width="68" height="35" />
+      </word>
+      <word id="m04-030-01-18" tag="QL" text="too">
+        <cmp x="1968" y="914" width="87" height="75" />
+      </word>
+      <word id="m04-030-01-19" tag="JJ" text="late">
+        <cmp x="2064" y="894" width="98" height="91" />
+      </word>
+      <word id="m04-030-01-20" tag="." text=".">
+        <cmp x="2178" y="984" width="7" height="11" />
+      </word>
+      <upper-contour>
+        <point x="285" y="887" />
+        <point x="1794" y="887" />
+      </upper-contour>
+      <lower-contour>
+        <point x="285" y="1034" />
+        <point x="2186" y="1034" />
+      </lower-contour>
+    </line>
+    <line ass="-312" asx="0" asy="1031" character-width="999" dss="-312" dsx="0" dsy="1168" fd0="13162" fd1="2461" fd2="-813" filter-width="4" id="m04-030-02" lbs="-332" lbx="0" lby="1120" segmentation="ok" slant="105000" stroke-width="6191" threshold="181" text="She was already up the bus steps, and the bus was away. And Morfydd Owen" ubs="-273" ubx="0" uby="1089">
+      <word id="m04-030-02-00" sentence-start="yes" tag="PP3A" text="She">
+        <cmp x="290" y="1061" width="91" height="69" />
+      </word>
+      <word id="m04-030-02-01" tag="BEDZ" text="was">
+        <cmp x="406" y="1091" width="85" height="35" />
+      </word>
+      <word id="m04-030-02-02" tag="RB" text="already">
+        <cmp x="528" y="1039" width="161" height="123" />
+      </word>
+      <word id="m04-030-02-03" tag="IN" text="up">
+        <cmp x="736" y="1094" width="76" height="74" />
+      </word>
+      <word id="m04-030-02-04" tag="ATI" text="the">
+        <cmp x="824" y="1063" width="82" height="76" />
+      </word>
+      <word id="m04-030-02-05" tag="NN" text="bus">
+        <cmp x="932" y="1057" width="80" height="73" />
+      </word>
+      <word id="m04-030-02-06" tag="NNS" text="steps">
+        <cmp x="1049" y="1037" width="124" height="120" />
+      </word>
+      <word id="m04-030-02-07" tag="," text=",">
+        <cmp x="1192" y="1120" width="10" height="21" />
+      </word>
+      <word id="m04-030-02-08" tag="CC" text="and">
+        <cmp x="1225" y="1052" width="77" height="80" />
+      </word>
+      <word id="m04-030-02-09" tag="ATI" text="the">
+        <cmp x="1309" y="1054" width="76" height="79" />
+      </word>
+      <word id="m04-030-02-10" tag="NN" text="bus">
+        <cmp x="1406" y="1068" width="88" height="71" />
+      </word>
+      <word id="m04-030-02-11" tag="BEDZ" text="was">
+        <cmp x="1518" y="1094" width="82" height="42" />
+      </word>
+      <word id="m04-030-02-12" tag="RP" text="away">
+        <cmp x="1625" y="1086" width="114" height="93" />
+      </word>
+      <word id="m04-030-02-13" tag="." text=".">
+        <cmp x="1755" y="1122" width="6" height="8" />
+      </word>
+      <word id="m04-030-02-14" sentence-start="yes" tag="CC" text="And">
+        <cmp x="1785" y="1063" width="95" height="76" />
+      </word>
+      <word id="m04-030-02-15" tag="NP" text="Morfydd">
+        <cmp x="1897" y="1051" width="165" height="106" />
+      </word>
+      <word id="m04-030-02-16" tag="NP" text="Owen">
+        <cmp x="2082" y="1067" width="119" height="57" />
+      </word>
+      <upper-contour>
+        <point x="285" y="1034" />
+        <point x="2186" y="1034" />
+      </upper-contour>
+      <lower-contour>
+        <point x="293" y="1168" />
+        <point x="1722" y="1179" />
+        <point x="1803" y="1157" />
+        <point x="2202" y="1157" />
+      </lower-contour>
+    </line>
+    <line ass="-705" asx="0" asy="1155" character-width="999" dss="-705" dsx="0" dsy="1314" fd0="13787" fd1="3151" fd2="-11" filter-width="4" id="m04-030-03" lbs="-576" lbx="0" lby="1240" segmentation="ok" slant="116000" stroke-width="6120" threshold="180" text="waving, unkissed, from the window. And Dai, on the pavement, knowing in his" ubs="-963" ubx="0" uby="1207">
+      <word id="m04-030-03-00" tag="VBG" text="waving">
+        <cmp x="295" y="1210" width="161" height="77" />
+        <cmp x="414" y="1176" width="6" height="19" />
+      </word>
+      <word id="m04-030-03-01" tag="," text=",">
+        <cmp x="463" y="1232" width="8" height="21" />
+      </word>
+      <word id="m04-030-03-02" tag="JJ" text="unkissed">
+        <cmp x="496" y="1172" width="181" height="77" />
+        <cmp x="537" y="1172" width="5" height="14" />
+        <cmp x="548" y="1172" width="7" height="7" />
+        <cmp x="585" y="1190" width="13" height="14" />
+      </word>
+      <word id="m04-030-03-03" tag="," text=",">
+        <cmp x="705" y="1240" width="8" height="19" />
+      </word>
+      <word id="m04-030-03-04" tag="IN" text="from">
+        <cmp x="727" y="1183" width="113" height="87" />
+      </word>
+      <word id="m04-030-03-05" tag="ATI" text="the">
+        <cmp x="857" y="1185" width="82" height="75" />
+      </word>
+      <word id="m04-030-03-06" tag="NN" text="window">
+        <cmp x="964" y="1174" width="158" height="85" />
+        <cmp x="1005" y="1192" width="6" height="11" />
+      </word>
+      <word id="m04-030-03-07" tag="." text=".">
+        <cmp x="1141" y="1256" width="7" height="11" />
+      </word>
+      <word id="m04-030-03-08" sentence-start="yes" tag="CC" text="And">
+        <cmp x="1161" y="1173" width="115" height="94" />
+      </word>
+      <word id="m04-030-03-09" tag="NP" text="Dai">
+        <cmp x="1286" y="1201" width="111" height="56" />
+        <cmp x="1367" y="1190" width="9" height="15" />
+      </word>
+      <word id="m04-030-03-10" tag="," text=",">
+        <cmp x="1421" y="1248" width="7" height="22" />
+      </word>
+      <word id="m04-030-03-11" tag="IN" text="on">
+        <cmp x="1450" y="1229" width="60" height="29" />
+      </word>
+      <word id="m04-030-03-12" tag="ATI" text="the">
+        <cmp x="1523" y="1185" width="81" height="76" />
+      </word>
+      <word id="m04-030-03-13" tag="NN" text="pavement">
+        <cmp x="1630" y="1176" width="206" height="116" />
+      </word>
+      <word id="m04-030-03-14" tag="," text=",">
+        <cmp x="1855" y="1255" width="6" height="15" />
+      </word>
+      <word id="m04-030-03-15" tag="VBG" text="knowing">
+        <cmp x="1872" y="1189" width="195" height="151" />
+        <cmp x="2021" y="1218" width="13" height="13" />
+      </word>
+      <word id="m04-030-03-16" tag="IN" text="in">
+        <cmp x="2082" y="1244" width="52" height="24" />
+        <cmp x="2100" y="1213" width="9" height="13" />
+      </word>
+      <word id="m04-030-03-17" tag="PP$" text="his">
+        <cmp x="2147" y="1197" width="84" height="82" />
+        <cmp x="2200" y="1229" width="12" height="11" />
+      </word>
+      <upper-contour>
+        <point x="293" y="1168" />
+        <point x="1722" y="1179" />
+        <point x="1803" y="1157" />
+        <point x="2202" y="1157" />
+      </upper-contour>
+      <lower-contour>
+        <point x="293" y="1289" />
+        <point x="1658" y="1330" />
+        <point x="2047" y="1341" />
+        <point x="2148" y="1341" />
+      </lower-contour>
+    </line>
+    <line ass="-616" asx="0" asy="1283" character-width="999" dss="-616" dsx="0" dsy="1451" fd0="13396" fd1="2764" fd2="-914" filter-width="4" id="m04-030-04" lbs="-655" lbx="0" lby="1373" segmentation="ok" slant="117000" stroke-width="6293" threshold="180" text="heart that Morfydd was leaving him as surely as she was leaving Dinas." ubs="-538" ubx="0" uby="1345">
+      <word id="m04-030-04-00" tag="NN" text="heart">
+        <cmp x="281" y="1307" width="132" height="77" />
+      </word>
+      <word id="m04-030-04-01" tag="CS" text="that">
+        <cmp x="443" y="1296" width="117" height="93" />
+      </word>
+      <word id="m04-030-04-02" tag="NP" text="Morfydd">
+        <cmp x="578" y="1292" width="193" height="139" />
+      </word>
+      <word id="m04-030-04-03" tag="BEDZ" text="was">
+        <cmp x="787" y="1345" width="90" height="39" />
+      </word>
+      <word id="m04-030-04-04" tag="VBG" text="leaving">
+        <cmp x="896" y="1304" width="104" height="81" />
+        <cmp x="1002" y="1351" width="81" height="75" />
+        <cmp x="1043" y="1327" width="14" height="10" />
+      </word>
+      <word id="m04-030-04-05" tag="PP3O" text="him">
+        <cmp x="1100" y="1300" width="116" height="84" />
+        <cmp x="1178" y="1323" width="12" height="13" />
+      </word>
+      <word id="m04-030-04-06" tag="QL" text="as">
+        <cmp x="1252" y="1352" width="55" height="31" />
+      </word>
+      <word id="m04-030-04-07" tag="RB" text="surely">
+        <cmp x="1338" y="1297" width="135" height="133" />
+      </word>
+      <word id="m04-030-04-08" tag="CS" text="as">
+        <cmp x="1509" y="1354" width="50" height="34" />
+      </word>
+      <word id="m04-030-04-09" tag="PP3A" text="she">
+        <cmp x="1584" y="1332" width="64" height="60" />
+      </word>
+      <word id="m04-030-04-10" tag="BEDZ" text="was">
+        <cmp x="1679" y="1356" width="88" height="41" />
+      </word>
+      <word id="m04-030-04-11" tag="VBG" text="leaving">
+        <cmp x="1792" y="1332" width="70" height="69" />
+        <cmp x="1860" y="1368" width="99" height="105" />
+        <cmp x="1912" y="1337" width="16" height="17" />
+      </word>
+      <word id="m04-030-04-12" tag="NP" text="Dinas">
+        <cmp x="1968" y="1349" width="153" height="62" />
+        <cmp x="2070" y="1345" width="9" height="14" />
+      </word>
+      <word id="m04-030-04-13" tag="." text=".">
+        <cmp x="2134" y="1421" width="13" height="10" />
+      </word>
+      <upper-contour>
+        <point x="293" y="1289" />
+        <point x="1658" y="1330" />
+        <point x="2047" y="1341" />
+        <point x="2148" y="1341" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="k07-158" last-modified="2002-07-17" skew="0" status="final" version="3.0_beta" width="2479" writer-id="456">
+  <machine-printed-part>
+    <machine-print-line text="But he&apos;s a lot older, isn&apos;t he? I suppose so. What attracts you? It can&apos;t be physical?" />
+    <machine-print-line text="Of course not! I love him for what he is - he&apos;s so great I&apos;m a bit scared of him - a" />
+    <machine-print-line text="woman must be a bit scared to be really in love. That&apos;s why you could never love me?" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="626" asx="0" asy="678" character-width="999" dss="626" dsx="0" dsy="787" fd0="14342" fd1="2817" fd2="0" filter-width="4" id="k07-158-00" lbs="645" lbx="0" lby="756" segmentation="err" slant="68000" stroke-width="6232" threshold="186" text="But he&apos;s a lot older, isn&apos;t he?" ubs="588" ubx="0" uby="711">
+      <word id="k07-158-00-00" sentence-start="yes" tag="CC" text="But">
+        <cmp x="352" y="695" width="82" height="65" />
+        <cmp x="451" y="694" width="23" height="57" />
+      </word>
+      <word id="k07-158-00-01" tag="PP3A" text="he">
+        <cmp x="576" y="673" width="94" height="70" />
+      </word>
+      <word id="k07-158-00-02" tag="BEZ" text="&apos;s">
+        <cmp x="701" y="672" width="11" height="16" />
+      </word>
+      <word id="k07-158-00-03" tag="AT" text="a">
+        <cmp x="708" y="699" width="30" height="42" />
+      </word>
+      <word id="k07-158-00-04" tag="NN" text="lot">
+        <cmp x="833" y="686" width="56" height="68" />
+        <cmp x="876" y="702" width="41" height="44" />
+        <cmp x="927" y="687" width="28" height="62" />
+      </word>
+      <word id="k07-158-00-05" tag="JJR" text="older">
+        <cmp x="1065" y="699" width="44" height="46" />
+        <cmp x="1113" y="696" width="46" height="47" />
+        <cmp x="1152" y="686" width="136" height="59" />
+      </word>
+      <word id="k07-158-00-06" tag="," text=",">
+        <cmp x="1324" y="729" width="23" height="44" />
+      </word>
+      <word id="k07-158-00-07" tag="BEZX" text="isn&apos;t">
+        <cmp x="1423" y="704" width="42" height="44" />
+        <cmp x="1469" y="687" width="4" height="4" />
+        <cmp x="1472" y="706" width="40" height="36" />
+        <cmp x="1516" y="707" width="41" height="37" />
+        <cmp x="1574" y="690" width="14" height="32" />
+        <cmp x="1610" y="690" width="23" height="46" />
+      </word>
+      <word id="k07-158-00-08" tag="PP3A" text="he">
+        <cmp x="1730" y="677" width="106" height="66" />
+      </word>
+      <word id="k07-158-00-09" tag="?" text="?">
+        <cmp x="1875" y="676" width="28" height="43" />
+        <cmp x="1884" y="734" width="11" height="6" />
+      </word>
+      <lower-contour>
+        <point x="350" y="773" />
+        <point x="1904" y="773" />
+      </lower-contour>
+    </line>
+    <line ass="1301" asx="0" asy="881" character-width="999" dss="1301" dsx="0" dsy="996" fd0="14214" fd1="3125" fd2="-861" filter-width="4" id="k07-158-01" lbs="1215" lbx="0" lby="937" segmentation="ok" slant="65000" stroke-width="6081" threshold="182" text="I suppose so. What attracts you?" ubs="1472" ubx="0" uby="907">
+      <word id="k07-158-01-00" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="349" y="872" width="50" height="62" />
+      </word>
+      <word id="k07-158-01-01" tag="VB" text="suppose">
+        <cmp x="466" y="884" width="46" height="47" />
+        <cmp x="518" y="890" width="52" height="37" />
+        <cmp x="568" y="891" width="63" height="68" />
+        <cmp x="619" y="889" width="84" height="64" />
+        <cmp x="711" y="884" width="37" height="39" />
+        <cmp x="755" y="879" width="32" height="39" />
+      </word>
+      <word id="k07-158-01-02" tag="PN" text="so">
+        <cmp x="885" y="913" width="5" height="6" />
+        <cmp x="890" y="882" width="88" height="43" />
+      </word>
+      <word id="k07-158-01-03" tag="." text=".">
+        <cmp x="983" y="906" width="13" height="17" />
+      </word>
+      <word id="k07-158-01-04" sentence-start="yes" tag="WDT" text="What">
+        <cmp x="1110" y="859" width="55" height="52" />
+        <cmp x="1167" y="854" width="117" height="59" />
+        <cmp x="1286" y="860" width="28" height="56" />
+      </word>
+      <word id="k07-158-01-05" tag="VBZ" text="attracts">
+        <cmp x="1404" y="864" width="44" height="47" />
+        <cmp x="1464" y="852" width="43" height="55" />
+        <cmp x="1504" y="870" width="27" height="34" />
+        <cmp x="1535" y="860" width="47" height="44" />
+        <cmp x="1593" y="862" width="33" height="42" />
+        <cmp x="1635" y="850" width="59" height="52" />
+      </word>
+      <word id="k07-158-01-06" tag="PP2" text="you">
+        <cmp x="1789" y="854" width="66" height="103" />
+        <cmp x="1852" y="869" width="35" height="35" />
+        <cmp x="1892" y="869" width="46" height="36" />
+      </word>
+      <word id="k07-158-01-07" tag="?" text="?">
+        <cmp x="1985" y="847" width="27" height="32" />
+        <cmp x="1993" y="896" width="8" height="5" />
+      </word>
+      <upper-contour>
+        <point x="350" y="773" />
+        <point x="1904" y="773" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="959" />
+        <point x="2013" y="959" />
+      </lower-contour>
+    </line>
+    <line ass="687" asx="0" asy="1039" character-width="999" dss="687" dsx="0" dsy="1147" fd0="14254" fd1="2809" fd2="-636" filter-width="4" id="k07-158-02" lbs="715" lbx="0" lby="1111" segmentation="ok" slant="64000" stroke-width="6064" threshold="179" text="It can&apos;t be physical? Of course" ubs="632" ubx="0" uby="1072">
+      <word id="k07-158-02-00" sentence-start="yes" tag="PP3" text="It">
+        <cmp x="350" y="1052" width="41" height="54" />
+        <cmp x="404" y="1050" width="21" height="58" />
+      </word>
+      <word id="k07-158-02-01" tag="MDX" text="can&apos;t">
+        <cmp x="510" y="1061" width="31" height="43" />
+        <cmp x="544" y="1054" width="94" height="46" />
+        <cmp x="673" y="1032" width="13" height="19" />
+        <cmp x="691" y="1049" width="29" height="56" />
+      </word>
+      <word id="k07-158-02-02" tag="BE" text="be">
+        <cmp x="827" y="1036" width="98" height="77" />
+      </word>
+      <word id="k07-158-02-03" tag="JJ" text="physical">
+        <cmp x="1017" y="1062" width="56" height="68" />
+        <cmp x="1073" y="1040" width="124" height="94" />
+        <cmp x="1190" y="1061" width="51" height="37" />
+        <cmp x="1246" y="1069" width="15" height="28" />
+        <cmp x="1264" y="1045" width="5" height="6" />
+        <cmp x="1270" y="1039" width="127" height="62" />
+      </word>
+      <word id="k07-158-02-04" tag="?" text="?">
+        <cmp x="1431" y="1036" width="28" height="54" />
+        <cmp x="1440" y="1095" width="10" height="7" />
+      </word>
+      <word id="k07-158-02-05" sentence-start="yes" tag="RB21" text="Of">
+        <cmp x="1597" y="1033" width="93" height="96" />
+      </word>
+      <word id="k07-158-02-06" tag="RB22" text="course">
+        <cmp x="1779" y="1048" width="44" height="45" />
+        <cmp x="1825" y="1047" width="40" height="41" />
+        <cmp x="1864" y="1051" width="88" height="37" />
+        <cmp x="1954" y="1047" width="41" height="37" />
+        <cmp x="1997" y="1042" width="40" height="41" />
+      </word>
+      <upper-contour>
+        <point x="348" y="959" />
+        <point x="2013" y="959" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="1134" />
+        <point x="2038" y="1134" />
+      </lower-contour>
+    </line>
+    <line ass="686" asx="0" asy="1214" character-width="999" dss="686" dsx="0" dsy="1326" fd0="14317" fd1="2898" fd2="-242" filter-width="4" id="k07-158-03" lbs="710" lbx="0" lby="1292" segmentation="ok" slant="66999" stroke-width="6291" threshold="186" text="not! I love him for what he is" ubs="639" ubx="0" uby="1255">
+      <word id="k07-158-03-00" tag="XNOT" text="not">
+        <cmp x="333" y="1244" width="68" height="54" />
+        <cmp x="402" y="1247" width="39" height="40" />
+        <cmp x="452" y="1225" width="27" height="59" />
+      </word>
+      <word id="k07-158-03-01" tag="!" text="!">
+        <cmp x="510" y="1216" width="23" height="44" />
+        <cmp x="514" y="1274" width="9" height="7" />
+      </word>
+      <word id="k07-158-03-02" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="649" y="1216" width="66" height="75" />
+      </word>
+      <word id="k07-158-03-03" tag="VB" text="love">
+        <cmp x="809" y="1224" width="52" height="61" />
+        <cmp x="856" y="1232" width="122" height="49" />
+      </word>
+      <word id="k07-158-03-04" tag="PP3O" text="him">
+        <cmp x="1076" y="1216" width="105" height="71" />
+        <cmp x="1176" y="1240" width="81" height="37" />
+        <cmp x="1182" y="1219" width="5" height="6" />
+      </word>
+      <word id="k07-158-03-05" tag="IN" text="for">
+        <cmp x="1361" y="1216" width="66" height="95" />
+        <cmp x="1425" y="1240" width="36" height="34" />
+        <cmp x="1459" y="1239" width="24" height="32" />
+      </word>
+      <word id="k07-158-03-06" tag="WDT" text="what">
+        <cmp x="1576" y="1237" width="58" height="36" />
+        <cmp x="1633" y="1212" width="48" height="62" />
+        <cmp x="1684" y="1237" width="48" height="37" />
+        <cmp x="1739" y="1213" width="32" height="63" />
+      </word>
+      <word id="k07-158-03-07" tag="PP3A" text="he">
+        <cmp x="1863" y="1200" width="106" height="77" />
+      </word>
+      <word id="k07-158-03-08" tag="BEZ" text="is">
+        <cmp x="2017" y="1223" width="85" height="45" />
+        <cmp x="2082" y="1191" width="6" height="6" />
+      </word>
+      <upper-contour>
+        <point x="348" y="1134" />
+        <point x="2038" y="1134" />
+      </upper-contour>
+      <lower-contour>
+        <point x="354" y="1311" />
+        <point x="2056" y="1311" />
+      </lower-contour>
+    </line>
+    <line ass="959" asx="0" asy="1404" character-width="999" dss="959" dsx="0" dsy="1514" fd0="14506" fd1="3060" fd2="-234" filter-width="4" id="k07-158-04" lbs="850" lbx="0" lby="1469" segmentation="ok" slant="64000" stroke-width="6289" threshold="182" text="- he&apos;s so great I&apos;m a bit scared" ubs="1178" ubx="0" uby="1440">
+      <word id="k07-158-04-00" tag="*-" text="-">
+        <cmp x="356" y="1441" width="30" height="10" />
+      </word>
+      <word id="k07-158-04-01" tag="PP3A" text="he">
+        <cmp x="426" y="1405" width="103" height="67" />
+      </word>
+      <word id="k07-158-04-02" tag="BEZ" text="&apos;s">
+        <cmp x="556" y="1395" width="9" height="14" />
+        <cmp x="566" y="1427" width="28" height="40" />
+        <cmp x="569" y="1443" width="4" height="4" />
+      </word>
+      <word id="k07-158-04-03" tag="QL" text="so">
+        <cmp x="683" y="1419" width="60" height="48" />
+        <cmp x="753" y="1427" width="35" height="35" />
+      </word>
+      <word id="k07-158-04-04" tag="JJ" text="great">
+        <cmp x="879" y="1407" width="124" height="94" />
+        <cmp x="994" y="1410" width="63" height="42" />
+        <cmp x="1057" y="1390" width="33" height="60" />
+      </word>
+      <word id="k07-158-04-05" tag="PP1A" text="I">
+        <cmp x="1184" y="1391" width="64" height="63" />
+      </word>
+      <word id="k07-158-04-06" tag="BEM" text="&apos;m">
+        <cmp x="1273" y="1387" width="11" height="19" />
+        <cmp x="1269" y="1416" width="74" height="34" />
+      </word>
+      <word id="k07-158-04-07" tag="AT" text="a">
+        <cmp x="1445" y="1412" width="45" height="47" />
+      </word>
+      <word id="k07-158-04-08" tag="NN" text="bit">
+        <cmp x="1554" y="1384" width="88" height="70" />
+        <cmp x="1653" y="1386" width="34" height="64" />
+        <cmp x="1657" y="1389" width="5" height="5" />
+      </word>
+      <word id="k07-158-04-09" tag="JJ" text="scared">
+        <cmp x="1768" y="1398" width="52" height="49" />
+        <cmp x="1833" y="1402" width="34" height="40" />
+        <cmp x="1874" y="1399" width="38" height="40" />
+        <cmp x="1921" y="1400" width="27" height="38" />
+        <cmp x="1953" y="1393" width="43" height="45" />
+        <cmp x="2007" y="1380" width="48" height="56" />
+      </word>
+      <upper-contour>
+        <point x="354" y="1311" />
+        <point x="2056" y="1311" />
+      </upper-contour>
+      <lower-contour>
+        <point x="354" y="1501" />
+        <point x="2056" y="1501" />
+      </lower-contour>
+    </line>
+    <line ass="905" asx="0" asy="1580" character-width="999" dss="905" dsx="0" dsy="1676" fd0="14282" fd1="2809" fd2="-394" filter-width="4" id="k07-158-05" lbs="860" lbx="0" lby="1642" segmentation="ok" slant="66000" stroke-width="6408" threshold="179" text="of him - a woman must be a bit" ubs="995" ubx="0" uby="1608">
+      <word id="k07-158-05-00" tag="INO" text="of">
+        <cmp x="353" y="1599" width="39" height="45" />
+        <cmp x="394" y="1576" width="50" height="94" />
+      </word>
+      <word id="k07-158-05-01" tag="PP3O" text="him">
+        <cmp x="532" y="1575" width="173" height="64" />
+        <cmp x="663" y="1570" width="6" height="5" />
+      </word>
+      <word id="k07-158-05-02" tag="*-" text="-">
+        <cmp x="751" y="1599" width="43" height="11" />
+      </word>
+      <word id="k07-158-05-03" tag="AT" text="a">
+        <cmp x="880" y="1588" width="46" height="43" />
+      </word>
+      <word id="k07-158-05-04" tag="NN" text="woman">
+        <cmp x="1036" y="1590" width="95" height="43" />
+        <cmp x="1131" y="1589" width="66" height="37" />
+        <cmp x="1206" y="1580" width="116" height="47" />
+      </word>
+      <word id="k07-158-05-05" tag="MD" text="must">
+        <cmp x="1405" y="1580" width="201" height="42" />
+        <cmp x="1613" y="1557" width="31" height="54" />
+      </word>
+      <word id="k07-158-05-06" tag="BE" text="be">
+        <cmp x="1747" y="1558" width="95" height="65" />
+      </word>
+      <word id="k07-158-05-07" tag="AT" text="a">
+        <cmp x="1930" y="1573" width="48" height="47" />
+      </word>
+      <word id="k07-158-05-08" tag="NN" text="bit">
+        <cmp x="2045" y="1554" width="73" height="62" />
+        <cmp x="2126" y="1554" width="5" height="9" />
+        <cmp x="2128" y="1554" width="38" height="55" />
+      </word>
+      <upper-contour>
+        <point x="354" y="1501" />
+        <point x="2056" y="1501" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1670" />
+        <point x="1959" y="1670" />
+      </lower-contour>
+    </line>
+    <line ass="349" asx="0" asy="1744" character-width="999" dss="349" dsx="0" dsy="1855" fd0="14037" fd1="2884" fd2="-351" filter-width="4" id="k07-158-06" lbs="335" lbx="0" lby="1811" segmentation="ok" slant="64000" stroke-width="6441" threshold="179" text="scared to be really in love." ubs="376" ubx="0" uby="1770">
+      <word id="k07-158-06-00" tag="JJ" text="scared">
+        <cmp x="340" y="1767" width="53" height="55" />
+        <cmp x="398" y="1773" width="33" height="39" />
+        <cmp x="429" y="1770" width="80" height="39" />
+        <cmp x="516" y="1767" width="42" height="43" />
+        <cmp x="566" y="1740" width="57" height="61" />
+      </word>
+      <word id="k07-158-06-01" tag="TO" text="to">
+        <cmp x="761" y="1753" width="26" height="47" />
+        <cmp x="796" y="1762" width="43" height="45" />
+      </word>
+      <word id="k07-158-06-02" tag="BE" text="be">
+        <cmp x="950" y="1747" width="85" height="61" />
+      </word>
+      <word id="k07-158-06-03" tag="RB" text="really">
+        <cmp x="1152" y="1754" width="63" height="50" />
+        <cmp x="1218" y="1757" width="45" height="46" />
+        <cmp x="1284" y="1736" width="143" height="112" />
+      </word>
+      <word id="k07-158-06-04" tag="IN" text="in">
+        <cmp x="1528" y="1766" width="95" height="42" />
+        <cmp x="1584" y="1736" width="9" height="5" />
+      </word>
+      <word id="k07-158-06-05" tag="NN" text="love">
+        <cmp x="1737" y="1748" width="56" height="61" />
+        <cmp x="1791" y="1765" width="36" height="41" />
+        <cmp x="1828" y="1747" width="99" height="53" />
+      </word>
+      <word id="k07-158-06-06" tag="." text=".">
+        <cmp x="1951" y="1782" width="8" height="6" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1670" />
+        <point x="1959" y="1670" />
+      </upper-contour>
+      <lower-contour>
+        <point x="338" y="1849" />
+        <point x="1918" y="1849" />
+      </lower-contour>
+    </line>
+    <line ass="324" asx="0" asy="1924" character-width="999" dss="324" dsx="0" dsy="2041" fd0="13965" fd1="2880" fd2="-875" filter-width="4" id="k07-158-07" lbs="337" lbx="0" lby="1996" segmentation="ok" slant="66999" stroke-width="6432" threshold="175" text="That&apos;s why you could never" ubs="297" ubx="0" uby="1957">
+      <word id="k07-158-07-00" sentence-start="yes" tag="DT" text="That">
+        <cmp x="334" y="1959" width="29" height="47" />
+        <cmp x="343" y="1942" width="34" height="9" />
+        <cmp x="369" y="1931" width="68" height="70" />
+        <cmp x="440" y="1957" width="42" height="43" />
+        <cmp x="487" y="1934" width="29" height="58" />
+      </word>
+      <word id="k07-158-07-01" tag="BEZ" text="&apos;s">
+        <cmp x="542" y="1927" width="20" height="32" />
+        <cmp x="547" y="1952" width="34" height="36" />
+      </word>
+      <word id="k07-158-07-02" tag="WRB" text="why">
+        <cmp x="717" y="1953" width="58" height="41" />
+        <cmp x="777" y="1920" width="55" height="68" />
+        <cmp x="836" y="1943" width="49" height="87" />
+      </word>
+      <word id="k07-158-07-03" tag="PP2" text="you">
+        <cmp x="990" y="1951" width="82" height="86" />
+        <cmp x="1074" y="1953" width="40" height="41" />
+        <cmp x="1113" y="1955" width="52" height="39" />
+      </word>
+      <word id="k07-158-07-04" tag="MD" text="could">
+        <cmp x="1311" y="1958" width="33" height="43" />
+        <cmp x="1349" y="1954" width="42" height="39" />
+        <cmp x="1397" y="1936" width="105" height="60" />
+        <cmp x="1497" y="1928" width="56" height="60" />
+      </word>
+      <word id="k07-158-07-05" tag="RB" text="never">
+        <cmp x="1664" y="1939" width="253" height="52" />
+      </word>
+      <upper-contour>
+        <point x="338" y="1849" />
+        <point x="1918" y="1849" />
+      </upper-contour>
+      <lower-contour>
+        <point x="332" y="2006" />
+        <point x="838" y="2006" />
+      </lower-contour>
+    </line>
+    <line ass="3519" asx="0" asy="2138" character-width="999" dss="3519" dsx="0" dsy="2225" fd0="14294" fd1="2926" fd2="-41" filter-width="4" id="k07-158-08" lbs="3738" lbx="0" lby="2206" segmentation="ok" slant="62000" stroke-width="6571" threshold="175" text="love me?" ubs="3081" ubx="0" uby="2159">
+      <word id="k07-158-08-00" tag="VB" text="love">
+        <cmp x="331" y="2116" width="66" height="80" />
+        <cmp x="394" y="2140" width="36" height="38" />
+        <cmp x="427" y="2124" width="92" height="49" />
+      </word>
+      <word id="k07-158-08-01" tag="PP1O" text="me">
+        <cmp x="624" y="2120" width="128" height="50" />
+      </word>
+      <word id="k07-158-08-02" tag="?" text="?">
+        <cmp x="799" y="2170" width="9" height="6" />
+        <cmp x="806" y="2102" width="31" height="47" />
+      </word>
+      <upper-contour>
+        <point x="332" y="2006" />
+        <point x="838" y="2006" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

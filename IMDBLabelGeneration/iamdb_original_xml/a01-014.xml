@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-14" height="3542" id="a01-014" last-modified="2002-07-17" skew="191" status="final" version="3.0_beta" width="2479" writer-id="007">
+  <machine-printed-part>
+    <machine-print-line text="Sir Roy&apos;s United Federal Party is boycotting the London talks on the Protectorate&apos;s" />
+    <machine-print-line text="future. Said Mr. Nkumbula last night: &amp;quot;We want to discuss what to do if the British" />
+    <machine-print-line text="Government gives in to Sir Roy and the talks fall through. There are bound to be" />
+    <machine-print-line text="demonstrations.&amp;quot; Yesterday Sir Roy&apos;s chief aide, Mr. Julius Greenfield, telephoned" />
+    <machine-print-line text="his chief a report on his talks with Mr. Macmillan at Chequers." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="203" asx="0" asy="722" character-width="999" dss="203" dsx="0" dsy="837" fd0="13563" fd1="2844" fd2="-442" filter-width="4" id="a01-014-00" lbs="157" lbx="0" lby="781" segmentation="ok" slant="102000" stroke-width="5903" threshold="182" text="Sir Roy&apos;s United Federal Party is boycotting" ubs="295" ubx="0" uby="758">
+      <word id="a01-014-00-00" sentence-start="yes" tag="NN" text="Sir">
+        <cmp x="356" y="767" width="5" height="4" />
+        <cmp x="361" y="739" width="104" height="60" />
+        <cmp x="370" y="793" width="9" height="6" />
+        <cmp x="415" y="725" width="11" height="16" />
+      </word>
+      <word id="a01-014-00-01" tag="NP$" text="Roy&apos;s">
+        <cmp x="540" y="744" width="79" height="55" />
+        <cmp x="621" y="766" width="43" height="68" />
+        <cmp x="660" y="733" width="7" height="26" />
+        <cmp x="681" y="759" width="39" height="33" />
+      </word>
+      <word id="a01-014-00-02" tag="JJ" text="United">
+        <cmp x="817" y="732" width="147" height="58" />
+        <cmp x="930" y="722" width="13" height="24" />
+        <cmp x="962" y="723" width="128" height="70" />
+      </word>
+      <word id="a01-014-00-03" tag="JJ" text="Federal">
+        <cmp x="1148" y="725" width="57" height="11" />
+        <cmp x="1163" y="721" width="297" height="62" />
+      </word>
+      <word id="a01-014-00-04" tag="NN" text="Party">
+        <cmp x="1529" y="723" width="33" height="56" />
+        <cmp x="1554" y="728" width="186" height="101" />
+      </word>
+      <word id="a01-014-00-05" tag="BEZ" text="is">
+        <cmp x="1793" y="717" width="13" height="25" />
+        <cmp x="1794" y="753" width="64" height="28" />
+      </word>
+      <word id="a01-014-00-06" tag="VBG" text="boycotting">
+        <cmp x="1941" y="727" width="124" height="103" />
+        <cmp x="2075" y="751" width="79" height="31" />
+        <cmp x="2147" y="721" width="71" height="64" />
+        <cmp x="2222" y="756" width="26" height="27" />
+        <cmp x="2229" y="719" width="4" height="4" />
+        <cmp x="2232" y="724" width="6" height="10" />
+        <cmp x="2255" y="747" width="110" height="72" />
+      </word>
+      <lower-contour>
+        <point x="363" y="833" />
+        <point x="2199" y="833" />
+      </lower-contour>
+    </line>
+    <line ass="271" asx="0" asy="894" character-width="999" dss="271" dsx="0" dsy="981" fd0="13548" fd1="2780" fd2="-559" filter-width="4" id="a01-014-01" lbs="228" lbx="0" lby="956" segmentation="ok" slant="94000" stroke-width="5949" threshold="182" text="the London talks on the Protectorate&apos;s" ubs="359" ubx="0" uby="935">
+      <word id="a01-014-01-00" tag="ATI" text="the">
+        <cmp x="365" y="905" width="126" height="61" />
+      </word>
+      <word id="a01-014-01-01" tag="NP" text="London">
+        <cmp x="570" y="902" width="70" height="59" />
+        <cmp x="649" y="905" width="150" height="53" />
+        <cmp x="802" y="926" width="66" height="27" />
+      </word>
+      <word id="a01-014-01-02" tag="NNS" text="talks">
+        <cmp x="931" y="900" width="52" height="54" />
+        <cmp x="989" y="927" width="22" height="26" />
+        <cmp x="1012" y="894" width="173" height="59" />
+      </word>
+      <word id="a01-014-01-03" tag="IN" text="on">
+        <cmp x="1253" y="921" width="101" height="30" />
+      </word>
+      <word id="a01-014-01-04" tag="ATI" text="the">
+        <cmp x="1396" y="888" width="148" height="68" />
+        <cmp x="1423" y="893" width="5" height="8" />
+      </word>
+      <word id="a01-014-01-05" tag="NN$" text="Protectorate&apos;s">
+        <cmp x="1627" y="893" width="4" height="4" />
+        <cmp x="1628" y="898" width="31" height="66" />
+        <cmp x="1650" y="925" width="87" height="29" />
+        <cmp x="1731" y="892" width="90" height="58" />
+        <cmp x="1829" y="892" width="294" height="67" />
+        <cmp x="1834" y="926" width="9" height="6" />
+        <cmp x="2141" y="893" width="8" height="38" />
+        <cmp x="2163" y="921" width="35" height="50" />
+      </word>
+      <upper-contour>
+        <point x="363" y="833" />
+        <point x="2199" y="833" />
+      </upper-contour>
+      <lower-contour>
+        <point x="378" y="974" />
+        <point x="2199" y="974" />
+      </lower-contour>
+    </line>
+    <line ass="529" asx="0" asy="1056" character-width="999" dss="529" dsx="0" dsy="1179" fd0="13582" fd1="2548" fd2="-167" filter-width="4" id="a01-014-02" lbs="540" lbx="0" lby="1132" segmentation="ok" slant="98000" stroke-width="6160" threshold="182" text="future. Said Mr. Nkumbula last night:" ubs="505" ubx="0" uby="1105">
+      <word id="a01-014-02-00" tag="NN" text="future">
+        <cmp x="380" y="1052" width="258" height="116" />
+      </word>
+      <word id="a01-014-02-01" tag="." text=".">
+        <cmp x="678" y="1109" width="14" height="23" />
+      </word>
+      <word id="a01-014-02-02" sentence-start="yes" tag="VBD" text="Said">
+        <cmp x="725" y="1059" width="205" height="72" />
+        <cmp x="841" y="1050" width="10" height="17" />
+      </word>
+      <word id="a01-014-02-03" tag="NPT" text="Mr.">
+        <cmp x="1000" y="1071" width="97" height="60" />
+        <cmp x="1110" y="1112" width="9" height="16" />
+      </word>
+      <word id="a01-014-02-04" tag="NP" text="Nkumbula">
+        <cmp x="1180" y="1064" width="50" height="66" />
+        <cmp x="1240" y="1053" width="216" height="71" />
+        <cmp x="1465" y="1048" width="153" height="60" />
+      </word>
+      <word id="a01-014-02-05" tag="AP" text="last">
+        <cmp x="1685" y="1062" width="170" height="64" />
+      </word>
+      <word id="a01-014-02-06" tag="NN" text="night">
+        <cmp x="1930" y="1060" width="253" height="102" />
+        <cmp x="2009" y="1055" width="12" height="25" />
+      </word>
+      <word id="a01-014-02-07" tag=":" text=":">
+        <cmp x="2213" y="1087" width="7" height="15" />
+        <cmp x="2214" y="1125" width="6" height="15" />
+      </word>
+      <upper-contour>
+        <point x="378" y="974" />
+        <point x="2199" y="974" />
+      </upper-contour>
+      <lower-contour>
+        <point x="382" y="1167" />
+        <point x="2130" y="1167" />
+      </lower-contour>
+    </line>
+    <line ass="257" asx="0" asy="1231" character-width="999" dss="257" dsx="0" dsy="1361" fd0="13294" fd1="2905" fd2="-31" filter-width="4" id="a01-014-03" lbs="209" lbx="0" lby="1307" segmentation="ok" slant="100000" stroke-width="5996" threshold="182" text="&amp;quot;We want to discuss what to do if the" ubs="351" ubx="0" uby="1280">
+      <word id="a01-014-03-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="384" y="1286" width="7" height="32" />
+        <cmp x="399" y="1290" width="5" height="33" />
+      </word>
+      <word id="a01-014-03-01" tag="PP1AS" text="We">
+        <cmp x="432" y="1254" width="46" height="52" />
+        <cmp x="476" y="1265" width="48" height="35" />
+      </word>
+      <word id="a01-014-03-02" tag="VB" text="want">
+        <cmp x="570" y="1241" width="204" height="67" />
+      </word>
+      <word id="a01-014-03-03" tag="TO" text="to">
+        <cmp x="830" y="1245" width="95" height="55" />
+      </word>
+      <word id="a01-014-03-04" tag="VB" text="discuss">
+        <cmp x="992" y="1245" width="121" height="65" />
+        <cmp x="1057" y="1237" width="11" height="23" />
+        <cmp x="1127" y="1270" width="154" height="39" />
+      </word>
+      <word id="a01-014-03-05" tag="WDT" text="what">
+        <cmp x="1360" y="1230" width="214" height="80" />
+      </word>
+      <word id="a01-014-03-06" tag="TO" text="to">
+        <cmp x="1618" y="1243" width="99" height="59" />
+      </word>
+      <word id="a01-014-03-07" tag="DO" text="do">
+        <cmp x="1743" y="1239" width="96" height="64" />
+      </word>
+      <word id="a01-014-03-08" tag="CS" text="if">
+        <cmp x="1869" y="1224" width="13" height="22" />
+        <cmp x="1880" y="1236" width="71" height="118" />
+      </word>
+      <word id="a01-014-03-09" tag="ATI" text="the">
+        <cmp x="1994" y="1238" width="135" height="67" />
+      </word>
+      <upper-contour>
+        <point x="382" y="1167" />
+        <point x="2130" y="1167" />
+      </upper-contour>
+      <lower-contour>
+        <point x="382" y="1356" />
+        <point x="2130" y="1356" />
+      </lower-contour>
+    </line>
+    <line ass="362" asx="0" asy="1379" character-width="999" dss="362" dsx="0" dsy="1512" fd0="13666" fd1="2751" fd2="-488" filter-width="4" id="a01-014-04" lbs="363" lbx="0" lby="1475" segmentation="ok" slant="97000" stroke-width="5961" threshold="182" text="British Government gives in to Sir Roy and" ubs="358" ubx="0" uby="1447">
+      <word id="a01-014-04-00" tag="JNP" text="British">
+        <cmp x="362" y="1407" width="111" height="74" />
+        <cmp x="436" y="1405" width="14" height="18" />
+        <cmp x="460" y="1403" width="105" height="72" />
+        <cmp x="519" y="1377" width="9" height="26" />
+        <cmp x="571" y="1411" width="56" height="62" />
+      </word>
+      <word id="a01-014-04-01" tag="NN" text="Government">
+        <cmp x="695" y="1417" width="77" height="90" />
+        <cmp x="779" y="1434" width="156" height="41" />
+        <cmp x="947" y="1399" width="198" height="70" />
+      </word>
+      <word id="a01-014-04-02" tag="VBZ" text="gives">
+        <cmp x="1212" y="1430" width="80" height="76" />
+        <cmp x="1256" y="1400" width="15" height="23" />
+        <cmp x="1300" y="1425" width="118" height="42" />
+      </word>
+      <word id="a01-014-04-03" tag="RP" text="in">
+        <cmp x="1474" y="1436" width="94" height="31" />
+        <cmp x="1511" y="1392" width="15" height="25" />
+      </word>
+      <word id="a01-014-04-04" tag="IN" text="to">
+        <cmp x="1585" y="1400" width="89" height="62" />
+      </word>
+      <word id="a01-014-04-05" tag="NPT" text="Sir">
+        <cmp x="1726" y="1398" width="113" height="71" />
+        <cmp x="1794" y="1386" width="9" height="17" />
+      </word>
+      <word id="a01-014-04-06" tag="NP" text="Roy">
+        <cmp x="1886" y="1407" width="92" height="59" />
+        <cmp x="1983" y="1434" width="48" height="64" />
+      </word>
+      <word id="a01-014-04-07" tag="CC" text="and">
+        <cmp x="2091" y="1387" width="180" height="73" />
+      </word>
+      <upper-contour>
+        <point x="382" y="1356" />
+        <point x="2130" y="1356" />
+      </upper-contour>
+      <lower-contour>
+        <point x="360" y="1506" />
+        <point x="2272" y="1506" />
+      </lower-contour>
+    </line>
+    <line ass="303" asx="0" asy="1570" character-width="999" dss="303" dsx="0" dsy="1686" fd0="13207" fd1="2318" fd2="-688" filter-width="4" id="a01-014-05" lbs="267" lbx="0" lby="1645" segmentation="ok" slant="97000" stroke-width="6066" threshold="182" text="the talks fall through. There are bound" ubs="374" ubx="0" uby="1618">
+      <word id="a01-014-05-00" tag="ATI" text="the">
+        <cmp x="350" y="1584" width="52" height="68" />
+        <cmp x="401" y="1589" width="81" height="58" />
+      </word>
+      <word id="a01-014-05-01" tag="NNS" text="talks">
+        <cmp x="520" y="1584" width="57" height="66" />
+        <cmp x="572" y="1587" width="193" height="62" />
+      </word>
+      <word id="a01-014-05-02" tag="VB" text="fall">
+        <cmp x="838" y="1579" width="157" height="104" />
+      </word>
+      <word id="a01-014-05-03" tag="RP" text="through">
+        <cmp x="1061" y="1571" width="174" height="69" />
+        <cmp x="1252" y="1563" width="174" height="114" />
+      </word>
+      <word id="a01-014-05-04" tag="." text=".">
+        <cmp x="1448" y="1611" width="9" height="21" />
+      </word>
+      <word id="a01-014-05-05" sentence-start="yes" tag="EX" text="There">
+        <cmp x="1499" y="1577" width="223" height="60" />
+      </word>
+      <word id="a01-014-05-06" tag="BER" text="are">
+        <cmp x="1779" y="1598" width="149" height="40" />
+      </word>
+      <word id="a01-014-05-07" tag="VBN" text="bound">
+        <cmp x="1998" y="1582" width="33" height="59" />
+        <cmp x="2044" y="1604" width="35" height="31" />
+        <cmp x="2094" y="1572" width="184" height="75" />
+      </word>
+      <upper-contour>
+        <point x="360" y="1506" />
+        <point x="2272" y="1506" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="1682" />
+        <point x="2223" y="1682" />
+      </lower-contour>
+    </line>
+    <line ass="-455" asx="0" asy="1719" character-width="999" dss="-455" dsx="0" dsy="1861" fd0="13479" fd1="2688" fd2="-504" filter-width="4" id="a01-014-06" lbs="-397" lbx="0" lby="1815" segmentation="err" slant="97000" stroke-width="6150" threshold="182" text="to be demonstrations.&amp;quot; Yesterday Sir Roy&apos;s" ubs="-571" ubx="0" uby="1785">
+      <word id="a01-014-06-00" tag="TO" text="to">
+        <cmp x="351" y="1754" width="77" height="77" />
+      </word>
+      <word id="a01-014-06-01" tag="BE" text="be">
+        <cmp x="463" y="1750" width="90" height="74" />
+      </word>
+      <word id="a01-014-06-02" tag="NNS" text="demonstrations">
+        <cmp x="625" y="1769" width="198" height="66" />
+        <cmp x="837" y="1759" width="209" height="72" />
+        <cmp x="1036" y="1764" width="111" height="62" />
+        <cmp x="1096" y="1729" width="10" height="33" />
+        <cmp x="1151" y="1790" width="88" height="34" />
+      </word>
+      <word id="a01-014-06-03" tag="." text=".">
+        <cmp x="1263" y="1748" width="11" height="30" />
+      </word>
+      <word id="a01-014-06-04" tag="**&apos;" text="&quot;">
+        <cmp x="1271" y="1807" width="6" height="14" />
+        <cmp x="1281" y="1750" width="14" height="34" />
+      </word>
+      <word id="a01-014-06-05" sentence-start="yes" tag="NR" text="Yesterday">
+        <cmp x="1345" y="1757" width="58" height="91" />
+        <cmp x="1398" y="1768" width="216" height="68" />
+        <cmp x="1603" y="1769" width="170" height="107" />
+      </word>
+      <word id="a01-014-06-06" tag="NPT" text="Sir">
+        <cmp x="1818" y="1771" width="125" height="66" />
+        <cmp x="1885" y="1753" width="19" height="25" />
+      </word>
+      <word id="a01-014-06-07" tag="NP$" text="Roy&apos;s">
+        <cmp x="1997" y="1774" width="93" height="61" />
+        <cmp x="2100" y="1796" width="43" height="70" />
+        <cmp x="2147" y="1766" width="7" height="32" />
+        <cmp x="2149" y="1759" width="5" height="6" />
+        <cmp x="2176" y="1794" width="46" height="39" />
+        <cmp x="2190" y="1822" width="6" height="5" />
+      </word>
+      <upper-contour>
+        <point x="349" y="1682" />
+        <point x="2223" y="1682" />
+      </upper-contour>
+      <lower-contour>
+        <point x="359" y="1877" />
+        <point x="2223" y="1877" />
+      </lower-contour>
+    </line>
+    <line ass="-44" asx="0" asy="1901" character-width="999" dss="-44" dsx="0" dsy="2049" fd0="13160" fd1="2441" fd2="-396" filter-width="4" id="a01-014-07" lbs="0" lbx="0" lby="1997" segmentation="ok" slant="101000" stroke-width="6235" threshold="182" text="chief aide, Mr. Julius Greenfield, telephoned" ubs="-131" ubx="0" uby="1960">
+      <word id="a01-014-07-00" tag="JJB" text="chief">
+        <cmp x="361" y="1917" width="206" height="132" />
+        <cmp x="453" y="1903" width="13" height="21" />
+      </word>
+      <word id="a01-014-07-01" tag="NN" text="aide">
+        <cmp x="615" y="1930" width="189" height="74" />
+        <cmp x="653" y="1904" width="4" height="6" />
+        <cmp x="657" y="1908" width="11" height="17" />
+      </word>
+      <word id="a01-014-07-02" tag="," text=",">
+        <cmp x="826" y="1975" width="10" height="36" />
+      </word>
+      <word id="a01-014-07-03" tag="NPT" text="Mr.">
+        <cmp x="882" y="1944" width="114" height="58" />
+        <cmp x="1008" y="1979" width="11" height="16" />
+      </word>
+      <word id="a01-014-07-04" tag="NP" text="Julius">
+        <cmp x="1060" y="1929" width="271" height="91" />
+        <cmp x="1195" y="1911" width="15" height="25" />
+      </word>
+      <word id="a01-014-07-05" tag="NP" text="Greenfield">
+        <cmp x="1400" y="1922" width="245" height="98" />
+        <cmp x="1648" y="1926" width="203" height="113" />
+        <cmp x="1687" y="1919" width="18" height="21" />
+      </word>
+      <word id="a01-014-07-06" tag="," text=",">
+        <cmp x="1891" y="1973" width="9" height="44" />
+      </word>
+      <word id="a01-014-07-07" tag="VBD" text="telephoned">
+        <cmp x="1915" y="1926" width="89" height="69" />
+        <cmp x="2008" y="1933" width="111" height="114" />
+        <cmp x="2123" y="1927" width="94" height="68" />
+        <cmp x="2229" y="1913" width="134" height="92" />
+      </word>
+      <upper-contour>
+        <point x="359" y="1877" />
+        <point x="2223" y="1877" />
+      </upper-contour>
+      <lower-contour>
+        <point x="366" y="2048" />
+        <point x="2065" y="2048" />
+      </lower-contour>
+    </line>
+    <line ass="-286" asx="0" asy="2105" character-width="999" dss="-286" dsx="0" dsy="2255" fd0="13317" fd1="2757" fd2="90" filter-width="4" id="a01-014-08" lbs="-309" lbx="0" lby="2185" segmentation="ok" slant="101000" stroke-width="6111" threshold="182" text="his chief a report on his talks with" ubs="-240" ubx="0" uby="2160">
+      <word id="a01-014-08-00" tag="PP$" text="his">
+        <cmp x="368" y="2135" width="117" height="70" />
+        <cmp x="429" y="2119" width="10" height="31" />
+      </word>
+      <word id="a01-014-08-01" tag="NN" text="chief">
+        <cmp x="535" y="2133" width="198" height="120" />
+        <cmp x="544" y="2164" width="6" height="9" />
+        <cmp x="640" y="2113" width="14" height="25" />
+      </word>
+      <word id="a01-014-08-02" tag="AT" text="a">
+        <cmp x="780" y="2158" width="26" height="30" />
+        <cmp x="808" y="2166" width="36" height="20" />
+      </word>
+      <word id="a01-014-08-03" tag="NN" text="report">
+        <cmp x="889" y="2152" width="119" height="109" />
+        <cmp x="1013" y="2126" width="109" height="72" />
+      </word>
+      <word id="a01-014-08-04" tag="IN" text="on">
+        <cmp x="1187" y="2163" width="32" height="29" />
+        <cmp x="1224" y="2165" width="59" height="26" />
+      </word>
+      <word id="a01-014-08-05" tag="PP$" text="his">
+        <cmp x="1330" y="2135" width="125" height="68" />
+        <cmp x="1386" y="2115" width="6" height="5" />
+        <cmp x="1387" y="2123" width="12" height="23" />
+      </word>
+      <word id="a01-014-08-06" tag="NNS" text="talks">
+        <cmp x="1519" y="2133" width="248" height="71" />
+      </word>
+      <word id="a01-014-08-07" tag="IN" text="with">
+        <cmp x="1851" y="2155" width="92" height="48" />
+        <cmp x="1914" y="2115" width="11" height="25" />
+        <cmp x="1937" y="2128" width="127" height="82" />
+      </word>
+      <upper-contour>
+        <point x="366" y="2048" />
+        <point x="2065" y="2048" />
+      </upper-contour>
+      <lower-contour>
+        <point x="367" y="2261" />
+        <point x="1725" y="2261" />
+      </lower-contour>
+    </line>
+    <line ass="-422" asx="0" asy="2281" character-width="999" dss="-422" dsx="0" dsy="2430" fd0="13338" fd1="2079" fd2="-872" filter-width="4" id="a01-014-09" lbs="-465" lbx="0" lby="2366" segmentation="ok" slant="91000" stroke-width="6199" threshold="182" text="Mr. Macmillan at Chequers." ubs="-336" ubx="0" uby="2334">
+      <word id="a01-014-09-00" tag="NPT" text="Mr.">
+        <cmp x="369" y="2311" width="82" height="64" />
+        <cmp x="472" y="2356" width="9" height="15" />
+      </word>
+      <word id="a01-014-09-01" tag="NP" text="Macmillan">
+        <cmp x="525" y="2318" width="157" height="64" />
+        <cmp x="678" y="2334" width="130" height="38" />
+        <cmp x="770" y="2288" width="27" height="38" />
+        <cmp x="813" y="2291" width="188" height="80" />
+      </word>
+      <word id="a01-014-09-02" tag="IN" text="at">
+        <cmp x="1084" y="2314" width="95" height="61" />
+      </word>
+      <word id="a01-014-09-03" tag="NP" text="Chequers">
+        <cmp x="1279" y="2317" width="109" height="64" />
+        <cmp x="1390" y="2339" width="117" height="104" />
+        <cmp x="1509" y="2339" width="160" height="46" />
+      </word>
+      <word id="a01-014-09-04" tag="." text=".">
+        <cmp x="1716" y="2367" width="8" height="17" />
+      </word>
+      <upper-contour>
+        <point x="367" y="2261" />
+        <point x="1725" y="2261" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

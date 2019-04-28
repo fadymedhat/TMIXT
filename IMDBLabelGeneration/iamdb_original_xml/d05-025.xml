@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-16" height="3542" id="d05-025" last-modified="2002-07-17" skew="-191" status="final" version="3.0_beta" width="2479" writer-id="199">
+  <machine-printed-part>
+    <machine-print-line text="In that year Shakespeare had just turned forty and had written Hamlet two years" />
+    <machine-print-line text="before. Bacon was at work and Milton was just learning to read. James was followed" />
+    <machine-print-line text="by Charles, in whose reign came the Scottish Prayer Book in 1637. Significantly this" />
+    <machine-print-line text="made a deliberate return to the Book of 1549 and became the foster mother of some" />
+    <machine-print-line text="of the most important Prayer Books in the Anglican Communion." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-138" asx="0" asy="731" character-width="999" dss="-138" dsx="0" dsy="861" fd0="13646" fd1="2345" fd2="-865" filter-width="4" id="d05-025-00" lbs="-74" lbx="0" lby="823" segmentation="ok" slant="71000" stroke-width="5910" threshold="167" text="In that year Shakespeare had just turned" ubs="-268" ubx="0" uby="787">
+      <word id="d05-025-00-00" sentence-start="yes" tag="IN" text="In">
+        <cmp x="340" y="733" width="28" height="81" />
+        <cmp x="365" y="775" width="36" height="41" />
+      </word>
+      <word id="d05-025-00-01" tag="DT" text="that">
+        <cmp x="461" y="754" width="129" height="72" />
+        <cmp x="591" y="767" width="30" height="57" />
+      </word>
+      <word id="d05-025-00-02" tag="NN" text="year">
+        <cmp x="666" y="794" width="35" height="69" />
+        <cmp x="713" y="791" width="133" height="39" />
+      </word>
+      <word id="d05-025-00-03" tag="NP" text="Shakespeare">
+        <cmp x="893" y="738" width="62" height="89" />
+        <cmp x="941" y="752" width="85" height="72" />
+        <cmp x="1032" y="759" width="115" height="63" />
+        <cmp x="1139" y="789" width="185" height="59" />
+        <cmp x="1324" y="799" width="31" height="35" />
+      </word>
+      <word id="d05-025-00-04" tag="HVD" text="had">
+        <cmp x="1372" y="753" width="122" height="82" />
+        <cmp x="1495" y="775" width="48" height="55" />
+      </word>
+      <word id="d05-025-00-05" tag="RB" text="just">
+        <cmp x="1567" y="788" width="126" height="72" />
+        <cmp x="1627" y="763" width="6" height="7" />
+        <cmp x="1717" y="766" width="42" height="59" />
+      </word>
+      <word id="d05-025-00-06" tag="VBN" text="turned">
+        <cmp x="1809" y="763" width="76" height="66" />
+        <cmp x="1845" y="758" width="4" height="4" />
+        <cmp x="1885" y="782" width="45" height="39" />
+        <cmp x="1933" y="794" width="75" height="30" />
+        <cmp x="2010" y="771" width="59" height="57" />
+      </word>
+      <lower-contour>
+        <point x="338" y="864" />
+        <point x="1935" y="864" />
+      </lower-contour>
+    </line>
+    <line ass="-56" asx="0" asy="915" character-width="999" dss="-56" dsx="0" dsy="1057" fd0="13359" fd1="3014" fd2="-771" filter-width="4" id="d05-025-01" lbs="-68" lbx="0" lby="999" segmentation="ok" slant="66000" stroke-width="6117" threshold="167" text="forty and had written Hamlet two years" ubs="-32" ubx="0" uby="968">
+      <word id="d05-025-01-00" tag="CD" text="forty">
+        <cmp x="321" y="916" width="95" height="102" />
+        <cmp x="426" y="944" width="63" height="115" />
+      </word>
+      <word id="d05-025-01-01" tag="CC" text="and">
+        <cmp x="536" y="948" width="160" height="53" />
+      </word>
+      <word id="d05-025-01-02" tag="HVD" text="had">
+        <cmp x="732" y="930" width="174" height="74" />
+      </word>
+      <word id="d05-025-01-03" tag="VBN" text="written">
+        <cmp x="948" y="966" width="118" height="37" />
+        <cmp x="1071" y="955" width="9" height="6" />
+        <cmp x="1078" y="952" width="154" height="55" />
+      </word>
+      <word id="d05-025-01-04" tag="NP" text="Hamlet">
+        <cmp x="1278" y="938" width="68" height="74" />
+        <cmp x="1325" y="953" width="214" height="56" />
+      </word>
+      <word id="d05-025-01-05" tag="CD" text="two">
+        <cmp x="1591" y="937" width="114" height="69" />
+      </word>
+      <word id="d05-025-01-06" tag="NNS" text="years">
+        <cmp x="1737" y="962" width="197" height="81" />
+      </word>
+      <upper-contour>
+        <point x="338" y="864" />
+        <point x="1935" y="864" />
+      </upper-contour>
+      <lower-contour>
+        <point x="319" y="1061" />
+        <point x="1935" y="1061" />
+      </lower-contour>
+    </line>
+    <line ass="381" asx="0" asy="1096" character-width="999" dss="381" dsx="0" dsy="1206" fd0="13119" fd1="1957" fd2="-1155" filter-width="4" id="d05-025-02" lbs="355" lbx="0" lby="1183" segmentation="ok" slant="68999" stroke-width="5989" threshold="167" text="before. Bacon was at work and Milton was" ubs="432" ubx="0" uby="1150">
+      <word id="d05-025-02-00" tag="RI" text="before">
+        <cmp x="306" y="1094" width="233" height="110" />
+      </word>
+      <word id="d05-025-02-01" tag="." text=".">
+        <cmp x="550" y="1171" width="7" height="5" />
+      </word>
+      <word id="d05-025-02-02" sentence-start="yes" tag="NP" text="Bacon">
+        <cmp x="621" y="1092" width="242" height="94" />
+      </word>
+      <word id="d05-025-02-03" tag="BEDZ" text="was">
+        <cmp x="906" y="1138" width="127" height="41" />
+      </word>
+      <word id="d05-025-02-04" tag="IN" text="at">
+        <cmp x="1081" y="1114" width="94" height="60" />
+      </word>
+      <word id="d05-025-02-05" tag="NN" text="work">
+        <cmp x="1214" y="1115" width="200" height="63" />
+      </word>
+      <word id="d05-025-02-06" tag="CC" text="and">
+        <cmp x="1447" y="1119" width="146" height="60" />
+      </word>
+      <word id="d05-025-02-07" tag="NP" text="Milton">
+        <cmp x="1626" y="1106" width="70" height="68" />
+        <cmp x="1695" y="1122" width="12" height="5" />
+        <cmp x="1712" y="1106" width="20" height="68" />
+        <cmp x="1739" y="1108" width="85" height="68" />
+      </word>
+      <word id="d05-025-02-08" tag="BEDZ" text="was">
+        <cmp x="1875" y="1134" width="132" height="45" />
+      </word>
+      <upper-contour>
+        <point x="319" y="1061" />
+        <point x="1935" y="1061" />
+      </upper-contour>
+      <lower-contour>
+        <point x="329" y="1207" />
+        <point x="2008" y="1207" />
+      </lower-contour>
+    </line>
+    <line ass="15" asx="0" asy="1285" character-width="999" dss="15" dsx="0" dsy="1409" fd0="12969" fd1="2979" fd2="-540" filter-width="4" id="d05-025-03" lbs="-77" lbx="0" lby="1355" segmentation="ok" slant="73000" stroke-width="6150" threshold="167" text="just learning to read. James was followed by" ubs="201" ubx="0" uby="1325">
+      <word id="d05-025-03-00" tag="RB" text="just">
+        <cmp x="331" y="1324" width="17" height="71" />
+        <cmp x="339" y="1293" width="15" height="13" />
+        <cmp x="351" y="1324" width="60" height="42" />
+        <cmp x="429" y="1298" width="28" height="62" />
+      </word>
+      <word id="d05-025-03-01" tag="VBG" text="learning">
+        <cmp x="520" y="1295" width="233" height="69" />
+        <cmp x="756" y="1304" width="9" height="7" />
+        <cmp x="760" y="1317" width="75" height="89" />
+      </word>
+      <word id="d05-025-03-02" tag="TO" text="to">
+        <cmp x="887" y="1285" width="46" height="67" />
+      </word>
+      <word id="d05-025-03-03" tag="VB" text="read">
+        <cmp x="976" y="1296" width="160" height="59" />
+      </word>
+      <word id="d05-025-03-04" tag="." text=".">
+        <cmp x="1155" y="1339" width="6" height="7" />
+      </word>
+      <word id="d05-025-03-05" sentence-start="yes" tag="NP" text="James">
+        <cmp x="1222" y="1285" width="193" height="79" />
+        <cmp x="1365" y="1330" width="4" height="4" />
+      </word>
+      <word id="d05-025-03-06" tag="BEDZ" text="was">
+        <cmp x="1455" y="1316" width="129" height="45" />
+      </word>
+      <word id="d05-025-03-07" tag="VBN" text="followed">
+        <cmp x="1630" y="1331" width="8" height="4" />
+        <cmp x="1636" y="1286" width="310" height="83" />
+      </word>
+      <word id="d05-025-03-08" tag="IN" text="by">
+        <cmp x="1980" y="1285" width="61" height="124" />
+      </word>
+      <upper-contour>
+        <point x="329" y="1207" />
+        <point x="2008" y="1207" />
+      </upper-contour>
+      <lower-contour>
+        <point x="330" y="1408" />
+        <point x="2043" y="1408" />
+      </lower-contour>
+    </line>
+    <line ass="761" asx="0" asy="1457" character-width="999" dss="761" dsx="0" dsy="1595" fd0="13426" fd1="2190" fd2="-1049" filter-width="4" id="d05-025-04" lbs="772" lbx="0" lby="1552" segmentation="ok" slant="63000" stroke-width="6036" threshold="167" text="Charles, in whose reign came the Scottish" ubs="739" ubx="0" uby="1520">
+      <word id="d05-025-04-00" tag="NP" text="Charles">
+        <cmp x="332" y="1455" width="286" height="96" />
+      </word>
+      <word id="d05-025-04-01" tag="," text=",">
+        <cmp x="635" y="1534" width="10" height="30" />
+      </word>
+      <word id="d05-025-04-02" tag="IN" text="in">
+        <cmp x="690" y="1507" width="36" height="29" />
+        <cmp x="726" y="1487" width="9" height="7" />
+        <cmp x="733" y="1508" width="33" height="33" />
+      </word>
+      <word id="d05-025-04-03" tag="WP$" text="whose">
+        <cmp x="808" y="1479" width="238" height="68" />
+      </word>
+      <word id="d05-025-04-04" tag="NN" text="reign">
+        <cmp x="1079" y="1494" width="122" height="45" />
+        <cmp x="1198" y="1493" width="13" height="14" />
+        <cmp x="1209" y="1510" width="95" height="70" />
+      </word>
+      <word id="d05-025-04-05" tag="VBD" text="came">
+        <cmp x="1358" y="1499" width="199" height="48" />
+      </word>
+      <word id="d05-025-04-06" tag="ATI" text="the">
+        <cmp x="1598" y="1467" width="126" height="72" />
+      </word>
+      <word id="d05-025-04-07" tag="JNP" text="Scottish">
+        <cmp x="1786" y="1434" width="70" height="92" />
+        <cmp x="1826" y="1484" width="55" height="39" />
+        <cmp x="1880" y="1458" width="98" height="69" />
+        <cmp x="1974" y="1460" width="83" height="73" />
+      </word>
+      <upper-contour>
+        <point x="330" y="1408" />
+        <point x="2043" y="1408" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="1580" />
+        <point x="2058" y="1580" />
+      </lower-contour>
+    </line>
+    <line ass="-62" asx="0" asy="1616" character-width="999" dss="-62" dsx="0" dsy="1763" fd0="13780" fd1="2511" fd2="-1082" filter-width="4" id="d05-025-05" lbs="-223" lbx="0" lby="1706" segmentation="ok" slant="74000" stroke-width="5842" threshold="165" text="Prayer Book in 1637. Significantly this made" ubs="260" ubx="0" uby="1685">
+      <word id="d05-025-05-00" tag="NN" text="Prayer">
+        <cmp x="351" y="1617" width="50" height="91" />
+        <cmp x="385" y="1671" width="176" height="94" />
+      </word>
+      <word id="d05-025-05-01" tag="NN" text="Book">
+        <cmp x="604" y="1637" width="82" height="94" />
+        <cmp x="669" y="1663" width="122" height="57" />
+      </word>
+      <word id="d05-025-05-02" tag="IN" text="in">
+        <cmp x="850" y="1682" width="81" height="42" />
+        <cmp x="903" y="1669" width="11" height="9" />
+      </word>
+      <word id="d05-025-05-03" tag="CD" text="1637">
+        <cmp x="967" y="1651" width="70" height="71" />
+        <cmp x="1036" y="1659" width="29" height="55" />
+        <cmp x="1078" y="1651" width="40" height="64" />
+        <cmp x="1117" y="1655" width="44" height="64" />
+      </word>
+      <word id="d05-025-05-04" tag="." text=".">
+        <cmp x="1176" y="1712" width="7" height="8" />
+      </word>
+      <word id="d05-025-05-05" sentence-start="yes" tag="RB" text="Significantly">
+        <cmp x="1242" y="1623" width="62" height="87" />
+        <cmp x="1306" y="1657" width="8" height="9" />
+        <cmp x="1310" y="1681" width="117" height="67" />
+        <cmp x="1423" y="1670" width="9" height="11" />
+        <cmp x="1442" y="1649" width="52" height="93" />
+        <cmp x="1499" y="1673" width="116" height="40" />
+        <cmp x="1616" y="1647" width="117" height="107" />
+      </word>
+      <word id="d05-025-05-06" tag="DT" text="this">
+        <cmp x="1788" y="1626" width="173" height="79" />
+        <cmp x="1896" y="1665" width="7" height="11" />
+      </word>
+      <word id="d05-025-05-07" tag="VBD" text="made">
+        <cmp x="1986" y="1657" width="243" height="78" />
+      </word>
+      <upper-contour>
+        <point x="349" y="1580" />
+        <point x="2058" y="1580" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="1768" />
+        <point x="2228" y="1768" />
+      </lower-contour>
+    </line>
+    <line ass="-133" asx="0" asy="1813" character-width="999" dss="-133" dsx="0" dsy="1915" fd0="13625" fd1="2485" fd2="-819" filter-width="4" id="d05-025-06" lbs="-111" lbx="0" lby="1894" segmentation="ok" slant="68999" stroke-width="5915" threshold="165" text="a deliberate return to the Book of 1549 and" ubs="-176" ubx="0" uby="1859">
+      <word id="d05-025-06-00" tag="AT" text="a">
+        <cmp x="330" y="1842" width="42" height="51" />
+      </word>
+      <word id="d05-025-06-01" tag="JJ" text="deliberate">
+        <cmp x="407" y="1830" width="156" height="67" />
+        <cmp x="570" y="1837" width="6" height="5" />
+        <cmp x="581" y="1835" width="175" height="65" />
+        <cmp x="772" y="1838" width="69" height="60" />
+      </word>
+      <word id="d05-025-06-02" tag="NN" text="return">
+        <cmp x="906" y="1849" width="85" height="48" />
+        <cmp x="992" y="1829" width="119" height="72" />
+        <cmp x="1106" y="1870" width="53" height="35" />
+      </word>
+      <word id="d05-025-06-03" tag="IN" text="to">
+        <cmp x="1199" y="1833" width="68" height="76" />
+      </word>
+      <word id="d05-025-06-04" tag="ATI" text="the">
+        <cmp x="1315" y="1824" width="113" height="78" />
+      </word>
+      <word id="d05-025-06-05" tag="NN" text="Book">
+        <cmp x="1466" y="1817" width="59" height="79" />
+        <cmp x="1516" y="1859" width="60" height="34" />
+        <cmp x="1592" y="1832" width="44" height="67" />
+      </word>
+      <word id="d05-025-06-06" tag="INO" text="of">
+        <cmp x="1686" y="1865" width="37" height="33" />
+        <cmp x="1726" y="1822" width="61" height="98" />
+      </word>
+      <word id="d05-025-06-07" tag="CD" text="1549">
+        <cmp x="1833" y="1836" width="57" height="57" />
+        <cmp x="1887" y="1843" width="59" height="53" />
+        <cmp x="1948" y="1847" width="37" height="54" />
+        <cmp x="1987" y="1854" width="42" height="56" />
+      </word>
+      <word id="d05-025-06-08" tag="CC" text="and">
+        <cmp x="2074" y="1848" width="153" height="65" />
+      </word>
+      <upper-contour>
+        <point x="349" y="1768" />
+        <point x="2228" y="1768" />
+      </upper-contour>
+      <lower-contour>
+        <point x="328" y="1920" />
+        <point x="2228" y="1920" />
+      </lower-contour>
+    </line>
+    <line ass="-33" asx="0" asy="1992" character-width="999" dss="-33" dsx="0" dsy="2094" fd0="13536" fd1="2232" fd2="-799" filter-width="4" id="d05-025-07" lbs="-57" lbx="0" lby="2073" segmentation="ok" slant="68000" stroke-width="5951" threshold="165" text="became the foster mother of some of the most" ubs="15" ubx="0" uby="2041">
+      <word id="d05-025-07-00" tag="VBD" text="became">
+        <cmp x="322" y="1993" width="99" height="85" />
+        <cmp x="430" y="2032" width="183" height="40" />
+      </word>
+      <word id="d05-025-07-01" tag="ATI" text="the">
+        <cmp x="672" y="2006" width="125" height="73" />
+      </word>
+      <word id="d05-025-07-02" tag="JJB" text="foster">
+        <cmp x="839" y="1993" width="103" height="93" />
+        <cmp x="956" y="2024" width="91" height="55" />
+      </word>
+      <word id="d05-025-07-03" tag="NN" text="mother">
+        <cmp x="1088" y="2040" width="119" height="38" />
+        <cmp x="1214" y="2013" width="156" height="58" />
+      </word>
+      <word id="d05-025-07-04" tag="INO" text="of">
+        <cmp x="1411" y="2003" width="80" height="93" />
+      </word>
+      <word id="d05-025-07-05" tag="DTI" text="some">
+        <cmp x="1515" y="2030" width="50" height="43" />
+        <cmp x="1573" y="2036" width="150" height="42" />
+      </word>
+      <word id="d05-025-07-06" tag="INO" text="of">
+        <cmp x="1765" y="2004" width="83" height="87" />
+      </word>
+      <word id="d05-025-07-07" tag="ATI" text="the">
+        <cmp x="1881" y="1997" width="101" height="77" />
+      </word>
+      <word id="d05-025-07-08" tag="QL" text="most">
+        <cmp x="2041" y="2027" width="67" height="51" />
+        <cmp x="2110" y="2042" width="55" height="41" />
+        <cmp x="2179" y="2023" width="47" height="51" />
+      </word>
+      <upper-contour>
+        <point x="328" y="1920" />
+        <point x="2228" y="1920" />
+      </upper-contour>
+      <lower-contour>
+        <point x="320" y="2096" />
+        <point x="2006" y="2096" />
+      </lower-contour>
+    </line>
+    <line ass="227" asx="0" asy="2173" character-width="999" dss="227" dsx="0" dsy="2307" fd0="13575" fd1="2096" fd2="-1250" filter-width="4" id="d05-025-08" lbs="225" lbx="0" lby="2256" segmentation="ok" slant="64000" stroke-width="6039" threshold="163" text="important Prayer Books in the Anglican" ubs="232" ubx="0" uby="2227">
+      <word id="d05-025-08-00" tag="JJ" text="important">
+        <cmp x="310" y="2196" width="89" height="66" />
+        <cmp x="400" y="2231" width="21" height="30" />
+        <cmp x="412" y="2220" width="57" height="60" />
+        <cmp x="465" y="2222" width="69" height="40" />
+        <cmp x="544" y="2211" width="126" height="48" />
+        <cmp x="687" y="2206" width="56" height="49" />
+      </word>
+      <word id="d05-025-08-01" tag="NN" text="Prayer">
+        <cmp x="782" y="2188" width="59" height="94" />
+        <cmp x="833" y="2219" width="208" height="79" />
+      </word>
+      <word id="d05-025-08-02" tag="NNS" text="Books">
+        <cmp x="1090" y="2169" width="88" height="85" />
+        <cmp x="1150" y="2198" width="149" height="56" />
+      </word>
+      <word id="d05-025-08-03" tag="IN" text="in">
+        <cmp x="1332" y="2220" width="53" height="36" />
+        <cmp x="1384" y="2216" width="29" height="38" />
+        <cmp x="1387" y="2200" width="11" height="9" />
+      </word>
+      <word id="d05-025-08-04" tag="ATI" text="the">
+        <cmp x="1469" y="2173" width="119" height="77" />
+      </word>
+      <word id="d05-025-08-05" tag="JNP" text="Anglican">
+        <cmp x="1617" y="2189" width="207" height="113" />
+        <cmp x="1828" y="2220" width="7" height="12" />
+        <cmp x="1856" y="2213" width="148" height="41" />
+      </word>
+      <upper-contour>
+        <point x="320" y="2096" />
+        <point x="2006" y="2096" />
+      </upper-contour>
+      <lower-contour>
+        <point x="310" y="2283" />
+        <point x="844" y="2283" />
+      </lower-contour>
+    </line>
+    <line ass="831" asx="0" asy="2356" character-width="999" dss="831" dsx="0" dsy="2441" fd0="13638" fd1="2095" fd2="-1098" filter-width="4" id="d05-025-09" lbs="936" lbx="0" lby="2439" segmentation="ok" slant="61000" stroke-width="6218" threshold="163" text="Communion." ubs="621" ubx="0" uby="2405">
+      <word id="d05-025-09-00" tag="NN" text="Communion">
+        <cmp x="312" y="2352" width="403" height="83" />
+        <cmp x="714" y="2377" width="10" height="10" />
+        <cmp x="721" y="2391" width="105" height="39" />
+      </word>
+      <word id="d05-025-09-01" tag="." text=".">
+        <cmp x="836" y="2420" width="8" height="6" />
+      </word>
+      <upper-contour>
+        <point x="310" y="2283" />
+        <point x="844" y="2283" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

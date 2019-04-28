@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-14" height="3542" id="b04-026" last-modified="2002-07-17" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="108">
+  <machine-printed-part>
+    <machine-print-line text="The dinner table is the best answer to the grumblers in Britain today! &amp;quot;THIS is" />
+    <machine-print-line text="colour day,&amp;quot; proclaimed the American television network, N.B.C. And hour after" />
+    <machine-print-line text="hour it poured out its programmes in bright colours. In America colour TV is five" />
+    <machine-print-line text="years old. There are already 600,000 sets in use. What about Britain? The B.B.C." />
+    <machine-print-line text="is ready to launch a colour TV service, but the commercial TV contractors want to" />
+    <machine-print-line text="delay it for 10 years." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-796" asx="0" asy="704" character-width="999" dss="-796" dsx="0" dsy="832" fd0="12987" fd1="3019" fd2="-344" filter-width="4" id="b04-026-00" lbs="-806" lbx="0" lby="791" segmentation="ok" slant="90000" stroke-width="5780" threshold="162" text="The dinner table is the best answer to the grumblers in" ubs="-776" ubx="0" uby="761">
+      <word id="b04-026-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="358" y="742" width="62" height="20" />
+        <cmp x="389" y="754" width="12" height="46" />
+        <cmp x="424" y="737" width="62" height="68" />
+      </word>
+      <word id="b04-026-00-01" tag="NN" text="dinner">
+        <cmp x="528" y="750" width="183" height="58" />
+        <cmp x="587" y="727" width="7" height="8" />
+      </word>
+      <word id="b04-026-00-02" tag="NN" text="table">
+        <cmp x="763" y="724" width="137" height="89" />
+      </word>
+      <word id="b04-026-00-03" tag="BEZ" text="is">
+        <cmp x="953" y="782" width="46" height="30" />
+        <cmp x="963" y="754" width="6" height="5" />
+      </word>
+      <word id="b04-026-00-04" tag="ATI" text="the">
+        <cmp x="1042" y="739" width="81" height="72" />
+      </word>
+      <word id="b04-026-00-05" tag="JJT" text="best">
+        <cmp x="1163" y="741" width="81" height="77" />
+        <cmp x="1239" y="742" width="31" height="67" />
+      </word>
+      <word id="b04-026-00-06" tag="NN" text="answer">
+        <cmp x="1319" y="769" width="189" height="39" />
+      </word>
+      <word id="b04-026-00-07" tag="IN" text="to">
+        <cmp x="1553" y="749" width="29" height="66" />
+      </word>
+      <word id="b04-026-00-08" tag="ATI" text="the">
+        <cmp x="1612" y="751" width="80" height="60" />
+      </word>
+      <word id="b04-026-00-09" tag="NNS" text="grumblers">
+        <cmp x="1752" y="752" width="171" height="106" />
+        <cmp x="1924" y="760" width="72" height="57" />
+      </word>
+      <word id="b04-026-00-10" tag="IN" text="in">
+        <cmp x="2038" y="785" width="62" height="30" />
+        <cmp x="2066" y="760" width="5" height="5" />
+      </word>
+      <lower-contour>
+        <point x="377" y="858" />
+        <point x="2097" y="858" />
+      </lower-contour>
+    </line>
+    <line ass="-991" asx="0" asy="887" character-width="999" dss="-991" dsx="0" dsy="1030" fd0="12814" fd1="3140" fd2="-200" filter-width="4" id="b04-026-01" lbs="-1067" lbx="0" lby="953" segmentation="ok" slant="90000" stroke-width="5960" threshold="162" text="Britain today! &amp;quot;THIS is colour day,&amp;quot; proclaimed the American" ubs="-840" ubx="0" uby="933">
+      <word id="b04-026-01-00" tag="NP" text="Britain">
+        <cmp x="379" y="919" width="28" height="59" />
+        <cmp x="409" y="951" width="56" height="27" />
+        <cmp x="433" y="933" width="6" height="7" />
+        <cmp x="467" y="921" width="85" height="61" />
+        <cmp x="500" y="912" width="7" height="7" />
+        <cmp x="518" y="913" width="5" height="4" />
+      </word>
+      <word id="b04-026-01-01" tag="NR" text="today">
+        <cmp x="601" y="918" width="134" height="125" />
+      </word>
+      <word id="b04-026-01-02" tag="!" text="!">
+        <cmp x="746" y="911" width="11" height="45" />
+        <cmp x="749" y="970" width="6" height="6" />
+      </word>
+      <word id="b04-026-01-03" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="846" y="912" width="7" height="21" />
+        <cmp x="854" y="911" width="6" height="23" />
+      </word>
+      <word id="b04-026-01-04" tag="DT" text="THIS">
+        <cmp x="892" y="926" width="36" height="40" />
+        <cmp x="926" y="929" width="29" height="46" />
+        <cmp x="970" y="933" width="11" height="37" />
+        <cmp x="979" y="936" width="34" height="42" />
+      </word>
+      <word id="b04-026-01-05" tag="BEZ" text="is">
+        <cmp x="1049" y="956" width="41" height="31" />
+        <cmp x="1059" y="933" width="5" height="5" />
+      </word>
+      <word id="b04-026-01-06" tag="NN" text="colour">
+        <cmp x="1145" y="916" width="138" height="81" />
+      </word>
+      <word id="b04-026-01-07" tag="NN" text="day">
+        <cmp x="1326" y="929" width="72" height="109" />
+      </word>
+      <word id="b04-026-01-08" tag="," text=",">
+        <cmp x="1407" y="977" width="12" height="23" />
+      </word>
+      <word id="b04-026-01-09" tag="**&apos;" text="&quot;">
+        <cmp x="1428" y="922" width="15" height="21" />
+      </word>
+      <word id="b04-026-01-10" tag="VBD" text="proclaimed">
+        <cmp x="1507" y="950" width="87" height="56" />
+        <cmp x="1594" y="935" width="39" height="54" />
+        <cmp x="1634" y="934" width="114" height="59" />
+        <cmp x="1661" y="917" width="5" height="6" />
+      </word>
+      <word id="b04-026-01-11" tag="ATI" text="the">
+        <cmp x="1800" y="928" width="64" height="62" />
+      </word>
+      <word id="b04-026-01-12" tag="JNP" text="American">
+        <cmp x="1906" y="934" width="28" height="48" />
+        <cmp x="1936" y="955" width="159" height="43" />
+        <cmp x="2006" y="923" width="6" height="5" />
+      </word>
+      <upper-contour>
+        <point x="377" y="858" />
+        <point x="2097" y="858" />
+      </upper-contour>
+      <lower-contour>
+        <point x="377" y="1043" />
+        <point x="2089" y="1043" />
+      </lower-contour>
+    </line>
+    <line ass="-442" asx="0" asy="1068" character-width="999" dss="-442" dsx="0" dsy="1175" fd0="12792" fd1="3079" fd2="-58" filter-width="4" id="b04-026-02" lbs="-443" lbx="0" lby="1154" segmentation="err" slant="85000" stroke-width="5981" threshold="162" text="television network, N.B.C. And hour after hour it poured out its" ubs="-440" ubx="0" uby="1127">
+      <word id="b04-026-02-00" tag="NN" text="television">
+        <cmp x="374" y="1077" width="211" height="88" />
+        <cmp x="466" y="1073" width="9" height="4" />
+        <cmp x="515" y="1085" width="6" height="7" />
+      </word>
+      <word id="b04-026-02-01" tag="NN" text="network">
+        <cmp x="630" y="1131" width="53" height="32" />
+        <cmp x="680" y="1098" width="118" height="69" />
+      </word>
+      <word id="b04-026-02-02" tag="," text=",">
+        <cmp x="805" y="1151" width="16" height="24" />
+      </word>
+      <word id="b04-026-02-03" tag="NP" text="N.B.C.">
+        <cmp x="874" y="1106" width="38" height="49" />
+        <cmp x="916" y="1144" width="10" height="7" />
+        <cmp x="944" y="1103" width="28" height="52" />
+        <cmp x="978" y="1143" width="7" height="7" />
+        <cmp x="997" y="1117" width="28" height="38" />
+        <cmp x="1027" y="1145" width="7" height="7" />
+        <cmp x="1129" y="1114" width="34" height="51" />
+      </word>
+      <word id="b04-026-02-04" sentence-start="yes" tag="CC" text="And">
+        <cmp x="1166" y="1111" width="65" height="56" />
+      </word>
+      <word id="b04-026-02-05" tag="NN" text="hour">
+        <cmp x="1263" y="1103" width="97" height="66" />
+      </word>
+      <word id="b04-026-02-06" tag="IN" text="after">
+        <cmp x="1399" y="1108" width="55" height="79" />
+        <cmp x="1460" y="1107" width="62" height="58" />
+      </word>
+      <word id="b04-026-02-07" tag="NN" text="hour">
+        <cmp x="1548" y="1102" width="96" height="65" />
+      </word>
+      <word id="b04-026-02-08" tag="PP3" text="it">
+        <cmp x="1669" y="1113" width="6" height="6" />
+        <cmp x="1672" y="1115" width="56" height="59" />
+      </word>
+      <word id="b04-026-02-09" tag="VBD" text="poured">
+        <cmp x="1766" y="1124" width="28" height="60" />
+        <cmp x="1797" y="1111" width="111" height="60" />
+      </word>
+      <word id="b04-026-02-10" tag="RP" text="out">
+        <cmp x="1917" y="1143" width="47" height="27" />
+        <cmp x="1950" y="1097" width="35" height="67" />
+      </word>
+      <word id="b04-026-02-11" tag="PP$" text="its">
+        <cmp x="2019" y="1117" width="68" height="53" />
+        <cmp x="2025" y="1114" width="7" height="6" />
+      </word>
+      <upper-contour>
+        <point x="377" y="1043" />
+        <point x="2089" y="1043" />
+      </upper-contour>
+      <lower-contour>
+        <point x="372" y="1187" />
+        <point x="2089" y="1187" />
+      </lower-contour>
+    </line>
+    <line ass="50" asx="0" asy="1273" character-width="999" dss="50" dsx="0" dsy="1396" fd0="12976" fd1="2413" fd2="-666" filter-width="4" id="b04-026-03" lbs="151" lbx="0" lby="1350" segmentation="err" slant="90000" stroke-width="6346" threshold="162" text="programmes in bright colours. In America colour TV is five years" ubs="-151" ubx="0" uby="1314">
+      <word id="b04-026-03-00" tag="NNS" text="programmes">
+        <cmp x="369" y="1300" width="242" height="77" />
+      </word>
+      <word id="b04-026-03-01" tag="IN" text="in">
+        <cmp x="661" y="1306" width="63" height="30" />
+        <cmp x="690" y="1286" width="6" height="7" />
+      </word>
+      <word id="b04-026-03-02" tag="JJ" text="bright">
+        <cmp x="774" y="1273" width="129" height="113" />
+        <cmp x="835" y="1285" width="8" height="7" />
+        <cmp x="905" y="1276" width="26" height="68" />
+      </word>
+      <word id="b04-026-03-03" tag="NNS" text="colours">
+        <cmp x="978" y="1277" width="108" height="77" />
+      </word>
+      <word id="b04-026-03-04" tag="." text=".">
+        <cmp x="1111" y="1337" width="6" height="6" />
+      </word>
+      <word id="b04-026-03-05" sentence-start="yes" tag="IN" text="In">
+        <cmp x="1155" y="1299" width="32" height="54" />
+        <cmp x="1158" y="1284" width="40" height="11" />
+        <cmp x="1195" y="1321" width="52" height="30" />
+      </word>
+      <word id="b04-026-03-06" tag="NP" text="America">
+        <cmp x="1285" y="1289" width="37" height="54" />
+        <cmp x="1324" y="1309" width="163" height="46" />
+        <cmp x="1386" y="1290" width="7" height="7" />
+      </word>
+      <word id="b04-026-03-07" tag="NN" text="colour">
+        <cmp x="1539" y="1282" width="127" height="74" />
+      </word>
+      <word id="b04-026-03-08" tag="NN" text="TV">
+        <cmp x="1669" y="1292" width="40" height="52" />
+        <cmp x="1700" y="1325" width="6" height="6" />
+        <cmp x="1716" y="1290" width="39" height="57" />
+      </word>
+      <word id="b04-026-03-09" tag="BEZ" text="is">
+        <cmp x="1791" y="1315" width="50" height="35" />
+        <cmp x="1803" y="1301" width="6" height="7" />
+      </word>
+      <word id="b04-026-03-10" tag="CD" text="five">
+        <cmp x="1890" y="1285" width="101" height="92" />
+        <cmp x="1931" y="1299" width="6" height="7" />
+      </word>
+      <word id="b04-026-03-11" tag="NNS" text="years">
+        <cmp x="2041" y="1311" width="125" height="84" />
+      </word>
+      <upper-contour>
+        <point x="372" y="1187" />
+        <point x="2089" y="1187" />
+      </upper-contour>
+      <lower-contour>
+        <point x="371" y="1396" />
+        <point x="2167" y="1396" />
+      </lower-contour>
+    </line>
+    <line ass="-209" asx="0" asy="1442" character-width="999" dss="-209" dsx="0" dsy="1577" fd0="12631" fd1="3071" fd2="-516" filter-width="4" id="b04-026-04" lbs="-261" lbx="0" lby="1517" segmentation="err" slant="90000" stroke-width="5904" threshold="162" text="old. There are already 600,000 sets in use. What about Britain?" ubs="-105" ubx="0" uby="1491">
+      <word id="b04-026-04-00" tag="JJ" text="old">
+        <cmp x="373" y="1444" width="71" height="76" />
+      </word>
+      <word id="b04-026-04-01" tag="." text=".">
+        <cmp x="458" y="1508" width="9" height="8" />
+      </word>
+      <word id="b04-026-04-02" sentence-start="yes" tag="EX" text="There">
+        <cmp x="518" y="1461" width="49" height="21" />
+        <cmp x="543" y="1476" width="7" height="42" />
+        <cmp x="567" y="1454" width="89" height="68" />
+      </word>
+      <word id="b04-026-04-03" tag="BER" text="are">
+        <cmp x="706" y="1492" width="78" height="34" />
+      </word>
+      <word id="b04-026-04-04" tag="RB" text="already">
+        <cmp x="834" y="1459" width="155" height="122" />
+      </word>
+      <word id="b04-026-04-05" tag="CD" text="600,000">
+        <cmp x="1062" y="1476" width="23" height="51" />
+        <cmp x="1095" y="1487" width="22" height="38" />
+        <cmp x="1121" y="1487" width="24" height="41" />
+        <cmp x="1144" y="1520" width="11" height="20" />
+        <cmp x="1168" y="1493" width="25" height="39" />
+        <cmp x="1199" y="1495" width="23" height="33" />
+        <cmp x="1228" y="1492" width="24" height="38" />
+      </word>
+      <word id="b04-026-04-06" tag="NNS" text="sets">
+        <cmp x="1287" y="1470" width="85" height="60" />
+      </word>
+      <word id="b04-026-04-07" tag="IN" text="in">
+        <cmp x="1390" y="1495" width="61" height="28" />
+        <cmp x="1402" y="1473" width="6" height="6" />
+      </word>
+      <word id="b04-026-04-08" tag="NN" text="use">
+        <cmp x="1480" y="1495" width="79" height="31" />
+      </word>
+      <word id="b04-026-04-09" tag="." text=".">
+        <cmp x="1585" y="1514" width="8" height="5" />
+      </word>
+      <word id="b04-026-04-10" sentence-start="yes" tag="WDT" text="What">
+        <cmp x="1632" y="1473" width="47" height="52" />
+        <cmp x="1673" y="1460" width="77" height="68" />
+      </word>
+      <word id="b04-026-04-11" tag="IN" text="about">
+        <cmp x="1794" y="1457" width="129" height="77" />
+      </word>
+      <word id="b04-026-04-12" tag="NP" text="Britain">
+        <cmp x="1979" y="1461" width="37" height="61" />
+        <cmp x="2018" y="1462" width="128" height="68" />
+        <cmp x="2030" y="1458" width="6" height="6" />
+        <cmp x="2104" y="1461" width="6" height="6" />
+      </word>
+      <word id="b04-026-04-13" tag="?" text="?">
+        <cmp x="2161" y="1468" width="17" height="37" />
+        <cmp x="2169" y="1520" width="6" height="7" />
+      </word>
+      <upper-contour>
+        <point x="371" y="1396" />
+        <point x="2167" y="1396" />
+      </upper-contour>
+      <lower-contour>
+        <point x="371" y="1582" />
+        <point x="2133" y="1582" />
+      </lower-contour>
+    </line>
+    <line ass="-376" asx="0" asy="1623" character-width="999" dss="-376" dsx="0" dsy="1755" fd0="13284" fd1="3219" fd2="24" filter-width="4" id="b04-026-05" lbs="-418" lbx="0" lby="1695" segmentation="err" slant="79000" stroke-width="6226" threshold="162" text="The B.B.C. is ready to launch a colour TV service, but the" ubs="-292" ubx="0" uby="1667">
+      <word id="b04-026-05-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="354" y="1644" width="42" height="22" />
+        <cmp x="373" y="1659" width="12" height="29" />
+        <cmp x="397" y="1631" width="57" height="65" />
+      </word>
+      <word id="b04-026-05-01" tag="NP" text="B.B.C.">
+        <cmp x="520" y="1638" width="36" height="62" />
+        <cmp x="566" y="1688" width="7" height="7" />
+        <cmp x="596" y="1646" width="28" height="55" />
+        <cmp x="634" y="1687" width="7" height="8" />
+        <cmp x="655" y="1652" width="36" height="50" />
+        <cmp x="693" y="1688" width="6" height="8" />
+        <cmp x="764" y="1671" width="46" height="35" />
+      </word>
+      <word id="b04-026-05-02" tag="BEZ" text="is">
+        <cmp x="776" y="1647" width="9" height="10" />
+      </word>
+      <word id="b04-026-05-03" tag="JJ" text="ready">
+        <cmp x="849" y="1655" width="142" height="108" />
+      </word>
+      <word id="b04-026-05-04" tag="TO" text="to">
+        <cmp x="1045" y="1649" width="30" height="56" />
+      </word>
+      <word id="b04-026-05-05" tag="VB" text="launch">
+        <cmp x="1114" y="1640" width="121" height="70" />
+        <cmp x="1238" y="1633" width="63" height="74" />
+      </word>
+      <word id="b04-026-05-06" tag="AT" text="a">
+        <cmp x="1353" y="1682" width="35" height="28" />
+      </word>
+      <word id="b04-026-05-07" tag="NN" text="colour">
+        <cmp x="1432" y="1641" width="137" height="76" />
+      </word>
+      <word id="b04-026-05-08" tag="NN" text="TV">
+        <cmp x="1624" y="1666" width="50" height="40" />
+        <cmp x="1674" y="1659" width="39" height="47" />
+      </word>
+      <word id="b04-026-05-09" tag="NN" text="service">
+        <cmp x="1736" y="1673" width="111" height="40" />
+        <cmp x="1823" y="1649" width="7" height="6" />
+        <cmp x="1848" y="1677" width="43" height="35" />
+      </word>
+      <word id="b04-026-05-10" tag="," text=",">
+        <cmp x="1901" y="1699" width="12" height="20" />
+      </word>
+      <word id="b04-026-05-11" tag="CC" text="but">
+        <cmp x="1942" y="1636" width="87" height="71" />
+      </word>
+      <word id="b04-026-05-12" tag="ATI" text="the">
+        <cmp x="2075" y="1643" width="56" height="63" />
+      </word>
+      <upper-contour>
+        <point x="371" y="1582" />
+        <point x="2133" y="1582" />
+      </upper-contour>
+      <lower-contour>
+        <point x="369" y="1763" />
+        <point x="1993" y="1763" />
+      </lower-contour>
+    </line>
+    <line ass="-474" asx="0" asy="1802" character-width="999" dss="-474" dsx="0" dsy="1935" fd0="12662" fd1="3001" fd2="-336" filter-width="4" id="b04-026-06" lbs="-446" lbx="0" lby="1874" segmentation="ok" slant="91000" stroke-width="6211" threshold="162" text="commercial TV contractors want to delay it for 10 years." ubs="-531" ubx="0" uby="1842">
+      <word id="b04-026-06-00" tag="JJ" text="commercial">
+        <cmp x="371" y="1842" width="163" height="40" />
+        <cmp x="538" y="1813" width="91" height="69" />
+        <cmp x="545" y="1822" width="6" height="6" />
+      </word>
+      <word id="b04-026-06-01" tag="NN" text="TV">
+        <cmp x="684" y="1832" width="47" height="45" />
+        <cmp x="735" y="1831" width="30" height="50" />
+      </word>
+      <word id="b04-026-06-02" tag="NNS" text="contractors">
+        <cmp x="828" y="1820" width="123" height="66" />
+        <cmp x="951" y="1855" width="23" height="30" />
+        <cmp x="972" y="1824" width="66" height="63" />
+      </word>
+      <word id="b04-026-06-03" tag="VB" text="want">
+        <cmp x="1093" y="1812" width="121" height="70" />
+      </word>
+      <word id="b04-026-06-04" tag="TO" text="to">
+        <cmp x="1260" y="1834" width="31" height="62" />
+      </word>
+      <word id="b04-026-06-05" tag="VB" text="delay">
+        <cmp x="1349" y="1820" width="121" height="127" />
+      </word>
+      <word id="b04-026-06-06" tag="PP3" text="it">
+        <cmp x="1529" y="1822" width="70" height="63" />
+        <cmp x="1538" y="1832" width="6" height="7" />
+      </word>
+      <word id="b04-026-06-07" tag="IN" text="for">
+        <cmp x="1631" y="1823" width="72" height="88" />
+      </word>
+      <word id="b04-026-06-08" tag="CD" text="10">
+        <cmp x="1749" y="1834" width="11" height="49" />
+        <cmp x="1763" y="1842" width="34" height="47" />
+      </word>
+      <word id="b04-026-06-09" tag="NNS" text="years">
+        <cmp x="1843" y="1852" width="127" height="80" />
+      </word>
+      <word id="b04-026-06-10" tag="." text=".">
+        <cmp x="1987" y="1882" width="6" height="7" />
+      </word>
+      <upper-contour>
+        <point x="369" y="1763" />
+        <point x="1993" y="1763" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

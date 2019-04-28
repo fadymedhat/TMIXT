@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-17" height="3542" id="c06-000" last-modified="2002-07-17" skew="63" status="final" version="3.0_beta" width="2479" writer-id="130">
+  <machine-printed-part>
+    <machine-print-line text="IT is mid-morning on a Dublin Sunday. The streets are tranquilly sunny and still, for" />
+    <machine-print-line text="the town is at Mass. Most of it. In the front room of a house in Anglesey-road is a" />
+    <machine-print-line text="congregation who never actually got to church, but who are gathered with devotion" />
+    <machine-print-line text="around Brendan Behan and a brandy bottle." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-325" asx="0" asy="682" character-width="999" dss="-325" dsx="0" dsy="825" fd0="14768" fd1="2880" fd2="-210" filter-width="3" id="c06-000-00" lbs="-346" lbx="0" lby="778" segmentation="ok" slant="51000" stroke-width="5553" threshold="182" text="IT is mid-morning on a Dublin Sunday. The streets" ubs="-282" ubx="0" uby="758">
+      <word id="c06-000-00-00" sentence-start="yes" tag="PP3" text="IT">
+        <cmp x="335" y="696" width="106" height="91" />
+        <cmp x="353" y="717" width="49" height="72" />
+      </word>
+      <word id="c06-000-00-01" tag="BEZ" text="is">
+        <cmp x="459" y="764" width="46" height="35" />
+        <cmp x="492" y="724" width="6" height="7" />
+      </word>
+      <word id="c06-000-00-02" tag="NN" text="mid-morning">
+        <cmp x="560" y="721" width="141" height="79" />
+        <cmp x="626" y="717" width="15" height="10" />
+        <cmp x="715" y="767" width="33" height="8" />
+        <cmp x="785" y="765" width="61" height="29" />
+        <cmp x="850" y="763" width="144" height="27" />
+        <cmp x="949" y="723" width="5" height="5" />
+        <cmp x="964" y="766" width="58" height="66" />
+      </word>
+      <word id="c06-000-00-03" tag="IN" text="on">
+        <cmp x="1101" y="756" width="82" height="34" />
+      </word>
+      <word id="c06-000-00-04" tag="AT" text="a">
+        <cmp x="1218" y="766" width="42" height="31" />
+      </word>
+      <word id="c06-000-00-05" tag="NP" text="Dublin">
+        <cmp x="1315" y="711" width="63" height="79" />
+        <cmp x="1329" y="701" width="62" height="102" />
+        <cmp x="1368" y="709" width="162" height="86" />
+        <cmp x="1516" y="712" width="5" height="5" />
+      </word>
+      <word id="c06-000-00-06" tag="NR" text="Sunday">
+        <cmp x="1573" y="696" width="80" height="103" />
+        <cmp x="1606" y="700" width="168" height="89" />
+        <cmp x="1718" y="761" width="68" height="69" />
+      </word>
+      <word id="c06-000-00-07" tag="." text=".">
+        <cmp x="1789" y="794" width="5" height="4" />
+      </word>
+      <word id="c06-000-00-08" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="1855" y="717" width="58" height="62" />
+        <cmp x="1863" y="693" width="108" height="28" />
+        <cmp x="1890" y="710" width="72" height="83" />
+      </word>
+      <word id="c06-000-00-09" tag="NNS" text="streets">
+        <cmp x="2007" y="705" width="192" height="95" />
+      </word>
+      <lower-contour>
+        <point x="333" y="833" />
+        <point x="2078" y="833" />
+      </lower-contour>
+    </line>
+    <line ass="277" asx="0" asy="879" character-width="999" dss="277" dsx="0" dsy="1023" fd0="14411" fd1="2472" fd2="-1045" filter-width="4" id="c06-000-01" lbs="418" lbx="0" lby="979" segmentation="ok" slant="53000" stroke-width="5739" threshold="182" text="are tranquilly sunny and still, for the town" ubs="-3" ubx="0" uby="945">
+      <word id="c06-000-01-00" tag="BER" text="are">
+        <cmp x="326" y="922" width="88" height="47" />
+      </word>
+      <word id="c06-000-01-01" tag="RB" text="tranquilly">
+        <cmp x="485" y="877" width="172" height="137" />
+        <cmp x="655" y="881" width="146" height="140" />
+      </word>
+      <word id="c06-000-01-02" tag="JJ" text="sunny">
+        <cmp x="881" y="934" width="109" height="33" />
+        <cmp x="987" y="935" width="107" height="82" />
+      </word>
+      <word id="c06-000-01-03" tag="CC" text="and">
+        <cmp x="1159" y="904" width="143" height="81" />
+      </word>
+      <word id="c06-000-01-04" tag="JJ" text="still">
+        <cmp x="1348" y="883" width="172" height="95" />
+        <cmp x="1470" y="877" width="5" height="6" />
+      </word>
+      <word id="c06-000-01-05" tag="," text=",">
+        <cmp x="1499" y="972" width="16" height="22" />
+        <cmp x="1513" y="965" width="4" height="6" />
+      </word>
+      <word id="c06-000-01-06" tag="IN" text="for">
+        <cmp x="1596" y="880" width="106" height="95" />
+        <cmp x="1605" y="946" width="5" height="6" />
+      </word>
+      <word id="c06-000-01-07" tag="ATI" text="the">
+        <cmp x="1743" y="885" width="103" height="85" />
+      </word>
+      <word id="c06-000-01-08" tag="NN" text="town">
+        <cmp x="1909" y="880" width="168" height="99" />
+      </word>
+      <upper-contour>
+        <point x="333" y="833" />
+        <point x="2078" y="833" />
+      </upper-contour>
+      <lower-contour>
+        <point x="324" y="1021" />
+        <point x="2078" y="1021" />
+      </lower-contour>
+    </line>
+    <line ass="-142" asx="0" asy="1061" character-width="999" dss="-142" dsx="0" dsy="1180" fd0="14521" fd1="2539" fd2="-623" filter-width="4" id="c06-000-02" lbs="-41" lbx="0" lby="1152" segmentation="ok" slant="51000" stroke-width="5724" threshold="182" text="is at Mass. Most of it. In the front room of" ubs="-345" ubx="0" uby="1121">
+      <word id="c06-000-02-00" tag="BEZ" text="is">
+        <cmp x="319" y="1116" width="42" height="42" />
+        <cmp x="345" y="1089" width="5" height="5" />
+      </word>
+      <word id="c06-000-02-01" tag="IN" text="at">
+        <cmp x="420" y="1065" width="96" height="88" />
+      </word>
+      <word id="c06-000-02-02" tag="NN" text="Mass">
+        <cmp x="536" y="1071" width="86" height="81" />
+        <cmp x="589" y="1120" width="80" height="40" />
+      </word>
+      <word id="c06-000-02-03" tag="." text=".">
+        <cmp x="670" y="1151" width="5" height="5" />
+      </word>
+      <word id="c06-000-02-04" sentence-start="yes" tag="AP" text="Most">
+        <cmp x="740" y="1067" width="96" height="85" />
+        <cmp x="802" y="1065" width="129" height="93" />
+      </word>
+      <word id="c06-000-02-05" tag="INO" text="of">
+        <cmp x="966" y="1068" width="101" height="110" />
+      </word>
+      <word id="c06-000-02-06" tag="PP3" text="it">
+        <cmp x="1093" y="1133" width="23" height="26" />
+        <cmp x="1097" y="1076" width="83" height="91" />
+        <cmp x="1118" y="1092" width="8" height="7" />
+      </word>
+      <word id="c06-000-02-07" tag="." text=".">
+        <cmp x="1182" y="1152" width="7" height="9" />
+      </word>
+      <word id="c06-000-02-08" sentence-start="yes" tag="IN" text="In">
+        <cmp x="1295" y="1065" width="75" height="88" />
+      </word>
+      <word id="c06-000-02-09" tag="ATI" text="the">
+        <cmp x="1434" y="1075" width="104" height="75" />
+      </word>
+      <word id="c06-000-02-10" tag="JJB" text="front">
+        <cmp x="1614" y="1069" width="209" height="104" />
+      </word>
+      <word id="c06-000-02-11" tag="NN" text="room">
+        <cmp x="1869" y="1120" width="149" height="32" />
+      </word>
+      <word id="c06-000-02-12" tag="INO" text="of">
+        <cmp x="2066" y="1080" width="106" height="107" />
+        <cmp x="2090" y="1144" width="18" height="22" />
+      </word>
+      <upper-contour>
+        <point x="324" y="1021" />
+        <point x="2078" y="1021" />
+      </upper-contour>
+      <lower-contour>
+        <point x="317" y="1187" />
+        <point x="2173" y="1187" />
+      </lower-contour>
+    </line>
+    <line ass="-675" asx="0" asy="1212" character-width="999" dss="-675" dsx="0" dsy="1373" fd0="14330" fd1="2166" fd2="-794" filter-width="3" id="c06-000-03" lbs="-687" lbx="0" lby="1313" segmentation="ok" slant="45000" stroke-width="5672" threshold="182" text="a house in Anglesey-road is a congregation who" ubs="-652" ubx="0" uby="1295">
+      <word id="c06-000-03-00" tag="AT" text="a">
+        <cmp x="314" y="1293" width="47" height="32" />
+      </word>
+      <word id="c06-000-03-01" tag="NN" text="house">
+        <cmp x="432" y="1241" width="158" height="90" />
+      </word>
+      <word id="c06-000-03-02" tag="IN" text="in">
+        <cmp x="676" y="1299" width="65" height="34" />
+        <cmp x="717" y="1262" width="5" height="9" />
+      </word>
+      <word id="c06-000-03-03" tag="NP" text="Anglesey-road">
+        <cmp x="835" y="1253" width="79" height="78" />
+        <cmp x="881" y="1244" width="202" height="142" />
+        <cmp x="1100" y="1325" width="23" height="9" />
+        <cmp x="1190" y="1252" width="170" height="87" />
+      </word>
+      <word id="c06-000-03-04" tag="BEZ" text="is">
+        <cmp x="1397" y="1300" width="49" height="35" />
+        <cmp x="1428" y="1271" width="7" height="7" />
+      </word>
+      <word id="c06-000-03-05" tag="AT" text="a">
+        <cmp x="1499" y="1304" width="39" height="28" />
+      </word>
+      <word id="c06-000-03-06" tag="NN" text="congregation">
+        <cmp x="1644" y="1293" width="120" height="38" />
+        <cmp x="1667" y="1306" width="5" height="8" />
+        <cmp x="1755" y="1297" width="113" height="74" />
+        <cmp x="1827" y="1258" width="150" height="113" />
+        <cmp x="1959" y="1306" width="66" height="24" />
+        <cmp x="1994" y="1262" width="3" height="11" />
+      </word>
+      <word id="c06-000-03-07" tag="WP" text="who">
+        <cmp x="2050" y="1237" width="126" height="99" />
+      </word>
+      <upper-contour>
+        <point x="317" y="1187" />
+        <point x="2173" y="1187" />
+      </upper-contour>
+      <lower-contour>
+        <point x="312" y="1386" />
+        <point x="2004" y="1386" />
+      </lower-contour>
+    </line>
+    <line ass="-42" asx="0" asy="1412" character-width="999" dss="-42" dsx="0" dsy="1546" fd0="14478" fd1="2358" fd2="-803" filter-width="3" id="c06-000-04" lbs="-11" lbx="0" lby="1504" segmentation="ok" slant="51000" stroke-width="5703" threshold="182" text="never actually got to church, but who are" ubs="-104" ubx="0" uby="1481">
+      <word id="c06-000-04-00" tag="RB" text="never">
+        <cmp x="313" y="1468" width="161" height="43" />
+      </word>
+      <word id="c06-000-04-01" tag="RB" text="actually">
+        <cmp x="533" y="1430" width="135" height="88" />
+        <cmp x="671" y="1430" width="120" height="116" />
+      </word>
+      <word id="c06-000-04-02" tag="VBN" text="got">
+        <cmp x="870" y="1428" width="139" height="115" />
+      </word>
+      <word id="c06-000-04-03" tag="IN" text="to">
+        <cmp x="1041" y="1429" width="79" height="77" />
+      </word>
+      <word id="c06-000-04-04" tag="NN" text="church">
+        <cmp x="1191" y="1413" width="158" height="100" />
+        <cmp x="1336" y="1418" width="93" height="97" />
+      </word>
+      <word id="c06-000-04-05" tag="," text=",">
+        <cmp x="1398" y="1522" width="24" height="26" />
+      </word>
+      <word id="c06-000-04-06" tag="CC" text="but">
+        <cmp x="1493" y="1421" width="169" height="95" />
+      </word>
+      <word id="c06-000-04-07" tag="WP" text="who">
+        <cmp x="1697" y="1484" width="60" height="26" />
+        <cmp x="1756" y="1416" width="79" height="93" />
+      </word>
+      <word id="c06-000-04-08" tag="BER" text="are">
+        <cmp x="1874" y="1473" width="129" height="33" />
+      </word>
+      <upper-contour>
+        <point x="312" y="1386" />
+        <point x="2004" y="1386" />
+      </upper-contour>
+      <lower-contour>
+        <point x="311" y="1549" />
+        <point x="2004" y="1549" />
+      </lower-contour>
+    </line>
+    <line ass="271" asx="0" asy="1599" character-width="999" dss="271" dsx="0" dsy="1732" fd0="14121" fd1="2296" fd2="-1211" filter-width="3" id="c06-000-05" lbs="361" lbx="0" lby="1692" segmentation="ok" slant="55000" stroke-width="5697" threshold="182" text="gathered with devotion around Brendan Behan" ubs="92" ubx="0" uby="1661">
+      <word id="c06-000-05-00" tag="VBN" text="gathered">
+        <cmp x="295" y="1607" width="200" height="126" />
+        <cmp x="493" y="1604" width="58" height="93" />
+      </word>
+      <word id="c06-000-05-01" tag="IN" text="with">
+        <cmp x="616" y="1595" width="163" height="89" />
+        <cmp x="713" y="1617" width="6" height="8" />
+      </word>
+      <word id="c06-000-05-02" tag="NN" text="devotion">
+        <cmp x="888" y="1599" width="295" height="89" />
+        <cmp x="1135" y="1625" width="3" height="6" />
+      </word>
+      <word id="c06-000-05-03" tag="IN" text="around">
+        <cmp x="1280" y="1652" width="197" height="33" />
+        <cmp x="1472" y="1609" width="78" height="78" />
+      </word>
+      <word id="c06-000-05-04" tag="NP" text="Brendan">
+        <cmp x="1616" y="1602" width="71" height="81" />
+        <cmp x="1643" y="1592" width="58" height="92" />
+        <cmp x="1669" y="1654" width="97" height="34" />
+        <cmp x="1772" y="1595" width="98" height="98" />
+        <cmp x="1814" y="1663" width="74" height="28" />
+      </word>
+      <word id="c06-000-05-05" tag="NP" text="Behan">
+        <cmp x="1936" y="1605" width="163" height="83" />
+        <cmp x="2061" y="1665" width="72" height="30" />
+      </word>
+      <upper-contour>
+        <point x="311" y="1549" />
+        <point x="2004" y="1549" />
+      </upper-contour>
+      <lower-contour>
+        <point x="323" y="1697" />
+        <point x="1192" y="1697" />
+      </lower-contour>
+    </line>
+    <line ass="928" asx="0" asy="1790" character-width="999" dss="928" dsx="0" dsy="1933" fd0="14702" fd1="2602" fd2="-856" filter-width="4" id="c06-000-06" lbs="238" lbx="0" lby="1869" segmentation="ok" slant="50000" stroke-width="5963" threshold="182" text="and a brandy bottle." ubs="2309" ubx="0" uby="1843">
+      <word id="c06-000-06-00" tag="CC" text="and">
+        <cmp x="325" y="1794" width="133" height="80" />
+      </word>
+      <word id="c06-000-06-01" tag="AT" text="a">
+        <cmp x="544" y="1834" width="39" height="33" />
+      </word>
+      <word id="c06-000-06-02" tag="NN" text="brandy">
+        <cmp x="677" y="1784" width="225" height="137" />
+      </word>
+      <word id="c06-000-06-03" tag="NN" text="bottle">
+        <cmp x="993" y="1774" width="198" height="100" />
+      </word>
+      <word id="c06-000-06-04" tag="." text=".">
+        <cmp x="1184" y="1883" width="5" height="5" />
+      </word>
+      <upper-contour>
+        <point x="323" y="1697" />
+        <point x="1192" y="1697" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-03-16" height="3542" id="a03-080" last-modified="2002-07-17" skew="30" status="final" version="3.0_beta" width="2479" writer-id="000">
+  <machine-printed-part>
+    <machine-print-line text="The Foreign Ministry spokesman added today, however, that the Brussels Treaty was" />
+    <machine-print-line text="irrelevant, because research on the various rocket stages had already been concluded," />
+    <machine-print-line text="and only cooperation on the type of capsule was involved. A lesser obstacle to German" />
+    <machine-print-line text="participation is the absence of any Ministry or Minister directly responsible for it -" />
+    <machine-print-line text="and therefore of any budget under which funds could be appropriated." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="146" asx="0" asy="755" character-width="999" dss="146" dsx="0" dsy="826" fd0="13396" fd1="3196" fd2="476" filter-width="4" id="a03-080-00" lbs="179" lbx="0" lby="809" segmentation="ok" slant="90000" stroke-width="6738" threshold="172" text="The Foreign Ministry spokesman added" ubs="78" ubx="0" uby="786">
+      <word id="a03-080-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="333" y="755" width="175" height="53" />
+        <cmp x="367" y="764" width="9" height="44" />
+      </word>
+      <word id="a03-080-00-01" tag="JJ" text="Foreign">
+        <cmp x="554" y="755" width="67" height="9" />
+        <cmp x="591" y="766" width="26" height="46" />
+        <cmp x="623" y="783" width="73" height="31" />
+        <cmp x="705" y="778" width="77" height="29" />
+        <cmp x="753" y="758" width="14" height="15" />
+        <cmp x="800" y="781" width="76" height="35" />
+      </word>
+      <word id="a03-080-00-02" tag="NN" text="Ministry">
+        <cmp x="973" y="760" width="156" height="53" />
+        <cmp x="1052" y="755" width="11" height="12" />
+        <cmp x="1111" y="761" width="12" height="13" />
+        <cmp x="1141" y="787" width="24" height="23" />
+        <cmp x="1167" y="772" width="100" height="48" />
+      </word>
+      <word id="a03-080-00-03" tag="NN" text="spokesman">
+        <cmp x="1290" y="781" width="24" height="22" />
+        <cmp x="1318" y="782" width="29" height="41" />
+        <cmp x="1353" y="780" width="40" height="25" />
+        <cmp x="1402" y="771" width="100" height="33" />
+        <cmp x="1522" y="785" width="72" height="19" />
+        <cmp x="1598" y="784" width="119" height="22" />
+      </word>
+      <word id="a03-080-00-04" tag="VBD" text="added">
+        <cmp x="1795" y="783" width="35" height="19" />
+        <cmp x="1835" y="773" width="56" height="32" />
+        <cmp x="1897" y="765" width="164" height="39" />
+      </word>
+      <lower-contour>
+        <point x="342" y="823" />
+        <point x="2062" y="823" />
+      </lower-contour>
+    </line>
+    <line ass="115" asx="0" asy="926" character-width="999" dss="115" dsx="0" dsy="1001" fd0="13315" fd1="3146" fd2="418" filter-width="4" id="a03-080-01" lbs="174" lbx="0" lby="982" segmentation="ok" slant="102000" stroke-width="6771" threshold="172" text="today, however, that the Brussels Treaty" ubs="-2" ubx="0" uby="955">
+      <word id="a03-080-01-00" tag="NR" text="today">
+        <cmp x="344" y="949" width="61" height="37" />
+        <cmp x="412" y="953" width="47" height="27" />
+        <cmp x="460" y="958" width="105" height="38" />
+      </word>
+      <word id="a03-080-01-01" tag="," text=",">
+        <cmp x="582" y="975" width="13" height="25" />
+      </word>
+      <word id="a03-080-01-02" tag="RB" text="however">
+        <cmp x="651" y="946" width="48" height="39" />
+        <cmp x="701" y="956" width="32" height="28" />
+        <cmp x="741" y="949" width="60" height="32" />
+        <cmp x="808" y="945" width="35" height="30" />
+        <cmp x="847" y="949" width="34" height="27" />
+        <cmp x="884" y="941" width="69" height="34" />
+      </word>
+      <word id="a03-080-01-03" tag="," text=",">
+        <cmp x="968" y="975" width="12" height="25" />
+      </word>
+      <word id="a03-080-01-04" tag="CS" text="that">
+        <cmp x="1067" y="942" width="86" height="39" />
+        <cmp x="1157" y="935" width="83" height="42" />
+      </word>
+      <word id="a03-080-01-05" tag="ATI" text="the">
+        <cmp x="1294" y="943" width="127" height="37" />
+      </word>
+      <word id="a03-080-01-06" tag="NP" text="Brussels">
+        <cmp x="1464" y="924" width="82" height="58" />
+        <cmp x="1551" y="960" width="23" height="17" />
+        <cmp x="1581" y="958" width="160" height="22" />
+        <cmp x="1739" y="948" width="53" height="30" />
+      </word>
+      <word id="a03-080-01-07" tag="NN" text="Treaty">
+        <cmp x="1837" y="924" width="60" height="10" />
+        <cmp x="1873" y="943" width="11" height="36" />
+        <cmp x="1896" y="953" width="104" height="27" />
+        <cmp x="2017" y="940" width="81" height="48" />
+      </word>
+      <upper-contour>
+        <point x="342" y="823" />
+        <point x="2062" y="823" />
+      </upper-contour>
+      <lower-contour>
+        <point x="350" y="1000" />
+        <point x="2099" y="1000" />
+      </lower-contour>
+    </line>
+    <line ass="204" asx="0" asy="1126" character-width="999" dss="204" dsx="0" dsy="1187" fd0="13363" fd1="3782" fd2="698" filter-width="4" id="a03-080-02" lbs="185" lbx="0" lby="1162" segmentation="err" slant="114000" stroke-width="6694" threshold="173" text="was irrelevant, because research on the" ubs="244" ubx="0" uby="1143">
+      <word id="a03-080-02-00" tag="BEDZ" text="was">
+        <cmp x="352" y="1138" width="53" height="28" />
+        <cmp x="410" y="1138" width="107" height="27" />
+      </word>
+      <word id="a03-080-02-01" tag="JJ" text="irrelevant">
+        <cmp x="606" y="1125" width="6" height="7" />
+        <cmp x="619" y="1141" width="61" height="22" />
+        <cmp x="687" y="1133" width="66" height="27" />
+        <cmp x="756" y="1127" width="76" height="35" />
+        <cmp x="832" y="1133" width="35" height="27" />
+        <cmp x="870" y="1125" width="99" height="36" />
+        <cmp x="984" y="1156" width="28" height="28" />
+      </word>
+      <word id="a03-080-02-02" tag="," text=",">
+        <cmp x="1088" y="1123" width="39" height="38" />
+      </word>
+      <word id="a03-080-02-03" tag="CS" text="because">
+        <cmp x="1136" y="1135" width="40" height="26" />
+        <cmp x="1177" y="1135" width="27" height="26" />
+        <cmp x="1211" y="1135" width="180" height="27" />
+      </word>
+      <word id="a03-080-02-04" tag="NN" text="research">
+        <cmp x="1465" y="1131" width="80" height="31" />
+        <cmp x="1551" y="1142" width="29" height="16" />
+        <cmp x="1588" y="1137" width="110" height="25" />
+        <cmp x="1708" y="1128" width="91" height="30" />
+      </word>
+      <word id="a03-080-02-05" tag="IN" text="on">
+        <cmp x="1839" y="1135" width="84" height="21" />
+      </word>
+      <word id="a03-080-02-06" tag="ATI" text="the">
+        <cmp x="1975" y="1122" width="151" height="45" />
+      </word>
+      <upper-contour>
+        <point x="350" y="1000" />
+        <point x="2099" y="1000" />
+      </upper-contour>
+      <lower-contour>
+        <point x="350" y="1184" />
+        <point x="2009" y="1184" />
+      </lower-contour>
+    </line>
+    <line ass="384" asx="0" asy="1297" character-width="999" dss="384" dsx="0" dsy="1361" fd0="13655" fd1="3598" fd2="79" filter-width="4" id="a03-080-03" lbs="356" lbx="0" lby="1346" segmentation="ok" slant="110000" stroke-width="6936" threshold="172" text="various rocket stages had already been" ubs="438" ubx="0" uby="1324">
+      <word id="a03-080-03-00" tag="JJ" text="various">
+        <cmp x="344" y="1317" width="121" height="28" />
+        <cmp x="445" y="1299" width="10" height="11" />
+        <cmp x="472" y="1320" width="114" height="26" />
+      </word>
+      <word id="a03-080-03-01" tag="NN" text="rocket">
+        <cmp x="671" y="1327" width="43" height="17" />
+        <cmp x="717" y="1319" width="34" height="29" />
+        <cmp x="757" y="1303" width="126" height="38" />
+      </word>
+      <word id="a03-080-03-02" tag="NNS" text="stages">
+        <cmp x="946" y="1307" width="40" height="26" />
+        <cmp x="990" y="1292" width="27" height="39" />
+        <cmp x="1019" y="1311" width="50" height="24" />
+        <cmp x="1075" y="1310" width="94" height="39" />
+      </word>
+      <word id="a03-080-03-03" tag="HVD" text="had">
+        <cmp x="1252" y="1311" width="38" height="35" />
+        <cmp x="1292" y="1321" width="36" height="25" />
+        <cmp x="1331" y="1313" width="61" height="28" />
+      </word>
+      <word id="a03-080-03-04" tag="RB" text="already">
+        <cmp x="1468" y="1325" width="41" height="22" />
+        <cmp x="1502" y="1305" width="148" height="32" />
+        <cmp x="1648" y="1305" width="103" height="46" />
+      </word>
+      <word id="a03-080-03-05" tag="BEN" text="been">
+        <cmp x="1830" y="1297" width="126" height="37" />
+        <cmp x="1962" y="1311" width="46" height="22" />
+      </word>
+      <upper-contour>
+        <point x="350" y="1184" />
+        <point x="2009" y="1184" />
+      </upper-contour>
+      <lower-contour>
+        <point x="342" y="1351" />
+        <point x="2009" y="1351" />
+      </lower-contour>
+    </line>
+    <line ass="-216" asx="0" asy="1466" character-width="999" dss="-216" dsx="0" dsy="1538" fd0="13455" fd1="3021" fd2="408" filter-width="4" id="a03-080-04" lbs="-239" lbx="0" lby="1512" segmentation="err" slant="114999" stroke-width="6891" threshold="171" text="concluded, and only cooperation on the type" ubs="-168" ubx="0" uby="1493">
+      <word id="a03-080-04-00" tag="VBN" text="concluded">
+        <cmp x="335" y="1497" width="33" height="28" />
+        <cmp x="371" y="1496" width="76" height="23" />
+        <cmp x="457" y="1497" width="35" height="22" />
+        <cmp x="486" y="1487" width="76" height="27" />
+        <cmp x="562" y="1486" width="123" height="29" />
+        <cmp x="696" y="1517" width="19" height="24" />
+      </word>
+      <word id="a03-080-04-01" tag="," text=",">
+        <cmp x="793" y="1502" width="75" height="18" />
+      </word>
+      <word id="a03-080-04-02" tag="CC" text="and">
+        <cmp x="890" y="1491" width="68" height="30" />
+      </word>
+      <word id="a03-080-04-03" tag="RB" text="only">
+        <cmp x="1008" y="1495" width="83" height="22" />
+        <cmp x="1094" y="1483" width="74" height="47" />
+      </word>
+      <word id="a03-080-04-04" tag="NN" text="cooperation">
+        <cmp x="1245" y="1494" width="25" height="27" />
+        <cmp x="1274" y="1491" width="79" height="27" />
+        <cmp x="1361" y="1484" width="96" height="43" />
+        <cmp x="1465" y="1489" width="53" height="22" />
+        <cmp x="1512" y="1474" width="40" height="37" />
+        <cmp x="1538" y="1473" width="10" height="13" />
+        <cmp x="1566" y="1494" width="96" height="24" />
+      </word>
+      <word id="a03-080-04-05" tag="IN" text="on">
+        <cmp x="1731" y="1498" width="76" height="24" />
+      </word>
+      <word id="a03-080-04-06" tag="ATI" text="the">
+        <cmp x="1895" y="1487" width="132" height="39" />
+      </word>
+      <word id="a03-080-04-07" tag="NN" text="type">
+        <cmp x="2079" y="1474" width="82" height="59" />
+        <cmp x="2165" y="1491" width="91" height="42" />
+      </word>
+      <upper-contour>
+        <point x="342" y="1351" />
+        <point x="2009" y="1351" />
+      </upper-contour>
+      <lower-contour>
+        <point x="333" y="1541" />
+        <point x="2135" y="1541" />
+      </lower-contour>
+    </line>
+    <line ass="163" asx="0" asy="1647" character-width="999" dss="163" dsx="0" dsy="1711" fd0="13438" fd1="3053" fd2="260" filter-width="4" id="a03-080-05" lbs="135" lbx="0" lby="1699" segmentation="ok" slant="112000" stroke-width="7024" threshold="168" text="of capsule was involved. A lesser obstacle" ubs="219" ubx="0" uby="1678">
+      <word id="a03-080-05-00" tag="INO" text="of">
+        <cmp x="331" y="1670" width="22" height="25" />
+        <cmp x="365" y="1650" width="41" height="46" />
+      </word>
+      <word id="a03-080-05-01" tag="NN" text="capsule">
+        <cmp x="450" y="1673" width="39" height="27" />
+        <cmp x="490" y="1677" width="56" height="25" />
+        <cmp x="546" y="1676" width="31" height="35" />
+        <cmp x="587" y="1679" width="19" height="14" />
+        <cmp x="618" y="1679" width="45" height="18" />
+        <cmp x="666" y="1668" width="96" height="34" />
+      </word>
+      <word id="a03-080-05-02" tag="BEDZ" text="was">
+        <cmp x="812" y="1673" width="61" height="33" />
+        <cmp x="875" y="1674" width="84" height="23" />
+      </word>
+      <word id="a03-080-05-03" tag="VBN" text="involved">
+        <cmp x="1003" y="1646" width="19" height="11" />
+        <cmp x="1020" y="1674" width="58" height="19" />
+        <cmp x="1080" y="1671" width="37" height="25" />
+        <cmp x="1121" y="1671" width="40" height="27" />
+        <cmp x="1160" y="1662" width="26" height="31" />
+        <cmp x="1194" y="1666" width="135" height="37" />
+      </word>
+      <word id="a03-080-05-04" tag="." text=".">
+        <cmp x="1348" y="1694" width="7" height="8" />
+      </word>
+      <word id="a03-080-05-05" sentence-start="yes" tag="AT" text="A">
+        <cmp x="1468" y="1648" width="43" height="55" />
+      </word>
+      <word id="a03-080-05-06" tag="JJR" text="lesser">
+        <cmp x="1584" y="1664" width="130" height="36" />
+      </word>
+      <word id="a03-080-05-07" tag="NN" text="obstacle">
+        <cmp x="1807" y="1673" width="34" height="26" />
+        <cmp x="1844" y="1653" width="81" height="43" />
+        <cmp x="1928" y="1651" width="29" height="42" />
+        <cmp x="1959" y="1670" width="38" height="25" />
+        <cmp x="2012" y="1669" width="37" height="24" />
+        <cmp x="2048" y="1660" width="86" height="41" />
+      </word>
+      <upper-contour>
+        <point x="333" y="1541" />
+        <point x="2135" y="1541" />
+      </upper-contour>
+      <lower-contour>
+        <point x="342" y="1711" />
+        <point x="2135" y="1711" />
+      </lower-contour>
+    </line>
+    <line ass="29" asx="0" asy="1823" character-width="999" dss="29" dsx="0" dsy="1890" fd0="12980" fd1="3083" fd2="694" filter-width="4" id="a03-080-06" lbs="24" lbx="0" lby="1876" segmentation="ok" slant="108999" stroke-width="6928" threshold="167" text="to German participation is the absence of" ubs="39" ubx="0" uby="1858">
+      <word id="a03-080-06-00" tag="IN" text="to">
+        <cmp x="344" y="1847" width="22" height="27" />
+        <cmp x="371" y="1856" width="36" height="24" />
+      </word>
+      <word id="a03-080-06-01" tag="JNP" text="German">
+        <cmp x="483" y="1837" width="37" height="40" />
+        <cmp x="525" y="1850" width="75" height="32" />
+        <cmp x="605" y="1857" width="65" height="18" />
+        <cmp x="673" y="1859" width="96" height="19" />
+      </word>
+      <word id="a03-080-06-02" tag="NN" text="participation">
+        <cmp x="825" y="1853" width="41" height="36" />
+        <cmp x="871" y="1853" width="73" height="23" />
+        <cmp x="952" y="1838" width="40" height="31" />
+        <cmp x="965" y="1824" width="10" height="8" />
+        <cmp x="1003" y="1849" width="66" height="24" />
+        <cmp x="1040" y="1826" width="14" height="11" />
+        <cmp x="1079" y="1853" width="29" height="36" />
+        <cmp x="1115" y="1842" width="87" height="31" />
+        <cmp x="1176" y="1832" width="13" height="13" />
+        <cmp x="1204" y="1853" width="97" height="22" />
+      </word>
+      <word id="a03-080-06-03" tag="BEZ" text="is">
+        <cmp x="1371" y="1825" width="13" height="11" />
+        <cmp x="1385" y="1858" width="43" height="17" />
+      </word>
+      <word id="a03-080-06-04" tag="ATI" text="the">
+        <cmp x="1490" y="1839" width="168" height="45" />
+      </word>
+      <word id="a03-080-06-05" tag="NN" text="absence">
+        <cmp x="1754" y="1838" width="73" height="41" />
+        <cmp x="1831" y="1853" width="110" height="20" />
+        <cmp x="1954" y="1847" width="98" height="28" />
+      </word>
+      <word id="a03-080-06-06" tag="INO" text="of">
+        <cmp x="2121" y="1852" width="30" height="28" />
+        <cmp x="2163" y="1828" width="30" height="57" />
+      </word>
+      <upper-contour>
+        <point x="342" y="1711" />
+        <point x="2135" y="1711" />
+      </upper-contour>
+      <lower-contour>
+        <point x="360" y="1890" />
+        <point x="2194" y="1890" />
+      </lower-contour>
+    </line>
+    <line ass="339" asx="0" asy="2012" character-width="999" dss="339" dsx="0" dsy="2088" fd0="14120" fd1="2903" fd2="-98" filter-width="4" id="a03-080-07" lbs="399" lbx="0" lby="2065" segmentation="ok" slant="117000" stroke-width="7042" threshold="170" text="any Ministry or Minister directly responsible" ubs="220" ubx="0" uby="2037">
+      <word id="a03-080-07-00" tag="DTI" text="any">
+        <cmp x="362" y="2034" width="165" height="53" />
+      </word>
+      <word id="a03-080-07-01" tag="NN" text="Ministry">
+        <cmp x="598" y="2013" width="88" height="46" />
+        <cmp x="657" y="2013" width="7" height="8" />
+        <cmp x="700" y="2042" width="70" height="18" />
+        <cmp x="744" y="2008" width="10" height="14" />
+        <cmp x="779" y="2036" width="28" height="25" />
+        <cmp x="810" y="2018" width="108" height="55" />
+      </word>
+      <word id="a03-080-07-02" tag="CC" text="or">
+        <cmp x="987" y="2029" width="72" height="26" />
+      </word>
+      <word id="a03-080-07-03" tag="NPT" text="Minister">
+        <cmp x="1136" y="2011" width="84" height="43" />
+        <cmp x="1200" y="2014" width="14" height="11" />
+        <cmp x="1235" y="2040" width="77" height="19" />
+        <cmp x="1278" y="2013" width="15" height="12" />
+        <cmp x="1317" y="2017" width="128" height="38" />
+      </word>
+      <word id="a03-080-07-04" tag="RB" text="directly">
+        <cmp x="1544" y="2024" width="79" height="35" />
+        <cmp x="1608" y="2013" width="10" height="12" />
+        <cmp x="1633" y="2028" width="68" height="32" />
+        <cmp x="1701" y="2015" width="73" height="44" />
+        <cmp x="1773" y="2017" width="78" height="48" />
+      </word>
+      <word id="a03-080-07-05" tag="JJ" text="responsible">
+        <cmp x="1927" y="2033" width="23" height="19" />
+        <cmp x="1955" y="2026" width="131" height="39" />
+        <cmp x="2093" y="2036" width="44" height="18" />
+        <cmp x="2123" y="2008" width="12" height="16" />
+        <cmp x="2143" y="2019" width="30" height="36" />
+        <cmp x="2177" y="2018" width="76" height="38" />
+      </word>
+      <upper-contour>
+        <point x="360" y="1890" />
+        <point x="2194" y="1890" />
+      </upper-contour>
+      <lower-contour>
+        <point x="360" y="2087" />
+        <point x="2172" y="2087" />
+      </lower-contour>
+    </line>
+    <line ass="7" asx="0" asy="2175" character-width="999" dss="7" dsx="0" dsy="2256" fd0="12520" fd1="2889" fd2="662" filter-width="5" id="a03-080-08" lbs="-68" lbx="0" lby="2229" segmentation="ok" slant="102000" stroke-width="7193" threshold="169" text="for it - and therefore of any budget" ubs="158" ubx="0" uby="2211">
+      <word id="a03-080-08-00" tag="IN" text="for">
+        <cmp x="357" y="2197" width="31" height="59" />
+        <cmp x="384" y="2210" width="95" height="29" />
+      </word>
+      <word id="a03-080-08-01" tag="PP3" text="it">
+        <cmp x="535" y="2210" width="12" height="8" />
+        <cmp x="545" y="2184" width="66" height="57" />
+      </word>
+      <word id="a03-080-08-02" tag="*-" text="-">
+        <cmp x="713" y="2221" width="25" height="7" />
+      </word>
+      <word id="a03-080-08-03" tag="CC" text="and">
+        <cmp x="826" y="2208" width="76" height="20" />
+        <cmp x="913" y="2195" width="58" height="37" />
+      </word>
+      <word id="a03-080-08-04" tag="RB" text="therefore">
+        <cmp x="1057" y="2192" width="38" height="29" />
+        <cmp x="1091" y="2194" width="182" height="43" />
+        <cmp x="1287" y="2178" width="25" height="58" />
+        <cmp x="1319" y="2203" width="55" height="22" />
+        <cmp x="1389" y="2206" width="54" height="30" />
+      </word>
+      <word id="a03-080-08-05" tag="INO" text="of">
+        <cmp x="1550" y="2205" width="32" height="29" />
+        <cmp x="1597" y="2176" width="36" height="52" />
+      </word>
+      <word id="a03-080-08-06" tag="DTI" text="any">
+        <cmp x="1708" y="2207" width="119" height="42" />
+      </word>
+      <word id="a03-080-08-07" tag="NN" text="budget">
+        <cmp x="1925" y="2202" width="28" height="32" />
+        <cmp x="1958" y="2214" width="33" height="19" />
+        <cmp x="1999" y="2201" width="59" height="32" />
+        <cmp x="2060" y="2183" width="110" height="60" />
+      </word>
+      <upper-contour>
+        <point x="360" y="2087" />
+        <point x="2172" y="2087" />
+      </upper-contour>
+      <lower-contour>
+        <point x="365" y="2256" />
+        <point x="2172" y="2256" />
+      </lower-contour>
+    </line>
+    <line ass="51" asx="0" asy="2366" character-width="999" dss="51" dsx="0" dsy="2426" fd0="13608" fd1="3252" fd2="256" filter-width="4" id="a03-080-09" lbs="-17" lbx="0" lby="2413" segmentation="ok" slant="108999" stroke-width="7068" threshold="167" text="under which funds could be appropriated." ubs="189" ubx="0" uby="2396">
+      <word id="a03-080-09-00" tag="IN" text="under">
+        <cmp x="367" y="2402" width="71" height="20" />
+        <cmp x="439" y="2382" width="150" height="35" />
+      </word>
+      <word id="a03-080-09-01" tag="WDT" text="which">
+        <cmp x="672" y="2386" width="56" height="34" />
+        <cmp x="749" y="2383" width="73" height="29" />
+        <cmp x="794" y="2372" width="17" height="15" />
+        <cmp x="840" y="2389" width="95" height="22" />
+      </word>
+      <word id="a03-080-09-02" tag="NNS" text="funds">
+        <cmp x="987" y="2370" width="31" height="52" />
+        <cmp x="1021" y="2386" width="98" height="25" />
+        <cmp x="1120" y="2377" width="60" height="34" />
+        <cmp x="1188" y="2390" width="31" height="31" />
+      </word>
+      <word id="a03-080-09-03" tag="MD" text="could">
+        <cmp x="1312" y="2393" width="32" height="23" />
+        <cmp x="1355" y="2390" width="113" height="26" />
+        <cmp x="1462" y="2377" width="27" height="34" />
+        <cmp x="1493" y="2382" width="55" height="33" />
+      </word>
+      <word id="a03-080-09-04" tag="BE" text="be">
+        <cmp x="1627" y="2379" width="32" height="34" />
+        <cmp x="1660" y="2388" width="67" height="32" />
+      </word>
+      <word id="a03-080-09-05" tag="VBN" text="appropriated">
+        <cmp x="1806" y="2397" width="40" height="23" />
+        <cmp x="1851" y="2392" width="34" height="33" />
+        <cmp x="1891" y="2392" width="33" height="32" />
+        <cmp x="1927" y="2392" width="25" height="18" />
+        <cmp x="1957" y="2387" width="41" height="31" />
+        <cmp x="2004" y="2382" width="28" height="41" />
+        <cmp x="2043" y="2385" width="39" height="23" />
+        <cmp x="2071" y="2366" width="12" height="14" />
+        <cmp x="2094" y="2368" width="152" height="43" />
+      </word>
+      <word id="a03-080-09-06" tag="." text=".">
+        <cmp x="2262" y="2412" width="9" height="9" />
+      </word>
+      <upper-contour>
+        <point x="365" y="2256" />
+        <point x="2172" y="2256" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

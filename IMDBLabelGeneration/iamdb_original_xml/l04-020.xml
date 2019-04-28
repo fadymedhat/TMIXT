@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="l04-020" last-modified="2002-07-24" skew="0" status="final" version="3.0_beta" width="2479" writer-id="481">
+  <machine-printed-part>
+    <machine-print-line text="&apos;Of course, Kitty&apos;, he said fervently, his eyes misty behind their thick lenses. &apos;Well," />
+    <machine-print-line text="I&apos;ll be off now. See you tomorrow... and thank you....&apos; &apos;So long, Bob&apos;, she said, waving" />
+    <machine-print-line text="her hand to him. Harry followed him to the door, opened it for him and stood outside" />
+    <machine-print-line text="on the step, looking up at the sky, where a few pale stars shone between puffs of light" />
+    <machine-print-line text="cumulus cloud." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="289" asx="0" asy="714" character-width="999" dss="289" dsx="0" dsy="831" fd0="13542" fd1="3410" fd2="-719" filter-width="3" id="l04-020-00" lbs="341" lbx="0" lby="790" segmentation="ok" slant="87000" stroke-width="5505" threshold="176" text="&apos;Of course, Kitty&apos;, he said fervently, his eyes misty" ubs="186" ubx="0" uby="755">
+      <word id="l04-020-00-00" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="353" y="714" width="13" height="25" />
+      </word>
+      <word id="l04-020-00-01" tag="RB21" text="Of">
+        <cmp x="384" y="730" width="32" height="53" />
+        <cmp x="429" y="721" width="31" height="65" />
+      </word>
+      <word id="l04-020-00-02" tag="RB22" text="course">
+        <cmp x="509" y="758" width="16" height="31" />
+        <cmp x="527" y="755" width="26" height="32" />
+        <cmp x="557" y="754" width="27" height="30" />
+        <cmp x="591" y="749" width="44" height="32" />
+        <cmp x="639" y="751" width="28" height="33" />
+      </word>
+      <word id="l04-020-00-03" tag="," text=",">
+        <cmp x="675" y="778" width="16" height="16" />
+      </word>
+      <word id="l04-020-00-04" tag="NP" text="Kitty">
+        <cmp x="767" y="717" width="7" height="66" />
+        <cmp x="777" y="722" width="29" height="65" />
+        <cmp x="809" y="756" width="8" height="25" />
+        <cmp x="815" y="737" width="6" height="7" />
+        <cmp x="821" y="734" width="43" height="45" />
+        <cmp x="860" y="752" width="30" height="66" />
+      </word>
+      <word id="l04-020-00-05" tag="**&apos;" text="&apos;">
+        <cmp x="905" y="727" width="16" height="19" />
+      </word>
+      <word id="l04-020-00-06" tag="," text=",">
+        <cmp x="921" y="787" width="15" height="17" />
+      </word>
+      <word id="l04-020-00-07" tag="PP3A" text="he">
+        <cmp x="983" y="727" width="35" height="61" />
+        <cmp x="1022" y="752" width="22" height="32" />
+      </word>
+      <word id="l04-020-00-08" tag="VBD" text="said">
+        <cmp x="1097" y="757" width="22" height="36" />
+        <cmp x="1118" y="755" width="29" height="28" />
+        <cmp x="1152" y="738" width="8" height="9" />
+        <cmp x="1152" y="760" width="8" height="22" />
+        <cmp x="1170" y="721" width="31" height="64" />
+      </word>
+      <word id="l04-020-00-09" tag="RB" text="fervently">
+        <cmp x="1278" y="728" width="30" height="60" />
+        <cmp x="1315" y="753" width="22" height="28" />
+        <cmp x="1344" y="752" width="23" height="32" />
+        <cmp x="1376" y="754" width="17" height="32" />
+        <cmp x="1399" y="750" width="23" height="30" />
+        <cmp x="1425" y="752" width="28" height="30" />
+        <cmp x="1456" y="737" width="25" height="42" />
+        <cmp x="1485" y="735" width="13" height="45" />
+        <cmp x="1496" y="752" width="34" height="51" />
+      </word>
+      <word id="l04-020-00-10" tag="," text=",">
+        <cmp x="1546" y="784" width="10" height="17" />
+      </word>
+      <word id="l04-020-00-11" tag="PP$" text="his">
+        <cmp x="1603" y="723" width="32" height="61" />
+        <cmp x="1639" y="756" width="8" height="23" />
+        <cmp x="1643" y="742" width="5" height="8" />
+        <cmp x="1650" y="751" width="19" height="29" />
+      </word>
+      <word id="l04-020-00-12" tag="NNS" text="eyes">
+        <cmp x="1694" y="749" width="29" height="29" />
+        <cmp x="1716" y="752" width="37" height="71" />
+        <cmp x="1760" y="745" width="19" height="32" />
+        <cmp x="1789" y="745" width="24" height="31" />
+      </word>
+      <word id="l04-020-00-13" tag="JJ" text="misty">
+        <cmp x="1859" y="745" width="55" height="30" />
+        <cmp x="1918" y="752" width="8" height="24" />
+        <cmp x="1924" y="731" width="7" height="8" />
+        <cmp x="1932" y="743" width="21" height="33" />
+        <cmp x="1953" y="735" width="21" height="44" />
+        <cmp x="1976" y="746" width="38" height="59" />
+      </word>
+      <lower-contour>
+        <point x="368" y="823" />
+        <point x="2015" y="823" />
+      </lower-contour>
+    </line>
+    <line ass="-42" asx="0" asy="884" character-width="999" dss="-42" dsx="0" dsy="1008" fd0="13149" fd1="3182" fd2="-767" filter-width="3" id="l04-020-01" lbs="29" lbx="0" lby="962" segmentation="err" slant="79000" stroke-width="5437" threshold="176" text="behind their thick lenses. &apos;Well, I&apos;ll be off now. See you" ubs="-186" ubx="0" uby="926">
+      <word id="l04-020-01-00" tag="IN" text="behind">
+        <cmp x="370" y="897" width="54" height="74" />
+        <cmp x="424" y="912" width="31" height="47" />
+        <cmp x="463" y="936" width="10" height="24" />
+        <cmp x="468" y="917" width="3" height="6" />
+        <cmp x="479" y="933" width="25" height="28" />
+        <cmp x="509" y="900" width="26" height="57" />
+      </word>
+      <word id="l04-020-01-01" tag="PP$" text="their">
+        <cmp x="597" y="902" width="55" height="60" />
+        <cmp x="657" y="929" width="21" height="29" />
+        <cmp x="678" y="914" width="7" height="10" />
+        <cmp x="681" y="932" width="7" height="25" />
+        <cmp x="699" y="925" width="27" height="30" />
+      </word>
+      <word id="l04-020-01-02" tag="JJ" text="thick">
+        <cmp x="780" y="897" width="56" height="74" />
+        <cmp x="839" y="940" width="7" height="24" />
+        <cmp x="844" y="925" width="6" height="8" />
+        <cmp x="853" y="939" width="19" height="26" />
+        <cmp x="875" y="925" width="31" height="45" />
+      </word>
+      <word id="l04-020-01-03" tag="NNS" text="lenses">
+        <cmp x="967" y="899" width="18" height="62" />
+        <cmp x="986" y="927" width="23" height="34" />
+        <cmp x="1015" y="925" width="45" height="34" />
+        <cmp x="1065" y="926" width="21" height="31" />
+        <cmp x="1087" y="921" width="21" height="35" />
+      </word>
+      <word id="l04-020-01-04" tag="." text=".">
+        <cmp x="1122" y="955" width="7" height="8" />
+      </word>
+      <word id="l04-020-01-05" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="1192" y="899" width="18" height="24" />
+      </word>
+      <word id="l04-020-01-06" tag="UH" text="Well">
+        <cmp x="1222" y="891" width="44" height="73" />
+        <cmp x="1269" y="904" width="62" height="62" />
+      </word>
+      <word id="l04-020-01-07" tag="," text=",">
+        <cmp x="1325" y="961" width="17" height="25" />
+      </word>
+      <word id="l04-020-01-08" tag="PP1A" text="I" />
+      <word id="l04-020-01-09" tag="MD" text="&apos;ll">
+        <cmp x="1396" y="899" width="20" height="72" />
+        <cmp x="1423" y="887" width="9" height="16" />
+        <cmp x="1426" y="899" width="33" height="71" />
+      </word>
+      <word id="l04-020-01-10" tag="BE" text="be">
+        <cmp x="1520" y="897" width="28" height="69" />
+        <cmp x="1559" y="928" width="25" height="36" />
+      </word>
+      <word id="l04-020-01-11" tag="RP" text="off">
+        <cmp x="1629" y="899" width="53" height="63" />
+        <cmp x="1636" y="929" width="6" height="4" />
+        <cmp x="1679" y="898" width="31" height="69" />
+      </word>
+      <word id="l04-020-01-12" tag="RN" text="now">
+        <cmp x="1738" y="930" width="68" height="32" />
+        <cmp x="1810" y="925" width="37" height="36" />
+      </word>
+      <word id="l04-020-01-13" tag="." text=".">
+        <cmp x="1860" y="956" width="6" height="5" />
+      </word>
+      <word id="l04-020-01-14" sentence-start="yes" tag="VB" text="See">
+        <cmp x="1903" y="893" width="37" height="72" />
+        <cmp x="1934" y="929" width="27" height="32" />
+        <cmp x="1962" y="928" width="24" height="31" />
+      </word>
+      <word id="l04-020-01-15" tag="PP2" text="you">
+        <cmp x="2023" y="929" width="45" height="81" />
+        <cmp x="2075" y="932" width="27" height="25" />
+        <cmp x="2086" y="935" width="3" height="3" />
+        <cmp x="2112" y="929" width="30" height="28" />
+      </word>
+      <upper-contour>
+        <point x="368" y="823" />
+        <point x="2015" y="823" />
+      </upper-contour>
+      <lower-contour>
+        <point x="376" y="1010" />
+        <point x="2143" y="1010" />
+      </lower-contour>
+    </line>
+    <line ass="-145" asx="0" asy="1064" character-width="999" dss="-145" dsx="0" dsy="1177" fd0="13795" fd1="3226" fd2="-352" filter-width="3" id="l04-020-02" lbs="-172" lbx="0" lby="1139" segmentation="err" slant="83000" stroke-width="5107" threshold="179" text="tomorrow... and thank you....&apos; &apos;So long, Bob&apos;, she said," ubs="-91" ubx="0" uby="1116">
+      <word id="l04-020-02-00" tag="NR" text="tomorrow">
+        <cmp x="378" y="1078" width="35" height="58" />
+        <cmp x="413" y="1107" width="78" height="29" />
+        <cmp x="496" y="1107" width="26" height="31" />
+        <cmp x="525" y="1109" width="52" height="32" />
+        <cmp x="573" y="1111" width="21" height="29" />
+        <cmp x="598" y="1112" width="34" height="32" />
+      </word>
+      <word id="l04-020-02-01" tag="..." text="...">
+        <cmp x="652" y="1136" width="7" height="7" />
+        <cmp x="680" y="1134" width="7" height="6" />
+        <cmp x="702" y="1133" width="8" height="7" />
+      </word>
+      <word id="l04-020-02-02" tag="CC" text="and">
+        <cmp x="746" y="1118" width="28" height="26" />
+        <cmp x="783" y="1117" width="29" height="27" />
+        <cmp x="814" y="1081" width="24" height="61" />
+      </word>
+      <word id="l04-020-02-03" tag="VB" text="thank">
+        <cmp x="913" y="1079" width="56" height="63" />
+        <cmp x="972" y="1110" width="30" height="32" />
+        <cmp x="1009" y="1113" width="26" height="27" />
+        <cmp x="1041" y="1099" width="24" height="51" />
+      </word>
+      <word id="l04-020-02-04" tag="PP2" text="you">
+        <cmp x="1107" y="1116" width="39" height="64" />
+        <cmp x="1152" y="1119" width="24" height="28" />
+        <cmp x="1178" y="1116" width="38" height="27" />
+      </word>
+      <word id="l04-020-02-05" tag="..." text="...">
+        <cmp x="1233" y="1139" width="8" height="5" />
+        <cmp x="1263" y="1139" width="5" height="4" />
+        <cmp x="1287" y="1137" width="6" height="6" />
+      </word>
+      <word id="l04-020-02-06" tag="." text=".">
+        <cmp x="1317" y="1087" width="11" height="20" />
+      </word>
+      <word id="l04-020-02-07" tag="**&apos;" text="&apos;">
+        <cmp x="1374" y="1090" width="11" height="16" />
+      </word>
+      <word id="l04-020-02-08" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="1405" y="1073" width="33" height="75" />
+      </word>
+      <word id="l04-020-02-09" tag="QL" text="So">
+        <cmp x="1437" y="1121" width="24" height="26" />
+      </word>
+      <word id="l04-020-02-10" tag="RB" text="long">
+        <cmp x="1503" y="1086" width="36" height="58" />
+        <cmp x="1540" y="1111" width="25" height="34" />
+        <cmp x="1566" y="1118" width="33" height="28" />
+        <cmp x="1599" y="1117" width="34" height="48" />
+      </word>
+      <word id="l04-020-02-11" tag="," text=",">
+        <cmp x="1645" y="1139" width="15" height="21" />
+      </word>
+      <word id="l04-020-02-12" tag="NP" text="Bob">
+        <cmp x="1705" y="1089" width="38" height="60" />
+        <cmp x="1754" y="1117" width="25" height="31" />
+        <cmp x="1783" y="1090" width="27" height="54" />
+      </word>
+      <word id="l04-020-02-13" tag="**&apos;" text="&apos;">
+        <cmp x="1823" y="1070" width="15" height="18" />
+      </word>
+      <word id="l04-020-02-14" tag="," text=",">
+        <cmp x="1852" y="1141" width="14" height="19" />
+      </word>
+      <word id="l04-020-02-15" tag="PP3A" text="she">
+        <cmp x="1910" y="1104" width="27" height="37" />
+        <cmp x="1946" y="1086" width="31" height="47" />
+        <cmp x="1984" y="1102" width="23" height="29" />
+      </word>
+      <word id="l04-020-02-16" tag="VBD" text="said">
+        <cmp x="2031" y="1104" width="25" height="33" />
+        <cmp x="2056" y="1108" width="34" height="29" />
+        <cmp x="2097" y="1111" width="9" height="27" />
+        <cmp x="2104" y="1089" width="5" height="9" />
+        <cmp x="2109" y="1072" width="33" height="66" />
+      </word>
+      <word id="l04-020-02-17" tag="," text=",">
+        <cmp x="2134" y="1139" width="22" height="14" />
+      </word>
+      <upper-contour>
+        <point x="376" y="1010" />
+        <point x="2143" y="1010" />
+      </upper-contour>
+      <lower-contour>
+        <point x="376" y="1180" />
+        <point x="2061" y="1180" />
+      </lower-contour>
+    </line>
+    <line ass="183" asx="0" asy="1259" character-width="999" dss="183" dsx="0" dsy="1364" fd0="13447" fd1="3000" fd2="-947" filter-width="3" id="l04-020-03" lbs="205" lbx="0" lby="1328" segmentation="ok" slant="78000" stroke-width="5247" threshold="178" text="waving her hand to him. Harry followed him to the" ubs="138" ubx="0" uby="1294">
+      <word id="l04-020-03-00" tag="VBG" text="waving">
+        <cmp x="375" y="1287" width="36" height="34" />
+        <cmp x="422" y="1290" width="23" height="29" />
+        <cmp x="449" y="1292" width="21" height="30" />
+        <cmp x="473" y="1296" width="8" height="23" />
+        <cmp x="478" y="1275" width="5" height="8" />
+        <cmp x="493" y="1296" width="23" height="28" />
+        <cmp x="522" y="1297" width="29" height="60" />
+      </word>
+      <word id="l04-020-03-01" tag="PP$" text="her">
+        <cmp x="622" y="1272" width="41" height="50" />
+        <cmp x="668" y="1290" width="24" height="37" />
+        <cmp x="698" y="1296" width="22" height="32" />
+      </word>
+      <word id="l04-020-03-02" tag="NN" text="hand">
+        <cmp x="788" y="1271" width="69" height="54" />
+        <cmp x="865" y="1294" width="25" height="30" />
+        <cmp x="893" y="1262" width="31" height="61" />
+      </word>
+      <word id="l04-020-03-03" tag="IN" text="to">
+        <cmp x="973" y="1258" width="49" height="69" />
+      </word>
+      <word id="l04-020-03-04" tag="PP3O" text="him">
+        <cmp x="1078" y="1275" width="36" height="50" />
+        <cmp x="1122" y="1301" width="8" height="20" />
+        <cmp x="1123" y="1278" width="7" height="7" />
+        <cmp x="1141" y="1291" width="49" height="32" />
+      </word>
+      <word id="l04-020-03-05" tag="." text=".">
+        <cmp x="1201" y="1317" width="8" height="11" />
+      </word>
+      <word id="l04-020-03-06" sentence-start="yes" tag="NP" text="Harry">
+        <cmp x="1274" y="1256" width="34" height="71" />
+        <cmp x="1306" y="1291" width="28" height="30" />
+        <cmp x="1340" y="1293" width="27" height="29" />
+        <cmp x="1365" y="1296" width="23" height="31" />
+        <cmp x="1380" y="1296" width="29" height="64" />
+      </word>
+      <word id="l04-020-03-07" tag="VBD" text="followed">
+        <cmp x="1463" y="1255" width="54" height="66" />
+        <cmp x="1525" y="1266" width="14" height="61" />
+        <cmp x="1542" y="1269" width="13" height="56" />
+        <cmp x="1558" y="1294" width="22" height="27" />
+        <cmp x="1588" y="1293" width="33" height="35" />
+        <cmp x="1630" y="1292" width="20" height="30" />
+        <cmp x="1651" y="1260" width="26" height="65" />
+      </word>
+      <word id="l04-020-03-08" tag="PP3O" text="him">
+        <cmp x="1726" y="1264" width="50" height="57" />
+        <cmp x="1782" y="1294" width="8" height="23" />
+        <cmp x="1785" y="1276" width="6" height="9" />
+        <cmp x="1799" y="1289" width="43" height="29" />
+      </word>
+      <word id="l04-020-03-09" tag="IN" text="to">
+        <cmp x="1885" y="1263" width="50" height="66" />
+      </word>
+      <word id="l04-020-03-10" tag="ATI" text="the">
+        <cmp x="1960" y="1269" width="62" height="57" />
+        <cmp x="2032" y="1287" width="28" height="29" />
+      </word>
+      <upper-contour>
+        <point x="376" y="1180" />
+        <point x="2061" y="1180" />
+      </upper-contour>
+      <lower-contour>
+        <point x="373" y="1360" />
+        <point x="2061" y="1360" />
+      </lower-contour>
+    </line>
+    <line ass="-3" asx="0" asy="1430" character-width="999" dss="-3" dsx="0" dsy="1527" fd0="13148" fd1="3742" fd2="-581" filter-width="3" id="l04-020-04" lbs="18" lbx="0" lby="1503" segmentation="ok" slant="83000" stroke-width="5156" threshold="177" text="door, opened it for him and stood outside on the step," ubs="-47" ubx="0" uby="1470">
+      <word id="l04-020-04-00" tag="NN" text="door">
+        <cmp x="366" y="1439" width="30" height="64" />
+        <cmp x="397" y="1470" width="22" height="31" />
+        <cmp x="423" y="1471" width="23" height="31" />
+        <cmp x="455" y="1472" width="24" height="27" />
+      </word>
+      <word id="l04-020-04-01" tag="," text=",">
+        <cmp x="494" y="1503" width="12" height="19" />
+      </word>
+      <word id="l04-020-04-02" tag="VBD" text="opened">
+        <cmp x="566" y="1470" width="22" height="30" />
+        <cmp x="580" y="1465" width="57" height="64" />
+        <cmp x="642" y="1472" width="29" height="29" />
+        <cmp x="676" y="1465" width="24" height="31" />
+        <cmp x="700" y="1432" width="27" height="68" />
+      </word>
+      <word id="l04-020-04-03" tag="PP3" text="it">
+        <cmp x="791" y="1466" width="8" height="35" />
+        <cmp x="794" y="1454" width="6" height="5" />
+        <cmp x="803" y="1451" width="22" height="55" />
+      </word>
+      <word id="l04-020-04-04" tag="IN" text="for">
+        <cmp x="865" y="1449" width="31" height="53" />
+        <cmp x="898" y="1473" width="23" height="34" />
+        <cmp x="927" y="1476" width="26" height="29" />
+      </word>
+      <word id="l04-020-04-05" tag="PP3O" text="him">
+        <cmp x="993" y="1448" width="38" height="52" />
+        <cmp x="1040" y="1474" width="8" height="28" />
+        <cmp x="1044" y="1455" width="7" height="9" />
+        <cmp x="1050" y="1474" width="53" height="32" />
+      </word>
+      <word id="l04-020-04-06" tag="CC" text="and">
+        <cmp x="1155" y="1475" width="28" height="27" />
+        <cmp x="1189" y="1472" width="26" height="27" />
+        <cmp x="1222" y="1432" width="22" height="69" />
+      </word>
+      <word id="l04-020-04-07" tag="VBD" text="stood">
+        <cmp x="1312" y="1472" width="24" height="36" />
+        <cmp x="1337" y="1457" width="33" height="50" />
+        <cmp x="1366" y="1474" width="25" height="31" />
+        <cmp x="1390" y="1444" width="54" height="61" />
+      </word>
+      <word id="l04-020-04-08" tag="RP" text="outside">
+        <cmp x="1531" y="1475" width="27" height="28" />
+        <cmp x="1558" y="1458" width="49" height="47" />
+        <cmp x="1612" y="1472" width="19" height="30" />
+        <cmp x="1634" y="1477" width="9" height="28" />
+        <cmp x="1642" y="1445" width="6" height="9" />
+        <cmp x="1649" y="1449" width="28" height="54" />
+        <cmp x="1676" y="1473" width="25" height="33" />
+      </word>
+      <word id="l04-020-04-09" tag="IN" text="on">
+        <cmp x="1757" y="1470" width="23" height="29" />
+        <cmp x="1786" y="1473" width="37" height="29" />
+      </word>
+      <word id="l04-020-04-10" tag="ATI" text="the">
+        <cmp x="1845" y="1443" width="57" height="59" />
+        <cmp x="1913" y="1465" width="24" height="32" />
+      </word>
+      <word id="l04-020-04-11" tag="NN" text="step">
+        <cmp x="1978" y="1469" width="21" height="26" />
+        <cmp x="2003" y="1454" width="23" height="46" />
+        <cmp x="2032" y="1469" width="22" height="31" />
+        <cmp x="2046" y="1468" width="31" height="60" />
+      </word>
+      <word id="l04-020-04-12" tag="," text=",">
+        <cmp x="2088" y="1502" width="18" height="17" />
+      </word>
+      <upper-contour>
+        <point x="373" y="1360" />
+        <point x="2061" y="1360" />
+      </upper-contour>
+      <lower-contour>
+        <point x="364" y="1529" />
+        <point x="2107" y="1529" />
+      </lower-contour>
+    </line>
+    <line ass="210" asx="0" asy="1627" character-width="999" dss="210" dsx="0" dsy="1724" fd0="13588" fd1="3734" fd2="-459" filter-width="3" id="l04-020-05" lbs="242" lbx="0" lby="1687" segmentation="ok" slant="80000" stroke-width="5199" threshold="174" text="looking up at the sky, where a few pale stars shone" ubs="146" ubx="0" uby="1653">
+      <word id="l04-020-05-00" tag="VBG" text="looking">
+        <cmp x="361" y="1627" width="34" height="65" />
+        <cmp x="395" y="1658" width="25" height="32" />
+        <cmp x="420" y="1658" width="25" height="33" />
+        <cmp x="449" y="1638" width="22" height="46" />
+        <cmp x="482" y="1658" width="6" height="21" />
+        <cmp x="485" y="1636" width="5" height="5" />
+        <cmp x="495" y="1654" width="26" height="28" />
+        <cmp x="527" y="1654" width="29" height="52" />
+      </word>
+      <word id="l04-020-05-01" tag="RP" text="up">
+        <cmp x="622" y="1655" width="43" height="27" />
+        <cmp x="657" y="1650" width="37" height="66" />
+      </word>
+      <word id="l04-020-05-02" tag="IN" text="at">
+        <cmp x="784" y="1653" width="28" height="30" />
+        <cmp x="816" y="1632" width="25" height="50" />
+      </word>
+      <word id="l04-020-05-03" tag="ATI" text="the">
+        <cmp x="899" y="1624" width="58" height="58" />
+        <cmp x="963" y="1650" width="24" height="32" />
+      </word>
+      <word id="l04-020-05-04" tag="NN" text="sky">
+        <cmp x="1043" y="1651" width="19" height="32" />
+        <cmp x="1072" y="1639" width="31" height="51" />
+        <cmp x="1114" y="1654" width="31" height="61" />
+      </word>
+      <word id="l04-020-05-05" tag="," text=",">
+        <cmp x="1183" y="1677" width="14" height="17" />
+      </word>
+      <word id="l04-020-05-06" tag="WRB" text="where">
+        <cmp x="1250" y="1639" width="55" height="39" />
+        <cmp x="1309" y="1624" width="36" height="62" />
+        <cmp x="1345" y="1650" width="24" height="33" />
+        <cmp x="1377" y="1650" width="46" height="36" />
+      </word>
+      <word id="l04-020-05-07" tag="AP21" text="a">
+        <cmp x="1467" y="1655" width="34" height="27" />
+      </word>
+      <word id="l04-020-05-08" tag="AP22" text="few">
+        <cmp x="1533" y="1624" width="31" height="54" />
+        <cmp x="1568" y="1648" width="24" height="34" />
+        <cmp x="1595" y="1650" width="35" height="30" />
+      </word>
+      <word id="l04-020-05-09" tag="JJ" text="pale">
+        <cmp x="1661" y="1647" width="37" height="71" />
+        <cmp x="1701" y="1653" width="29" height="25" />
+        <cmp x="1737" y="1625" width="13" height="55" />
+        <cmp x="1751" y="1647" width="24" height="29" />
+      </word>
+      <word id="l04-020-05-10" tag="NNS" text="stars">
+        <cmp x="1813" y="1646" width="21" height="33" />
+        <cmp x="1835" y="1631" width="34" height="51" />
+        <cmp x="1866" y="1652" width="29" height="25" />
+        <cmp x="1904" y="1645" width="20" height="32" />
+        <cmp x="1923" y="1644" width="29" height="36" />
+      </word>
+      <word id="l04-020-05-11" tag="VBD" text="shone">
+        <cmp x="1989" y="1647" width="25" height="33" />
+        <cmp x="2022" y="1633" width="37" height="47" />
+        <cmp x="2061" y="1654" width="20" height="25" />
+        <cmp x="2088" y="1656" width="27" height="23" />
+        <cmp x="2120" y="1651" width="25" height="32" />
+      </word>
+      <upper-contour>
+        <point x="364" y="1529" />
+        <point x="2107" y="1529" />
+      </upper-contour>
+      <lower-contour>
+        <point x="379" y="1718" />
+        <point x="1687" y="1718" />
+      </lower-contour>
+    </line>
+    <line ass="-114" asx="0" asy="1780" character-width="999" dss="-114" dsx="0" dsy="1893" fd0="12434" fd1="2356" fd2="-1228" filter-width="3" id="l04-020-06" lbs="-162" lbx="0" lby="1859" segmentation="ok" slant="86000" stroke-width="5281" threshold="175" text="between puffs of light cumulus cloud." ubs="-18" ubx="0" uby="1824">
+      <word id="l04-020-06-00" tag="IN" text="between">
+        <cmp x="381" y="1788" width="21" height="70" />
+        <cmp x="404" y="1825" width="22" height="34" />
+        <cmp x="431" y="1804" width="23" height="59" />
+        <cmp x="471" y="1829" width="30" height="31" />
+        <cmp x="511" y="1824" width="37" height="35" />
+        <cmp x="552" y="1833" width="28" height="26" />
+      </word>
+      <word id="l04-020-06-01" tag="NNS" text="puffs">
+        <cmp x="681" y="1827" width="22" height="63" />
+        <cmp x="712" y="1835" width="24" height="27" />
+        <cmp x="739" y="1811" width="24" height="50" />
+        <cmp x="767" y="1808" width="24" height="58" />
+        <cmp x="795" y="1830" width="19" height="28" />
+      </word>
+      <word id="l04-020-06-02" tag="INO" text="of">
+        <cmp x="872" y="1830" width="24" height="29" />
+        <cmp x="898" y="1809" width="24" height="49" />
+      </word>
+      <word id="l04-020-06-03" tag="JJ" text="light">
+        <cmp x="1012" y="1805" width="30" height="61" />
+        <cmp x="1049" y="1818" width="7" height="7" />
+        <cmp x="1050" y="1836" width="5" height="26" />
+        <cmp x="1058" y="1837" width="28" height="59" />
+        <cmp x="1096" y="1817" width="30" height="45" />
+        <cmp x="1130" y="1811" width="22" height="55" />
+      </word>
+      <word id="l04-020-06-04" tag="NN" text="cumulus">
+        <cmp x="1250" y="1829" width="25" height="33" />
+        <cmp x="1281" y="1803" width="142" height="71" />
+        <cmp x="1417" y="1825" width="31" height="38" />
+      </word>
+      <word id="l04-020-06-05" tag="NN" text="cloud">
+        <cmp x="1512" y="1801" width="77" height="62" />
+        <cmp x="1593" y="1784" width="67" height="81" />
+      </word>
+      <word id="l04-020-06-06" tag="." text=".">
+        <cmp x="1681" y="1854" width="6" height="6" />
+      </word>
+      <upper-contour>
+        <point x="379" y="1718" />
+        <point x="1687" y="1718" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

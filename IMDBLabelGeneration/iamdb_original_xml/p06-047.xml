@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-31" height="3542" id="p06-047" last-modified="2002-07-18" skew="-63" status="final" version="3.0_beta" width="2479" writer-id="634">
+  <machine-printed-part>
+    <machine-print-line text="&apos;I will leave you the necessary prescription for the sedatives. You will contact your new" />
+    <machine-print-line text="doctor when you reach your parents&apos; house.&apos; She watched him flick his fountain-pen" />
+    <machine-print-line text="from his waistcoat pocket, take out his prescription pad, and scribble on it. Then," />
+    <machine-print-line text="with a gesture she knew so well, he tore off the leaflet and handed it to her." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-344" asx="0" asy="671" character-width="999" dss="-344" dsx="0" dsy="853" fd0="14226" fd1="2472" fd2="-843" filter-width="4" id="p06-047-00" lbs="-537" lbx="0" lby="768" segmentation="ok" slant="61000" stroke-width="6251" threshold="183" text="&apos;I will leave you the necessary pre-" ubs="41" ubx="0" uby="756">
+      <word id="p06-047-00-00" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="315" y="687" width="14" height="36" />
+      </word>
+      <word id="p06-047-00-01" tag="PP1A" text="I">
+        <cmp x="333" y="708" width="64" height="95" />
+        <cmp x="350" y="729" width="7" height="8" />
+      </word>
+      <word id="p06-047-00-02" tag="MD" text="will">
+        <cmp x="433" y="759" width="26" height="43" />
+        <cmp x="453" y="771" width="47" height="27" />
+        <cmp x="456" y="748" width="6" height="8" />
+        <cmp x="493" y="725" width="123" height="74" />
+        <cmp x="515" y="698" width="28" height="17" />
+        <cmp x="588" y="720" width="70" height="73" />
+      </word>
+      <word id="p06-047-00-03" tag="VB" text="leave">
+        <cmp x="670" y="707" width="117" height="89" />
+        <cmp x="797" y="746" width="169" height="47" />
+      </word>
+      <word id="p06-047-00-04" tag="PP2" text="you">
+        <cmp x="981" y="743" width="210" height="117" />
+      </word>
+      <word id="p06-047-00-05" tag="ATI" text="the">
+        <cmp x="1205" y="680" width="132" height="107" />
+        <cmp x="1260" y="680" width="5" height="4" />
+      </word>
+      <word id="p06-047-00-06" tag="JJ" text="necessary">
+        <cmp x="1355" y="717" width="103" height="50" />
+        <cmp x="1471" y="730" width="171" height="51" />
+        <cmp x="1500" y="721" width="17" height="19" />
+        <cmp x="1646" y="743" width="161" height="98" />
+      </word>
+      <word id="p06-047-00-07" tag="NN-" text="pre-">
+        <cmp x="1819" y="740" width="180" height="103" />
+        <cmp x="2032" y="755" width="41" height="10" />
+      </word>
+      <lower-contour>
+        <point x="313" y="860" />
+        <point x="2073" y="860" />
+      </lower-contour>
+    </line>
+    <line ass="794" asx="0" asy="883" character-width="999" dss="794" dsx="0" dsy="1161" fd0="13931" fd1="2485" fd2="-125" filter-width="4" id="p06-047-01" lbs="726" lbx="0" lby="979" segmentation="err" slant="57000" stroke-width="6384" threshold="181" text="scription for the sedatives. You" ubs="929" ubx="0" uby="958">
+      <word id="p06-047-01-00" tag="-NN" text="scription">
+        <cmp x="315" y="904" width="102" height="82" />
+        <cmp x="388" y="913" width="508" height="119" />
+        <cmp x="564" y="897" width="6" height="12" />
+        <cmp x="759" y="895" width="9" height="8" />
+      </word>
+      <word id="p06-047-01-01" tag="IN" text="for">
+        <cmp x="927" y="871" width="164" height="156" />
+      </word>
+      <word id="p06-047-01-02" tag="ATI" text="the">
+        <cmp x="1148" y="875" width="160" height="99" />
+      </word>
+      <word id="p06-047-01-03" tag="NNS" text="sedatives">
+        <cmp x="1350" y="925" width="99" height="41" />
+        <cmp x="1455" y="887" width="89" height="78" />
+        <cmp x="1519" y="884" width="325" height="87" />
+        <cmp x="1673" y="871" width="8" height="6" />
+      </word>
+      <word id="p06-047-01-04" tag="." text=".">
+        <cmp x="1901" y="956" width="7" height="9" />
+      </word>
+      <word id="p06-047-01-05" sentence-start="yes" tag="PP2" text="You">
+        <cmp x="1820" y="871" width="234" height="266" />
+        <cmp x="2020" y="923" width="112" height="44" />
+      </word>
+      <upper-contour>
+        <point x="313" y="860" />
+        <point x="2073" y="860" />
+      </upper-contour>
+      <lower-contour>
+        <point x="328" y="1032" />
+        <point x="1820" y="1137" />
+        <point x="1945" y="1069" />
+        <point x="2083" y="1069" />
+      </lower-contour>
+    </line>
+    <line ass="573" asx="0" asy="1058" character-width="999" dss="573" dsx="0" dsy="1250" fd0="14306" fd1="2392" fd2="-678" filter-width="4" id="p06-047-02" lbs="652" lbx="0" lby="1158" segmentation="err" slant="52000" stroke-width="6379" threshold="182" text="will contact your new doctor" ubs="415" ubx="0" uby="1126">
+      <word id="p06-047-02-00" tag="MD" text="will">
+        <cmp x="330" y="1067" width="276" height="100" />
+        <cmp x="485" y="1055" width="12" height="13" />
+      </word>
+      <word id="p06-047-02-01" tag="VB" text="contact">
+        <cmp x="632" y="1100" width="62" height="56" />
+        <cmp x="705" y="1076" width="250" height="85" />
+        <cmp x="974" y="1079" width="133" height="83" />
+      </word>
+      <word id="p06-047-02-02" tag="PP$" text="your">
+        <cmp x="1099" y="1113" width="112" height="127" />
+        <cmp x="1212" y="1118" width="163" height="41" />
+      </word>
+      <word id="p06-047-02-03" tag="JJ" text="new">
+        <cmp x="1413" y="1098" width="231" height="57" />
+        <cmp x="1688" y="1061" width="103" height="77" />
+        <cmp x="1774" y="1103" width="40" height="34" />
+      </word>
+      <word id="p06-047-02-04" tag="NN" text="doctor">
+        <cmp x="1946" y="1110" width="136" height="33" />
+        <cmp x="2070" y="1096" width="4" height="6" />
+      </word>
+      <upper-contour>
+        <point x="328" y="1032" />
+        <point x="1820" y="1137" />
+        <point x="1945" y="1069" />
+        <point x="2083" y="1069" />
+      </upper-contour>
+      <lower-contour>
+        <point x="328" y="1168" />
+        <point x="1099" y="1240" />
+        <point x="2083" y="1240" />
+      </lower-contour>
+    </line>
+    <line ass="401" asx="0" asy="1229" character-width="999" dss="401" dsx="0" dsy="1413" fd0="14207" fd1="2813" fd2="8" filter-width="4" id="p06-047-03" lbs="374" lbx="0" lby="1336" segmentation="err" slant="54000" stroke-width="6264" threshold="183" text="when you reach your parents&apos;" ubs="454" ubx="0" uby="1309">
+      <word id="p06-047-03-00" tag="WRB" text="when">
+        <cmp x="330" y="1226" width="359" height="117" />
+      </word>
+      <word id="p06-047-03-01" tag="PP2" text="you">
+        <cmp x="689" y="1280" width="115" height="129" />
+        <cmp x="815" y="1294" width="129" height="39" />
+      </word>
+      <word id="p06-047-03-02" tag="VB" text="reach">
+        <cmp x="986" y="1295" width="83" height="36" />
+        <cmp x="1084" y="1295" width="56" height="41" />
+        <cmp x="1168" y="1254" width="128" height="81" />
+      </word>
+      <word id="p06-047-03-03" tag="PP$" text="your">
+        <cmp x="1369" y="1277" width="84" height="68" />
+        <cmp x="1450" y="1295" width="185" height="43" />
+      </word>
+      <word id="p06-047-03-04" tag="NNS$" text="parents&apos;">
+        <cmp x="1649" y="1289" width="115" height="114" />
+        <cmp x="1779" y="1262" width="344" height="76" />
+        <cmp x="2168" y="1226" width="24" height="62" />
+      </word>
+      <upper-contour>
+        <point x="328" y="1168" />
+        <point x="1099" y="1240" />
+        <point x="2083" y="1240" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="1343" />
+        <point x="689" y="1409" />
+        <point x="845" y="1344" />
+        <point x="1649" y="1403" />
+        <point x="1812" y="1338" />
+        <point x="2190" y="1338" />
+      </lower-contour>
+    </line>
+    <line ass="381" asx="0" asy="1356" character-width="999" dss="381" dsx="0" dsy="1556" fd0="13889" fd1="2457" fd2="-452" filter-width="4" id="p06-047-04" lbs="389" lbx="0" lby="1501" segmentation="err" slant="63000" stroke-width="6387" threshold="181" text="house.&apos; She watched him flick" ubs="366" ubx="0" uby="1475">
+      <word id="p06-047-04-00" tag="NN" text="house">
+        <cmp x="350" y="1357" width="80" height="159" />
+        <cmp x="372" y="1420" width="88" height="87" />
+        <cmp x="457" y="1464" width="254" height="52" />
+      </word>
+      <word id="p06-047-04-01" tag="." text=".">
+        <cmp x="740" y="1510" width="21" height="13" />
+      </word>
+      <word id="p06-047-04-02" tag="**&apos;" text="&apos;">
+        <cmp x="841" y="1388" width="18" height="42" />
+      </word>
+      <word id="p06-047-04-03" sentence-start="yes" tag="PP3A" text="She">
+        <cmp x="847" y="1387" width="189" height="127" />
+        <cmp x="971" y="1455" width="88" height="37" />
+      </word>
+      <word id="p06-047-04-04" tag="VBD" text="watched">
+        <cmp x="1091" y="1347" width="345" height="141" />
+        <cmp x="1412" y="1447" width="68" height="36" />
+        <cmp x="1498" y="1413" width="101" height="81" />
+      </word>
+      <word id="p06-047-04-05" tag="PP3O" text="him">
+        <cmp x="1622" y="1409" width="284" height="100" />
+        <cmp x="1812" y="1395" width="14" height="12" />
+      </word>
+      <word id="p06-047-04-06" tag="VB" text="flick">
+        <cmp x="1940" y="1388" width="148" height="157" />
+        <cmp x="2084" y="1414" width="106" height="86" />
+      </word>
+      <upper-contour>
+        <point x="348" y="1343" />
+        <point x="689" y="1409" />
+        <point x="845" y="1344" />
+        <point x="1649" y="1403" />
+        <point x="1812" y="1338" />
+        <point x="2190" y="1338" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="1545" />
+        <point x="2106" y="1545" />
+      </lower-contour>
+    </line>
+    <line ass="226" asx="0" asy="1561" character-width="999" dss="226" dsx="0" dsy="1753" fd0="13600" fd1="2571" fd2="-198" filter-width="4" id="p06-047-05" lbs="216" lbx="0" lby="1679" segmentation="ok" slant="56000" stroke-width="6266" threshold="180" text="his fountain-pen from his" ubs="246" ubx="0" uby="1661">
+      <word id="p06-047-05-00" tag="PP$" text="his">
+        <cmp x="324" y="1560" width="227" height="134" />
+        <cmp x="497" y="1591" width="9" height="12" />
+      </word>
+      <word id="p06-047-05-01" tag="NN" text="fountain-pen">
+        <cmp x="591" y="1577" width="602" height="175" />
+        <cmp x="1110" y="1579" width="13" height="11" />
+        <cmp x="1225" y="1652" width="52" height="11" />
+        <cmp x="1255" y="1643" width="231" height="105" />
+      </word>
+      <word id="p06-047-05-02" tag="IN" text="from">
+        <cmp x="1509" y="1560" width="185" height="168" />
+        <cmp x="1691" y="1637" width="142" height="36" />
+      </word>
+      <word id="p06-047-05-03" tag="PP$" text="his">
+        <cmp x="1885" y="1585" width="220" height="110" />
+        <cmp x="2068" y="1582" width="10" height="11" />
+      </word>
+      <upper-contour>
+        <point x="348" y="1545" />
+        <point x="2106" y="1545" />
+      </upper-contour>
+      <lower-contour>
+        <point x="338" y="1752" />
+        <point x="1627" y="1695" />
+        <point x="2106" y="1695" />
+      </lower-contour>
+    </line>
+    <line ass="469" asx="0" asy="1750" character-width="999" dss="469" dsx="0" dsy="1952" fd0="13307" fd1="2832" fd2="141" filter-width="4" id="p06-047-06" lbs="459" lbx="0" lby="1866" segmentation="err" slant="52000" stroke-width="6471" threshold="180" text="waistcoat pocket, take out" ubs="487" ubx="0" uby="1844">
+      <word id="p06-047-06-00" tag="NN" text="waistcoat">
+        <cmp x="340" y="1819" width="142" height="57" />
+        <cmp x="475" y="1820" width="213" height="63" />
+        <cmp x="615" y="1789" width="15" height="5" />
+        <cmp x="738" y="1808" width="52" height="64" />
+        <cmp x="804" y="1819" width="56" height="51" />
+        <cmp x="865" y="1792" width="230" height="77" />
+      </word>
+      <word id="p06-047-06-01" tag="NN" text="pocket">
+        <cmp x="1145" y="1825" width="111" height="106" />
+        <cmp x="1262" y="1823" width="58" height="39" />
+        <cmp x="1338" y="1738" width="305" height="121" />
+      </word>
+      <word id="p06-047-06-02" tag="," text=",">
+        <cmp x="1602" y="1833" width="51" height="63" />
+      </word>
+      <word id="p06-047-06-03" tag="VB" text="take">
+        <cmp x="1619" y="1927" width="8" height="12" />
+        <cmp x="1680" y="1747" width="258" height="120" />
+      </word>
+      <word id="p06-047-06-04" tag="RP" text="out">
+        <cmp x="2002" y="1788" width="208" height="68" />
+      </word>
+      <upper-contour>
+        <point x="338" y="1752" />
+        <point x="1627" y="1695" />
+        <point x="2106" y="1695" />
+      </upper-contour>
+      <lower-contour>
+        <point x="338" y="1939" />
+        <point x="2210" y="1939" />
+      </lower-contour>
+    </line>
+    <line ass="298" asx="0" asy="1947" character-width="999" dss="298" dsx="0" dsy="2122" fd0="12691" fd1="1980" fd2="-1162" filter-width="4" id="p06-047-07" lbs="233" lbx="0" lby="2056" segmentation="ok" slant="59999" stroke-width="6545" threshold="179" text="his # prescription pad, and" ubs="430" ubx="0" uby="2032">
+      <word id="p06-047-07-00" tag="PP$" text="his">
+        <cmp x="312" y="1946" width="220" height="111" />
+        <cmp x="482" y="1960" width="13" height="12" />
+      </word>
+      <word id="p06-047-07-01" tag="&amp;GA" text="#">
+        <cmp x="563" y="1983" width="366" height="138" />
+        <cmp x="932" y="1974" width="5" height="6" />
+        <cmp x="937" y="1979" width="4" height="4" />
+      </word>
+      <word id="p06-047-07-02" tag="NN" text="prescription">
+        <cmp x="930" y="2019" width="224" height="94" />
+        <cmp x="1176" y="2011" width="48" height="49" />
+        <cmp x="1225" y="2007" width="14" height="12" />
+        <cmp x="1241" y="2016" width="164" height="46" />
+        <cmp x="1394" y="2027" width="72" height="76" />
+        <cmp x="1412" y="1956" width="7" height="11" />
+        <cmp x="1497" y="1960" width="79" height="94" />
+        <cmp x="1589" y="2004" width="126" height="40" />
+      </word>
+      <word id="p06-047-07-03" tag="NN" text="pad">
+        <cmp x="1719" y="1998" width="89" height="97" />
+        <cmp x="1748" y="2012" width="4" height="4" />
+        <cmp x="1805" y="1995" width="59" height="44" />
+        <cmp x="1876" y="1981" width="94" height="75" />
+      </word>
+      <word id="p06-047-07-04" tag="," text=",">
+        <cmp x="1937" y="2030" width="47" height="53" />
+      </word>
+      <word id="p06-047-07-05" tag="CC" text="and">
+        <cmp x="2027" y="2006" width="53" height="42" />
+        <cmp x="2081" y="2021" width="70" height="24" />
+        <cmp x="2156" y="1969" width="93" height="82" />
+      </word>
+      <upper-contour>
+        <point x="338" y="1939" />
+        <point x="2210" y="1939" />
+      </upper-contour>
+      <lower-contour>
+        <point x="310" y="2121" />
+        <point x="1295" y="2103" />
+        <point x="2210" y="2103" />
+      </lower-contour>
+    </line>
+    <line ass="199" asx="0" asy="2123" character-width="999" dss="199" dsx="0" dsy="2266" fd0="12074" fd1="1801" fd2="-1373" filter-width="4" id="p06-047-08" lbs="198" lbx="0" lby="2220" segmentation="ok" slant="57000" stroke-width="6626" threshold="178" text="# scribble on it. Then," ubs="200" ubx="0" uby="2203">
+      <word id="p06-047-08-00" tag="&amp;GA" text="#">
+        <cmp x="298" y="2149" width="590" height="99" />
+        <cmp x="448" y="2239" width="4" height="4" />
+        <cmp x="459" y="2238" width="7" height="4" />
+        <cmp x="561" y="2150" width="13" height="8" />
+      </word>
+      <word id="p06-047-08-01" tag="VB" text="scribble">
+        <cmp x="922" y="2173" width="75" height="52" />
+        <cmp x="1009" y="2121" width="292" height="102" />
+        <cmp x="1201" y="2130" width="6" height="10" />
+        <cmp x="1262" y="2119" width="185" height="94" />
+      </word>
+      <word id="p06-047-08-02" tag="IN" text="on">
+        <cmp x="1510" y="2164" width="147" height="47" />
+      </word>
+      <word id="p06-047-08-03" tag="PP3" text="it">
+        <cmp x="1720" y="2145" width="137" height="76" />
+        <cmp x="1764" y="2134" width="12" height="13" />
+      </word>
+      <word id="p06-047-08-04" tag="." text=".">
+        <cmp x="1877" y="2230" width="8" height="9" />
+      </word>
+      <word id="p06-047-08-05" sentence-start="yes" tag="RN" text="Then">
+        <cmp x="1939" y="2124" width="143" height="96" />
+        <cmp x="2073" y="2197" width="71" height="24" />
+      </word>
+      <word id="p06-047-08-06" tag="," text=",">
+        <cmp x="2170" y="2198" width="39" height="61" />
+      </word>
+      <upper-contour>
+        <point x="310" y="2121" />
+        <point x="1295" y="2103" />
+        <point x="2210" y="2103" />
+      </upper-contour>
+      <lower-contour>
+        <point x="328" y="2259" />
+        <point x="2210" y="2259" />
+      </lower-contour>
+    </line>
+    <line ass="217" asx="0" asy="2289" character-width="999" dss="217" dsx="0" dsy="2488" fd0="14051" fd1="3337" fd2="156" filter-width="4" id="p06-047-09" lbs="248" lbx="0" lby="2401" segmentation="ok" slant="55000" stroke-width="6392" threshold="180" text="with a gesture she knew so well," ubs="154" ubx="0" uby="2372">
+      <word id="p06-047-09-00" tag="IN" text="with">
+        <cmp x="330" y="2331" width="280" height="84" />
+        <cmp x="483" y="2302" width="9" height="10" />
+      </word>
+      <word id="p06-047-09-01" tag="AT" text="a">
+        <cmp x="663" y="2372" width="58" height="49" />
+      </word>
+      <word id="p06-047-09-02" tag="NN" text="gesture">
+        <cmp x="724" y="2357" width="211" height="130" />
+        <cmp x="953" y="2307" width="256" height="98" />
+      </word>
+      <word id="p06-047-09-03" tag="PP3A" text="she">
+        <cmp x="1256" y="2294" width="196" height="112" />
+      </word>
+      <word id="p06-047-09-04" tag="VBD" text="knew">
+        <cmp x="1511" y="2284" width="317" height="117" />
+      </word>
+      <word id="p06-047-09-05" tag="QL" text="so">
+        <cmp x="1895" y="2367" width="53" height="41" />
+        <cmp x="1941" y="2376" width="43" height="36" />
+      </word>
+      <word id="p06-047-09-06" tag="RB" text="well">
+        <cmp x="2023" y="2324" width="266" height="81" />
+      </word>
+      <word id="p06-047-09-07" tag="," text=",">
+        <cmp x="2288" y="2400" width="37" height="41" />
+      </word>
+      <upper-contour>
+        <point x="328" y="2259" />
+        <point x="2210" y="2259" />
+      </upper-contour>
+      <lower-contour>
+        <point x="333" y="2421" />
+        <point x="724" y="2487" />
+        <point x="1345" y="2412" />
+        <point x="2149" y="2412" />
+      </lower-contour>
+    </line>
+    <line ass="1143" asx="0" asy="2476" character-width="999" dss="1143" dsx="0" dsy="2667" fd0="14028" fd1="2953" fd2="-440" filter-width="4" id="p06-047-10" lbs="1183" lbx="0" lby="2604" segmentation="ok" slant="53000" stroke-width="6699" threshold="178" text="he tore off the leaflet and" ubs="1062" ubx="0" uby="2571">
+      <word id="p06-047-10-00" tag="PP3A" text="he">
+        <cmp x="335" y="2470" width="131" height="128" />
+      </word>
+      <word id="p06-047-10-01" tag="VBD" text="tore">
+        <cmp x="538" y="2495" width="199" height="103" />
+      </word>
+      <word id="p06-047-10-02" tag="RP" text="off">
+        <cmp x="811" y="2498" width="199" height="154" />
+      </word>
+      <word id="p06-047-10-03" tag="ATI" text="the">
+        <cmp x="1072" y="2494" width="149" height="98" />
+      </word>
+      <word id="p06-047-10-04" tag="NN" text="leaflet">
+        <cmp x="1271" y="2472" width="111" height="114" />
+        <cmp x="1391" y="2470" width="364" height="135" />
+      </word>
+      <word id="p06-047-10-05" tag="CC" text="and">
+        <cmp x="1801" y="2521" width="184" height="51" />
+        <cmp x="2015" y="2474" width="133" height="95" />
+      </word>
+      <upper-contour>
+        <point x="333" y="2421" />
+        <point x="724" y="2487" />
+        <point x="1345" y="2412" />
+        <point x="2149" y="2412" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

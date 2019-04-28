@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="m02-095" last-modified="2002-07-17" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="532">
+  <machine-printed-part>
+    <machine-print-line text="The political life of Aristotle looked more and more like a masquerade of business" />
+    <machine-print-line text="interests in disguise which, far from attracting the allegiance of free men everywhere," />
+    <machine-print-line text="could only repel them." />
+    <machine-print-line text="Then what of the cultural life? Did this perhaps nurture a genuinely civilizing impulse" />
+    <machine-print-line text="which might in time become social fact and counteract the obsession with economics" />
+    <machine-print-line text="which had grown up during the Moon&apos;s first two centuries?" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="35" asx="0" asy="724" character-width="999" dss="35" dsx="0" dsy="817" fd0="13549" fd1="2411" fd2="-1293" filter-width="4" id="m02-095-00" lbs="73" lbx="0" lby="789" segmentation="ok" slant="114000" stroke-width="6013" threshold="176" text="The political life of Aristotle looked more and more" ubs="-40" ubx="0" uby="758">
+      <word id="m02-095-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="358" y="730" width="50" height="32" />
+        <cmp x="374" y="736" width="120" height="57" />
+      </word>
+      <word id="m02-095-00-01" tag="JJ" text="political">
+        <cmp x="532" y="724" width="330" height="94" />
+        <cmp x="652" y="734" width="13" height="9" />
+        <cmp x="723" y="743" width="9" height="6" />
+      </word>
+      <word id="m02-095-00-02" tag="NN" text="life">
+        <cmp x="897" y="736" width="143" height="67" />
+        <cmp x="941" y="739" width="11" height="9" />
+      </word>
+      <word id="m02-095-00-03" tag="INO" text="of">
+        <cmp x="1076" y="732" width="77" height="68" />
+      </word>
+      <word id="m02-095-00-04" tag="NP" text="Aristotle">
+        <cmp x="1193" y="729" width="334" height="70" />
+        <cmp x="1293" y="748" width="7" height="4" />
+      </word>
+      <word id="m02-095-00-05" tag="VBD" text="looked">
+        <cmp x="1568" y="734" width="233" height="59" />
+      </word>
+      <word id="m02-095-00-06" tag="RBR" text="more">
+        <cmp x="1818" y="753" width="169" height="37" />
+      </word>
+      <word id="m02-095-00-07" tag="CC" text="and">
+        <cmp x="2005" y="740" width="134" height="57" />
+      </word>
+      <word id="m02-095-00-08" tag="RBR" text="more">
+        <cmp x="2162" y="751" width="173" height="36" />
+      </word>
+      <lower-contour>
+        <point x="356" y="818" />
+        <point x="2195" y="818" />
+      </lower-contour>
+    </line>
+    <line ass="-110" asx="0" asy="897" character-width="999" dss="-110" dsx="0" dsy="989" fd0="13940" fd1="2757" fd2="-553" filter-width="4" id="m02-095-01" lbs="-171" lbx="0" lby="960" segmentation="ok" slant="119999" stroke-width="6201" threshold="176" text="like a masquerade of business interests in dis-" ubs="10" ubx="0" uby="942">
+      <word id="m02-095-01-00" tag="IN" text="like">
+        <cmp x="350" y="902" width="57" height="59" />
+        <cmp x="387" y="923" width="8" height="5" />
+        <cmp x="398" y="911" width="106" height="51" />
+      </word>
+      <word id="m02-095-01-01" tag="AT" text="a">
+        <cmp x="533" y="936" width="50" height="30" />
+      </word>
+      <word id="m02-095-01-02" tag="NN" text="masquerade">
+        <cmp x="623" y="936" width="236" height="56" />
+        <cmp x="859" y="915" width="186" height="57" />
+      </word>
+      <word id="m02-095-01-03" tag="INO" text="of">
+        <cmp x="1078" y="913" width="70" height="74" />
+      </word>
+      <word id="m02-095-01-04" tag="NN" text="business">
+        <cmp x="1181" y="920" width="323" height="52" />
+        <cmp x="1318" y="927" width="6" height="4" />
+      </word>
+      <word id="m02-095-01-05" tag="NNS" text="interests">
+        <cmp x="1543" y="903" width="12" height="8" />
+        <cmp x="1548" y="901" width="338" height="76" />
+      </word>
+      <word id="m02-095-01-06" tag="IN" text="in">
+        <cmp x="1925" y="943" width="14" height="26" />
+        <cmp x="1927" y="917" width="4" height="7" />
+        <cmp x="1940" y="944" width="61" height="25" />
+      </word>
+      <word id="m02-095-01-07" tag="NN-" text="dis-">
+        <cmp x="2037" y="905" width="114" height="63" />
+        <cmp x="2102" y="903" width="11" height="8" />
+        <cmp x="2157" y="935" width="37" height="7" />
+      </word>
+      <upper-contour>
+        <point x="356" y="818" />
+        <point x="2195" y="818" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="992" />
+        <point x="2195" y="992" />
+      </lower-contour>
+    </line>
+    <line ass="69" asx="0" asy="1076" character-width="999" dss="69" dsx="0" dsy="1182" fd0="13629" fd1="2471" fd2="-1291" filter-width="4" id="m02-095-02" lbs="-71" lbx="0" lby="1148" segmentation="ok" slant="111000" stroke-width="6341" threshold="176" text="guise which, far from attracting the allegiance" ubs="349" ubx="0" uby="1125">
+      <word id="m02-095-02-00" tag="-NN" text="guise">
+        <cmp x="350" y="1115" width="203" height="59" />
+        <cmp x="444" y="1103" width="10" height="5" />
+      </word>
+      <word id="m02-095-02-01" tag="WDT" text="which">
+        <cmp x="586" y="1085" width="256" height="68" />
+        <cmp x="712" y="1095" width="12" height="6" />
+      </word>
+      <word id="m02-095-02-02" tag="," text=",">
+        <cmp x="863" y="1132" width="16" height="31" />
+      </word>
+      <word id="m02-095-02-03" tag="RB" text="far">
+        <cmp x="889" y="1091" width="129" height="77" />
+      </word>
+      <word id="m02-095-02-04" tag="IN" text="from">
+        <cmp x="1046" y="1091" width="189" height="82" />
+      </word>
+      <word id="m02-095-02-05" tag="VBG" text="attracting">
+        <cmp x="1275" y="1076" width="422" height="101" />
+        <cmp x="1576" y="1076" width="14" height="7" />
+        <cmp x="1662" y="1168" width="7" height="4" />
+      </word>
+      <word id="m02-095-02-06" tag="ATI" text="the">
+        <cmp x="1711" y="1077" width="136" height="70" />
+      </word>
+      <word id="m02-095-02-07" tag="NN" text="allegiance">
+        <cmp x="1874" y="1090" width="384" height="91" />
+        <cmp x="2064" y="1102" width="9" height="6" />
+      </word>
+      <upper-contour>
+        <point x="348" y="992" />
+        <point x="2195" y="992" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="1182" />
+        <point x="2253" y="1182" />
+      </lower-contour>
+    </line>
+    <line ass="175" asx="0" asy="1265" character-width="999" dss="175" dsx="0" dsy="1373" fd0="13559" fd1="2451" fd2="-1486" filter-width="4" id="m02-095-03" lbs="224" lbx="0" lby="1330" segmentation="ok" slant="116000" stroke-width="6300" threshold="176" text="of free men everywhere, could only repel them." ubs="78" ubx="0" uby="1299">
+      <word id="m02-095-03-00" tag="INO" text="of">
+        <cmp x="347" y="1264" width="76" height="80" />
+      </word>
+      <word id="m02-095-03-01" tag="JJ" text="free">
+        <cmp x="460" y="1264" width="138" height="88" />
+      </word>
+      <word id="m02-095-03-02" tag="NNS" text="men">
+        <cmp x="624" y="1293" width="183" height="37" />
+      </word>
+      <word id="m02-095-03-03" tag="RB" text="everywhere">
+        <cmp x="828" y="1266" width="427" height="95" />
+      </word>
+      <word id="m02-095-03-04" tag="," text=",">
+        <cmp x="1268" y="1314" width="9" height="34" />
+      </word>
+      <word id="m02-095-03-05" tag="MD" text="could">
+        <cmp x="1285" y="1288" width="42" height="40" />
+        <cmp x="1331" y="1269" width="199" height="60" />
+      </word>
+      <word id="m02-095-03-06" tag="RB" text="only">
+        <cmp x="1548" y="1272" width="223" height="97" />
+      </word>
+      <word id="m02-095-03-07" tag="VB" text="repel">
+        <cmp x="1790" y="1275" width="209" height="78" />
+      </word>
+      <word id="m02-095-03-08" tag="PP3OS" text="them">
+        <cmp x="2037" y="1259" width="185" height="68" />
+      </word>
+      <word id="m02-095-03-09" tag="." text=".">
+        <cmp x="2237" y="1314" width="15" height="8" />
+      </word>
+      <upper-contour>
+        <point x="348" y="1182" />
+        <point x="2253" y="1182" />
+      </upper-contour>
+      <lower-contour>
+        <point x="345" y="1369" />
+        <point x="2210" y="1369" />
+      </lower-contour>
+    </line>
+    <line ass="60" asx="0" asy="1436" character-width="999" dss="60" dsx="0" dsy="1537" fd0="13498" fd1="2605" fd2="-1376" filter-width="4" id="m02-095-04" lbs="208" lbx="0" lby="1510" segmentation="ok" slant="114000" stroke-width="6102" threshold="176" text="Then what of the cultural life? Did this per-" ubs="-235" ubx="0" uby="1471">
+      <word id="m02-095-04-00" sentence-start="yes" tag="RN" text="Then">
+        <cmp x="337" y="1444" width="198" height="68" />
+        <cmp x="351" y="1456" width="19" height="59" />
+      </word>
+      <word id="m02-095-04-01" tag="WDT" text="what">
+        <cmp x="567" y="1438" width="223" height="73" />
+      </word>
+      <word id="m02-095-04-02" tag="INO" text="of">
+        <cmp x="818" y="1436" width="90" height="89" />
+      </word>
+      <word id="m02-095-04-03" tag="ATI" text="the">
+        <cmp x="943" y="1436" width="128" height="73" />
+      </word>
+      <word id="m02-095-04-04" tag="JJ" text="cultural">
+        <cmp x="1087" y="1448" width="366" height="70" />
+      </word>
+      <word id="m02-095-04-05" tag="NN" text="life">
+        <cmp x="1480" y="1437" width="136" height="87" />
+        <cmp x="1517" y="1440" width="14" height="7" />
+      </word>
+      <word id="m02-095-04-06" tag="?" text="?">
+        <cmp x="1626" y="1439" width="62" height="57" />
+        <cmp x="1672" y="1504" width="9" height="7" />
+      </word>
+      <word id="m02-095-04-07" sentence-start="yes" tag="DOD" text="Did">
+        <cmp x="1711" y="1447" width="143" height="60" />
+        <cmp x="1714" y="1471" width="6" height="6" />
+        <cmp x="1727" y="1459" width="28" height="47" />
+        <cmp x="1784" y="1460" width="8" height="5" />
+      </word>
+      <word id="m02-095-04-08" tag="DT" text="this">
+        <cmp x="1874" y="1444" width="168" height="65" />
+        <cmp x="1991" y="1458" width="12" height="6" />
+      </word>
+      <word id="m02-095-04-09" tag="RB-" text="per-">
+        <cmp x="2063" y="1475" width="110" height="61" />
+        <cmp x="2184" y="1485" width="25" height="11" />
+      </word>
+      <upper-contour>
+        <point x="345" y="1369" />
+        <point x="2210" y="1369" />
+      </upper-contour>
+      <lower-contour>
+        <point x="337" y="1536" />
+        <point x="2210" y="1536" />
+      </lower-contour>
+    </line>
+    <line ass="-445" asx="0" asy="1590" character-width="999" dss="-445" dsx="0" dsy="1726" fd0="13864" fd1="2680" fd2="-786" filter-width="4" id="m02-095-05" lbs="-557" lbx="0" lby="1680" segmentation="ok" slant="113000" stroke-width="6325" threshold="176" text="haps nurture a genuinely civilizing impulse" ubs="-223" ubx="0" uby="1652">
+      <word id="m02-095-05-00" tag="-RB" text="haps">
+        <cmp x="339" y="1612" width="224" height="103" />
+      </word>
+      <word id="m02-095-05-01" tag="VB" text="nurture">
+        <cmp x="604" y="1620" width="327" height="72" />
+      </word>
+      <word id="m02-095-05-02" tag="AT" text="a">
+        <cmp x="958" y="1657" width="62" height="32" />
+      </word>
+      <word id="m02-095-05-03" tag="RB" text="genuinely">
+        <cmp x="1057" y="1626" width="442" height="103" />
+        <cmp x="1258" y="1631" width="17" height="9" />
+      </word>
+      <word id="m02-095-05-04" tag="JJ" text="civilizing">
+        <cmp x="1525" y="1635" width="441" height="107" />
+        <cmp x="1567" y="1631" width="8" height="8" />
+        <cmp x="1665" y="1636" width="6" height="10" />
+        <cmp x="1732" y="1640" width="9" height="6" />
+        <cmp x="1828" y="1606" width="16" height="4" />
+      </word>
+      <word id="m02-095-05-05" tag="NN" text="impulse">
+        <cmp x="1990" y="1625" width="328" height="89" />
+        <cmp x="2013" y="1631" width="9" height="6" />
+      </word>
+      <upper-contour>
+        <point x="337" y="1536" />
+        <point x="2210" y="1536" />
+      </upper-contour>
+      <lower-contour>
+        <point x="337" y="1742" />
+        <point x="2107" y="1742" />
+      </lower-contour>
+    </line>
+    <line ass="-270" asx="0" asy="1787" character-width="999" dss="-270" dsx="0" dsy="1886" fd0="13889" fd1="2706" fd2="-1043" filter-width="4" id="m02-095-06" lbs="-173" lbx="0" lby="1857" segmentation="ok" slant="108999" stroke-width="6061" threshold="176" text="which might in time become social fact" ubs="-464" ubx="0" uby="1827">
+      <word id="m02-095-06-00" tag="WDT" text="which">
+        <cmp x="321" y="1794" width="282" height="73" />
+        <cmp x="459" y="1803" width="13" height="9" />
+      </word>
+      <word id="m02-095-06-01" tag="MD" text="might">
+        <cmp x="632" y="1806" width="254" height="85" />
+        <cmp x="722" y="1819" width="14" height="7" />
+      </word>
+      <word id="m02-095-06-02" tag="IN" text="in">
+        <cmp x="901" y="1830" width="99" height="36" />
+        <cmp x="914" y="1793" width="18" height="8" />
+      </word>
+      <word id="m02-095-06-03" tag="NN" text="time">
+        <cmp x="1038" y="1800" width="173" height="67" />
+        <cmp x="1076" y="1809" width="11" height="6" />
+      </word>
+      <word id="m02-095-06-04" tag="VB" text="become">
+        <cmp x="1235" y="1806" width="323" height="65" />
+      </word>
+      <word id="m02-095-06-05" tag="JJ" text="social">
+        <cmp x="1596" y="1807" width="276" height="68" />
+        <cmp x="1754" y="1810" width="14" height="6" />
+      </word>
+      <word id="m02-095-06-06" tag="NN" text="fact">
+        <cmp x="1902" y="1800" width="204" height="85" />
+      </word>
+      <upper-contour>
+        <point x="337" y="1742" />
+        <point x="2107" y="1742" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1891" />
+        <point x="2107" y="1891" />
+      </lower-contour>
+    </line>
+    <line ass="-410" asx="0" asy="1973" character-width="999" dss="-410" dsx="0" dsy="2045" fd0="13797" fd1="2674" fd2="-803" filter-width="4" id="m02-095-07" lbs="-375" lbx="0" lby="2034" segmentation="ok" slant="119000" stroke-width="6303" threshold="176" text="and counteract the obsession with economics" ubs="-481" ubx="0" uby="2006">
+      <word id="m02-095-07-00" tag="CC" text="and">
+        <cmp x="349" y="1984" width="150" height="57" />
+      </word>
+      <word id="m02-095-07-01" tag="VB" text="counteract">
+        <cmp x="541" y="2004" width="33" height="33" />
+        <cmp x="575" y="1981" width="411" height="64" />
+      </word>
+      <word id="m02-095-07-02" tag="ATI" text="the">
+        <cmp x="1034" y="1985" width="139" height="59" />
+      </word>
+      <word id="m02-095-07-03" tag="NN" text="obsession">
+        <cmp x="1217" y="1982" width="411" height="74" />
+        <cmp x="1463" y="1985" width="10" height="7" />
+      </word>
+      <word id="m02-095-07-04" tag="IN" text="with">
+        <cmp x="1664" y="1989" width="247" height="69" />
+        <cmp x="1757" y="2000" width="8" height="5" />
+      </word>
+      <word id="m02-095-07-05" tag="NN" text="economics">
+        <cmp x="1937" y="2012" width="188" height="41" />
+        <cmp x="2124" y="2014" width="215" height="48" />
+        <cmp x="2248" y="1995" width="10" height="14" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1891" />
+        <point x="2107" y="1891" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="2058" />
+        <point x="2161" y="2058" />
+      </lower-contour>
+    </line>
+    <line ass="-638" asx="0" asy="2120" character-width="999" dss="-638" dsx="0" dsy="2252" fd0="13829" fd1="2676" fd2="-637" filter-width="4" id="m02-095-08" lbs="-698" lbx="0" lby="2207" segmentation="ok" slant="118000" stroke-width="6189" threshold="176" text="which had grown up during the Moon&apos;s" ubs="-517" ubx="0" uby="2179">
+      <word id="m02-095-08-00" tag="WDT" text="which">
+        <cmp x="315" y="2149" width="297" height="69" />
+        <cmp x="480" y="2141" width="18" height="11" />
+      </word>
+      <word id="m02-095-08-01" tag="HVD" text="had">
+        <cmp x="636" y="2150" width="182" height="72" />
+      </word>
+      <word id="m02-095-08-02" tag="VBN" text="grown">
+        <cmp x="861" y="2185" width="294" height="72" />
+      </word>
+      <word id="m02-095-08-03" tag="RP" text="up">
+        <cmp x="1209" y="2187" width="128" height="61" />
+      </word>
+      <word id="m02-095-08-04" tag="IN" text="during">
+        <cmp x="1372" y="2165" width="284" height="106" />
+        <cmp x="1512" y="2138" width="11" height="4" />
+      </word>
+      <word id="m02-095-08-05" tag="ATI" text="the">
+        <cmp x="1680" y="2158" width="153" height="70" />
+      </word>
+      <word id="m02-095-08-06" tag="NP$" text="Moon&apos;s">
+        <cmp x="1883" y="2177" width="214" height="60" />
+        <cmp x="2087" y="2151" width="6" height="25" />
+        <cmp x="2111" y="2196" width="49" height="35" />
+      </word>
+      <upper-contour>
+        <point x="347" y="2058" />
+        <point x="2161" y="2058" />
+      </upper-contour>
+      <lower-contour>
+        <point x="338" y="2257" />
+        <point x="1253" y="2257" />
+      </lower-contour>
+    </line>
+    <line ass="357" asx="0" asy="2321" character-width="999" dss="357" dsx="0" dsy="2430" fd0="13553" fd1="3370" fd2="185" filter-width="4" id="m02-095-09" lbs="70" lbx="0" lby="2393" segmentation="ok" slant="108999" stroke-width="6167" threshold="176" text="first two centuries?" ubs="930" ubx="0" uby="2377">
+      <word id="m02-095-09-00" tag="OD" text="first">
+        <cmp x="340" y="2319" width="176" height="110" />
+        <cmp x="388" y="2323" width="14" height="6" />
+      </word>
+      <word id="m02-095-09-01" tag="CD" text="two">
+        <cmp x="577" y="2322" width="138" height="75" />
+      </word>
+      <word id="m02-095-09-02" tag="NNS" text="centuries">
+        <cmp x="772" y="2322" width="368" height="81" />
+        <cmp x="1048" y="2320" width="14" height="6" />
+      </word>
+      <word id="m02-095-09-03" tag="?" text="?">
+        <cmp x="1162" y="2325" width="90" height="69" />
+      </word>
+      <upper-contour>
+        <point x="338" y="2257" />
+        <point x="1253" y="2257" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

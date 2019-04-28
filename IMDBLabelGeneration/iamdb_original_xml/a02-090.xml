@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-03-16" height="3542" id="a02-090" last-modified="2002-07-17" skew="127" status="final" version="3.0_beta" width="2479" writer-id="026">
+  <machine-printed-part>
+    <machine-print-line text="&amp;quot;It is true he made a point of again being absent from Northern Rhodesia when his" />
+    <machine-print-line text="followers have indulged in such violence.&amp;quot; But Sir Roy pointed out that a few months" />
+    <machine-print-line text="ago Mr. Kaunda said that if UNIP did not get its way what would happen would" />
+    <machine-print-line text="make the Mau Mau in Kenya &amp;quot;seem like a child&apos;s picnic.&amp;quot;" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-34" asx="0" asy="689" character-width="999" dss="-34" dsx="0" dsy="856" fd0="13574" fd1="2530" fd2="-459" filter-width="4" id="a02-090-00" lbs="-49" lbx="0" lby="800" segmentation="ok" slant="71000" stroke-width="6026" threshold="164" text="&amp;quot;It is true he made a point of again being absent" ubs="-4" ubx="0" uby="769">
+      <word id="a02-090-00-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="274" y="691" width="13" height="39" />
+        <cmp x="291" y="691" width="21" height="39" />
+      </word>
+      <word id="a02-090-00-01" tag="PP3" text="It">
+        <cmp x="323" y="730" width="23" height="71" />
+        <cmp x="346" y="731" width="40" height="72" />
+      </word>
+      <word id="a02-090-00-02" tag="BEZ" text="is">
+        <cmp x="421" y="766" width="40" height="46" />
+        <cmp x="442" y="756" width="10" height="10" />
+      </word>
+      <word id="a02-090-00-03" tag="JJ" text="true">
+        <cmp x="516" y="735" width="55" height="66" />
+        <cmp x="572" y="770" width="29" height="27" />
+        <cmp x="593" y="777" width="39" height="28" />
+      </word>
+      <word id="a02-090-00-04" tag="PP3A" text="he">
+        <cmp x="692" y="726" width="69" height="73" />
+      </word>
+      <word id="a02-090-00-05" tag="VBD" text="made">
+        <cmp x="799" y="751" width="191" height="54" />
+      </word>
+      <word id="a02-090-00-06" tag="AT" text="a">
+        <cmp x="1050" y="767" width="35" height="36" />
+      </word>
+      <word id="a02-090-00-07" tag="NN" text="point">
+        <cmp x="1133" y="767" width="67" height="68" />
+        <cmp x="1200" y="772" width="15" height="32" />
+        <cmp x="1223" y="770" width="32" height="27" />
+        <cmp x="1228" y="744" width="7" height="15" />
+        <cmp x="1263" y="744" width="46" height="54" />
+      </word>
+      <word id="a02-090-00-08" tag="INO" text="of">
+        <cmp x="1323" y="737" width="71" height="98" />
+      </word>
+      <word id="a02-090-00-09" tag="RB" text="again">
+        <cmp x="1429" y="770" width="63" height="70" />
+        <cmp x="1505" y="767" width="47" height="32" />
+        <cmp x="1564" y="771" width="29" height="31" />
+        <cmp x="1567" y="752" width="6" height="11" />
+      </word>
+      <word id="a02-090-00-10" tag="BEG" text="being">
+        <cmp x="1657" y="731" width="46" height="65" />
+        <cmp x="1706" y="767" width="14" height="34" />
+        <cmp x="1719" y="774" width="62" height="85" />
+        <cmp x="1729" y="741" width="6" height="13" />
+      </word>
+      <word id="a02-090-00-11" tag="JJ" text="absent">
+        <cmp x="1837" y="749" width="168" height="58" />
+        <cmp x="2012" y="725" width="41" height="70" />
+      </word>
+      <lower-contour>
+        <point x="318" y="860" />
+        <point x="2054" y="860" />
+      </lower-contour>
+    </line>
+    <line ass="335" asx="0" asy="915" character-width="999" dss="335" dsx="0" dsy="1033" fd0="14293" fd1="2440" fd2="-1490" filter-width="4" id="a02-090-01" lbs="342" lbx="0" lby="985" segmentation="ok" slant="68000" stroke-width="5892" threshold="163" text="from Northern Rhodesia when his followers have" ubs="320" ubx="0" uby="954">
+      <word id="a02-090-01-00" tag="IN" text="from">
+        <cmp x="320" y="913" width="68" height="107" />
+        <cmp x="369" y="948" width="33" height="43" />
+        <cmp x="394" y="956" width="92" height="33" />
+      </word>
+      <word id="a02-090-01-01" tag="NP" text="Northern">
+        <cmp x="543" y="926" width="63" height="55" />
+        <cmp x="595" y="945" width="49" height="38" />
+        <cmp x="657" y="919" width="23" height="59" />
+        <cmp x="680" y="924" width="48" height="51" />
+        <cmp x="730" y="945" width="32" height="31" />
+        <cmp x="742" y="951" width="98" height="36" />
+      </word>
+      <word id="a02-090-01-02" tag="NP" text="Rhodesia">
+        <cmp x="883" y="921" width="49" height="61" />
+        <cmp x="940" y="918" width="73" height="60" />
+        <cmp x="1023" y="922" width="107" height="61" />
+        <cmp x="1136" y="950" width="14" height="28" />
+        <cmp x="1160" y="954" width="40" height="28" />
+        <cmp x="1161" y="932" width="5" height="7" />
+      </word>
+      <word id="a02-090-01-03" tag="WRB" text="when">
+        <cmp x="1251" y="944" width="57" height="39" />
+        <cmp x="1311" y="913" width="61" height="65" />
+        <cmp x="1373" y="940" width="26" height="46" />
+      </word>
+      <word id="a02-090-01-04" tag="PP$" text="his">
+        <cmp x="1458" y="918" width="58" height="63" />
+        <cmp x="1530" y="948" width="25" height="36" />
+        <cmp x="1536" y="926" width="5" height="13" />
+      </word>
+      <word id="a02-090-01-05" tag="NNS" text="followers">
+        <cmp x="1577" y="913" width="181" height="112" />
+        <cmp x="1761" y="943" width="56" height="37" />
+        <cmp x="1806" y="944" width="43" height="39" />
+        <cmp x="1851" y="948" width="33" height="33" />
+        <cmp x="1882" y="950" width="27" height="31" />
+      </word>
+      <word id="a02-090-01-06" tag="HV" text="have">
+        <cmp x="1963" y="915" width="64" height="65" />
+        <cmp x="2030" y="939" width="48" height="34" />
+        <cmp x="2065" y="946" width="38" height="33" />
+      </word>
+      <upper-contour>
+        <point x="318" y="860" />
+        <point x="2054" y="860" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1025" />
+        <point x="2104" y="1025" />
+      </lower-contour>
+    </line>
+    <line ass="377" asx="0" asy="1084" character-width="999" dss="377" dsx="0" dsy="1219" fd0="14040" fd1="2560" fd2="-1099" filter-width="4" id="a02-090-02" lbs="435" lbx="0" lby="1161" segmentation="err" slant="66999" stroke-width="5825" threshold="164" text="indulged in such violence.&amp;quot; But Sir Roy pointed out" ubs="260" ubx="0" uby="1129">
+      <word id="a02-090-02-00" tag="VBN" text="indulged">
+        <cmp x="329" y="1121" width="16" height="35" />
+        <cmp x="348" y="1094" width="110" height="67" />
+        <cmp x="355" y="1093" width="8" height="9" />
+        <cmp x="435" y="1109" width="144" height="94" />
+      </word>
+      <word id="a02-090-02-01" tag="IN" text="in">
+        <cmp x="626" y="1118" width="13" height="20" />
+        <cmp x="639" y="1110" width="22" height="31" />
+        <cmp x="646" y="1091" width="5" height="7" />
+      </word>
+      <word id="a02-090-02-02" tag="ABL" text="such">
+        <cmp x="702" y="1123" width="70" height="41" />
+        <cmp x="773" y="1104" width="57" height="64" />
+      </word>
+      <word id="a02-090-02-03" tag="NN" text="violence">
+        <cmp x="889" y="1123" width="40" height="40" />
+        <cmp x="926" y="1132" width="13" height="27" />
+        <cmp x="947" y="1101" width="119" height="61" />
+        <cmp x="1074" y="1125" width="55" height="39" />
+      </word>
+      <word id="a02-090-02-04" tag="." text=".">
+        <cmp x="1156" y="1162" width="7" height="7" />
+      </word>
+      <word id="a02-090-02-05" tag="**&apos;" text="&quot;">
+        <cmp x="1192" y="1078" width="11" height="32" />
+        <cmp x="1211" y="1080" width="13" height="32" />
+      </word>
+      <word id="a02-090-02-06" sentence-start="yes" tag="CC" text="But">
+        <cmp x="1271" y="1095" width="45" height="68" />
+        <cmp x="1319" y="1122" width="28" height="31" />
+        <cmp x="1357" y="1091" width="44" height="64" />
+      </word>
+      <word id="a02-090-02-07" tag="NPT" text="Sir">
+        <cmp x="1428" y="1095" width="48" height="53" />
+        <cmp x="1475" y="1122" width="8" height="26" />
+        <cmp x="1486" y="1103" width="5" height="8" />
+        <cmp x="1491" y="1118" width="18" height="29" />
+      </word>
+      <word id="a02-090-02-08" tag="NP" text="Roy">
+        <cmp x="1555" y="1094" width="37" height="49" />
+        <cmp x="1588" y="1123" width="30" height="26" />
+        <cmp x="1598" y="1126" width="61" height="84" />
+      </word>
+      <word id="a02-090-02-09" tag="VBD" text="pointed">
+        <cmp x="1692" y="1124" width="74" height="77" />
+        <cmp x="1771" y="1127" width="17" height="33" />
+        <cmp x="1790" y="1105" width="6" height="12" />
+        <cmp x="1800" y="1089" width="154" height="64" />
+      </word>
+      <word id="a02-090-02-10" tag="RP" text="out">
+        <cmp x="2017" y="1122" width="69" height="35" />
+        <cmp x="2094" y="1103" width="27" height="53" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1025" />
+        <point x="2104" y="1025" />
+      </upper-contour>
+      <lower-contour>
+        <point x="335" y="1210" />
+        <point x="2122" y="1210" />
+      </lower-contour>
+    </line>
+    <line ass="280" asx="0" asy="1274" character-width="999" dss="280" dsx="0" dsy="1377" fd0="13893" fd1="3209" fd2="-836" filter-width="4" id="a02-090-03" lbs="224" lbx="0" lby="1338" segmentation="err" slant="68000" stroke-width="6108" threshold="162" text="that a few months ago Mr. Kaunda said that" ubs="390" ubx="0" uby="1307">
+      <word id="a02-090-03-00" tag="CS" text="that">
+        <cmp x="337" y="1281" width="31" height="57" />
+        <cmp x="372" y="1280" width="100" height="52" />
+      </word>
+      <word id="a02-090-03-01" tag="AP21" text="a">
+        <cmp x="509" y="1309" width="40" height="38" />
+      </word>
+      <word id="a02-090-03-02" tag="AP22" text="few">
+        <cmp x="603" y="1270" width="62" height="100" />
+        <cmp x="668" y="1304" width="52" height="38" />
+      </word>
+      <word id="a02-090-03-03" tag="NNS" text="months">
+        <cmp x="760" y="1309" width="132" height="43" />
+        <cmp x="895" y="1306" width="34" height="33" />
+        <cmp x="930" y="1270" width="38" height="62" />
+        <cmp x="961" y="1270" width="35" height="64" />
+        <cmp x="991" y="1299" width="37" height="38" />
+      </word>
+      <word id="a02-090-03-04" tag="RB" text="ago">
+        <cmp x="1072" y="1298" width="109" height="75" />
+      </word>
+      <word id="a02-090-03-05" tag="NPT" text="Mr.">
+        <cmp x="1244" y="1269" width="69" height="61" />
+        <cmp x="1310" y="1292" width="37" height="46" />
+        <cmp x="1343" y="1322" width="8" height="13" />
+      </word>
+      <word id="a02-090-03-06" tag="NP" text="Kaunda">
+        <cmp x="1390" y="1280" width="43" height="52" />
+        <cmp x="1426" y="1300" width="41" height="33" />
+        <cmp x="1474" y="1299" width="29" height="30" />
+        <cmp x="1508" y="1283" width="116" height="55" />
+      </word>
+      <word id="a02-090-03-07" tag="VBD" text="said">
+        <cmp x="1668" y="1295" width="47" height="41" />
+        <cmp x="1711" y="1303" width="53" height="32" />
+        <cmp x="1771" y="1302" width="31" height="30" />
+        <cmp x="1778" y="1284" width="6" height="10" />
+        <cmp x="1804" y="1287" width="22" height="43" />
+      </word>
+      <word id="a02-090-03-08" tag="CS" text="that">
+        <cmp x="1879" y="1269" width="30" height="52" />
+        <cmp x="1908" y="1273" width="34" height="51" />
+        <cmp x="1945" y="1277" width="71" height="49" />
+        <cmp x="2049" y="1272" width="93" height="72" />
+      </word>
+      <upper-contour>
+        <point x="335" y="1210" />
+        <point x="2122" y="1210" />
+      </upper-contour>
+      <lower-contour>
+        <point x="346" y="1373" />
+        <point x="2092" y="1373" />
+      </lower-contour>
+    </line>
+    <line ass="-764" asx="0" asy="1428" character-width="999" dss="-764" dsx="0" dsy="1557" fd0="13849" fd1="2543" fd2="-1040" filter-width="4" id="a02-090-04" lbs="-741" lbx="0" lby="1498" segmentation="ok" slant="70000" stroke-width="5845" threshold="162" text="if UNIP did not get its way what would happen" ubs="-809" ubx="0" uby="1461">
+      <word id="a02-090-04-00" tag="CS" text="if">
+        <cmp x="348" y="1479" width="14" height="38" />
+        <cmp x="348" y="1450" width="63" height="113" />
+        <cmp x="365" y="1458" width="6" height="13" />
+      </word>
+      <word id="a02-090-04-01" tag="NP" text="UNIP">
+        <cmp x="488" y="1449" width="43" height="56" />
+        <cmp x="531" y="1449" width="52" height="56" />
+        <cmp x="582" y="1462" width="15" height="45" />
+        <cmp x="604" y="1463" width="37" height="50" />
+      </word>
+      <word id="a02-090-04-02" tag="DOD" text="did">
+        <cmp x="683" y="1448" width="52" height="66" />
+        <cmp x="738" y="1456" width="50" height="56" />
+        <cmp x="753" y="1461" width="7" height="13" />
+      </word>
+      <word id="a02-090-04-03" tag="XNOT" text="not">
+        <cmp x="840" y="1450" width="99" height="59" />
+      </word>
+      <word id="a02-090-04-04" tag="VB" text="get">
+        <cmp x="966" y="1477" width="72" height="70" />
+        <cmp x="1038" y="1447" width="36" height="72" />
+      </word>
+      <word id="a02-090-04-05" tag="PP$" text="its">
+        <cmp x="1107" y="1486" width="17" height="40" />
+        <cmp x="1128" y="1464" width="7" height="13" />
+        <cmp x="1136" y="1462" width="58" height="65" />
+      </word>
+      <word id="a02-090-04-06" tag="NN" text="way">
+        <cmp x="1241" y="1482" width="62" height="42" />
+        <cmp x="1296" y="1487" width="75" height="87" />
+      </word>
+      <word id="a02-090-04-07" tag="WDT" text="what">
+        <cmp x="1417" y="1486" width="57" height="34" />
+        <cmp x="1476" y="1460" width="117" height="59" />
+      </word>
+      <word id="a02-090-04-08" tag="MD" text="would">
+        <cmp x="1638" y="1483" width="50" height="33" />
+        <cmp x="1683" y="1490" width="26" height="32" />
+        <cmp x="1719" y="1485" width="29" height="35" />
+        <cmp x="1752" y="1457" width="84" height="64" />
+      </word>
+      <word id="a02-090-04-09" tag="VB" text="happen">
+        <cmp x="1872" y="1452" width="120" height="94" />
+        <cmp x="1978" y="1482" width="69" height="63" />
+        <cmp x="2054" y="1479" width="37" height="40" />
+      </word>
+      <upper-contour>
+        <point x="346" y="1373" />
+        <point x="2092" y="1373" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="1574" />
+        <point x="2092" y="1574" />
+      </lower-contour>
+    </line>
+    <line ass="-314" asx="0" asy="1603" character-width="999" dss="-314" dsx="0" dsy="1740" fd0="13881" fd1="2382" fd2="-767" filter-width="4" id="a02-090-05" lbs="-236" lbx="0" lby="1690" segmentation="ok" slant="68999" stroke-width="6095" threshold="160" text="would make the Mau Mau in Kenya &amp;quot;seem like a" ubs="-471" ubx="0" uby="1656">
+      <word id="a02-090-05-00" tag="MD" text="would">
+        <cmp x="351" y="1652" width="47" height="35" />
+        <cmp x="392" y="1654" width="30" height="33" />
+        <cmp x="427" y="1651" width="34" height="37" />
+        <cmp x="467" y="1624" width="91" height="66" />
+      </word>
+      <word id="a02-090-05-01" tag="VB" text="make">
+        <cmp x="602" y="1661" width="76" height="35" />
+        <cmp x="684" y="1640" width="101" height="65" />
+      </word>
+      <word id="a02-090-05-02" tag="ATI" text="the">
+        <cmp x="848" y="1637" width="87" height="61" />
+      </word>
+      <word id="a02-090-05-03" tag="NP" text="Mau">
+        <cmp x="989" y="1642" width="70" height="60" />
+        <cmp x="1060" y="1671" width="66" height="30" />
+      </word>
+      <word id="a02-090-05-04" tag="NP" text="Mau">
+        <cmp x="1154" y="1638" width="62" height="63" />
+        <cmp x="1208" y="1666" width="71" height="35" />
+      </word>
+      <word id="a02-090-05-05" tag="IN" text="in">
+        <cmp x="1339" y="1664" width="12" height="35" />
+        <cmp x="1351" y="1630" width="8" height="7" />
+        <cmp x="1356" y="1662" width="27" height="36" />
+      </word>
+      <word id="a02-090-05-06" tag="NP" text="Kenya">
+        <cmp x="1427" y="1635" width="56" height="66" />
+        <cmp x="1487" y="1668" width="76" height="81" />
+        <cmp x="1491" y="1663" width="28" height="34" />
+        <cmp x="1574" y="1670" width="53" height="34" />
+      </word>
+      <word id="a02-090-05-07" tag="*&apos;" text="&quot;">
+        <cmp x="1686" y="1614" width="13" height="25" />
+        <cmp x="1692" y="1614" width="20" height="30" />
+      </word>
+      <word id="a02-090-05-08" tag="VB" text="seem">
+        <cmp x="1706" y="1660" width="143" height="38" />
+      </word>
+      <word id="a02-090-05-09" tag="IN" text="like">
+        <cmp x="1896" y="1634" width="54" height="68" />
+        <cmp x="1968" y="1638" width="6" height="11" />
+        <cmp x="1969" y="1638" width="46" height="63" />
+      </word>
+      <word id="a02-090-05-10" tag="AT" text="a">
+        <cmp x="2083" y="1669" width="62" height="29" />
+      </word>
+      <upper-contour>
+        <point x="349" y="1574" />
+        <point x="2092" y="1574" />
+      </upper-contour>
+      <lower-contour>
+        <point x="350" y="1704" />
+        <point x="891" y="1704" />
+      </lower-contour>
+    </line>
+    <line ass="4319" asx="0" asy="1831" character-width="999" dss="4319" dsx="0" dsy="1951" fd0="14415" fd1="3019" fd2="-20" filter-width="4" id="a02-090-06" lbs="4626" lbx="0" lby="1903" segmentation="err" slant="72000" stroke-width="5894" threshold="160" text="child&apos;s picnic.&amp;quot;" ubs="3704" ubx="0" uby="1868">
+      <word id="a02-090-06-00" tag="NN$" text="child&apos;s">
+        <cmp x="352" y="1810" width="89" height="74" />
+        <cmp x="455" y="1812" width="95" height="54" />
+        <cmp x="470" y="1807" width="8" height="6" />
+        <cmp x="575" y="1789" width="21" height="33" />
+        <cmp x="580" y="1826" width="30" height="33" />
+      </word>
+      <word id="a02-090-06-01" tag="NN" text="picnic">
+        <cmp x="669" y="1825" width="41" height="69" />
+        <cmp x="708" y="1832" width="16" height="30" />
+        <cmp x="727" y="1835" width="23" height="30" />
+        <cmp x="730" y="1816" width="5" height="16" />
+        <cmp x="762" y="1834" width="45" height="32" />
+        <cmp x="811" y="1836" width="25" height="35" />
+        <cmp x="818" y="1818" width="6" height="12" />
+      </word>
+      <word id="a02-090-06-02" tag="." text=".">
+        <cmp x="870" y="1792" width="7" height="29" />
+        <cmp x="878" y="1797" width="12" height="23" />
+      </word>
+      <word id="a02-090-06-03" tag="**&apos;" text="&quot;">
+        <cmp x="871" y="1880" width="7" height="5" />
+      </word>
+      <upper-contour>
+        <point x="350" y="1704" />
+        <point x="891" y="1704" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

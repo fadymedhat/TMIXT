@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-18" height="3542" id="g06-050g" last-modified="2002-07-17" skew="-63" status="final" version="3.0_beta" width="2479" writer-id="338">
+  <machine-printed-part>
+    <machine-print-line text="Mauro&apos;s first action was to write to his revered master at Ko&amp;quot;then, near Leipzig, asking" />
+    <machine-print-line text="for advice. In doing so he described his distinguished patient and his symptoms." />
+    <machine-print-line text="He told Hahnemann that he found Anglesey a strong, energetic man with a gentle" />
+    <machine-print-line text="and charming character, even-tempered and sedate, not easily irritated, patient and" />
+    <machine-print-line text="persevering, &apos;but he appears to despair of ever being cured.&apos;" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="257" asx="0" asy="711" character-width="999" dss="257" dsx="0" dsy="805" fd0="13929" fd1="2152" fd2="-1441" filter-width="4" id="g06-050g-00" lbs="316" lbx="0" lby="786" segmentation="ok" slant="71000" stroke-width="5746" threshold="168" text="Mauro&apos;s first action was to write to his revered master" ubs="140" ubx="0" uby="750">
+      <word id="g06-050g-00-00" sentence-start="yes" tag="NP$" text="Mauro&apos;s">
+        <cmp x="331" y="723" width="199" height="62" />
+        <cmp x="534" y="733" width="8" height="13" />
+        <cmp x="545" y="752" width="26" height="31" />
+      </word>
+      <word id="g06-050g-00-01" tag="OD" text="first">
+        <cmp x="593" y="719" width="35" height="84" />
+        <cmp x="607" y="723" width="103" height="62" />
+        <cmp x="646" y="717" width="9" height="10" />
+      </word>
+      <word id="g06-050g-00-02" tag="NN" text="action">
+        <cmp x="736" y="714" width="96" height="69" />
+        <cmp x="820" y="745" width="87" height="36" />
+        <cmp x="855" y="716" width="7" height="13" />
+      </word>
+      <word id="g06-050g-00-03" tag="BEDZ" text="was">
+        <cmp x="935" y="743" width="110" height="41" />
+      </word>
+      <word id="g06-050g-00-04" tag="TO" text="to">
+        <cmp x="1075" y="726" width="66" height="53" />
+      </word>
+      <word id="g06-050g-00-05" tag="VB" text="write">
+        <cmp x="1164" y="723" width="155" height="62" />
+        <cmp x="1255" y="707" width="7" height="22" />
+      </word>
+      <word id="g06-050g-00-06" tag="IN" text="to">
+        <cmp x="1345" y="713" width="75" height="69" />
+      </word>
+      <word id="g06-050g-00-07" tag="PP$" text="his">
+        <cmp x="1449" y="714" width="72" height="66" />
+        <cmp x="1482" y="710" width="11" height="13" />
+      </word>
+      <word id="g06-050g-00-08" tag="JJ" text="revered">
+        <cmp x="1564" y="729" width="203" height="56" />
+      </word>
+      <word id="g06-050g-00-09" tag="NN" text="master">
+        <cmp x="1815" y="726" width="220" height="60" />
+      </word>
+      <lower-contour>
+        <point x="329" y="803" />
+        <point x="2036" y="803" />
+      </lower-contour>
+    </line>
+    <line ass="320" asx="0" asy="886" character-width="999" dss="320" dsx="0" dsy="996" fd0="13632" fd1="2694" fd2="-1008" filter-width="3" id="g06-050g-01" lbs="363" lbx="0" lby="965" segmentation="ok" slant="71000" stroke-width="5682" threshold="170" text="at Ko&amp;quot;then, near Leipzig, asking for advice. In doing so he" ubs="235" ubx="0" uby="933">
+      <word id="g06-050g-01-00" tag="IN" text="at">
+        <cmp x="320" y="903" width="77" height="65" />
+      </word>
+      <word id="g06-050g-01-01" tag="NP" text="Ko&quot;then">
+        <cmp x="465" y="901" width="64" height="62" />
+        <cmp x="540" y="913" width="12" height="20" />
+        <cmp x="556" y="903" width="99" height="57" />
+      </word>
+      <word id="g06-050g-01-02" tag="," text=",">
+        <cmp x="653" y="948" width="14" height="29" />
+      </word>
+      <word id="g06-050g-01-03" tag="IN" text="near">
+        <cmp x="703" y="909" width="132" height="49" />
+      </word>
+      <word id="g06-050g-01-04" tag="NP" text="Leipzig">
+        <cmp x="866" y="902" width="172" height="90" />
+        <cmp x="929" y="890" width="9" height="17" />
+        <cmp x="999" y="889" width="6" height="14" />
+      </word>
+      <word id="g06-050g-01-05" tag="," text=",">
+        <cmp x="1055" y="944" width="13" height="30" />
+      </word>
+      <word id="g06-050g-01-06" tag="VBG" text="asking">
+        <cmp x="1097" y="892" width="164" height="98" />
+        <cmp x="1210" y="886" width="7" height="12" />
+      </word>
+      <word id="g06-050g-01-07" tag="IN" text="for">
+        <cmp x="1293" y="894" width="76" height="81" />
+      </word>
+      <word id="g06-050g-01-08" tag="NN" text="advice">
+        <cmp x="1390" y="901" width="185" height="55" />
+        <cmp x="1523" y="879" width="9" height="15" />
+      </word>
+      <word id="g06-050g-01-09" tag="." text=".">
+        <cmp x="1587" y="941" width="9" height="13" />
+      </word>
+      <word id="g06-050g-01-10" sentence-start="yes" tag="IN" text="In">
+        <cmp x="1627" y="910" width="58" height="50" />
+      </word>
+      <word id="g06-050g-01-11" tag="VBG" text="doing">
+        <cmp x="1722" y="900" width="150" height="82" />
+        <cmp x="1836" y="887" width="11" height="13" />
+      </word>
+      <word id="g06-050g-01-12" tag="PN" text="so">
+        <cmp x="1911" y="922" width="59" height="35" />
+      </word>
+      <word id="g06-050g-01-13" tag="PP3A" text="he">
+        <cmp x="2004" y="886" width="59" height="66" />
+      </word>
+      <upper-contour>
+        <point x="329" y="803" />
+        <point x="2036" y="803" />
+      </upper-contour>
+      <lower-contour>
+        <point x="321" y="992" />
+        <point x="2066" y="992" />
+      </lower-contour>
+    </line>
+    <line ass="519" asx="0" asy="1071" character-width="999" dss="519" dsx="0" dsy="1174" fd0="13855" fd1="2698" fd2="-1363" filter-width="4" id="g06-050g-02" lbs="630" lbx="0" lby="1146" segmentation="ok" slant="66000" stroke-width="5785" threshold="169" text="described his distinguished patient and his symptoms. He told" ubs="299" ubx="0" uby="1110">
+      <word id="g06-050g-02-00" tag="VBD" text="described">
+        <cmp x="323" y="1078" width="233" height="68" />
+        <cmp x="460" y="1067" width="5" height="12" />
+      </word>
+      <word id="g06-050g-02-01" tag="PP$" text="his">
+        <cmp x="595" y="1083" width="72" height="57" />
+        <cmp x="625" y="1070" width="8" height="19" />
+      </word>
+      <word id="g06-050g-02-02" tag="JJ" text="distinguished">
+        <cmp x="714" y="1076" width="146" height="61" />
+        <cmp x="775" y="1066" width="6" height="9" />
+        <cmp x="837" y="1083" width="5" height="8" />
+        <cmp x="859" y="1081" width="196" height="83" />
+      </word>
+      <word id="g06-050g-02-03" tag="NN" text="patient">
+        <cmp x="1092" y="1083" width="175" height="71" />
+        <cmp x="1213" y="1072" width="5" height="8" />
+      </word>
+      <word id="g06-050g-02-04" tag="CC" text="and">
+        <cmp x="1308" y="1090" width="110" height="53" />
+      </word>
+      <word id="g06-050g-02-05" tag="PP$" text="his">
+        <cmp x="1427" y="1087" width="83" height="52" />
+        <cmp x="1475" y="1080" width="7" height="18" />
+      </word>
+      <word id="g06-050g-02-06" tag="NNS" text="symptoms">
+        <cmp x="1544" y="1078" width="268" height="83" />
+      </word>
+      <word id="g06-050g-02-07" tag="." text=".">
+        <cmp x="1819" y="1128" width="4" height="4" />
+      </word>
+      <word id="g06-050g-02-08" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="1869" y="1074" width="76" height="60" />
+        <cmp x="1909" y="1079" width="7" height="6" />
+      </word>
+      <word id="g06-050g-02-09" tag="VBD" text="told">
+        <cmp x="1983" y="1076" width="34" height="57" />
+        <cmp x="2002" y="1081" width="92" height="54" />
+        <cmp x="2051" y="1076" width="8" height="6" />
+      </word>
+      <upper-contour>
+        <point x="321" y="992" />
+        <point x="2066" y="992" />
+      </upper-contour>
+      <lower-contour>
+        <point x="321" y="1165" />
+        <point x="2074" y="1165" />
+      </lower-contour>
+    </line>
+    <line ass="-71" asx="0" asy="1235" character-width="999" dss="-71" dsx="0" dsy="1347" fd0="13545" fd1="2313" fd2="-1568" filter-width="4" id="g06-050g-03" lbs="-15" lbx="0" lby="1315" segmentation="ok" slant="63000" stroke-width="5747" threshold="169" text="Hahnemann that he found Anglesey a strong, energetic man" ubs="-183" ubx="0" uby="1283">
+      <word id="g06-050g-03-00" tag="NP" text="Hahnemann">
+        <cmp x="322" y="1247" width="350" height="73" />
+        <cmp x="413" y="1248" width="4" height="4" />
+      </word>
+      <word id="g06-050g-03-01" tag="CS" text="that">
+        <cmp x="710" y="1252" width="111" height="69" />
+      </word>
+      <word id="g06-050g-03-02" tag="PP3A" text="he">
+        <cmp x="850" y="1256" width="56" height="57" />
+      </word>
+      <word id="g06-050g-03-03" tag="VBD" text="found">
+        <cmp x="933" y="1256" width="166" height="69" />
+      </word>
+      <word id="g06-050g-03-04" tag="NP" text="Anglesey">
+        <cmp x="1127" y="1265" width="221" height="83" />
+      </word>
+      <word id="g06-050g-03-05" tag="AT" text="a">
+        <cmp x="1377" y="1288" width="42" height="28" />
+      </word>
+      <word id="g06-050g-03-06" tag="JJ" text="strong">
+        <cmp x="1447" y="1261" width="67" height="59" />
+        <cmp x="1488" y="1285" width="138" height="65" />
+      </word>
+      <word id="g06-050g-03-07" tag="," text=",">
+        <cmp x="1640" y="1296" width="11" height="26" />
+      </word>
+      <word id="g06-050g-03-08" tag="JJ" text="energetic">
+        <cmp x="1665" y="1262" width="197" height="74" />
+        <cmp x="1843" y="1285" width="51" height="30" />
+        <cmp x="1884" y="1239" width="9" height="19" />
+      </word>
+      <word id="g06-050g-03-09" tag="NN" text="man">
+        <cmp x="1949" y="1272" width="124" height="51" />
+      </word>
+      <upper-contour>
+        <point x="321" y="1165" />
+        <point x="2074" y="1165" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1350" />
+        <point x="2026" y="1350" />
+      </lower-contour>
+    </line>
+    <line ass="-39" asx="0" asy="1419" character-width="999" dss="-39" dsx="0" dsy="1527" fd0="13726" fd1="2375" fd2="-1334" filter-width="4" id="g06-050g-04" lbs="34" lbx="0" lby="1497" segmentation="ok" slant="59000" stroke-width="5849" threshold="170" text="with a gentle and charming character, even-tempered and" ubs="-188" ubx="0" uby="1463">
+      <word id="g06-050g-04-00" tag="IN" text="with">
+        <cmp x="329" y="1433" width="121" height="61" />
+        <cmp x="409" y="1430" width="5" height="11" />
+      </word>
+      <word id="g06-050g-04-01" tag="AT" text="a">
+        <cmp x="481" y="1461" width="37" height="34" />
+      </word>
+      <word id="g06-050g-04-02" tag="JJ" text="gentle">
+        <cmp x="546" y="1440" width="141" height="79" />
+      </word>
+      <word id="g06-050g-04-03" tag="CC" text="and">
+        <cmp x="715" y="1445" width="115" height="50" />
+      </word>
+      <word id="g06-050g-04-04" tag="JJ" text="charming">
+        <cmp x="850" y="1438" width="231" height="91" />
+        <cmp x="1040" y="1421" width="6" height="13" />
+      </word>
+      <word id="g06-050g-04-05" tag="NN" text="character">
+        <cmp x="1130" y="1434" width="256" height="74" />
+      </word>
+      <word id="g06-050g-04-06" tag="," text=",">
+        <cmp x="1384" y="1490" width="19" height="34" />
+      </word>
+      <word id="g06-050g-04-07" tag="JJ" text="even-tempered">
+        <cmp x="1431" y="1455" width="115" height="43" />
+        <cmp x="1554" y="1483" width="4" height="5" />
+        <cmp x="1558" y="1484" width="13" height="5" />
+        <cmp x="1586" y="1440" width="261" height="77" />
+      </word>
+      <word id="g06-050g-04-08" tag="CC" text="and">
+        <cmp x="1881" y="1450" width="144" height="49" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1350" />
+        <point x="2026" y="1350" />
+      </upper-contour>
+      <lower-contour>
+        <point x="331" y="1529" />
+        <point x="2026" y="1529" />
+      </lower-contour>
+    </line>
+    <line ass="4" asx="0" asy="1600" character-width="999" dss="4" dsx="0" dsy="1714" fd0="13804" fd1="2652" fd2="-1013" filter-width="4" id="g06-050g-05" lbs="46" lbx="0" lby="1675" segmentation="ok" slant="59999" stroke-width="5956" threshold="165" text="sedate, not easily irritated, patient and persevering, &apos;but he" ubs="-78" ubx="0" uby="1641">
+      <word id="g06-050g-05-00" tag="JJ" text="sedate">
+        <cmp x="333" y="1610" width="181" height="64" />
+      </word>
+      <word id="g06-050g-05-01" tag="," text=",">
+        <cmp x="527" y="1656" width="11" height="33" />
+        <cmp x="535" y="1649" width="4" height="6" />
+      </word>
+      <word id="g06-050g-05-02" tag="XNOT" text="not">
+        <cmp x="573" y="1616" width="93" height="59" />
+      </word>
+      <word id="g06-050g-05-03" tag="RB" text="easily">
+        <cmp x="689" y="1624" width="148" height="74" />
+        <cmp x="777" y="1613" width="7" height="11" />
+      </word>
+      <word id="g06-050g-05-04" tag="VBN" text="irritated">
+        <cmp x="882" y="1623" width="129" height="56" />
+        <cmp x="917" y="1601" width="7" height="13" />
+        <cmp x="967" y="1601" width="15" height="18" />
+        <cmp x="996" y="1618" width="120" height="60" />
+      </word>
+      <word id="g06-050g-05-05" tag="," text=",">
+        <cmp x="1102" y="1662" width="12" height="24" />
+      </word>
+      <word id="g06-050g-05-06" tag="JJ" text="patient">
+        <cmp x="1145" y="1620" width="180" height="77" />
+        <cmp x="1265" y="1604" width="7" height="13" />
+      </word>
+      <word id="g06-050g-05-07" tag="CC" text="and">
+        <cmp x="1353" y="1628" width="117" height="48" />
+      </word>
+      <word id="g06-050g-05-08" tag="JJ" text="persevering">
+        <cmp x="1495" y="1637" width="281" height="77" />
+        <cmp x="1734" y="1609" width="12" height="15" />
+      </word>
+      <word id="g06-050g-05-09" tag="," text=",">
+        <cmp x="1817" y="1661" width="13" height="23" />
+      </word>
+      <word id="g06-050g-05-10" tag="*&apos;" text="&apos;">
+        <cmp x="1889" y="1621" width="8" height="15" />
+      </word>
+      <word id="g06-050g-05-11" tag="CC" text="but">
+        <cmp x="1904" y="1621" width="115" height="51" />
+        <cmp x="1995" y="1663" width="12" height="6" />
+      </word>
+      <word id="g06-050g-05-12" tag="PP3A" text="he">
+        <cmp x="2036" y="1614" width="69" height="61" />
+      </word>
+      <upper-contour>
+        <point x="331" y="1529" />
+        <point x="2026" y="1529" />
+      </upper-contour>
+      <lower-contour>
+        <point x="331" y="1699" />
+        <point x="1456" y="1699" />
+      </lower-contour>
+    </line>
+    <line ass="141" asx="0" asy="1795" character-width="999" dss="141" dsx="0" dsy="1887" fd0="13763" fd1="2499" fd2="-1038" filter-width="4" id="g06-050g-06" lbs="315" lbx="0" lby="1859" segmentation="ok" slant="63000" stroke-width="5987" threshold="168" text="appears to despair of ever being cured.&apos;" ubs="-208" ubx="0" uby="1824">
+      <word id="g06-050g-06-00" tag="VBZ" text="appears">
+        <cmp x="330" y="1814" width="200" height="64" />
+      </word>
+      <word id="g06-050g-06-01" tag="TO" text="to">
+        <cmp x="565" y="1797" width="57" height="52" />
+      </word>
+      <word id="g06-050g-06-02" tag="VB" text="despair">
+        <cmp x="640" y="1803" width="185" height="74" />
+        <cmp x="801" y="1795" width="10" height="17" />
+      </word>
+      <word id="g06-050g-06-03" tag="INO" text="of">
+        <cmp x="852" y="1800" width="60" height="74" />
+      </word>
+      <word id="g06-050g-06-04" tag="RB" text="ever">
+        <cmp x="941" y="1820" width="111" height="36" />
+      </word>
+      <word id="g06-050g-06-05" tag="BEG" text="being">
+        <cmp x="1085" y="1805" width="125" height="81" />
+        <cmp x="1169" y="1798" width="13" height="16" />
+      </word>
+      <word id="g06-050g-06-06" tag="VBN" text="cured">
+        <cmp x="1254" y="1826" width="90" height="32" />
+        <cmp x="1343" y="1806" width="79" height="48" />
+      </word>
+      <word id="g06-050g-06-07" tag="." text=".">
+        <cmp x="1414" y="1844" width="12" height="12" />
+      </word>
+      <word id="g06-050g-06-08" tag="**&apos;" text="&apos;">
+        <cmp x="1445" y="1803" width="10" height="22" />
+      </word>
+      <upper-contour>
+        <point x="331" y="1699" />
+        <point x="1456" y="1699" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

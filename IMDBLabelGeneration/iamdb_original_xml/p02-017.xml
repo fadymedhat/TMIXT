@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="p02-017" last-modified="2002-07-17" skew="-159" status="final" version="3.0_beta" width="2479" writer-id="595">
+  <machine-printed-part>
+    <machine-print-line text="Gay, sitting opposite Gavin on the terrace could hardly believe that she was the same" />
+    <machine-print-line text="girl, miserable, shy, who had sat at the little table for the first time a few days ago." />
+    <machine-print-line text="Gavin raised his glass to her and smiled and Gay&apos;s heart turned over. &amp;quot;I&apos;d like to do" />
+    <machine-print-line text="that.&amp;quot; Gavin drained his glass and refilled it." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="1339" asx="0" asy="728" character-width="999" dss="1339" dsx="0" dsy="901" fd0="13554" fd1="3095" fd2="-331" filter-width="3" id="p02-017-00" lbs="1446" lbx="0" lby="822" segmentation="err" slant="68999" stroke-width="5476" threshold="182" text="Gay, sitting opposite Gavin on the terrace could" ubs="1123" ubx="0" uby="787">
+      <word id="p02-017-00-00" sentence-start="yes" tag="NP" text="Gay">
+        <cmp x="361" y="731" width="104" height="143" />
+      </word>
+      <word id="p02-017-00-01" tag="," text=",">
+        <cmp x="496" y="803" width="6" height="18" />
+      </word>
+      <word id="p02-017-00-02" tag="VBG" text="sitting">
+        <cmp x="536" y="714" width="162" height="85" />
+        <cmp x="594" y="718" width="4" height="5" />
+        <cmp x="707" y="728" width="5" height="4" />
+        <cmp x="710" y="769" width="26" height="94" />
+      </word>
+      <word id="p02-017-00-03" tag="IN" text="opposite">
+        <cmp x="791" y="760" width="64" height="66" />
+        <cmp x="854" y="772" width="34" height="65" />
+        <cmp x="898" y="766" width="91" height="33" />
+        <cmp x="996" y="711" width="37" height="77" />
+      </word>
+      <word id="p02-017-00-04" tag="NP" text="Gavin">
+        <cmp x="1094" y="726" width="58" height="71" />
+        <cmp x="1154" y="760" width="139" height="38" />
+        <cmp x="1237" y="859" width="18" height="15" />
+        <cmp x="1278" y="745" width="7" height="6" />
+      </word>
+      <word id="p02-017-00-05" tag="IN" text="on">
+        <cmp x="1339" y="759" width="84" height="34" />
+      </word>
+      <word id="p02-017-00-06" tag="ATI" text="the">
+        <cmp x="1445" y="715" width="86" height="75" />
+      </word>
+      <word id="p02-017-00-07" tag="NN" text="terrace">
+        <cmp x="1578" y="729" width="193" height="65" />
+      </word>
+      <word id="p02-017-00-08" tag="MD" text="could">
+        <cmp x="1821" y="740" width="204" height="46" />
+        <cmp x="1965" y="730" width="15" height="11" />
+      </word>
+      <lower-contour>
+        <point x="359" y="877" />
+        <point x="1232" y="873" />
+        <point x="2005" y="873" />
+      </lower-contour>
+    </line>
+    <line ass="-480" asx="0" asy="865" character-width="999" dss="-480" dsx="0" dsy="1026" fd0="13603" fd1="2611" fd2="-683" filter-width="3" id="p02-017-01" lbs="-363" lbx="0" lby="960" segmentation="err" slant="71000" stroke-width="5450" threshold="182" text="hardly believe that she was the same girl," ubs="-713" ubx="0" uby="925">
+      <word id="p02-017-01-00" tag="RB" text="hardly">
+        <cmp x="343" y="888" width="115" height="89" />
+        <cmp x="462" y="924" width="109" height="108" />
+        <cmp x="513" y="922" width="11" height="8" />
+      </word>
+      <word id="p02-017-01-01" tag="VB" text="believe">
+        <cmp x="647" y="896" width="234" height="84" />
+        <cmp x="835" y="916" width="8" height="6" />
+      </word>
+      <word id="p02-017-01-02" tag="CS" text="that">
+        <cmp x="951" y="953" width="4" height="3" />
+        <cmp x="955" y="882" width="145" height="91" />
+        <cmp x="1022" y="883" width="7" height="14" />
+      </word>
+      <word id="p02-017-01-03" tag="PP3A" text="she">
+        <cmp x="1158" y="876" width="96" height="91" />
+      </word>
+      <word id="p02-017-01-04" tag="BEDZ" text="was">
+        <cmp x="1301" y="936" width="42" height="37" />
+        <cmp x="1354" y="936" width="71" height="35" />
+      </word>
+      <word id="p02-017-01-05" tag="ATI" text="the">
+        <cmp x="1461" y="878" width="91" height="92" />
+      </word>
+      <word id="p02-017-01-06" tag="AP" text="same">
+        <cmp x="1612" y="934" width="33" height="34" />
+        <cmp x="1641" y="940" width="126" height="36" />
+      </word>
+      <word id="p02-017-01-07" tag="NN" text="girl">
+        <cmp x="1802" y="912" width="189" height="114" />
+        <cmp x="1827" y="939" width="19" height="20" />
+        <cmp x="1892" y="886" width="7" height="9" />
+      </word>
+      <word id="p02-017-01-08" tag="," text=",">
+        <cmp x="1989" y="977" width="15" height="24" />
+      </word>
+      <upper-contour>
+        <point x="359" y="877" />
+        <point x="1232" y="873" />
+        <point x="2005" y="873" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1033" />
+        <point x="1968" y="1033" />
+      </lower-contour>
+    </line>
+    <line ass="794" asx="0" asy="1069" character-width="999" dss="794" dsx="0" dsy="1231" fd0="14398" fd1="2571" fd2="-572" filter-width="3" id="p02-017-02" lbs="776" lbx="0" lby="1160" segmentation="ok" slant="68999" stroke-width="5293" threshold="182" text="miserable, shy, who had sat at the little" ubs="829" ubx="0" uby="1133">
+      <word id="p02-017-02-00" tag="JJ" text="miserable">
+        <cmp x="353" y="1126" width="119" height="33" />
+        <cmp x="447" y="1109" width="6" height="6" />
+        <cmp x="477" y="1095" width="204" height="64" />
+        <cmp x="621" y="1095" width="3" height="3" />
+      </word>
+      <word id="p02-017-02-01" tag="," text=",">
+        <cmp x="710" y="1157" width="13" height="20" />
+      </word>
+      <word id="p02-017-02-02" tag="JJ" text="shy">
+        <cmp x="764" y="1058" width="109" height="162" />
+      </word>
+      <word id="p02-017-02-03" tag="," text=",">
+        <cmp x="913" y="1163" width="10" height="31" />
+      </word>
+      <word id="p02-017-02-04" tag="WP" text="who">
+        <cmp x="966" y="1069" width="150" height="92" />
+      </word>
+      <word id="p02-017-02-05" tag="HVD" text="had">
+        <cmp x="1165" y="1066" width="190" height="96" />
+      </word>
+      <word id="p02-017-02-06" tag="VBN" text="sat">
+        <cmp x="1373" y="1071" width="137" height="83" />
+      </word>
+      <word id="p02-017-02-07" tag="IN" text="at">
+        <cmp x="1535" y="1065" width="106" height="88" />
+      </word>
+      <word id="p02-017-02-08" tag="ATI" text="the">
+        <cmp x="1651" y="1065" width="118" height="88" />
+      </word>
+      <word id="p02-017-02-09" tag="JJ" text="little">
+        <cmp x="1791" y="1068" width="176" height="91" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1033" />
+        <point x="1968" y="1033" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1222" />
+        <point x="1968" y="1222" />
+      </lower-contour>
+    </line>
+    <line ass="-116" asx="0" asy="1233" character-width="999" dss="-116" dsx="0" dsy="1389" fd0="14092" fd1="2533" fd2="-552" filter-width="3" id="p02-017-03" lbs="-28" lbx="0" lby="1326" segmentation="ok" slant="64000" stroke-width="5214" threshold="182" text="table for the first time a few days ago." ubs="-293" ubx="0" uby="1295">
+      <word id="p02-017-03-00" tag="NN" text="table">
+        <cmp x="348" y="1253" width="93" height="96" />
+        <cmp x="441" y="1280" width="78" height="57" />
+        <cmp x="459" y="1271" width="14" height="24" />
+        <cmp x="460" y="1269" width="8" height="8" />
+        <cmp x="497" y="1269" width="17" height="14" />
+      </word>
+      <word id="p02-017-03-01" tag="IN" text="for">
+        <cmp x="572" y="1329" width="9" height="9" />
+        <cmp x="582" y="1258" width="88" height="90" />
+        <cmp x="632" y="1244" width="8" height="8" />
+      </word>
+      <word id="p02-017-03-02" tag="ATI" text="the">
+        <cmp x="714" y="1252" width="104" height="86" />
+      </word>
+      <word id="p02-017-03-03" tag="OD" text="first">
+        <cmp x="869" y="1235" width="191" height="123" />
+        <cmp x="967" y="1269" width="8" height="6" />
+      </word>
+      <word id="p02-017-03-04" tag="NN" text="time">
+        <cmp x="1101" y="1287" width="57" height="63" />
+        <cmp x="1143" y="1250" width="142" height="85" />
+        <cmp x="1234" y="1268" width="7" height="7" />
+      </word>
+      <word id="p02-017-03-05" tag="AP21" text="a">
+        <cmp x="1341" y="1296" width="36" height="36" />
+      </word>
+      <word id="p02-017-03-06" tag="AP22" text="few">
+        <cmp x="1438" y="1241" width="101" height="90" />
+        <cmp x="1481" y="1245" width="3" height="7" />
+      </word>
+      <word id="p02-017-03-07" tag="NNS" text="days">
+        <cmp x="1595" y="1275" width="176" height="117" />
+      </word>
+      <word id="p02-017-03-08" tag="RB" text="ago">
+        <cmp x="1835" y="1296" width="137" height="98" />
+      </word>
+      <word id="p02-017-03-09" tag="." text=".">
+        <cmp x="1996" y="1321" width="8" height="7" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1222" />
+        <point x="1968" y="1222" />
+      </upper-contour>
+      <lower-contour>
+        <point x="373" y="1393" />
+        <point x="2004" y="1393" />
+      </lower-contour>
+    </line>
+    <line ass="195" asx="0" asy="1417" character-width="999" dss="195" dsx="0" dsy="1567" fd0="14080" fd1="2593" fd2="-532" filter-width="3" id="p02-017-04" lbs="248" lbx="0" lby="1513" segmentation="ok" slant="78000" stroke-width="5405" threshold="182" text="Gavin raised his glass to her and smiled" ubs="89" ubx="0" uby="1482">
+      <word id="p02-017-04-00" sentence-start="yes" tag="NP" text="Gavin">
+        <cmp x="375" y="1447" width="205" height="118" />
+        <cmp x="556" y="1464" width="8" height="5" />
+      </word>
+      <word id="p02-017-04-01" tag="VBD" text="raised">
+        <cmp x="645" y="1514" width="3" height="3" />
+        <cmp x="649" y="1475" width="141" height="40" />
+        <cmp x="763" y="1470" width="6" height="5" />
+        <cmp x="795" y="1451" width="104" height="59" />
+      </word>
+      <word id="p02-017-04-02" tag="PP$" text="his">
+        <cmp x="949" y="1426" width="125" height="97" />
+        <cmp x="1054" y="1463" width="7" height="4" />
+      </word>
+      <word id="p02-017-04-03" tag="NN" text="glass">
+        <cmp x="1122" y="1441" width="186" height="124" />
+      </word>
+      <word id="p02-017-04-04" tag="IN" text="to">
+        <cmp x="1360" y="1423" width="86" height="98" />
+      </word>
+      <word id="p02-017-04-05" tag="PP3O" text="her">
+        <cmp x="1491" y="1509" width="4" height="7" />
+        <cmp x="1495" y="1412" width="116" height="96" />
+      </word>
+      <word id="p02-017-04-06" tag="CC" text="and">
+        <cmp x="1644" y="1461" width="167" height="52" />
+      </word>
+      <word id="p02-017-04-07" tag="VBD" text="smiled">
+        <cmp x="1848" y="1435" width="312" height="77" />
+        <cmp x="2023" y="1431" width="4" height="7" />
+      </word>
+      <upper-contour>
+        <point x="373" y="1393" />
+        <point x="2004" y="1393" />
+      </upper-contour>
+      <lower-contour>
+        <point x="380" y="1567" />
+        <point x="2098" y="1567" />
+      </lower-contour>
+    </line>
+    <line ass="149" asx="0" asy="1598" character-width="999" dss="149" dsx="0" dsy="1765" fd0="14092" fd1="2689" fd2="-31" filter-width="3" id="p02-017-05" lbs="128" lbx="0" lby="1686" segmentation="ok" slant="63000" stroke-width="5521" threshold="182" text="and Gay&apos;s heart turned over. &amp;quot;I&apos;d like" ubs="191" ubx="0" uby="1655">
+      <word id="p02-017-05-00" tag="CC" text="and">
+        <cmp x="382" y="1639" width="145" height="49" />
+      </word>
+      <word id="p02-017-05-01" tag="NP$" text="Gay&apos;s">
+        <cmp x="624" y="1629" width="100" height="136" />
+        <cmp x="754" y="1635" width="9" height="20" />
+        <cmp x="768" y="1669" width="34" height="28" />
+      </word>
+      <word id="p02-017-05-02" tag="NN" text="heart">
+        <cmp x="867" y="1596" width="200" height="95" />
+      </word>
+      <word id="p02-017-05-03" tag="VBD" text="turned">
+        <cmp x="1096" y="1596" width="300" height="107" />
+      </word>
+      <word id="p02-017-05-04" tag="RP" text="over">
+        <cmp x="1459" y="1649" width="159" height="45" />
+      </word>
+      <word id="p02-017-05-05" tag="." text=".">
+        <cmp x="1653" y="1685" width="5" height="5" />
+      </word>
+      <word id="p02-017-05-06" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="1722" y="1625" width="20" height="17" />
+        <cmp x="1731" y="1621" width="3" height="3" />
+      </word>
+      <word id="p02-017-05-07" tag="PP1A" text="I">
+        <cmp x="1779" y="1629" width="26" height="52" />
+      </word>
+      <word id="p02-017-05-08" tag="HVD" text="&apos;d">
+        <cmp x="1835" y="1630" width="13" height="25" />
+        <cmp x="1842" y="1631" width="63" height="61" />
+      </word>
+      <word id="p02-017-05-09" tag="VB" text="like">
+        <cmp x="1936" y="1610" width="157" height="91" />
+        <cmp x="2080" y="1596" width="17" height="24" />
+      </word>
+      <upper-contour>
+        <point x="380" y="1567" />
+        <point x="2098" y="1567" />
+      </upper-contour>
+      <lower-contour>
+        <point x="385" y="1766" />
+        <point x="2033" y="1766" />
+      </lower-contour>
+    </line>
+    <line ass="-399" asx="0" asy="1760" character-width="999" dss="-399" dsx="0" dsy="1904" fd0="14022" fd1="2553" fd2="-460" filter-width="3" id="p02-017-06" lbs="-519" lbx="0" lby="1847" segmentation="ok" slant="63000" stroke-width="5356" threshold="182" text="to do that.&amp;quot; Gavin drained his glass" ubs="-158" ubx="0" uby="1827">
+      <word id="p02-017-06-00" tag="TO" text="to">
+        <cmp x="387" y="1784" width="69" height="88" />
+      </word>
+      <word id="p02-017-06-01" tag="DO" text="do">
+        <cmp x="515" y="1817" width="82" height="57" />
+      </word>
+      <word id="p02-017-06-02" tag="DT" text="that">
+        <cmp x="673" y="1794" width="170" height="80" />
+        <cmp x="835" y="1793" width="14" height="13" />
+        <cmp x="842" y="1806" width="3" height="5" />
+      </word>
+      <word id="p02-017-06-03" tag="." text=".">
+        <cmp x="871" y="1857" width="7" height="10" />
+      </word>
+      <word id="p02-017-06-04" tag="**&apos;" text="&quot;">
+        <cmp x="938" y="1798" width="22" height="16" />
+      </word>
+      <word id="p02-017-06-05" sentence-start="yes" tag="NP" text="Gavin">
+        <cmp x="1012" y="1801" width="195" height="105" />
+        <cmp x="1179" y="1791" width="6" height="6" />
+      </word>
+      <word id="p02-017-06-06" tag="VBD" text="drained">
+        <cmp x="1277" y="1806" width="212" height="62" />
+        <cmp x="1472" y="1817" width="12" height="8" />
+        <cmp x="1498" y="1801" width="142" height="81" />
+      </word>
+      <word id="p02-017-06-07" tag="PP$" text="his">
+        <cmp x="1668" y="1773" width="136" height="103" />
+        <cmp x="1751" y="1790" width="3" height="3" />
+        <cmp x="1761" y="1773" width="10" height="7" />
+        <cmp x="1784" y="1817" width="5" height="6" />
+      </word>
+      <word id="p02-017-06-08" tag="NN" text="glass">
+        <cmp x="1831" y="1796" width="201" height="122" />
+        <cmp x="1948" y="1795" width="14" height="8" />
+      </word>
+      <upper-contour>
+        <point x="385" y="1766" />
+        <point x="2033" y="1766" />
+      </upper-contour>
+      <lower-contour>
+        <point x="396" y="1906" />
+        <point x="1121" y="1906" />
+      </lower-contour>
+    </line>
+    <line ass="172" asx="0" asy="1962" character-width="999" dss="172" dsx="0" dsy="2070" fd0="14447" fd1="2603" fd2="-584" filter-width="3" id="p02-017-07" lbs="-290" lbx="0" lby="2043" segmentation="ok" slant="59999" stroke-width="5367" threshold="182" text="and refilled it." ubs="1097" ubx="0" uby="2031">
+      <word id="p02-017-07-00" tag="CC" text="and">
+        <cmp x="398" y="2012" width="29" height="33" />
+        <cmp x="406" y="2023" width="58" height="19" />
+        <cmp x="429" y="2014" width="4" height="12" />
+        <cmp x="476" y="2006" width="58" height="44" />
+      </word>
+      <word id="p02-017-07-01" tag="VBD" text="refilled">
+        <cmp x="599" y="1971" width="314" height="98" />
+        <cmp x="734" y="1971" width="6" height="6" />
+        <cmp x="773" y="1961" width="7" height="5" />
+      </word>
+      <word id="p02-017-07-02" tag="PP3" text="it">
+        <cmp x="987" y="1971" width="108" height="81" />
+        <cmp x="1036" y="1991" width="15" height="10" />
+      </word>
+      <word id="p02-017-07-03" tag="." text=".">
+        <cmp x="1111" y="2045" width="10" height="5" />
+      </word>
+      <upper-contour>
+        <point x="396" y="1906" />
+        <point x="1121" y="1906" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

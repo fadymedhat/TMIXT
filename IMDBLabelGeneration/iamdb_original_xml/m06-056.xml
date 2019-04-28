@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="m06-056" last-modified="2002-07-17" skew="-63" status="final" version="3.0_beta" width="2479" writer-id="552">
+  <machine-printed-part>
+    <machine-print-line text="Haris had trampled on his. It was unthinkable! &apos;You see. You needed them no more." />
+    <machine-print-line text="You are still young. You may be able to have babies. Some of those babies may be" />
+    <machine-print-line text="born with wings.&apos; The Captive with the boneless arms added, &apos;Some may be born" />
+    <machine-print-line text="wrong, as we are. Some may be born right.&apos;" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-538" asx="0" asy="734" character-width="999" dss="-538" dsx="0" dsy="824" fd0="13124" fd1="2944" fd2="-1046" filter-width="3" id="m06-056-00" lbs="-472" lbx="0" lby="804" segmentation="ok" slant="97000" stroke-width="5418" threshold="156" text="Haris had trampled on his. It was unthinkable!" ubs="-669" ubx="0" uby="766">
+      <word id="m06-056-00-00" sentence-start="yes" tag="NP" text="Haris">
+        <cmp x="355" y="753" width="45" height="57" />
+        <cmp x="399" y="770" width="118" height="40" />
+        <cmp x="465" y="750" width="11" height="14" />
+      </word>
+      <word id="m06-056-00-01" tag="HVD" text="had">
+        <cmp x="562" y="752" width="130" height="59" />
+      </word>
+      <word id="m06-056-00-02" tag="VBN" text="trampled">
+        <cmp x="743" y="748" width="51" height="61" />
+        <cmp x="796" y="772" width="84" height="38" />
+        <cmp x="879" y="777" width="35" height="56" />
+        <cmp x="918" y="765" width="13" height="47" />
+        <cmp x="931" y="783" width="37" height="29" />
+        <cmp x="965" y="763" width="44" height="51" />
+      </word>
+      <word id="m06-056-00-03" tag="IN" text="on">
+        <cmp x="1060" y="776" width="34" height="35" />
+        <cmp x="1099" y="783" width="33" height="29" />
+      </word>
+      <word id="m06-056-00-04" tag="PP$$" text="his">
+        <cmp x="1185" y="763" width="51" height="50" />
+        <cmp x="1219" y="764" width="5" height="8" />
+        <cmp x="1234" y="781" width="35" height="39" />
+      </word>
+      <word id="m06-056-00-05" tag="." text=".">
+        <cmp x="1275" y="811" width="7" height="7" />
+      </word>
+      <word id="m06-056-00-06" sentence-start="yes" tag="PP3" text="It">
+        <cmp x="1334" y="753" width="13" height="60" />
+        <cmp x="1348" y="753" width="34" height="63" />
+      </word>
+      <word id="m06-056-00-07" tag="BEDZ" text="was">
+        <cmp x="1412" y="784" width="40" height="31" />
+        <cmp x="1456" y="787" width="41" height="29" />
+        <cmp x="1497" y="783" width="39" height="41" />
+      </word>
+      <word id="m06-056-00-08" tag="JJ" text="unthinkable">
+        <cmp x="1587" y="785" width="32" height="34" />
+        <cmp x="1624" y="789" width="37" height="29" />
+        <cmp x="1662" y="758" width="24" height="63" />
+        <cmp x="1690" y="756" width="38" height="57" />
+        <cmp x="1727" y="789" width="8" height="27" />
+        <cmp x="1729" y="760" width="10" height="14" />
+        <cmp x="1743" y="786" width="30" height="30" />
+        <cmp x="1774" y="764" width="79" height="56" />
+        <cmp x="1849" y="767" width="33" height="55" />
+        <cmp x="1882" y="764" width="17" height="54" />
+        <cmp x="1902" y="787" width="43" height="32" />
+      </word>
+      <word id="m06-056-00-09" tag="!" text="!">
+        <cmp x="1957" y="753" width="6" height="45" />
+        <cmp x="1965" y="809" width="6" height="6" />
+      </word>
+      <lower-contour>
+        <point x="353" y="833" />
+        <point x="1971" y="833" />
+      </lower-contour>
+    </line>
+    <line ass="-353" asx="0" asy="923" character-width="999" dss="-353" dsx="0" dsy="992" fd0="13743" fd1="3620" fd2="-572" filter-width="3" id="m06-056-01" lbs="-367" lbx="0" lby="985" segmentation="ok" slant="102000" stroke-width="5400" threshold="157" text="&apos;You see. You needed them no more. You are still" ubs="-325" ubx="0" uby="953">
+      <word id="m06-056-01-00" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="345" y="931" width="9" height="17" />
+      </word>
+      <word id="m06-056-01-01" tag="PP2" text="You">
+        <cmp x="366" y="931" width="39" height="56" />
+        <cmp x="399" y="950" width="32" height="36" />
+        <cmp x="436" y="956" width="40" height="31" />
+      </word>
+      <word id="m06-056-01-02" tag="VB" text="see">
+        <cmp x="508" y="946" width="33" height="44" />
+        <cmp x="546" y="951" width="31" height="32" />
+        <cmp x="575" y="954" width="34" height="38" />
+      </word>
+      <word id="m06-056-01-03" tag="." text=".">
+        <cmp x="626" y="981" width="8" height="5" />
+      </word>
+      <word id="m06-056-01-04" sentence-start="yes" tag="PP2" text="You">
+        <cmp x="685" y="933" width="31" height="50" />
+        <cmp x="714" y="955" width="65" height="37" />
+      </word>
+      <word id="m06-056-01-05" tag="VBD" text="needed">
+        <cmp x="830" y="959" width="35" height="32" />
+        <cmp x="867" y="962" width="35" height="30" />
+        <cmp x="902" y="961" width="34" height="33" />
+        <cmp x="936" y="939" width="73" height="55" />
+        <cmp x="1011" y="947" width="43" height="48" />
+      </word>
+      <word id="m06-056-01-06" tag="PP3OS" text="them">
+        <cmp x="1097" y="937" width="30" height="59" />
+        <cmp x="1131" y="941" width="73" height="54" />
+        <cmp x="1207" y="961" width="37" height="32" />
+      </word>
+      <word id="m06-056-01-07" tag="RB" text="no">
+        <cmp x="1290" y="963" width="32" height="33" />
+        <cmp x="1326" y="966" width="36" height="35" />
+      </word>
+      <word id="m06-056-01-08" tag="RBR" text="more">
+        <cmp x="1399" y="963" width="44" height="31" />
+        <cmp x="1445" y="964" width="31" height="34" />
+        <cmp x="1480" y="964" width="50" height="33" />
+      </word>
+      <word id="m06-056-01-09" tag="." text=".">
+        <cmp x="1538" y="988" width="6" height="5" />
+      </word>
+      <word id="m06-056-01-10" sentence-start="yes" tag="PP2" text="You">
+        <cmp x="1585" y="944" width="35" height="52" />
+        <cmp x="1613" y="968" width="25" height="33" />
+        <cmp x="1642" y="972" width="42" height="28" />
+      </word>
+      <word id="m06-056-01-11" tag="BER" text="are">
+        <cmp x="1729" y="958" width="51" height="40" />
+        <cmp x="1792" y="967" width="28" height="30" />
+      </word>
+      <word id="m06-056-01-12" tag="RB" text="still">
+        <cmp x="1868" y="960" width="41" height="40" />
+        <cmp x="1905" y="947" width="37" height="51" />
+        <cmp x="1929" y="952" width="9" height="9" />
+        <cmp x="1944" y="935" width="19" height="58" />
+        <cmp x="1956" y="943" width="15" height="49" />
+      </word>
+      <upper-contour>
+        <point x="353" y="833" />
+        <point x="1971" y="833" />
+      </upper-contour>
+      <lower-contour>
+        <point x="349" y="1001" />
+        <point x="1973" y="1001" />
+      </lower-contour>
+    </line>
+    <line ass="-429" asx="0" asy="1103" character-width="999" dss="-429" dsx="0" dsy="1201" fd0="13602" fd1="3350" fd2="-585" filter-width="3" id="m06-056-02" lbs="-479" lbx="0" lby="1164" segmentation="ok" slant="99000" stroke-width="5561" threshold="157" text="young. You may be able to have babies. Some of those" ubs="-330" ubx="0" uby="1138">
+      <word id="m06-056-02-00" tag="JJ" text="young">
+        <cmp x="351" y="1133" width="119" height="55" />
+        <cmp x="469" y="1141" width="36" height="63" />
+      </word>
+      <word id="m06-056-02-01" tag="." text=".">
+        <cmp x="529" y="1165" width="9" height="4" />
+      </word>
+      <word id="m06-056-02-02" sentence-start="yes" tag="PP2" text="You">
+        <cmp x="579" y="1124" width="62" height="46" />
+        <cmp x="642" y="1144" width="36" height="27" />
+      </word>
+      <word id="m06-056-02-03" tag="MD" text="may">
+        <cmp x="722" y="1140" width="79" height="33" />
+        <cmp x="803" y="1146" width="15" height="24" />
+        <cmp x="809" y="1147" width="26" height="47" />
+      </word>
+      <word id="m06-056-02-04" tag="BE" text="be">
+        <cmp x="888" y="1123" width="62" height="52" />
+      </word>
+      <word id="m06-056-02-05" tag="JJ" text="able">
+        <cmp x="999" y="1141" width="43" height="33" />
+        <cmp x="1035" y="1120" width="49" height="53" />
+        <cmp x="1088" y="1145" width="30" height="30" />
+      </word>
+      <word id="m06-056-02-06" tag="TO" text="to">
+        <cmp x="1167" y="1118" width="62" height="58" />
+      </word>
+      <word id="m06-056-02-07" tag="HV" text="have">
+        <cmp x="1265" y="1118" width="79" height="58" />
+        <cmp x="1346" y="1145" width="64" height="32" />
+      </word>
+      <word id="m06-056-02-08" tag="NNS" text="babies">
+        <cmp x="1461" y="1122" width="107" height="61" />
+        <cmp x="1555" y="1124" width="7" height="14" />
+        <cmp x="1569" y="1145" width="53" height="35" />
+      </word>
+      <word id="m06-056-02-09" tag="." text=".">
+        <cmp x="1635" y="1172" width="9" height="5" />
+      </word>
+      <word id="m06-056-02-10" sentence-start="yes" tag="DTI" text="Some">
+        <cmp x="1679" y="1132" width="151" height="50" />
+      </word>
+      <word id="m06-056-02-11" tag="INO" text="of">
+        <cmp x="1868" y="1148" width="34" height="28" />
+        <cmp x="1905" y="1118" width="25" height="70" />
+      </word>
+      <word id="m06-056-02-12" tag="DTS" text="those">
+        <cmp x="1981" y="1122" width="23" height="61" />
+        <cmp x="2001" y="1119" width="42" height="63" />
+        <cmp x="2041" y="1149" width="62" height="34" />
+        <cmp x="2107" y="1151" width="32" height="30" />
+      </word>
+      <upper-contour>
+        <point x="349" y="1001" />
+        <point x="1973" y="1001" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1205" />
+        <point x="2023" y="1205" />
+      </lower-contour>
+    </line>
+    <line ass="-603" asx="0" asy="1283" character-width="999" dss="-603" dsx="0" dsy="1380" fd0="13341" fd1="2857" fd2="-848" filter-width="3" id="m06-056-03" lbs="-626" lbx="0" lby="1346" segmentation="ok" slant="98000" stroke-width="5435" threshold="158" text="babies may be born with wings.&apos; The Captive with" ubs="-555" ubx="0" uby="1318">
+      <word id="m06-056-03-00" tag="NNS" text="babies">
+        <cmp x="353" y="1289" width="37" height="54" />
+        <cmp x="391" y="1298" width="73" height="49" />
+        <cmp x="457" y="1289" width="8" height="16" />
+        <cmp x="464" y="1314" width="8" height="27" />
+        <cmp x="480" y="1313" width="50" height="40" />
+      </word>
+      <word id="m06-056-03-01" tag="MD" text="may">
+        <cmp x="584" y="1321" width="90" height="32" />
+        <cmp x="678" y="1327" width="39" height="53" />
+      </word>
+      <word id="m06-056-03-02" tag="BE" text="be">
+        <cmp x="751" y="1306" width="80" height="56" />
+      </word>
+      <word id="m06-056-03-03" tag="VBN" text="born">
+        <cmp x="878" y="1306" width="93" height="59" />
+        <cmp x="970" y="1328" width="27" height="34" />
+      </word>
+      <word id="m06-056-03-04" tag="IN" text="with">
+        <cmp x="1053" y="1328" width="50" height="27" />
+        <cmp x="1103" y="1303" width="6" height="7" />
+        <cmp x="1107" y="1325" width="7" height="26" />
+        <cmp x="1116" y="1301" width="65" height="54" />
+      </word>
+      <word id="m06-056-03-05" tag="NNS" text="wings">
+        <cmp x="1235" y="1332" width="42" height="24" />
+        <cmp x="1275" y="1298" width="9" height="14" />
+        <cmp x="1278" y="1332" width="8" height="24" />
+        <cmp x="1290" y="1325" width="29" height="34" />
+        <cmp x="1325" y="1330" width="32" height="64" />
+        <cmp x="1357" y="1327" width="33" height="37" />
+      </word>
+      <word id="m06-056-03-06" tag="." text=".">
+        <cmp x="1410" y="1350" width="4" height="4" />
+      </word>
+      <word id="m06-056-03-07" tag="**&apos;" text="&apos;">
+        <cmp x="1428" y="1303" width="5" height="23" />
+      </word>
+      <word id="m06-056-03-08" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="1493" y="1311" width="79" height="55" />
+        <cmp x="1566" y="1330" width="45" height="36" />
+      </word>
+      <word id="m06-056-03-09" tag="NN" text="Captive">
+        <cmp x="1647" y="1312" width="115" height="80" />
+        <cmp x="1761" y="1313" width="32" height="49" />
+        <cmp x="1787" y="1313" width="7" height="7" />
+        <cmp x="1804" y="1329" width="22" height="28" />
+        <cmp x="1831" y="1332" width="29" height="28" />
+      </word>
+      <word id="m06-056-03-10" tag="IN" text="with">
+        <cmp x="1903" y="1332" width="42" height="29" />
+        <cmp x="1947" y="1312" width="75" height="55" />
+        <cmp x="1947" y="1337" width="6" height="24" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1205" />
+        <point x="2023" y="1205" />
+      </upper-contour>
+      <lower-contour>
+        <point x="351" y="1394" />
+        <point x="2023" y="1394" />
+      </lower-contour>
+    </line>
+    <line ass="-587" asx="0" asy="1459" character-width="999" dss="-587" dsx="0" dsy="1559" fd0="13435" fd1="3320" fd2="-862" filter-width="3" id="m06-056-04" lbs="-567" lbx="0" lby="1526" segmentation="ok" slant="105000" stroke-width="5375" threshold="158" text="the boneless arms added, &apos;Some may be born wrong," ubs="-628" ubx="0" uby="1494">
+      <word id="m06-056-04-00" tag="ATI" text="the">
+        <cmp x="347" y="1484" width="24" height="44" />
+        <cmp x="368" y="1483" width="74" height="42" />
+      </word>
+      <word id="m06-056-04-01" tag="JJ" text="boneless">
+        <cmp x="487" y="1474" width="36" height="59" />
+        <cmp x="525" y="1501" width="30" height="34" />
+        <cmp x="558" y="1499" width="28" height="36" />
+        <cmp x="589" y="1509" width="35" height="30" />
+        <cmp x="626" y="1487" width="19" height="45" />
+        <cmp x="645" y="1509" width="30" height="28" />
+        <cmp x="674" y="1501" width="67" height="39" />
+      </word>
+      <word id="m06-056-04-02" tag="NNS" text="arms">
+        <cmp x="795" y="1501" width="60" height="34" />
+        <cmp x="860" y="1499" width="71" height="40" />
+      </word>
+      <word id="m06-056-04-03" tag="VBD" text="added">
+        <cmp x="983" y="1485" width="144" height="58" />
+        <cmp x="1130" y="1492" width="40" height="47" />
+      </word>
+      <word id="m06-056-04-04" tag="," text=",">
+        <cmp x="1189" y="1519" width="10" height="23" />
+      </word>
+      <word id="m06-056-04-05" sentence-start="yes" tag="*&apos;" text="&apos;">
+        <cmp x="1234" y="1473" width="8" height="20" />
+      </word>
+      <word id="m06-056-04-06" tag="DTI" text="Some">
+        <cmp x="1257" y="1486" width="36" height="46" />
+        <cmp x="1291" y="1504" width="30" height="34" />
+        <cmp x="1324" y="1501" width="78" height="37" />
+      </word>
+      <word id="m06-056-04-07" tag="MD" text="may">
+        <cmp x="1434" y="1510" width="85" height="30" />
+        <cmp x="1516" y="1518" width="15" height="19" />
+        <cmp x="1524" y="1517" width="23" height="47" />
+      </word>
+      <word id="m06-056-04-08" tag="BE" text="be">
+        <cmp x="1585" y="1487" width="72" height="59" />
+      </word>
+      <word id="m06-056-04-09" tag="VBN" text="born">
+        <cmp x="1692" y="1489" width="71" height="55" />
+        <cmp x="1764" y="1514" width="26" height="33" />
+        <cmp x="1793" y="1518" width="20" height="25" />
+      </word>
+      <word id="m06-056-04-10" tag="JJ" text="wrong">
+        <cmp x="1856" y="1516" width="45" height="28" />
+        <cmp x="1903" y="1513" width="21" height="32" />
+        <cmp x="1931" y="1513" width="28" height="35" />
+        <cmp x="1966" y="1512" width="27" height="31" />
+        <cmp x="2001" y="1516" width="31" height="64" />
+      </word>
+      <word id="m06-056-04-11" tag="," text=",">
+        <cmp x="2061" y="1537" width="11" height="21" />
+      </word>
+      <upper-contour>
+        <point x="351" y="1394" />
+        <point x="2023" y="1394" />
+      </upper-contour>
+      <lower-contour>
+        <point x="345" y="1564" />
+        <point x="1603" y="1564" />
+      </lower-contour>
+    </line>
+    <line ass="-947" asx="0" asy="1631" character-width="999" dss="-947" dsx="0" dsy="1727" fd0="13766" fd1="2830" fd2="-446" filter-width="3" id="m06-056-05" lbs="-948" lbx="0" lby="1696" segmentation="ok" slant="99000" stroke-width="5535" threshold="156" text="as we are. Some may be born right.&apos;" ubs="-947" ubx="0" uby="1665">
+      <word id="m06-056-05-00" tag="CS" text="as">
+        <cmp x="346" y="1663" width="41" height="36" />
+        <cmp x="387" y="1662" width="34" height="44" />
+      </word>
+      <word id="m06-056-05-01" tag="PP1AS" text="we">
+        <cmp x="484" y="1666" width="47" height="37" />
+        <cmp x="534" y="1672" width="26" height="33" />
+      </word>
+      <word id="m06-056-05-02" tag="BER" text="are">
+        <cmp x="607" y="1673" width="60" height="36" />
+        <cmp x="670" y="1673" width="28" height="35" />
+      </word>
+      <word id="m06-056-05-03" tag="." text=".">
+        <cmp x="707" y="1702" width="7" height="6" />
+      </word>
+      <word id="m06-056-05-04" sentence-start="yes" tag="DTI" text="Some">
+        <cmp x="768" y="1658" width="45" height="58" />
+        <cmp x="811" y="1682" width="30" height="33" />
+        <cmp x="843" y="1678" width="74" height="32" />
+      </word>
+      <word id="m06-056-05-05" tag="MD" text="may">
+        <cmp x="959" y="1683" width="90" height="37" />
+        <cmp x="1053" y="1686" width="19" height="25" />
+        <cmp x="1059" y="1694" width="25" height="51" />
+      </word>
+      <word id="m06-056-05-06" tag="BE" text="be">
+        <cmp x="1132" y="1666" width="69" height="50" />
+      </word>
+      <word id="m06-056-05-07" tag="VBN" text="born">
+        <cmp x="1251" y="1663" width="62" height="56" />
+        <cmp x="1315" y="1691" width="22" height="29" />
+        <cmp x="1342" y="1690" width="33" height="31" />
+      </word>
+      <word id="m06-056-05-08" tag="JJ" text="right">
+        <cmp x="1424" y="1690" width="28" height="32" />
+        <cmp x="1451" y="1674" width="4" height="6" />
+        <cmp x="1451" y="1696" width="9" height="21" />
+        <cmp x="1464" y="1692" width="41" height="60" />
+        <cmp x="1501" y="1668" width="60" height="55" />
+      </word>
+      <word id="m06-056-05-09" tag="." text=".">
+        <cmp x="1576" y="1714" width="7" height="8" />
+      </word>
+      <word id="m06-056-05-10" tag="**&apos;" text="&apos;">
+        <cmp x="1594" y="1658" width="7" height="24" />
+      </word>
+      <upper-contour>
+        <point x="345" y="1564" />
+        <point x="1603" y="1564" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-19" height="3542" id="g06-026f" last-modified="2002-07-17" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="337">
+  <machine-printed-part>
+    <machine-print-line text="A pleasant life truly!... It so happens that I have an Italian who is perhaps the best" />
+    <machine-print-line text="Valet de Chambre that ever was. But he has not one word of English.&apos; While he was" />
+    <machine-print-line text="writing this letter he heard of the fall of the Whigs, and the temporary assumption of" />
+    <machine-print-line text="the government by the Duke of Wellington." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-122" asx="0" asy="719" character-width="999" dss="-122" dsx="0" dsy="808" fd0="14166" fd1="2887" fd2="-524" filter-width="4" id="g06-026f-00" lbs="-116" lbx="0" lby="786" segmentation="err" slant="116000" stroke-width="6445" threshold="191" text="A pleasant life truly!... It so happens that I have an Italian" ubs="-136" ubx="0" uby="748">
+      <word id="g06-026f-00-00" sentence-start="yes" tag="AT" text="A">
+        <cmp x="380" y="725" width="38" height="61" />
+      </word>
+      <word id="g06-026f-00-01" tag="JJ" text="pleasant">
+        <cmp x="469" y="753" width="36" height="48" />
+        <cmp x="494" y="730" width="45" height="57" />
+        <cmp x="538" y="759" width="46" height="29" />
+        <cmp x="583" y="729" width="68" height="58" />
+      </word>
+      <word id="g06-026f-00-02" tag="NN" text="life">
+        <cmp x="693" y="727" width="50" height="60" />
+        <cmp x="717" y="735" width="7" height="5" />
+        <cmp x="726" y="731" width="50" height="65" />
+      </word>
+      <word id="g06-026f-00-03" tag="RB" text="truly">
+        <cmp x="817" y="722" width="39" height="64" />
+        <cmp x="852" y="731" width="63" height="53" />
+        <cmp x="909" y="761" width="37" height="49" />
+      </word>
+      <word id="g06-026f-00-04" tag="!" text="!">
+        <cmp x="943" y="722" width="14" height="44" />
+        <cmp x="953" y="777" width="5" height="6" />
+        <cmp x="975" y="780" width="6" height="5" />
+      </word>
+      <word id="g06-026f-00-05" tag="..." text="...">
+        <cmp x="988" y="780" width="6" height="5" />
+        <cmp x="999" y="783" width="6" height="5" />
+      </word>
+      <word id="g06-026f-00-06" sentence-start="yes" tag="PP3" text="It">
+        <cmp x="1065" y="722" width="51" height="61" />
+      </word>
+      <word id="g06-026f-00-07" tag="RB" text="so">
+        <cmp x="1161" y="757" width="36" height="30" />
+      </word>
+      <word id="g06-026f-00-08" tag="VBZ" text="happens">
+        <cmp x="1256" y="726" width="165" height="80" />
+      </word>
+      <word id="g06-026f-00-09" tag="CS" text="that">
+        <cmp x="1486" y="725" width="104" height="66" />
+      </word>
+      <word id="g06-026f-00-10" tag="PP1A" text="I">
+        <cmp x="1640" y="730" width="23" height="61" />
+      </word>
+      <word id="g06-026f-00-11" tag="HV" text="have">
+        <cmp x="1717" y="723" width="49" height="66" />
+        <cmp x="1763" y="761" width="57" height="28" />
+      </word>
+      <word id="g06-026f-00-12" tag="AT" text="an">
+        <cmp x="1868" y="760" width="50" height="31" />
+      </word>
+      <word id="g06-026f-00-13" tag="NNP" text="Italian">
+        <cmp x="1950" y="727" width="146" height="65" />
+        <cmp x="2033" y="736" width="9" height="8" />
+      </word>
+      <lower-contour>
+        <point x="380" y="810" />
+        <point x="2096" y="810" />
+      </lower-contour>
+    </line>
+    <line ass="-297" asx="0" asy="887" character-width="999" dss="-297" dsx="0" dsy="976" fd0="13909" fd1="2731" fd2="-891" filter-width="4" id="g06-026f-01" lbs="-235" lbx="0" lby="959" segmentation="ok" slant="111000" stroke-width="6511" threshold="203" text="who is perhaps the best Valet de Chambre that ever was. But he" ubs="-422" ubx="0" uby="922">
+      <word id="g06-026f-01-00" tag="WP" text="who">
+        <cmp x="382" y="895" width="63" height="65" />
+        <cmp x="442" y="929" width="21" height="28" />
+      </word>
+      <word id="g06-026f-01-01" tag="BEZ" text="is">
+        <cmp x="522" y="930" width="18" height="27" />
+        <cmp x="526" y="900" width="11" height="11" />
+        <cmp x="540" y="932" width="21" height="25" />
+      </word>
+      <word id="g06-026f-01-02" tag="RB" text="perhaps">
+        <cmp x="609" y="898" width="143" height="83" />
+        <cmp x="755" y="932" width="22" height="31" />
+      </word>
+      <word id="g06-026f-01-03" tag="ATI" text="the">
+        <cmp x="818" y="895" width="75" height="70" />
+      </word>
+      <word id="g06-026f-01-04" tag="JJT" text="best">
+        <cmp x="937" y="902" width="74" height="64" />
+        <cmp x="999" y="901" width="33" height="64" />
+      </word>
+      <word id="g06-026f-01-05" tag="&amp;FW" text="Valet">
+        <cmp x="1102" y="896" width="38" height="67" />
+        <cmp x="1144" y="905" width="67" height="61" />
+      </word>
+      <word id="g06-026f-01-06" tag="&amp;FW" text="de">
+        <cmp x="1259" y="905" width="46" height="62" />
+      </word>
+      <word id="g06-026f-01-07" tag="&amp;FW" text="Chambre">
+        <cmp x="1365" y="895" width="90" height="71" />
+        <cmp x="1448" y="907" width="61" height="61" />
+        <cmp x="1506" y="938" width="34" height="26" />
+      </word>
+      <word id="g06-026f-01-08" tag="WP" text="that">
+        <cmp x="1600" y="896" width="66" height="69" />
+        <cmp x="1664" y="901" width="45" height="65" />
+      </word>
+      <word id="g06-026f-01-09" tag="RB" text="ever">
+        <cmp x="1757" y="931" width="68" height="40" />
+      </word>
+      <word id="g06-026f-01-10" tag="BEDZ" text="was">
+        <cmp x="1863" y="933" width="77" height="37" />
+      </word>
+      <word id="g06-026f-01-11" tag="." text=".">
+        <cmp x="1950" y="959" width="5" height="6" />
+      </word>
+      <word id="g06-026f-01-12" sentence-start="yes" tag="CC" text="But">
+        <cmp x="1981" y="900" width="48" height="72" />
+        <cmp x="2031" y="905" width="39" height="67" />
+      </word>
+      <word id="g06-026f-01-13" tag="PP3A" text="he">
+        <cmp x="2086" y="899" width="54" height="72" />
+      </word>
+      <upper-contour>
+        <point x="380" y="810" />
+        <point x="2096" y="810" />
+      </upper-contour>
+      <lower-contour>
+        <point x="380" y="981" />
+        <point x="2141" y="981" />
+      </lower-contour>
+    </line>
+    <line ass="34" asx="0" asy="1073" character-width="999" dss="34" dsx="0" dsy="1169" fd0="14090" fd1="3078" fd2="-636" filter-width="4" id="g06-026f-02" lbs="34" lbx="0" lby="1142" segmentation="ok" slant="114000" stroke-width="6260" threshold="203" text="has not one word of English.&apos; While he was writing this letter he" ubs="33" ubx="0" uby="1116">
+      <word id="g06-026f-02-00" tag="HVZ" text="has">
+        <cmp x="378" y="1073" width="81" height="70" />
+        <cmp x="387" y="1078" width="4" height="4" />
+        <cmp x="391" y="1084" width="5" height="9" />
+      </word>
+      <word id="g06-026f-02-01" tag="XNOT" text="not">
+        <cmp x="505" y="1074" width="66" height="67" />
+      </word>
+      <word id="g06-026f-02-02" tag="CD1" text="one">
+        <cmp x="619" y="1114" width="27" height="33" />
+        <cmp x="645" y="1117" width="52" height="29" />
+      </word>
+      <word id="g06-026f-02-03" tag="NN" text="word">
+        <cmp x="756" y="1077" width="113" height="69" />
+      </word>
+      <word id="g06-026f-02-04" tag="INO" text="of">
+        <cmp x="930" y="1076" width="45" height="77" />
+      </word>
+      <word id="g06-026f-02-05" tag="NNP" text="English">
+        <cmp x="1018" y="1075" width="63" height="73" />
+        <cmp x="1079" y="1082" width="55" height="88" />
+        <cmp x="1118" y="1090" width="7" height="6" />
+        <cmp x="1135" y="1120" width="19" height="26" />
+        <cmp x="1149" y="1086" width="28" height="56" />
+      </word>
+      <word id="g06-026f-02-06" tag="." text=".">
+        <cmp x="1191" y="1139" width="5" height="5" />
+      </word>
+      <word id="g06-026f-02-07" tag="**&apos;" text="&apos;">
+        <cmp x="1199" y="1083" width="10" height="24" />
+      </word>
+      <word id="g06-026f-02-08" sentence-start="yes" tag="CS" text="While">
+        <cmp x="1259" y="1083" width="117" height="61" />
+        <cmp x="1322" y="1089" width="10" height="9" />
+      </word>
+      <word id="g06-026f-02-09" tag="PP3A" text="he">
+        <cmp x="1417" y="1077" width="66" height="70" />
+      </word>
+      <word id="g06-026f-02-10" tag="BEDZ" text="was">
+        <cmp x="1523" y="1117" width="86" height="32" />
+      </word>
+      <word id="g06-026f-02-11" tag="VBG" text="writing">
+        <cmp x="1655" y="1116" width="73" height="32" />
+        <cmp x="1697" y="1087" width="7" height="7" />
+        <cmp x="1718" y="1086" width="99" height="82" />
+        <cmp x="1742" y="1093" width="12" height="10" />
+      </word>
+      <word id="g06-026f-02-12" tag="DT" text="this">
+        <cmp x="1838" y="1080" width="92" height="69" />
+        <cmp x="1890" y="1093" width="13" height="11" />
+      </word>
+      <word id="g06-026f-02-13" tag="NN" text="letter">
+        <cmp x="1966" y="1084" width="104" height="63" />
+        <cmp x="1980" y="1096" width="5" height="9" />
+      </word>
+      <word id="g06-026f-02-14" tag="PP3A" text="he">
+        <cmp x="2087" y="1083" width="54" height="68" />
+      </word>
+      <upper-contour>
+        <point x="380" y="981" />
+        <point x="2141" y="981" />
+      </upper-contour>
+      <lower-contour>
+        <point x="390" y="1170" />
+        <point x="2101" y="1170" />
+      </lower-contour>
+    </line>
+    <line ass="-370" asx="0" asy="1241" character-width="999" dss="-370" dsx="0" dsy="1342" fd0="13791" fd1="2898" fd2="-901" filter-width="4" id="g06-026f-03" lbs="-342" lbx="0" lby="1319" segmentation="ok" slant="111000" stroke-width="6349" threshold="203" text="heard of the fall of the Whigs, and the temporary assumption" ubs="-424" ubx="0" uby="1285">
+      <word id="g06-026f-03-00" tag="VBD" text="heard">
+        <cmp x="392" y="1248" width="121" height="73" />
+      </word>
+      <word id="g06-026f-03-01" tag="INO" text="of">
+        <cmp x="557" y="1249" width="39" height="74" />
+      </word>
+      <word id="g06-026f-03-02" tag="ATI" text="the">
+        <cmp x="660" y="1248" width="67" height="72" />
+      </word>
+      <word id="g06-026f-03-03" tag="NN" text="fall">
+        <cmp x="762" y="1252" width="87" height="85" />
+      </word>
+      <word id="g06-026f-03-04" tag="INO" text="of">
+        <cmp x="895" y="1260" width="47" height="76" />
+      </word>
+      <word id="g06-026f-03-05" tag="ATI" text="the">
+        <cmp x="993" y="1258" width="72" height="66" />
+      </word>
+      <word id="g06-026f-03-06" tag="NNS" text="Whigs">
+        <cmp x="1117" y="1260" width="139" height="92" />
+        <cmp x="1191" y="1269" width="11" height="9" />
+      </word>
+      <word id="g06-026f-03-07" tag="," text=",">
+        <cmp x="1279" y="1315" width="9" height="18" />
+      </word>
+      <word id="g06-026f-03-08" tag="CC" text="and">
+        <cmp x="1318" y="1262" width="74" height="64" />
+      </word>
+      <word id="g06-026f-03-09" tag="ATI" text="the">
+        <cmp x="1457" y="1258" width="71" height="65" />
+      </word>
+      <word id="g06-026f-03-10" tag="JJ" text="temporary">
+        <cmp x="1586" y="1256" width="91" height="68" />
+        <cmp x="1677" y="1298" width="26" height="43" />
+        <cmp x="1704" y="1299" width="22" height="26" />
+        <cmp x="1726" y="1298" width="87" height="53" />
+      </word>
+      <word id="g06-026f-03-11" tag="NN" text="assumption">
+        <cmp x="1860" y="1293" width="71" height="33" />
+        <cmp x="1929" y="1293" width="71" height="34" />
+        <cmp x="1997" y="1293" width="30" height="53" />
+        <cmp x="2017" y="1254" width="60" height="79" />
+        <cmp x="2045" y="1274" width="11" height="7" />
+        <cmp x="2074" y="1300" width="26" height="28" />
+      </word>
+      <upper-contour>
+        <point x="390" y="1170" />
+        <point x="2101" y="1170" />
+      </upper-contour>
+      <lower-contour>
+        <point x="390" y="1352" />
+        <point x="1660" y="1352" />
+      </lower-contour>
+    </line>
+    <line ass="247" asx="0" asy="1435" character-width="999" dss="247" dsx="0" dsy="1539" fd0="13721" fd1="2474" fd2="-1189" filter-width="4" id="g06-026f-04" lbs="0" lbx="0" lby="1503" segmentation="ok" slant="108999" stroke-width="6436" threshold="203" text="of the government by the Duke of Wellington." ubs="743" ubx="0" uby="1476">
+      <word id="g06-026f-04-00" tag="INO" text="of">
+        <cmp x="387" y="1435" width="42" height="78" />
+      </word>
+      <word id="g06-026f-04-01" tag="ATI" text="the">
+        <cmp x="481" y="1435" width="65" height="65" />
+      </word>
+      <word id="g06-026f-04-02" tag="NN" text="government">
+        <cmp x="597" y="1467" width="46" height="59" />
+        <cmp x="641" y="1472" width="86" height="30" />
+        <cmp x="724" y="1438" width="98" height="66" />
+      </word>
+      <word id="g06-026f-04-03" tag="IN" text="by">
+        <cmp x="891" y="1437" width="87" height="93" />
+      </word>
+      <word id="g06-026f-04-04" tag="ATI" text="the">
+        <cmp x="1015" y="1436" width="74" height="69" />
+      </word>
+      <word id="g06-026f-04-05" tag="NPT" text="Duke">
+        <cmp x="1142" y="1435" width="55" height="71" />
+        <cmp x="1200" y="1436" width="64" height="66" />
+      </word>
+      <word id="g06-026f-04-06" tag="INO" text="of">
+        <cmp x="1319" y="1439" width="55" height="81" />
+      </word>
+      <word id="g06-026f-04-07" tag="NP" text="Wellington">
+        <cmp x="1410" y="1435" width="51" height="69" />
+        <cmp x="1467" y="1435" width="52" height="69" />
+        <cmp x="1514" y="1449" width="9" height="7" />
+        <cmp x="1515" y="1477" width="19" height="28" />
+        <cmp x="1528" y="1440" width="94" height="95" />
+        <cmp x="1621" y="1477" width="23" height="29" />
+      </word>
+      <word id="g06-026f-04-08" tag="." text=".">
+        <cmp x="1654" y="1499" width="6" height="6" />
+      </word>
+      <upper-contour>
+        <point x="390" y="1352" />
+        <point x="1660" y="1352" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

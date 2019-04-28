@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="n06-128" last-modified="2002-07-17" skew="-95" status="final" version="3.0_beta" width="2479" writer-id="588">
+  <machine-printed-part>
+    <machine-print-line text="An hour&apos;s riding brought us to a trail that we figured would lead to the miners&apos; camp." />
+    <machine-print-line text="We turned north into it and after about four miles it led into a small canyon which" />
+    <machine-print-line text="opened out into a wide shallow draw. Here in a dried-up creek-bed we found the" />
+    <machine-print-line text="miners at work. They were scattered over a fairly wide area working singly or in" />
+    <machine-print-line text="pairs." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-705" asx="0" asy="721" character-width="999" dss="-705" dsx="0" dsy="855" fd0="13148" fd1="3101" fd2="63" filter-width="3" id="n06-128-00" lbs="-755" lbx="0" lby="791" segmentation="ok" slant="90000" stroke-width="5296" threshold="178" text="An hour&apos;s riding brought us to a trail that" ubs="-605" ubx="0" uby="767">
+      <word id="n06-128-00-00" sentence-start="yes" tag="AT" text="An">
+        <cmp x="370" y="751" width="79" height="57" />
+      </word>
+      <word id="n06-128-00-01" tag="NN$" text="hour&apos;s">
+        <cmp x="509" y="756" width="41" height="50" />
+        <cmp x="551" y="782" width="23" height="29" />
+        <cmp x="581" y="780" width="46" height="30" />
+        <cmp x="629" y="776" width="10" height="9" />
+        <cmp x="652" y="748" width="8" height="34" />
+        <cmp x="657" y="781" width="29" height="26" />
+      </word>
+      <word id="n06-128-00-02" tag="NN" text="riding">
+        <cmp x="768" y="779" width="38" height="32" />
+        <cmp x="807" y="764" width="5" height="14" />
+        <cmp x="815" y="760" width="127" height="95" />
+        <cmp x="884" y="757" width="3" height="4" />
+      </word>
+      <word id="n06-128-00-03" tag="VBD" text="brought">
+        <cmp x="1028" y="758" width="81" height="52" />
+        <cmp x="1120" y="749" width="148" height="122" />
+      </word>
+      <word id="n06-128-00-04" tag="PP1OS" text="us">
+        <cmp x="1357" y="781" width="66" height="30" />
+      </word>
+      <word id="n06-128-00-05" tag="IN" text="to">
+        <cmp x="1475" y="765" width="58" height="51" />
+      </word>
+      <word id="n06-128-00-06" tag="AT" text="a">
+        <cmp x="1597" y="785" width="34" height="33" />
+      </word>
+      <word id="n06-128-00-07" tag="NN" text="trail">
+        <cmp x="1700" y="774" width="46" height="50" />
+        <cmp x="1758" y="766" width="100" height="54" />
+        <cmp x="1815" y="745" width="21" height="17" />
+      </word>
+      <word id="n06-128-00-08" tag="WP" text="that">
+        <cmp x="1926" y="764" width="163" height="59" />
+        <cmp x="1956" y="759" width="3" height="4" />
+      </word>
+      <lower-contour>
+        <point x="368" y="872" />
+        <point x="2024" y="872" />
+      </lower-contour>
+    </line>
+    <line ass="-349" asx="0" asy="922" character-width="999" dss="-349" dsx="0" dsy="1014" fd0="13501" fd1="2987" fd2="33" filter-width="3" id="n06-128-01" lbs="-500" lbx="0" lby="977" segmentation="err" slant="90000" stroke-width="5286" threshold="179" text="we figured would lead to the miners&apos; camp." ubs="-46" ubx="0" uby="961">
+      <word id="n06-128-01-00" tag="PP1AS" text="we">
+        <cmp x="347" y="958" width="87" height="34" />
+      </word>
+      <word id="n06-128-01-01" tag="VBD" text="figured">
+        <cmp x="528" y="932" width="19" height="74" />
+        <cmp x="538" y="975" width="3" height="6" />
+        <cmp x="539" y="971" width="3" height="3" />
+        <cmp x="557" y="938" width="40" height="79" />
+        <cmp x="602" y="956" width="56" height="31" />
+        <cmp x="667" y="959" width="19" height="33" />
+        <cmp x="698" y="937" width="38" height="55" />
+      </word>
+      <word id="n06-128-01-02" tag="MD" text="would">
+        <cmp x="840" y="956" width="48" height="28" />
+        <cmp x="902" y="955" width="26" height="26" />
+        <cmp x="932" y="934" width="64" height="44" />
+        <cmp x="1009" y="933" width="56" height="51" />
+      </word>
+      <word id="n06-128-01-03" tag="VB" text="lead">
+        <cmp x="1123" y="939" width="35" height="43" />
+        <cmp x="1169" y="962" width="31" height="22" />
+        <cmp x="1209" y="965" width="19" height="21" />
+        <cmp x="1224" y="943" width="22" height="54" />
+      </word>
+      <word id="n06-128-01-04" tag="IN" text="to">
+        <cmp x="1325" y="942" width="56" height="52" />
+      </word>
+      <word id="n06-128-01-05" tag="ATI" text="the">
+        <cmp x="1448" y="940" width="99" height="52" />
+      </word>
+      <word id="n06-128-01-06" tag="NNS$" text="miners&apos;">
+        <cmp x="1611" y="960" width="95" height="35" />
+        <cmp x="1704" y="965" width="88" height="42" />
+        <cmp x="1764" y="932" width="7" height="29" />
+        <cmp x="1842" y="962" width="24" height="29" />
+      </word>
+      <word id="n06-128-01-07" tag="NN" text="camp">
+        <cmp x="1866" y="963" width="128" height="64" />
+      </word>
+      <word id="n06-128-01-08" tag="." text=".">
+        <cmp x="2014" y="991" width="9" height="9" />
+      </word>
+      <upper-contour>
+        <point x="368" y="872" />
+        <point x="2024" y="872" />
+      </upper-contour>
+      <lower-contour>
+        <point x="354" y="1026" />
+        <point x="2024" y="1026" />
+      </lower-contour>
+    </line>
+    <line ass="-365" asx="0" asy="1091" character-width="999" dss="-365" dsx="0" dsy="1185" fd0="13599" fd1="2839" fd2="95" filter-width="3" id="n06-128-02" lbs="-269" lbx="0" lby="1162" segmentation="ok" slant="90000" stroke-width="5471" threshold="179" text="We turned north into it and after about four" ubs="-558" ubx="0" uby="1129">
+      <word id="n06-128-02-00" sentence-start="yes" tag="PP1AS" text="We">
+        <cmp x="356" y="1117" width="56" height="46" />
+        <cmp x="422" y="1130" width="34" height="30" />
+      </word>
+      <word id="n06-128-02-01" tag="VBD" text="turned">
+        <cmp x="516" y="1119" width="27" height="46" />
+        <cmp x="553" y="1134" width="122" height="32" />
+        <cmp x="679" y="1118" width="32" height="50" />
+      </word>
+      <word id="n06-128-02-02" tag="NR" text="north">
+        <cmp x="808" y="1139" width="57" height="33" />
+        <cmp x="871" y="1123" width="109" height="52" />
+      </word>
+      <word id="n06-128-02-03" tag="IN" text="into">
+        <cmp x="1043" y="1126" width="132" height="47" />
+        <cmp x="1056" y="1099" width="16" height="14" />
+      </word>
+      <word id="n06-128-02-04" tag="PP3" text="it">
+        <cmp x="1239" y="1114" width="8" height="11" />
+        <cmp x="1249" y="1139" width="4" height="4" />
+        <cmp x="1249" y="1124" width="42" height="43" />
+      </word>
+      <word id="n06-128-02-05" tag="CC" text="and">
+        <cmp x="1366" y="1129" width="84" height="41" />
+        <cmp x="1460" y="1120" width="40" height="50" />
+      </word>
+      <word id="n06-128-02-06" tag="IN" text="after">
+        <cmp x="1555" y="1125" width="71" height="68" />
+        <cmp x="1625" y="1177" width="3" height="3" />
+        <cmp x="1628" y="1168" width="3" height="7" />
+        <cmp x="1635" y="1119" width="68" height="58" />
+      </word>
+      <word id="n06-128-02-07" tag="RB" text="about">
+        <cmp x="1747" y="1127" width="109" height="50" />
+        <cmp x="1763" y="1140" width="6" height="12" />
+        <cmp x="1859" y="1122" width="71" height="53" />
+      </word>
+      <word id="n06-128-02-08" tag="CD" text="four">
+        <cmp x="1982" y="1118" width="24" height="81" />
+        <cmp x="2010" y="1146" width="25" height="22" />
+        <cmp x="2042" y="1149" width="6" height="8" />
+        <cmp x="2046" y="1144" width="56" height="28" />
+      </word>
+      <upper-contour>
+        <point x="354" y="1026" />
+        <point x="2024" y="1026" />
+      </upper-contour>
+      <lower-contour>
+        <point x="357" y="1193" />
+        <point x="1952" y="1193" />
+      </lower-contour>
+    </line>
+    <line ass="-571" asx="0" asy="1266" character-width="999" dss="-571" dsx="0" dsy="1388" fd0="13456" fd1="2917" fd2="114" filter-width="3" id="n06-128-03" lbs="-553" lbx="0" lby="1338" segmentation="ok" slant="90000" stroke-width="5452" threshold="179" text="miles it led into a small canyon which" ubs="-606" ubx="0" uby="1308">
+      <word id="n06-128-03-00" tag="NNS" text="miles">
+        <cmp x="359" y="1296" width="156" height="51" />
+        <cmp x="425" y="1279" width="5" height="6" />
+      </word>
+      <word id="n06-128-03-01" tag="PP3" text="it">
+        <cmp x="585" y="1296" width="17" height="10" />
+        <cmp x="590" y="1290" width="39" height="52" />
+      </word>
+      <word id="n06-128-03-02" tag="VBD" text="led">
+        <cmp x="706" y="1305" width="86" height="52" />
+      </word>
+      <word id="n06-128-03-03" tag="IN" text="into">
+        <cmp x="895" y="1279" width="7" height="9" />
+        <cmp x="911" y="1290" width="9" height="52" />
+        <cmp x="931" y="1291" width="103" height="57" />
+      </word>
+      <word id="n06-128-03-04" tag="AT" text="a">
+        <cmp x="1075" y="1318" width="28" height="30" />
+      </word>
+      <word id="n06-128-03-05" tag="JJ" text="small">
+        <cmp x="1168" y="1316" width="92" height="41" />
+        <cmp x="1268" y="1295" width="97" height="60" />
+      </word>
+      <word id="n06-128-03-06" tag="NN" text="canyon">
+        <cmp x="1436" y="1317" width="21" height="42" />
+        <cmp x="1463" y="1323" width="124" height="82" />
+        <cmp x="1600" y="1324" width="20" height="27" />
+        <cmp x="1603" y="1326" width="7" height="6" />
+        <cmp x="1634" y="1329" width="40" height="24" />
+      </word>
+      <word id="n06-128-03-07" tag="WDT" text="which">
+        <cmp x="1730" y="1307" width="131" height="59" />
+        <cmp x="1852" y="1285" width="11" height="6" />
+        <cmp x="1873" y="1307" width="78" height="53" />
+      </word>
+      <upper-contour>
+        <point x="357" y="1193" />
+        <point x="1952" y="1193" />
+      </upper-contour>
+      <lower-contour>
+        <point x="357" y="1405" />
+        <point x="1952" y="1405" />
+      </lower-contour>
+    </line>
+    <line ass="-393" asx="0" asy="1455" character-width="999" dss="-393" dsx="0" dsy="1553" fd0="13330" fd1="2793" fd2="-86" filter-width="3" id="n06-128-04" lbs="-422" lbx="0" lby="1518" segmentation="ok" slant="90000" stroke-width="5423" threshold="179" text="opened out into a wide shallow draw." ubs="-335" ubx="0" uby="1489">
+      <word id="n06-128-04-00" tag="VBD" text="opened">
+        <cmp x="354" y="1486" width="24" height="38" />
+        <cmp x="390" y="1489" width="132" height="68" />
+        <cmp x="533" y="1468" width="33" height="60" />
+      </word>
+      <word id="n06-128-04-01" tag="RP" text="out">
+        <cmp x="666" y="1493" width="19" height="21" />
+        <cmp x="700" y="1476" width="77" height="39" />
+      </word>
+      <word id="n06-128-04-02" tag="IN" text="into">
+        <cmp x="866" y="1479" width="133" height="48" />
+        <cmp x="878" y="1463" width="11" height="12" />
+      </word>
+      <word id="n06-128-04-03" tag="AT" text="a">
+        <cmp x="1104" y="1500" width="39" height="32" />
+      </word>
+      <word id="n06-128-04-04" tag="JJ" text="wide">
+        <cmp x="1193" y="1495" width="78" height="38" />
+        <cmp x="1274" y="1481" width="6" height="27" />
+        <cmp x="1285" y="1490" width="80" height="49" />
+      </word>
+      <word id="n06-128-04-05" tag="JJ" text="shallow">
+        <cmp x="1456" y="1479" width="71" height="53" />
+        <cmp x="1542" y="1480" width="123" height="52" />
+        <cmp x="1671" y="1495" width="59" height="35" />
+      </word>
+      <word id="n06-128-04-06" tag="NN" text="draw">
+        <cmp x="1802" y="1493" width="64" height="42" />
+        <cmp x="1816" y="1497" width="4" height="4" />
+        <cmp x="1871" y="1504" width="38" height="28" />
+        <cmp x="1914" y="1496" width="66" height="34" />
+      </word>
+      <word id="n06-128-04-07" tag="." text=".">
+        <cmp x="2036" y="1532" width="8" height="9" />
+      </word>
+      <upper-contour>
+        <point x="357" y="1405" />
+        <point x="1952" y="1405" />
+      </upper-contour>
+      <lower-contour>
+        <point x="385" y="1558" />
+        <point x="2044" y="1558" />
+      </lower-contour>
+    </line>
+    <line ass="-541" asx="0" asy="1636" character-width="999" dss="-541" dsx="0" dsy="1729" fd0="13560" fd1="3161" fd2="286" filter-width="3" id="n06-128-05" lbs="-487" lbx="0" lby="1695" segmentation="ok" slant="90000" stroke-width="5352" threshold="179" text="Here in a dried-up creek-bed we found" ubs="-647" ubx="0" uby="1668">
+      <word id="n06-128-05-00" sentence-start="yes" tag="RN" text="Here">
+        <cmp x="387" y="1663" width="9" height="58" />
+        <cmp x="405" y="1661" width="103" height="42" />
+      </word>
+      <word id="n06-128-05-01" tag="IN" text="in">
+        <cmp x="641" y="1666" width="64" height="38" />
+        <cmp x="673" y="1644" width="21" height="18" />
+      </word>
+      <word id="n06-128-05-02" tag="AT" text="a">
+        <cmp x="777" y="1670" width="29" height="32" />
+      </word>
+      <word id="n06-128-05-03" tag="JJB" text="dried-up">
+        <cmp x="866" y="1664" width="81" height="53" />
+        <cmp x="942" y="1660" width="3" height="14" />
+        <cmp x="962" y="1681" width="16" height="25" />
+        <cmp x="987" y="1668" width="30" height="43" />
+        <cmp x="1048" y="1691" width="20" height="5" />
+        <cmp x="1079" y="1682" width="99" height="59" />
+      </word>
+      <word id="n06-128-05-04" tag="NN" text="creek-bed">
+        <cmp x="1261" y="1678" width="57" height="38" />
+        <cmp x="1325" y="1658" width="89" height="53" />
+        <cmp x="1415" y="1680" width="22" height="24" />
+        <cmp x="1459" y="1688" width="11" height="4" />
+        <cmp x="1493" y="1657" width="54" height="46" />
+        <cmp x="1563" y="1693" width="14" height="15" />
+        <cmp x="1580" y="1657" width="27" height="58" />
+      </word>
+      <word id="n06-128-05-05" tag="PP1AS" text="we">
+        <cmp x="1715" y="1682" width="84" height="30" />
+      </word>
+      <word id="n06-128-05-06" tag="VBD" text="found">
+        <cmp x="1906" y="1662" width="21" height="69" />
+        <cmp x="1933" y="1684" width="18" height="21" />
+        <cmp x="1963" y="1680" width="5" height="5" />
+        <cmp x="1963" y="1672" width="115" height="51" />
+      </word>
+      <upper-contour>
+        <point x="385" y="1558" />
+        <point x="2044" y="1558" />
+      </upper-contour>
+      <lower-contour>
+        <point x="385" y="1741" />
+        <point x="2070" y="1741" />
+      </lower-contour>
+    </line>
+    <line ass="-255" asx="0" asy="1812" character-width="999" dss="-255" dsx="0" dsy="1929" fd0="13444" fd1="2912" fd2="70" filter-width="3" id="n06-128-06" lbs="-244" lbx="0" lby="1882" segmentation="ok" slant="90000" stroke-width="5495" threshold="178" text="the miners at work. They were scattered" ubs="-276" ubx="0" uby="1851">
+      <word id="n06-128-06-00" tag="ATI" text="the">
+        <cmp x="377" y="1837" width="122" height="49" />
+      </word>
+      <word id="n06-128-06-01" tag="NNS" text="miners">
+        <cmp x="593" y="1850" width="28" height="34" />
+        <cmp x="620" y="1856" width="180" height="37" />
+        <cmp x="651" y="1816" width="10" height="5" />
+      </word>
+      <word id="n06-128-06-02" tag="IN" text="at">
+        <cmp x="911" y="1841" width="75" height="48" />
+      </word>
+      <word id="n06-128-06-03" tag="NN" text="work">
+        <cmp x="1052" y="1858" width="45" height="33" />
+        <cmp x="1109" y="1837" width="92" height="50" />
+        <cmp x="1123" y="1857" width="3" height="7" />
+      </word>
+      <word id="n06-128-06-04" tag="." text=".">
+        <cmp x="1219" y="1874" width="7" height="6" />
+      </word>
+      <word id="n06-128-06-05" sentence-start="yes" tag="PP3AS" text="They">
+        <cmp x="1318" y="1840" width="140" height="97" />
+        <cmp x="1333" y="1855" width="9" height="37" />
+      </word>
+      <word id="n06-128-06-06" tag="BED" text="were">
+        <cmp x="1562" y="1862" width="53" height="28" />
+        <cmp x="1616" y="1859" width="77" height="38" />
+      </word>
+      <word id="n06-128-06-07" tag="VBN" text="scattered">
+        <cmp x="1823" y="1865" width="15" height="22" />
+        <cmp x="1841" y="1860" width="21" height="30" />
+        <cmp x="1872" y="1839" width="197" height="56" />
+      </word>
+      <upper-contour>
+        <point x="385" y="1741" />
+        <point x="2070" y="1741" />
+      </upper-contour>
+      <lower-contour>
+        <point x="378" y="1937" />
+        <point x="2013" y="1937" />
+      </lower-contour>
+    </line>
+    <line ass="-106" asx="0" asy="1996" character-width="999" dss="-106" dsx="0" dsy="2124" fd0="13319" fd1="3893" fd2="296" filter-width="3" id="n06-128-07" lbs="-84" lbx="0" lby="2059" segmentation="ok" slant="90000" stroke-width="5249" threshold="179" text="over a fairly wide area working singly or" ubs="-149" ubx="0" uby="2032">
+      <word id="n06-128-07-00" tag="IN" text="over">
+        <cmp x="380" y="2024" width="19" height="35" />
+        <cmp x="392" y="2025" width="5" height="5" />
+        <cmp x="409" y="2025" width="23" height="28" />
+        <cmp x="437" y="2026" width="41" height="34" />
+      </word>
+      <word id="n06-128-07-01" tag="AT" text="a">
+        <cmp x="538" y="2033" width="32" height="32" />
+      </word>
+      <word id="n06-128-07-02" tag="RB" text="fairly">
+        <cmp x="634" y="2014" width="18" height="74" />
+        <cmp x="655" y="2026" width="158" height="76" />
+        <cmp x="678" y="1999" width="17" height="8" />
+      </word>
+      <word id="n06-128-07-03" tag="JJ" text="wide">
+        <cmp x="934" y="2038" width="67" height="29" />
+        <cmp x="998" y="2022" width="5" height="11" />
+        <cmp x="1012" y="2017" width="83" height="50" />
+      </word>
+      <word id="n06-128-07-04" tag="NN" text="area">
+        <cmp x="1163" y="2036" width="84" height="35" />
+        <cmp x="1257" y="2043" width="45" height="29" />
+      </word>
+      <word id="n06-128-07-05" tag="VBG" text="working">
+        <cmp x="1378" y="2032" width="54" height="27" />
+        <cmp x="1438" y="2027" width="52" height="35" />
+        <cmp x="1497" y="2019" width="8" height="42" />
+        <cmp x="1511" y="2036" width="106" height="69" />
+        <cmp x="1531" y="2016" width="10" height="10" />
+      </word>
+      <word id="n06-128-07-06" tag="RB" text="singly">
+        <cmp x="1716" y="2035" width="43" height="34" />
+        <cmp x="1762" y="2030" width="152" height="98" />
+      </word>
+      <word id="n06-128-07-07" tag="CC" text="or">
+        <cmp x="1963" y="2038" width="20" height="30" />
+        <cmp x="1991" y="2035" width="21" height="29" />
+      </word>
+      <upper-contour>
+        <point x="378" y="1937" />
+        <point x="2013" y="1937" />
+      </upper-contour>
+      <lower-contour>
+        <point x="378" y="2089" />
+        <point x="696" y="2089" />
+      </lower-contour>
+    </line>
+    <line ass="-1965" asx="0" asy="2164" character-width="999" dss="-1965" dsx="0" dsy="2252" fd0="14328" fd1="3922" fd2="793" filter-width="3" id="n06-128-08" lbs="-2153" lbx="0" lby="2226" segmentation="err" slant="81000" stroke-width="5522" threshold="176" text="in pairs." ubs="-1590" ubx="0" uby="2208">
+      <word id="n06-128-08-00" tag="IN" text="in">
+        <cmp x="371" y="2217" width="67" height="26" />
+        <cmp x="409" y="2180" width="9" height="11" />
+      </word>
+      <word id="n06-128-08-01" tag="NNS" text="pairs">
+        <cmp x="548" y="2220" width="36" height="50" />
+        <cmp x="586" y="2216" width="109" height="42" />
+      </word>
+      <word id="n06-128-08-02" tag="." text=".">
+        <cmp x="653" y="2189" width="6" height="11" />
+      </word>
+      <upper-contour>
+        <point x="378" y="2089" />
+        <point x="696" y="2089" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

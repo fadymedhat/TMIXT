@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-30" height="3542" id="r06-057" last-modified="2002-07-18" skew="0" status="final" version="3.0_beta" width="2479" writer-id="670">
+  <machine-printed-part>
+    <machine-print-line text="We travelled down to Nice on the Lambretta. You can free-wheel down a quarter of" />
+    <machine-print-line text="the way. In the middle of the journey is a valley with a sea of vines and olives and" />
+    <machine-print-line text="beaches of earth pricked to blood by the hoe. Rising from the flecked sea are islands" />
+    <machine-print-line text="tapering to shipwrecked castles and towns, grey, rose-headed mariners clinging like" />
+    <machine-print-line text="limpets to the rock." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-550" asx="0" asy="700" character-width="999" dss="-550" dsx="0" dsy="794" fd0="12807" fd1="2174" fd2="-1680" filter-width="3" id="r06-057-00" lbs="-515" lbx="0" lby="785" segmentation="err" slant="79000" stroke-width="5065" threshold="175" text="We travelled down to Nice on the Lambretta." ubs="-621" ubx="0" uby="739">
+      <word id="r06-057-00-00" sentence-start="yes" tag="PP1AS" text="We">
+        <cmp x="344" y="717" width="54" height="72" />
+        <cmp x="405" y="736" width="40" height="50" />
+      </word>
+      <word id="r06-057-00-01" tag="VBD" text="travelled">
+        <cmp x="548" y="719" width="55" height="75" />
+        <cmp x="604" y="746" width="38" height="51" />
+        <cmp x="652" y="722" width="179" height="80" />
+      </word>
+      <word id="r06-057-00-02" tag="RP" text="down">
+        <cmp x="898" y="728" width="98" height="71" />
+        <cmp x="998" y="744" width="110" height="45" />
+      </word>
+      <word id="r06-057-00-03" tag="IN" text="to">
+        <cmp x="1170" y="723" width="68" height="76" />
+      </word>
+      <word id="r06-057-00-04" tag="NP" text="Nice">
+        <cmp x="1313" y="726" width="55" height="80" />
+        <cmp x="1377" y="764" width="10" height="44" />
+        <cmp x="1384" y="760" width="5" height="3" />
+        <cmp x="1392" y="740" width="6" height="5" />
+        <cmp x="1401" y="763" width="51" height="46" />
+      </word>
+      <word id="r06-057-00-05" tag="IN" text="on">
+        <cmp x="1533" y="756" width="35" height="48" />
+        <cmp x="1579" y="756" width="29" height="49" />
+      </word>
+      <word id="r06-057-00-06" tag="ATI" text="the">
+        <cmp x="1661" y="722" width="89" height="79" />
+      </word>
+      <word id="r06-057-00-07" tag="NP" text="Lambretta">
+        <cmp x="1848" y="717" width="133" height="97" />
+        <cmp x="1992" y="727" width="27" height="80" />
+        <cmp x="2028" y="728" width="111" height="75" />
+      </word>
+      <word id="r06-057-00-08" tag="." text=".">
+        <cmp x="2127" y="758" width="36" height="48" />
+      </word>
+      <lower-contour>
+        <point x="342" y="814" />
+        <point x="2110" y="814" />
+      </lower-contour>
+    </line>
+    <line ass="-1029" asx="0" asy="851" character-width="999" dss="-1029" dsx="0" dsy="1054" fd0="12931" fd1="2594" fd2="-1028" filter-width="3" id="r06-057-01" lbs="-1055" lbx="0" lby="954" segmentation="ok" slant="76000" stroke-width="5122" threshold="176" text="You can free-wheel down a quarter of the" ubs="-979" ubx="0" uby="912">
+      <word id="r06-057-01-00" sentence-start="yes" tag="PP2" text="You">
+        <cmp x="296" y="884" width="80" height="177" />
+        <cmp x="389" y="921" width="33" height="57" />
+        <cmp x="434" y="928" width="32" height="46" />
+      </word>
+      <word id="r06-057-01-01" tag="MD" text="can">
+        <cmp x="530" y="919" width="27" height="47" />
+        <cmp x="557" y="923" width="76" height="55" />
+      </word>
+      <word id="r06-057-01-02" tag="VB" text="free-wheel">
+        <cmp x="712" y="884" width="111" height="129" />
+        <cmp x="840" y="935" width="22" height="4" />
+        <cmp x="905" y="916" width="50" height="61" />
+        <cmp x="911" y="929" width="4" height="7" />
+        <cmp x="966" y="891" width="107" height="86" />
+        <cmp x="1082" y="895" width="21" height="76" />
+      </word>
+      <word id="r06-057-01-03" tag="RP" text="down">
+        <cmp x="1150" y="901" width="54" height="87" />
+        <cmp x="1208" y="935" width="32" height="44" />
+        <cmp x="1247" y="934" width="52" height="43" />
+        <cmp x="1312" y="931" width="34" height="42" />
+      </word>
+      <word id="r06-057-01-04" tag="AT" text="a">
+        <cmp x="1446" y="927" width="40" height="59" />
+      </word>
+      <word id="r06-057-01-05" tag="NN" text="quarter">
+        <cmp x="1583" y="933" width="45" height="106" />
+        <cmp x="1633" y="944" width="33" height="42" />
+        <cmp x="1676" y="943" width="63" height="47" />
+        <cmp x="1752" y="921" width="77" height="62" />
+      </word>
+      <word id="r06-057-01-06" tag="INO" text="of">
+        <cmp x="1867" y="935" width="47" height="49" />
+        <cmp x="1917" y="886" width="38" height="118" />
+      </word>
+      <word id="r06-057-01-07" tag="ATI" text="the">
+        <cmp x="2013" y="905" width="96" height="91" />
+      </word>
+      <upper-contour>
+        <point x="342" y="814" />
+        <point x="2110" y="814" />
+      </upper-contour>
+      <lower-contour>
+        <point x="308" y="1061" />
+        <point x="2043" y="1061" />
+      </lower-contour>
+    </line>
+    <line ass="-240" asx="0" asy="1063" character-width="999" dss="-240" dsx="0" dsy="1228" fd0="13232" fd1="2590" fd2="-946" filter-width="3" id="r06-057-02" lbs="-75" lbx="0" lby="1147" segmentation="ok" slant="84000" stroke-width="5264" threshold="174" text="way. In the middle of the journey is a" ubs="-572" ubx="0" uby="1095">
+      <word id="r06-057-02-00" tag="NN" text="way">
+        <cmp x="310" y="1098" width="79" height="58" />
+        <cmp x="393" y="1094" width="88" height="122" />
+      </word>
+      <word id="r06-057-02-01" tag="." text=".">
+        <cmp x="493" y="1144" width="10" height="6" />
+      </word>
+      <word id="r06-057-02-02" sentence-start="yes" tag="IN" text="In">
+        <cmp x="614" y="1083" width="47" height="60" />
+      </word>
+      <word id="r06-057-02-03" tag="ATI" text="the">
+        <cmp x="706" y="1070" width="116" height="76" />
+      </word>
+      <word id="r06-057-02-04" tag="NN" text="middle">
+        <cmp x="908" y="1091" width="87" height="59" />
+        <cmp x="989" y="1085" width="10" height="9" />
+        <cmp x="999" y="1081" width="46" height="68" />
+        <cmp x="1045" y="1080" width="94" height="76" />
+      </word>
+      <word id="r06-057-02-05" tag="INO" text="of">
+        <cmp x="1190" y="1096" width="56" height="57" />
+        <cmp x="1226" y="1070" width="42" height="116" />
+      </word>
+      <word id="r06-057-02-06" tag="ATI" text="the">
+        <cmp x="1319" y="1075" width="108" height="81" />
+      </word>
+      <word id="r06-057-02-07" tag="NN" text="journey">
+        <cmp x="1497" y="1105" width="45" height="130" />
+        <cmp x="1533" y="1089" width="7" height="16" />
+        <cmp x="1558" y="1112" width="36" height="47" />
+        <cmp x="1596" y="1124" width="3" height="3" />
+        <cmp x="1598" y="1109" width="27" height="50" />
+        <cmp x="1641" y="1110" width="135" height="118" />
+      </word>
+      <word id="r06-057-02-08" tag="BEZ" text="is">
+        <cmp x="1863" y="1111" width="13" height="53" />
+        <cmp x="1870" y="1094" width="7" height="7" />
+        <cmp x="1878" y="1109" width="57" height="57" />
+      </word>
+      <word id="r06-057-02-09" tag="AT" text="a">
+        <cmp x="1975" y="1117" width="67" height="45" />
+      </word>
+      <upper-contour>
+        <point x="308" y="1061" />
+        <point x="2043" y="1061" />
+      </upper-contour>
+      <lower-contour>
+        <point x="334" y="1235" />
+        <point x="2014" y="1235" />
+      </lower-contour>
+    </line>
+    <line ass="-1095" asx="0" asy="1224" character-width="999" dss="-1095" dsx="0" dsy="1350" fd0="13431" fd1="2373" fd2="-1499" filter-width="3" id="r06-057-03" lbs="-1139" lbx="0" lby="1307" segmentation="ok" slant="71000" stroke-width="5246" threshold="173" text="valley with a sea of vines and olives" ubs="-1008" ubx="0" uby="1262">
+      <word id="r06-057-03-00" tag="NN" text="valley">
+        <cmp x="336" y="1267" width="40" height="60" />
+        <cmp x="381" y="1242" width="171" height="119" />
+      </word>
+      <word id="r06-057-03-01" tag="IN" text="with">
+        <cmp x="659" y="1275" width="81" height="57" />
+        <cmp x="735" y="1272" width="4" height="5" />
+        <cmp x="755" y="1261" width="71" height="70" />
+      </word>
+      <word id="r06-057-03-02" tag="AT" text="a">
+        <cmp x="934" y="1272" width="35" height="52" />
+      </word>
+      <word id="r06-057-03-03" tag="NN" text="sea">
+        <cmp x="1043" y="1272" width="38" height="54" />
+        <cmp x="1072" y="1310" width="10" height="3" />
+        <cmp x="1083" y="1280" width="37" height="45" />
+        <cmp x="1116" y="1282" width="45" height="40" />
+      </word>
+      <word id="r06-057-03-04" tag="INO" text="of">
+        <cmp x="1233" y="1277" width="51" height="58" />
+        <cmp x="1274" y="1250" width="48" height="97" />
+      </word>
+      <word id="r06-057-03-05" tag="NNS" text="vines">
+        <cmp x="1382" y="1275" width="43" height="49" />
+        <cmp x="1424" y="1277" width="13" height="46" />
+        <cmp x="1437" y="1265" width="7" height="4" />
+        <cmp x="1444" y="1276" width="83" height="52" />
+      </word>
+      <word id="r06-057-03-06" tag="CC" text="and">
+        <cmp x="1585" y="1292" width="96" height="54" />
+        <cmp x="1696" y="1278" width="40" height="67" />
+      </word>
+      <word id="r06-057-03-07" tag="NNS" text="olives">
+        <cmp x="1805" y="1259" width="89" height="92" />
+        <cmp x="1897" y="1271" width="17" height="10" />
+        <cmp x="1917" y="1292" width="95" height="67" />
+      </word>
+      <upper-contour>
+        <point x="334" y="1235" />
+        <point x="2014" y="1235" />
+      </upper-contour>
+      <lower-contour>
+        <point x="334" y="1361" />
+        <point x="2014" y="1361" />
+      </lower-contour>
+    </line>
+    <line ass="-994" asx="0" asy="1407" character-width="999" dss="-994" dsx="0" dsy="1542" fd0="13205" fd1="2002" fd2="-1558" filter-width="3" id="r06-057-04" lbs="-913" lbx="0" lby="1489" segmentation="ok" slant="75000" stroke-width="5481" threshold="173" text="and beaches of earth pricked to blood by" ubs="-1154" ubx="0" uby="1437">
+      <word id="r06-057-04-00" tag="CC" text="and">
+        <cmp x="333" y="1444" width="104" height="60" />
+        <cmp x="449" y="1430" width="37" height="64" />
+      </word>
+      <word id="r06-057-04-01" tag="NNS" text="beaches">
+        <cmp x="619" y="1431" width="250" height="70" />
+      </word>
+      <word id="r06-057-04-02" tag="INO" text="of">
+        <cmp x="936" y="1424" width="57" height="90" />
+      </word>
+      <word id="r06-057-04-03" tag="NN" text="earth">
+        <cmp x="1059" y="1447" width="41" height="63" />
+        <cmp x="1096" y="1464" width="76" height="45" />
+        <cmp x="1179" y="1439" width="57" height="68" />
+      </word>
+      <word id="r06-057-04-04" tag="VBN" text="pricked">
+        <cmp x="1324" y="1448" width="182" height="118" />
+        <cmp x="1412" y="1458" width="5" height="6" />
+        <cmp x="1507" y="1453" width="54" height="69" />
+      </word>
+      <word id="r06-057-04-05" tag="IN" text="to">
+        <cmp x="1597" y="1462" width="66" height="69" />
+      </word>
+      <word id="r06-057-04-06" tag="NN" text="blood">
+        <cmp x="1692" y="1437" width="85" height="82" />
+        <cmp x="1787" y="1445" width="55" height="78" />
+        <cmp x="1855" y="1481" width="31" height="42" />
+        <cmp x="1884" y="1449" width="55" height="78" />
+      </word>
+      <word id="r06-057-04-07" tag="IN" text="by">
+        <cmp x="2008" y="1446" width="109" height="130" />
+      </word>
+      <upper-contour>
+        <point x="334" y="1361" />
+        <point x="2014" y="1361" />
+      </upper-contour>
+      <lower-contour>
+        <point x="339" y="1566" />
+        <point x="2057" y="1566" />
+      </lower-contour>
+    </line>
+    <line ass="-1780" asx="0" asy="1549" character-width="999" dss="-1780" dsx="0" dsy="1709" fd0="13269" fd1="2290" fd2="-1424" filter-width="3" id="r06-057-05" lbs="-1795" lbx="0" lby="1644" segmentation="ok" slant="79000" stroke-width="5278" threshold="174" text="the hoe. Rising from the flecked sea are" ubs="-1748" ubx="0" uby="1608">
+      <word id="r06-057-05-00" tag="ATI" text="the">
+        <cmp x="341" y="1581" width="88" height="92" />
+      </word>
+      <word id="r06-057-05-01" tag="NN" text="hoe">
+        <cmp x="535" y="1603" width="149" height="80" />
+      </word>
+      <word id="r06-057-05-02" tag="." text=".">
+        <cmp x="713" y="1662" width="8" height="6" />
+      </word>
+      <word id="r06-057-05-03" sentence-start="yes" tag="VBG" text="Rising">
+        <cmp x="801" y="1574" width="82" height="100" />
+        <cmp x="882" y="1621" width="61" height="54" />
+        <cmp x="940" y="1608" width="5" height="6" />
+        <cmp x="956" y="1621" width="30" height="52" />
+        <cmp x="970" y="1635" width="53" height="106" />
+      </word>
+      <word id="r06-057-05-04" tag="IN" text="from">
+        <cmp x="1080" y="1600" width="62" height="114" />
+        <cmp x="1149" y="1638" width="29" height="47" />
+        <cmp x="1181" y="1640" width="51" height="50" />
+      </word>
+      <word id="r06-057-05-05" tag="ATI" text="the">
+        <cmp x="1281" y="1620" width="107" height="73" />
+      </word>
+      <word id="r06-057-05-06" tag="JJ" text="flecked">
+        <cmp x="1464" y="1616" width="93" height="109" />
+        <cmp x="1563" y="1630" width="145" height="68" />
+      </word>
+      <word id="r06-057-05-07" tag="NN" text="sea">
+        <cmp x="1739" y="1651" width="64" height="50" />
+        <cmp x="1793" y="1657" width="42" height="51" />
+        <cmp x="1833" y="1653" width="38" height="50" />
+      </word>
+      <word id="r06-057-05-08" tag="BER" text="are">
+        <cmp x="1938" y="1655" width="118" height="56" />
+      </word>
+      <upper-contour>
+        <point x="339" y="1566" />
+        <point x="2057" y="1566" />
+      </upper-contour>
+      <lower-contour>
+        <point x="352" y="1741" />
+        <point x="2057" y="1741" />
+      </lower-contour>
+    </line>
+    <line ass="-1803" asx="0" asy="1747" character-width="999" dss="-1803" dsx="0" dsy="1934" fd0="13260" fd1="2455" fd2="-1849" filter-width="3" id="r06-057-06" lbs="-1830" lbx="0" lby="1825" segmentation="err" slant="81000" stroke-width="5334" threshold="172" text="islands tapering to shipwrecked castles and" ubs="-1750" ubx="0" uby="1782">
+      <word id="r06-057-06-00" tag="NNS" text="islands">
+        <cmp x="354" y="1785" width="6" height="49" />
+        <cmp x="361" y="1785" width="38" height="58" />
+        <cmp x="363" y="1766" width="4" height="11" />
+        <cmp x="393" y="1926" width="10" height="22" />
+        <cmp x="411" y="1777" width="33" height="66" />
+        <cmp x="448" y="1801" width="34" height="45" />
+        <cmp x="491" y="1774" width="74" height="75" />
+        <cmp x="564" y="1801" width="43" height="49" />
+      </word>
+      <word id="r06-057-06-01" tag="VBG" text="tapering">
+        <cmp x="674" y="1780" width="42" height="70" />
+        <cmp x="719" y="1808" width="41" height="43" />
+        <cmp x="761" y="1805" width="40" height="80" />
+        <cmp x="813" y="1808" width="71" height="42" />
+        <cmp x="884" y="1793" width="8" height="5" />
+        <cmp x="886" y="1814" width="7" height="33" />
+        <cmp x="899" y="1804" width="36" height="51" />
+        <cmp x="916" y="1813" width="60" height="134" />
+      </word>
+      <word id="r06-057-06-02" tag="IN" text="to">
+        <cmp x="1052" y="1792" width="39" height="80" />
+        <cmp x="1078" y="1810" width="37" height="50" />
+      </word>
+      <word id="r06-057-06-03" tag="JJ" text="shipwrecked">
+        <cmp x="1186" y="1785" width="92" height="81" />
+        <cmp x="1273" y="1806" width="9" height="4" />
+        <cmp x="1277" y="1813" width="33" height="84" />
+        <cmp x="1316" y="1822" width="119" height="47" />
+        <cmp x="1439" y="1795" width="152" height="77" />
+      </word>
+      <word id="r06-057-06-04" tag="NNS" text="castles">
+        <cmp x="1663" y="1820" width="30" height="53" />
+        <cmp x="1696" y="1824" width="67" height="63" />
+        <cmp x="1767" y="1813" width="103" height="81" />
+      </word>
+      <word id="r06-057-06-05" tag="CC" text="and">
+        <cmp x="1930" y="1847" width="93" height="50" />
+        <cmp x="2030" y="1823" width="37" height="79" />
+      </word>
+      <upper-contour>
+        <point x="352" y="1741" />
+        <point x="2057" y="1741" />
+      </upper-contour>
+      <lower-contour>
+        <point x="367" y="1947" />
+        <point x="2068" y="1947" />
+      </lower-contour>
+    </line>
+    <line ass="-1635" asx="0" asy="1932" character-width="999" dss="-1635" dsx="0" dsy="2104" fd0="13512" fd1="2866" fd2="-1019" filter-width="3" id="r06-057-07" lbs="-1558" lbx="0" lby="2005" segmentation="err" slant="80000" stroke-width="5328" threshold="174" text="towns, grey, rose-headed mariners clinging" ubs="-1791" ubx="0" uby="1958">
+      <word id="r06-057-07-00" tag="NNS" text="towns">
+        <cmp x="369" y="1950" width="60" height="64" />
+        <cmp x="445" y="1963" width="53" height="55" />
+        <cmp x="499" y="1964" width="90" height="52" />
+      </word>
+      <word id="r06-057-07-01" tag="," text=",">
+        <cmp x="607" y="2005" width="16" height="42" />
+      </word>
+      <word id="r06-057-07-02" tag="JJ" text="grey">
+        <cmp x="676" y="1969" width="171" height="113" />
+      </word>
+      <word id="r06-057-07-03" tag="," text=",">
+        <cmp x="865" y="2019" width="15" height="29" />
+      </word>
+      <word id="r06-057-07-04" tag="JJ" text="rose-headed">
+        <cmp x="987" y="1971" width="82" height="64" />
+        <cmp x="1075" y="1983" width="29" height="48" />
+        <cmp x="1122" y="1996" width="24" height="4" />
+        <cmp x="1147" y="1995" width="7" height="3" />
+        <cmp x="1173" y="1971" width="183" height="71" />
+        <cmp x="1361" y="1979" width="37" height="60" />
+      </word>
+      <word id="r06-057-07-05" tag="NNS" text="mariners">
+        <cmp x="1463" y="2000" width="60" height="55" />
+        <cmp x="1528" y="2011" width="99" height="50" />
+        <cmp x="1628" y="2007" width="6" height="5" />
+        <cmp x="1641" y="2009" width="115" height="55" />
+        <cmp x="1758" y="2014" width="41" height="42" />
+      </word>
+      <word id="r06-057-07-06" tag="VBG" text="clinging">
+        <cmp x="1852" y="1986" width="84" height="81" />
+        <cmp x="1929" y="2002" width="7" height="6" />
+        <cmp x="1939" y="2011" width="35" height="53" />
+        <cmp x="1965" y="2024" width="63" height="105" />
+        <cmp x="2031" y="2011" width="6" height="12" />
+        <cmp x="2038" y="2017" width="36" height="57" />
+        <cmp x="2052" y="2038" width="57" height="126" />
+      </word>
+      <upper-contour>
+        <point x="367" y="1947" />
+        <point x="2068" y="1947" />
+      </upper-contour>
+      <lower-contour>
+        <point x="367" y="2083" />
+        <point x="1440" y="2083" />
+      </lower-contour>
+    </line>
+    <line ass="-1291" asx="0" asy="2096" character-width="999" dss="-1291" dsx="0" dsy="2237" fd0="13318" fd1="2483" fd2="-1294" filter-width="3" id="r06-057-08" lbs="-1077" lbx="0" lby="2181" segmentation="ok" slant="80000" stroke-width="5365" threshold="172" text="like limpets to the rock." ubs="-1718" ubx="0" uby="2132">
+      <word id="r06-057-08-00" tag="IN" text="like">
+        <cmp x="355" y="2105" width="65" height="86" />
+        <cmp x="431" y="2131" width="3" height="4" />
+        <cmp x="447" y="2123" width="49" height="63" />
+      </word>
+      <word id="r06-057-08-01" tag="NNS" text="limpets">
+        <cmp x="597" y="2130" width="66" height="68" />
+        <cmp x="661" y="2144" width="7" height="4" />
+        <cmp x="672" y="2155" width="52" height="44" />
+        <cmp x="727" y="2136" width="137" height="119" />
+      </word>
+      <word id="r06-057-08-02" tag="IN" text="to">
+        <cmp x="930" y="2129" width="63" height="76" />
+      </word>
+      <word id="r06-057-08-03" tag="ATI" text="the">
+        <cmp x="1081" y="2129" width="95" height="77" />
+      </word>
+      <word id="r06-057-08-04" tag="NN" text="rock">
+        <cmp x="1257" y="2163" width="28" height="50" />
+        <cmp x="1281" y="2140" width="116" height="73" />
+      </word>
+      <word id="r06-057-08-05" tag="." text=".">
+        <cmp x="1431" y="2186" width="8" height="9" />
+      </word>
+      <upper-contour>
+        <point x="367" y="2083" />
+        <point x="1440" y="2083" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

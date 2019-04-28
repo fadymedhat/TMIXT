@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-15" height="3542" id="a01-096u" last-modified="2002-07-17" skew="255" status="final" version="3.0_beta" width="2479" writer-id="000">
+  <machine-printed-part>
+    <machine-print-line text="The Press, many doctors and public were denouncing the proposals. He quoted from" />
+    <machine-print-line text="this letter which Mr. Gaitskell had received: &amp;quot;My background is a doctor of 68," />
+    <machine-print-line text="who has practised medicine for 43 years, chiefly as a panel doctor. &amp;quot;I am a lifelong" />
+    <machine-print-line text="Conservative. I am horrified and amazed by my party&apos;s proposal to prostitute the" />
+    <machine-print-line text="whole principle of the State service and to render that service a hardship to poor" />
+    <machine-print-line text="people." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="430" asx="0" asy="823" character-width="999" dss="430" dsx="0" dsy="914" fd0="13331" fd1="3062" fd2="-47" filter-width="4" id="a01-096u-00" lbs="351" lbx="0" lby="874" segmentation="ok" slant="103000" stroke-width="6707" threshold="171" text="The Press, many doctors and public were" ubs="589" ubx="0" uby="855">
+      <word id="a01-096u-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="375" y="818" width="164" height="59" />
+      </word>
+      <word id="a01-096u-00-01" tag="NN" text="Press">
+        <cmp x="598" y="821" width="78" height="56" />
+        <cmp x="675" y="846" width="130" height="27" />
+      </word>
+      <word id="a01-096u-00-02" tag="," text=",">
+        <cmp x="818" y="875" width="16" height="33" />
+      </word>
+      <word id="a01-096u-00-03" tag="AP" text="many">
+        <cmp x="884" y="852" width="58" height="24" />
+        <cmp x="949" y="847" width="139" height="52" />
+      </word>
+      <word id="a01-096u-00-04" tag="NNS" text="doctors">
+        <cmp x="1135" y="835" width="87" height="38" />
+        <cmp x="1239" y="842" width="49" height="30" />
+        <cmp x="1280" y="822" width="28" height="43" />
+        <cmp x="1315" y="840" width="52" height="27" />
+        <cmp x="1377" y="840" width="33" height="24" />
+      </word>
+      <word id="a01-096u-00-05" tag="CC" text="and">
+        <cmp x="1477" y="835" width="81" height="27" />
+        <cmp x="1568" y="819" width="80" height="42" />
+      </word>
+      <word id="a01-096u-00-06" tag="NN" text="public">
+        <cmp x="1701" y="838" width="37" height="38" />
+        <cmp x="1747" y="818" width="97" height="45" />
+        <cmp x="1848" y="824" width="51" height="33" />
+        <cmp x="1905" y="831" width="47" height="33" />
+      </word>
+      <word id="a01-096u-00-07" tag="BED" text="were">
+        <cmp x="2000" y="838" width="46" height="28" />
+        <cmp x="2052" y="823" width="118" height="44" />
+      </word>
+      <lower-contour>
+        <point x="377" y="908" />
+        <point x="2171" y="908" />
+      </lower-contour>
+    </line>
+    <line ass="270" asx="0" asy="997" character-width="999" dss="270" dsx="0" dsy="1087" fd0="12957" fd1="2817" fd2="-172" filter-width="4" id="a01-096u-01" lbs="226" lbx="0" lby="1053" segmentation="err" slant="99000" stroke-width="7074" threshold="169" text="denouncing the proposals. He quoted from" ubs="359" ubx="0" uby="1032">
+      <word id="a01-096u-01-00" tag="VBG" text="denouncing">
+        <cmp x="379" y="1022" width="90" height="39" />
+        <cmp x="475" y="1025" width="84" height="33" />
+        <cmp x="560" y="1029" width="97" height="21" />
+        <cmp x="668" y="1023" width="105" height="28" />
+        <cmp x="785" y="1026" width="55" height="58" />
+      </word>
+      <word id="a01-096u-01-01" tag="ATI" text="the">
+        <cmp x="912" y="1009" width="146" height="41" />
+      </word>
+      <word id="a01-096u-01-02" tag="NNS" text="proposals">
+        <cmp x="1136" y="1022" width="36" height="42" />
+        <cmp x="1178" y="1024" width="20" height="21" />
+        <cmp x="1206" y="1021" width="51" height="27" />
+        <cmp x="1265" y="1024" width="38" height="32" />
+        <cmp x="1304" y="1025" width="114" height="27" />
+        <cmp x="1412" y="1012" width="58" height="35" />
+      </word>
+      <word id="a01-096u-01-03" tag="." text=".">
+        <cmp x="1493" y="1043" width="7" height="7" />
+      </word>
+      <word id="a01-096u-01-04" sentence-start="yes" tag="PP3A" text="He">
+        <cmp x="1599" y="1009" width="112" height="43" />
+      </word>
+      <word id="a01-096u-01-05" tag="VBD" text="quoted">
+        <cmp x="1784" y="1017" width="37" height="39" />
+        <cmp x="1824" y="1018" width="40" height="29" />
+        <cmp x="1867" y="1018" width="32" height="32" />
+        <cmp x="1912" y="999" width="57" height="47" />
+        <cmp x="1970" y="998" width="55" height="42" />
+      </word>
+      <word id="a01-096u-01-06" tag="IN" text="from">
+        <cmp x="2087" y="989" width="49" height="70" />
+        <cmp x="2137" y="1019" width="80" height="27" />
+      </word>
+      <upper-contour>
+        <point x="377" y="908" />
+        <point x="2171" y="908" />
+      </upper-contour>
+      <lower-contour>
+        <point x="381" y="1083" />
+        <point x="2218" y="1083" />
+      </lower-contour>
+    </line>
+    <line ass="667" asx="0" asy="1183" character-width="999" dss="667" dsx="0" dsy="1249" fd0="13306" fd1="3196" fd2="325" filter-width="4" id="a01-096u-02" lbs="681" lbx="0" lby="1239" segmentation="ok" slant="101000" stroke-width="7116" threshold="171" text="this letter which Mr. Gaitskell had received:" ubs="639" ubx="0" uby="1214">
+      <word id="a01-096u-02-00" tag="DT" text="this">
+        <cmp x="383" y="1195" width="133" height="40" />
+        <cmp x="459" y="1178" width="12" height="9" />
+      </word>
+      <word id="a01-096u-02-01" tag="NN" text="letter">
+        <cmp x="568" y="1189" width="173" height="44" />
+      </word>
+      <word id="a01-096u-02-02" tag="WDT" text="which">
+        <cmp x="821" y="1195" width="58" height="45" />
+        <cmp x="887" y="1187" width="74" height="40" />
+        <cmp x="932" y="1180" width="15" height="14" />
+        <cmp x="963" y="1200" width="88" height="28" />
+      </word>
+      <word id="a01-096u-02-03" tag="NPT" text="Mr.">
+        <cmp x="1118" y="1181" width="107" height="56" />
+        <cmp x="1241" y="1222" width="8" height="9" />
+      </word>
+      <word id="a01-096u-02-04" tag="NP" text="Gaitskell">
+        <cmp x="1347" y="1179" width="49" height="51" />
+        <cmp x="1392" y="1198" width="69" height="25" />
+        <cmp x="1435" y="1174" width="11" height="7" />
+        <cmp x="1467" y="1179" width="53" height="44" />
+        <cmp x="1536" y="1178" width="67" height="42" />
+        <cmp x="1604" y="1182" width="40" height="41" />
+      </word>
+      <word id="a01-096u-02-05" tag="HVD" text="had">
+        <cmp x="1711" y="1180" width="45" height="41" />
+        <cmp x="1756" y="1195" width="40" height="24" />
+        <cmp x="1799" y="1183" width="52" height="31" />
+      </word>
+      <word id="a01-096u-02-06" tag="VBN" text="received">
+        <cmp x="1897" y="1188" width="73" height="31" />
+        <cmp x="1975" y="1190" width="85" height="29" />
+        <cmp x="2071" y="1181" width="141" height="37" />
+      </word>
+      <word id="a01-096u-02-07" tag=":" text=":">
+        <cmp x="2243" y="1201" width="8" height="10" />
+        <cmp x="2246" y="1190" width="8" height="10" />
+      </word>
+      <upper-contour>
+        <point x="381" y="1083" />
+        <point x="2218" y="1083" />
+      </upper-contour>
+      <lower-contour>
+        <point x="381" y="1239" />
+        <point x="2244" y="1239" />
+      </lower-contour>
+    </line>
+    <line ass="579" asx="0" asy="1361" character-width="999" dss="579" dsx="0" dsy="1441" fd0="13207" fd1="2717" fd2="100" filter-width="5" id="a01-096u-03" lbs="607" lbx="0" lby="1419" segmentation="err" slant="114999" stroke-width="7399" threshold="169" text="&amp;quot;My background is a doctor of 68, who" ubs="522" ubx="0" uby="1389">
+      <word id="a01-096u-03-00" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="367" y="1407" width="23" height="23" />
+      </word>
+      <word id="a01-096u-03-01" tag="PP$" text="My">
+        <cmp x="444" y="1367" width="116" height="68" />
+      </word>
+      <word id="a01-096u-03-02" tag="NN" text="background">
+        <cmp x="637" y="1363" width="88" height="51" />
+        <cmp x="734" y="1374" width="78" height="36" />
+        <cmp x="827" y="1379" width="222" height="51" />
+        <cmp x="1057" y="1361" width="62" height="43" />
+      </word>
+      <word id="a01-096u-03-03" tag="BEZ" text="is">
+        <cmp x="1187" y="1353" width="11" height="15" />
+        <cmp x="1194" y="1387" width="47" height="20" />
+      </word>
+      <word id="a01-096u-03-04" tag="AT" text="a">
+        <cmp x="1314" y="1376" width="61" height="32" />
+      </word>
+      <word id="a01-096u-03-05" tag="NN" text="doctor">
+        <cmp x="1452" y="1361" width="40" height="45" />
+        <cmp x="1496" y="1378" width="35" height="27" />
+        <cmp x="1540" y="1357" width="72" height="50" />
+        <cmp x="1616" y="1374" width="95" height="28" />
+      </word>
+      <word id="a01-096u-03-06" tag="INO" text="of">
+        <cmp x="1799" y="1376" width="30" height="30" />
+        <cmp x="1836" y="1344" width="28" height="61" />
+      </word>
+      <word id="a01-096u-03-07" tag="CD" text="68">
+        <cmp x="1951" y="1345" width="28" height="51" />
+        <cmp x="1998" y="1347" width="35" height="54" />
+        <cmp x="2049" y="1393" width="11" height="28" />
+      </word>
+      <word id="a01-096u-03-08" tag="," text=",">
+        <cmp x="2112" y="1362" width="53" height="36" />
+      </word>
+      <word id="a01-096u-03-09" tag="WP" text="who">
+        <cmp x="2172" y="1352" width="71" height="46" />
+      </word>
+      <upper-contour>
+        <point x="381" y="1239" />
+        <point x="2244" y="1239" />
+      </upper-contour>
+      <lower-contour>
+        <point x="365" y="1434" />
+        <point x="2244" y="1434" />
+      </lower-contour>
+    </line>
+    <line ass="404" asx="0" asy="1529" character-width="999" dss="404" dsx="0" dsy="1620" fd0="13300" fd1="3143" fd2="-51" filter-width="4" id="a01-096u-04" lbs="396" lbx="0" lby="1595" segmentation="ok" slant="96000" stroke-width="7129" threshold="169" text="has practised medicine for 43 years, chiefly" ubs="420" ubx="0" uby="1569">
+      <word id="a01-096u-04-00" tag="HVZ" text="has">
+        <cmp x="343" y="1566" width="124" height="31" />
+      </word>
+      <word id="a01-096u-04-01" tag="VBN" text="practised">
+        <cmp x="541" y="1558" width="39" height="36" />
+        <cmp x="585" y="1561" width="26" height="24" />
+        <cmp x="621" y="1560" width="58" height="31" />
+        <cmp x="684" y="1544" width="82" height="48" />
+        <cmp x="747" y="1539" width="9" height="13" />
+        <cmp x="783" y="1558" width="81" height="31" />
+        <cmp x="859" y="1545" width="71" height="40" />
+      </word>
+      <word id="a01-096u-04-02" tag="NN" text="medicine">
+        <cmp x="994" y="1564" width="114" height="31" />
+        <cmp x="1107" y="1550" width="85" height="38" />
+        <cmp x="1160" y="1536" width="11" height="13" />
+        <cmp x="1201" y="1558" width="44" height="31" />
+        <cmp x="1246" y="1561" width="23" height="23" />
+        <cmp x="1280" y="1552" width="102" height="39" />
+      </word>
+      <word id="a01-096u-04-03" tag="IN" text="for">
+        <cmp x="1441" y="1528" width="28" height="66" />
+        <cmp x="1482" y="1554" width="75" height="28" />
+      </word>
+      <word id="a01-096u-04-04" tag="CD" text="43">
+        <cmp x="1611" y="1534" width="29" height="50" />
+        <cmp x="1653" y="1538" width="42" height="54" />
+      </word>
+      <word id="a01-096u-04-05" tag="NNS" text="years">
+        <cmp x="1756" y="1556" width="72" height="47" />
+        <cmp x="1833" y="1550" width="93" height="30" />
+      </word>
+      <word id="a01-096u-04-06" tag="," text=",">
+        <cmp x="1948" y="1574" width="14" height="28" />
+      </word>
+      <word id="a01-096u-04-07" tag="RB" text="chiefly">
+        <cmp x="2025" y="1539" width="35" height="35" />
+        <cmp x="2061" y="1525" width="96" height="50" />
+        <cmp x="2116" y="1516" width="8" height="11" />
+        <cmp x="2157" y="1516" width="25" height="78" />
+        <cmp x="2203" y="1536" width="68" height="70" />
+      </word>
+      <upper-contour>
+        <point x="365" y="1434" />
+        <point x="2244" y="1434" />
+      </upper-contour>
+      <lower-contour>
+        <point x="363" y="1605" />
+        <point x="2075" y="1605" />
+      </lower-contour>
+    </line>
+    <line ass="578" asx="0" asy="1731" character-width="999" dss="578" dsx="0" dsy="1806" fd0="12793" fd1="3632" fd2="891" filter-width="5" id="a01-096u-05" lbs="673" lbx="0" lby="1779" segmentation="ok" slant="110000" stroke-width="7259" threshold="169" text="as a panel doctor. &amp;quot;I am a lifelong" ubs="386" ubx="0" uby="1751">
+      <word id="a01-096u-05-00" tag="IN" text="as">
+        <cmp x="365" y="1749" width="85" height="28" />
+      </word>
+      <word id="a01-096u-05-01" tag="AT" text="a">
+        <cmp x="537" y="1739" width="62" height="33" />
+      </word>
+      <word id="a01-096u-05-02" tag="NN" text="panel">
+        <cmp x="663" y="1746" width="31" height="40" />
+        <cmp x="699" y="1743" width="160" height="31" />
+        <cmp x="852" y="1723" width="30" height="50" />
+      </word>
+      <word id="a01-096u-05-03" tag="NN" text="doctor">
+        <cmp x="965" y="1734" width="53" height="38" />
+        <cmp x="1018" y="1742" width="31" height="27" />
+        <cmp x="1064" y="1723" width="158" height="49" />
+      </word>
+      <word id="a01-096u-05-04" tag="." text=".">
+        <cmp x="1229" y="1757" width="8" height="9" />
+      </word>
+      <word id="a01-096u-05-05" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="1324" y="1756" width="20" height="25" />
+      </word>
+      <word id="a01-096u-05-06" tag="PP1A" text="I">
+        <cmp x="1428" y="1724" width="11" height="42" />
+      </word>
+      <word id="a01-096u-05-07" tag="BEM" text="am">
+        <cmp x="1506" y="1738" width="88" height="25" />
+      </word>
+      <word id="a01-096u-05-08" tag="AT" text="a">
+        <cmp x="1669" y="1742" width="47" height="23" />
+      </word>
+      <word id="a01-096u-05-09" tag="JJ" text="lifelong">
+        <cmp x="1778" y="1726" width="45" height="32" />
+        <cmp x="1796" y="1714" width="11" height="10" />
+        <cmp x="1831" y="1717" width="97" height="44" />
+        <cmp x="1938" y="1722" width="17" height="38" />
+        <cmp x="1957" y="1738" width="60" height="21" />
+        <cmp x="2019" y="1741" width="55" height="46" />
+      </word>
+      <upper-contour>
+        <point x="363" y="1605" />
+        <point x="2075" y="1605" />
+      </upper-contour>
+      <lower-contour>
+        <point x="363" y="1790" />
+        <point x="2075" y="1790" />
+      </lower-contour>
+    </line>
+    <line ass="456" asx="0" asy="1905" character-width="999" dss="456" dsx="0" dsy="1967" fd0="13174" fd1="2949" fd2="74" filter-width="4" id="a01-096u-06" lbs="477" lbx="0" lby="1956" segmentation="ok" slant="97000" stroke-width="7128" threshold="171" text="Conservative. I am horrified and amazed" ubs="414" ubx="0" uby="1932">
+      <word id="a01-096u-06-00" tag="NN" text="Conservative">
+        <cmp x="358" y="1904" width="41" height="56" />
+        <cmp x="395" y="1926" width="75" height="27" />
+        <cmp x="482" y="1925" width="94" height="31" />
+        <cmp x="584" y="1922" width="33" height="32" />
+        <cmp x="621" y="1905" width="92" height="43" />
+        <cmp x="694" y="1900" width="11" height="10" />
+        <cmp x="726" y="1915" width="86" height="37" />
+      </word>
+      <word id="a01-096u-06-01" tag="." text=".">
+        <cmp x="835" y="1945" width="11" height="9" />
+      </word>
+      <word id="a01-096u-06-02" sentence-start="yes" tag="PP1A" text="I">
+        <cmp x="923" y="1902" width="13" height="47" />
+      </word>
+      <word id="a01-096u-06-03" tag="BEM" text="am">
+        <cmp x="970" y="1922" width="121" height="28" />
+      </word>
+      <word id="a01-096u-06-04" tag="VBN" text="horrified">
+        <cmp x="1180" y="1909" width="49" height="38" />
+        <cmp x="1229" y="1920" width="74" height="28" />
+        <cmp x="1312" y="1922" width="51" height="22" />
+        <cmp x="1350" y="1896" width="8" height="9" />
+        <cmp x="1387" y="1895" width="102" height="61" />
+        <cmp x="1427" y="1901" width="14" height="9" />
+        <cmp x="1496" y="1912" width="65" height="30" />
+      </word>
+      <word id="a01-096u-06-05" tag="CC" text="and">
+        <cmp x="1612" y="1914" width="97" height="29" />
+        <cmp x="1715" y="1904" width="64" height="32" />
+      </word>
+      <word id="a01-096u-06-06" tag="VBN" text="amazed">
+        <cmp x="1852" y="1920" width="110" height="23" />
+        <cmp x="1965" y="1917" width="45" height="24" />
+        <cmp x="2030" y="1895" width="138" height="56" />
+      </word>
+      <upper-contour>
+        <point x="363" y="1790" />
+        <point x="2075" y="1790" />
+      </upper-contour>
+      <lower-contour>
+        <point x="359" y="1959" />
+        <point x="2169" y="1959" />
+      </lower-contour>
+    </line>
+    <line ass="968" asx="0" asy="2091" character-width="999" dss="968" dsx="0" dsy="2171" fd0="13101" fd1="3223" fd2="252" filter-width="5" id="a01-096u-07" lbs="909" lbx="0" lby="2146" segmentation="ok" slant="95000" stroke-width="7351" threshold="169" text="by my party&apos;s proposal to prostitute the" ubs="1086" ubx="0" uby="2122">
+      <word id="a01-096u-07-00" tag="IN" text="by">
+        <cmp x="361" y="2106" width="34" height="31" />
+        <cmp x="402" y="2110" width="56" height="45" />
+      </word>
+      <word id="a01-096u-07-01" tag="PP$" text="my">
+        <cmp x="495" y="2111" width="129" height="50" />
+      </word>
+      <word id="a01-096u-07-02" tag="NN$" text="party&apos;s">
+        <cmp x="688" y="2097" width="108" height="45" />
+        <cmp x="819" y="2079" width="72" height="77" />
+        <cmp x="887" y="2077" width="11" height="20" />
+        <cmp x="909" y="2106" width="30" height="23" />
+      </word>
+      <word id="a01-096u-07-03" tag="NN" text="proposal">
+        <cmp x="1018" y="2102" width="26" height="36" />
+        <cmp x="1055" y="2099" width="22" height="23" />
+        <cmp x="1089" y="2093" width="36" height="31" />
+        <cmp x="1141" y="2092" width="41" height="41" />
+        <cmp x="1191" y="2098" width="69" height="31" />
+        <cmp x="1269" y="2098" width="50" height="31" />
+        <cmp x="1336" y="2075" width="12" height="56" />
+      </word>
+      <word id="a01-096u-07-04" tag="TO" text="to">
+        <cmp x="1430" y="2080" width="33" height="37" />
+        <cmp x="1467" y="2091" width="34" height="31" />
+      </word>
+      <word id="a01-096u-07-05" tag="VB" text="prostitute">
+        <cmp x="1582" y="2092" width="41" height="44" />
+        <cmp x="1627" y="2092" width="22" height="26" />
+        <cmp x="1661" y="2074" width="126" height="44" />
+        <cmp x="1779" y="2064" width="11" height="12" />
+        <cmp x="1804" y="2075" width="77" height="44" />
+        <cmp x="1889" y="2077" width="92" height="47" />
+      </word>
+      <word id="a01-096u-07-06" tag="ATI" text="the">
+        <cmp x="2043" y="2068" width="24" height="43" />
+        <cmp x="2068" y="2076" width="111" height="42" />
+      </word>
+      <upper-contour>
+        <point x="359" y="1959" />
+        <point x="2169" y="1959" />
+      </upper-contour>
+      <lower-contour>
+        <point x="375" y="2160" />
+        <point x="2180" y="2160" />
+      </lower-contour>
+    </line>
+    <line ass="560" asx="0" asy="2259" character-width="999" dss="560" dsx="0" dsy="2325" fd0="13120" fd1="3098" fd2="147" filter-width="5" id="a01-096u-08" lbs="590" lbx="0" lby="2315" segmentation="ok" slant="107000" stroke-width="7384" threshold="169" text="whole principle of the State service and" ubs="500" ubx="0" uby="2285">
+      <word id="a01-096u-08-00" tag="JJ" text="whole">
+        <cmp x="377" y="2278" width="67" height="37" />
+        <cmp x="455" y="2265" width="52" height="44" />
+        <cmp x="502" y="2277" width="33" height="30" />
+        <cmp x="537" y="2266" width="85" height="42" />
+      </word>
+      <word id="a01-096u-08-01" tag="NN" text="principle">
+        <cmp x="671" y="2275" width="36" height="40" />
+        <cmp x="713" y="2276" width="43" height="23" />
+        <cmp x="751" y="2251" width="10" height="11" />
+        <cmp x="772" y="2284" width="42" height="21" />
+        <cmp x="822" y="2277" width="69" height="29" />
+        <cmp x="866" y="2254" width="8" height="11" />
+        <cmp x="901" y="2279" width="35" height="34" />
+        <cmp x="951" y="2266" width="102" height="40" />
+      </word>
+      <word id="a01-096u-08-02" tag="INO" text="of">
+        <cmp x="1112" y="2280" width="39" height="31" />
+        <cmp x="1158" y="2256" width="35" height="58" />
+      </word>
+      <word id="a01-096u-08-03" tag="ATI" text="the">
+        <cmp x="1248" y="2258" width="146" height="51" />
+      </word>
+      <word id="a01-096u-08-04" tag="NN" text="State">
+        <cmp x="1521" y="2254" width="40" height="52" />
+        <cmp x="1567" y="2254" width="30" height="43" />
+        <cmp x="1604" y="2259" width="132" height="46" />
+      </word>
+      <word id="a01-096u-08-05" tag="NN" text="service">
+        <cmp x="1785" y="2273" width="89" height="31" />
+        <cmp x="1885" y="2272" width="34" height="32" />
+        <cmp x="1923" y="2249" width="11" height="14" />
+        <cmp x="1923" y="2275" width="21" height="22" />
+        <cmp x="1954" y="2265" width="84" height="33" />
+      </word>
+      <word id="a01-096u-08-06" tag="CC" text="and">
+        <cmp x="2094" y="2265" width="103" height="27" />
+        <cmp x="2206" y="2254" width="57" height="34" />
+      </word>
+      <upper-contour>
+        <point x="375" y="2160" />
+        <point x="2180" y="2160" />
+      </upper-contour>
+      <lower-contour>
+        <point x="382" y="2314" />
+        <point x="2167" y="2314" />
+      </lower-contour>
+    </line>
+    <line ass="353" asx="0" asy="2431" character-width="999" dss="353" dsx="0" dsy="2497" fd0="11994" fd1="2565" fd2="-178" filter-width="5" id="a01-096u-09" lbs="364" lbx="0" lby="2488" segmentation="ok" slant="101000" stroke-width="7548" threshold="168" text="to render that service a hardship to poor" ubs="330" ubx="0" uby="2460">
+      <word id="a01-096u-09-00" tag="TO" text="to">
+        <cmp x="384" y="2445" width="72" height="49" />
+      </word>
+      <word id="a01-096u-09-01" tag="VB" text="render">
+        <cmp x="547" y="2458" width="122" height="36" />
+        <cmp x="672" y="2429" width="136" height="50" />
+      </word>
+      <word id="a01-096u-09-02" tag="DT" text="that">
+        <cmp x="864" y="2427" width="34" height="50" />
+        <cmp x="895" y="2440" width="126" height="38" />
+      </word>
+      <word id="a01-096u-09-03" tag="NN" text="service">
+        <cmp x="1080" y="2455" width="96" height="32" />
+        <cmp x="1181" y="2455" width="38" height="32" />
+        <cmp x="1217" y="2436" width="11" height="9" />
+        <cmp x="1219" y="2458" width="19" height="28" />
+        <cmp x="1245" y="2451" width="93" height="38" />
+      </word>
+      <word id="a01-096u-09-04" tag="AT" text="a">
+        <cmp x="1385" y="2455" width="55" height="27" />
+      </word>
+      <word id="a01-096u-09-05" tag="NN" text="hardship">
+        <cmp x="1491" y="2432" width="160" height="48" />
+        <cmp x="1657" y="2452" width="34" height="26" />
+        <cmp x="1697" y="2437" width="65" height="39" />
+        <cmp x="1744" y="2430" width="12" height="14" />
+        <cmp x="1769" y="2452" width="37" height="30" />
+      </word>
+      <word id="a01-096u-09-06" tag="IN" text="to">
+        <cmp x="1874" y="2435" width="25" height="44" />
+        <cmp x="1903" y="2452" width="41" height="25" />
+      </word>
+      <word id="a01-096u-09-07" tag="JJ" text="poor">
+        <cmp x="1998" y="2450" width="41" height="31" />
+        <cmp x="2043" y="2444" width="40" height="29" />
+        <cmp x="2084" y="2443" width="82" height="31" />
+      </word>
+      <upper-contour>
+        <point x="382" y="2314" />
+        <point x="2167" y="2314" />
+      </upper-contour>
+      <lower-contour>
+        <point x="382" y="2493" />
+        <point x="688" y="2493" />
+      </lower-contour>
+    </line>
+    <line ass="1931" asx="0" asy="2642" character-width="999" dss="1931" dsx="0" dsy="2690" fd0="12422" fd1="3302" fd2="195" filter-width="5" id="a01-096u-10" lbs="1401" lbx="0" lby="2679" segmentation="ok" slant="108999" stroke-width="7327" threshold="170" text="people." ubs="2992" ubx="0" uby="2659">
+      <word id="a01-096u-10-00" tag="NNS" text="people">
+        <cmp x="368" y="2641" width="35" height="38" />
+        <cmp x="412" y="2635" width="81" height="35" />
+        <cmp x="502" y="2641" width="38" height="33" />
+        <cmp x="551" y="2625" width="88" height="41" />
+      </word>
+      <word id="a01-096u-10-01" tag="." text=".">
+        <cmp x="678" y="2662" width="9" height="8" />
+      </word>
+      <upper-contour>
+        <point x="382" y="2493" />
+        <point x="688" y="2493" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-14" height="3542" id="b04-147" last-modified="2002-07-24" skew="-95" status="final" version="3.0_beta" width="2479" writer-id="112">
+  <machine-printed-part>
+    <machine-print-line text="AN experiment in courtesy is launched by the Electricity Board. The board is laying" />
+    <machine-print-line text="a cable along a seven-mile route in Surrey. A warden, Mr. Jack Finlay, has been" />
+    <machine-print-line text="appointed to smooth out difficulties for householders when trenches are dug outside" />
+    <machine-print-line text="their front gates. Splendid. By showing concern for the people the board will earn" />
+    <machine-print-line text="their good will. Happy patrolling, Mr. Finlay!" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="907" asx="0" asy="721" character-width="999" dss="907" dsx="0" dsy="917" fd0="12853" fd1="2433" fd2="-586" filter-width="3" id="b04-147-00" lbs="1048" lbx="0" lby="823" segmentation="ok" slant="90000" stroke-width="5487" threshold="182" text="AN experiment in courtesy is launched by the Electricity" ubs="626" ubx="0" uby="779">
+      <word id="b04-147-00-00" sentence-start="yes" tag="AT" text="AN">
+        <cmp x="289" y="717" width="42" height="94" />
+        <cmp x="342" y="719" width="49" height="88" />
+      </word>
+      <word id="b04-147-00-01" tag="NN" text="experiment">
+        <cmp x="458" y="769" width="201" height="83" />
+        <cmp x="653" y="757" width="7" height="7" />
+        <cmp x="687" y="743" width="168" height="73" />
+      </word>
+      <word id="b04-147-00-02" tag="IN" text="in">
+        <cmp x="938" y="770" width="8" height="25" />
+        <cmp x="942" y="747" width="72" height="50" />
+      </word>
+      <word id="b04-147-00-03" tag="NN" text="courtesy">
+        <cmp x="1075" y="759" width="121" height="47" />
+        <cmp x="1220" y="726" width="121" height="145" />
+      </word>
+      <word id="b04-147-00-04" tag="BEZ" text="is">
+        <cmp x="1405" y="745" width="20" height="49" />
+        <cmp x="1429" y="759" width="27" height="48" />
+      </word>
+      <word id="b04-147-00-05" tag="VBN" text="launched">
+        <cmp x="1525" y="706" width="280" height="98" />
+      </word>
+      <word id="b04-147-00-06" tag="IN" text="by" />
+      <word id="b04-147-00-07" tag="ATI" text="the">
+        <cmp x="1870" y="719" width="74" height="127" />
+      </word>
+      <word id="b04-147-00-08" tag="NN" text="Electricity">
+        <cmp x="2011" y="706" width="181" height="88" />
+        <cmp x="2203" y="755" width="6" height="11" />
+        <cmp x="2204" y="775" width="38" height="23" />
+        <cmp x="2239" y="760" width="8" height="16" />
+        <cmp x="2250" y="726" width="63" height="156" />
+      </word>
+      <lower-contour>
+        <point x="306" y="881" />
+        <point x="2292" y="881" />
+      </lower-contour>
+    </line>
+    <line ass="268" asx="0" asy="895" character-width="999" dss="268" dsx="0" dsy="1064" fd0="12536" fd1="2992" fd2="-29" filter-width="3" id="b04-147-01" lbs="247" lbx="0" lby="995" segmentation="ok" slant="90000" stroke-width="5380" threshold="182" text="Board. The board is laying a cable along a seven-" ubs="310" ubx="0" uby="970">
+      <word id="b04-147-01-00" tag="NN" text="Board">
+        <cmp x="308" y="920" width="206" height="87" />
+      </word>
+      <word id="b04-147-01-01" tag="." text=".">
+        <cmp x="549" y="982" width="6" height="7" />
+      </word>
+      <word id="b04-147-01-02" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="647" y="899" width="82" height="100" />
+        <cmp x="755" y="893" width="47" height="95" />
+      </word>
+      <word id="b04-147-01-03" tag="NN" text="board">
+        <cmp x="847" y="931" width="137" height="64" />
+        <cmp x="985" y="914" width="51" height="83" />
+      </word>
+      <word id="b04-147-01-04" tag="BEZ" text="is">
+        <cmp x="1098" y="961" width="14" height="30" />
+        <cmp x="1109" y="940" width="9" height="21" />
+        <cmp x="1124" y="953" width="22" height="38" />
+      </word>
+      <word id="b04-147-01-05" tag="VBG" text="laying">
+        <cmp x="1232" y="902" width="145" height="114" />
+        <cmp x="1367" y="919" width="14" height="12" />
+        <cmp x="1393" y="947" width="62" height="106" />
+      </word>
+      <word id="b04-147-01-06" tag="AT" text="a">
+        <cmp x="1521" y="956" width="45" height="32" />
+      </word>
+      <word id="b04-147-01-07" tag="NN" text="cable">
+        <cmp x="1625" y="924" width="154" height="76" />
+      </word>
+      <word id="b04-147-01-08" tag="IN" text="along">
+        <cmp x="1817" y="917" width="178" height="140" />
+      </word>
+      <word id="b04-147-01-09" tag="AT" text="a">
+        <cmp x="2033" y="954" width="41" height="29" />
+      </word>
+      <word id="b04-147-01-10" tag="JJB--" text="seven-">
+        <cmp x="2107" y="946" width="136" height="45" />
+        <cmp x="2257" y="972" width="34" height="17" />
+      </word>
+      <upper-contour>
+        <point x="306" y="881" />
+        <point x="2292" y="881" />
+      </upper-contour>
+      <lower-contour>
+        <point x="323" y="1056" />
+        <point x="2249" y="1056" />
+      </lower-contour>
+    </line>
+    <line ass="-749" asx="0" asy="1063" character-width="999" dss="-749" dsx="0" dsy="1235" fd0="12923" fd1="2457" fd2="-150" filter-width="3" id="b04-147-02" lbs="-686" lbx="0" lby="1153" segmentation="ok" slant="90000" stroke-width="5443" threshold="182" text="mile route in Surrey. A warden, Mr. Jack Finlay," ubs="-874" ubx="0" uby="1120">
+      <word id="b04-147-02-00" tag="-JJB" text="mile">
+        <cmp x="325" y="1115" width="91" height="42" />
+        <cmp x="402" y="1114" width="11" height="15" />
+        <cmp x="423" y="1074" width="48" height="86" />
+      </word>
+      <word id="b04-147-02-01" tag="NN" text="route">
+        <cmp x="545" y="1131" width="50" height="39" />
+        <cmp x="611" y="1101" width="97" height="71" />
+      </word>
+      <word id="b04-147-02-02" tag="IN" text="in">
+        <cmp x="751" y="1139" width="9" height="36" />
+        <cmp x="754" y="1118" width="12" height="25" />
+        <cmp x="772" y="1142" width="43" height="28" />
+      </word>
+      <word id="b04-147-02-03" tag="NP" text="Surrey">
+        <cmp x="899" y="1098" width="220" height="153" />
+      </word>
+      <word id="b04-147-02-04" tag="." text=".">
+        <cmp x="1135" y="1164" width="6" height="11" />
+      </word>
+      <word id="b04-147-02-05" sentence-start="yes" tag="AT" text="A">
+        <cmp x="1214" y="1080" width="54" height="87" />
+      </word>
+      <word id="b04-147-02-06" tag="NN" text="warden">
+        <cmp x="1357" y="1131" width="106" height="46" />
+        <cmp x="1475" y="1107" width="108" height="65" />
+      </word>
+      <word id="b04-147-02-07" tag="," text=",">
+        <cmp x="1602" y="1170" width="19" height="38" />
+      </word>
+      <word id="b04-147-02-08" tag="NPT" text="Mr.">
+        <cmp x="1673" y="1107" width="79" height="73" />
+        <cmp x="1767" y="1164" width="5" height="6" />
+      </word>
+      <word id="b04-147-02-09" tag="NP" text="Jack">
+        <cmp x="1792" y="1091" width="155" height="124" />
+      </word>
+      <word id="b04-147-02-10" tag="NP" text="Finlay">
+        <cmp x="2001" y="1105" width="47" height="67" />
+        <cmp x="2034" y="1146" width="40" height="26" />
+        <cmp x="2062" y="1107" width="10" height="14" />
+        <cmp x="2083" y="1090" width="137" height="156" />
+      </word>
+      <word id="b04-147-02-11" tag="," text=",">
+        <cmp x="2222" y="1174" width="26" height="35" />
+      </word>
+      <upper-contour>
+        <point x="323" y="1056" />
+        <point x="2249" y="1056" />
+      </upper-contour>
+      <lower-contour>
+        <point x="332" y="1251" />
+        <point x="2249" y="1251" />
+      </lower-contour>
+    </line>
+    <line ass="-345" asx="0" asy="1249" character-width="999" dss="-345" dsx="0" dsy="1396" fd0="12676" fd1="2278" fd2="-579" filter-width="3" id="b04-147-03" lbs="-247" lbx="0" lby="1338" segmentation="ok" slant="90000" stroke-width="5301" threshold="182" text="has been appointed to smooth out difficulties for" ubs="-543" ubx="0" uby="1303">
+      <word id="b04-147-03-00" tag="HVZ" text="has">
+        <cmp x="334" y="1254" width="93" height="76" />
+      </word>
+      <word id="b04-147-03-01" tag="BEN" text="been">
+        <cmp x="513" y="1253" width="149" height="95" />
+      </word>
+      <word id="b04-147-03-02" tag="VBN" text="appointed">
+        <cmp x="708" y="1314" width="69" height="30" />
+        <cmp x="780" y="1316" width="122" height="63" />
+        <cmp x="888" y="1294" width="7" height="8" />
+        <cmp x="911" y="1283" width="160" height="87" />
+      </word>
+      <word id="b04-147-03-03" tag="TO" text="to">
+        <cmp x="1145" y="1277" width="71" height="73" />
+      </word>
+      <word id="b04-147-03-04" tag="VB" text="smooth">
+        <cmp x="1269" y="1306" width="157" height="38" />
+        <cmp x="1422" y="1312" width="46" height="31" />
+        <cmp x="1482" y="1274" width="53" height="67" />
+        <cmp x="1535" y="1321" width="22" height="21" />
+      </word>
+      <word id="b04-147-03-05" tag="RP" text="out">
+        <cmp x="1611" y="1278" width="120" height="75" />
+      </word>
+      <word id="b04-147-03-06" tag="NNS" text="difficulties">
+        <cmp x="1793" y="1289" width="62" height="53" />
+        <cmp x="1854" y="1300" width="28" height="16" />
+        <cmp x="1864" y="1272" width="74" height="131" />
+        <cmp x="1933" y="1299" width="9" height="28" />
+        <cmp x="1956" y="1287" width="156" height="70" />
+        <cmp x="2107" y="1311" width="5" height="11" />
+        <cmp x="2124" y="1322" width="47" height="34" />
+      </word>
+      <word id="b04-147-03-07" tag="IN" text="for">
+        <cmp x="2207" y="1275" width="90" height="136" />
+      </word>
+      <upper-contour>
+        <point x="332" y="1251" />
+        <point x="2249" y="1251" />
+      </upper-contour>
+      <lower-contour>
+        <point x="332" y="1410" />
+        <point x="2221" y="1410" />
+      </lower-contour>
+    </line>
+    <line ass="-166" asx="0" asy="1441" character-width="999" dss="-166" dsx="0" dsy="1597" fd0="12527" fd1="2775" fd2="-228" filter-width="3" id="b04-147-04" lbs="-121" lbx="0" lby="1521" segmentation="ok" slant="90000" stroke-width="5190" threshold="182" text="householders when trenches are dug outside their" ubs="-258" ubx="0" uby="1490">
+      <word id="b04-147-04-00" tag="NNS" text="householders">
+        <cmp x="283" y="1446" width="189" height="83" />
+        <cmp x="476" y="1448" width="239" height="81" />
+      </word>
+      <word id="b04-147-04-01" tag="WRB" text="when">
+        <cmp x="784" y="1499" width="64" height="34" />
+        <cmp x="857" y="1449" width="124" height="78" />
+      </word>
+      <word id="b04-147-04-02" tag="NNS" text="trenches">
+        <cmp x="1026" y="1446" width="61" height="78" />
+        <cmp x="1106" y="1488" width="75" height="31" />
+        <cmp x="1193" y="1456" width="136" height="70" />
+      </word>
+      <word id="b04-147-04-03" tag="BER" text="are">
+        <cmp x="1370" y="1484" width="108" height="34" />
+      </word>
+      <word id="b04-147-04-04" tag="VBN" text="dug">
+        <cmp x="1541" y="1459" width="112" height="144" />
+      </word>
+      <word id="b04-147-04-05" tag="IN" text="outside">
+        <cmp x="1714" y="1462" width="190" height="74" />
+        <cmp x="1892" y="1474" width="103" height="62" />
+      </word>
+      <word id="b04-147-04-06" tag="PP$" text="their">
+        <cmp x="2035" y="1446" width="148" height="81" />
+        <cmp x="2180" y="1485" width="40" height="43" />
+      </word>
+      <upper-contour>
+        <point x="332" y="1410" />
+        <point x="2221" y="1410" />
+      </upper-contour>
+      <lower-contour>
+        <point x="312" y="1594" />
+        <point x="1608" y="1603" />
+        <point x="2221" y="1603" />
+      </lower-contour>
+    </line>
+    <line ass="-320" asx="0" asy="1591" character-width="999" dss="-320" dsx="0" dsy="1764" fd0="12832" fd1="2240" fd2="-638" filter-width="3" id="b04-147-05" lbs="-195" lbx="0" lby="1694" segmentation="ok" slant="92999" stroke-width="5249" threshold="182" text="front gates. Splendid. By showing concern" ubs="-569" ubx="0" uby="1664">
+      <word id="b04-147-05-00" tag="JJB" text="front">
+        <cmp x="314" y="1608" width="170" height="155" />
+      </word>
+      <word id="b04-147-05-01" tag="NNS" text="gates">
+        <cmp x="564" y="1644" width="160" height="125" />
+      </word>
+      <word id="b04-147-05-02" tag="." text=".">
+        <cmp x="756" y="1704" width="17" height="12" />
+      </word>
+      <word id="b04-147-05-03" sentence-start="yes" tag="JJ" text="Splendid">
+        <cmp x="889" y="1597" width="78" height="123" />
+        <cmp x="946" y="1658" width="3" height="4" />
+        <cmp x="989" y="1628" width="237" height="132" />
+        <cmp x="1208" y="1656" width="11" height="22" />
+        <cmp x="1234" y="1640" width="76" height="69" />
+      </word>
+      <word id="b04-147-05-04" tag="." text=".">
+        <cmp x="1349" y="1705" width="9" height="11" />
+      </word>
+      <word id="b04-147-05-05" sentence-start="yes" tag="IN" text="By">
+        <cmp x="1466" y="1606" width="109" height="160" />
+      </word>
+      <word id="b04-147-05-06" tag="VBG" text="showing">
+        <cmp x="1647" y="1666" width="25" height="43" />
+        <cmp x="1671" y="1635" width="90" height="70" />
+        <cmp x="1773" y="1682" width="71" height="32" />
+        <cmp x="1838" y="1649" width="17" height="18" />
+        <cmp x="1841" y="1668" width="3" height="4" />
+        <cmp x="1857" y="1678" width="61" height="85" />
+      </word>
+      <word id="b04-147-05-07" tag="NN" text="concern">
+        <cmp x="1970" y="1678" width="212" height="38" />
+        <cmp x="2194" y="1694" width="55" height="23" />
+      </word>
+      <upper-contour>
+        <point x="312" y="1594" />
+        <point x="1608" y="1603" />
+        <point x="2221" y="1603" />
+      </upper-contour>
+      <lower-contour>
+        <point x="312" y="1770" />
+        <point x="2250" y="1770" />
+      </lower-contour>
+    </line>
+    <line ass="-753" asx="0" asy="1786" character-width="999" dss="-753" dsx="0" dsy="1931" fd0="12398" fd1="2860" fd2="-304" filter-width="3" id="b04-147-06" lbs="-771" lbx="0" lby="1865" segmentation="ok" slant="90000" stroke-width="5409" threshold="182" text="for the people the board will earn their good will." ubs="-717" ubx="0" uby="1839">
+      <word id="b04-147-06-00" tag="IN" text="for">
+        <cmp x="308" y="1863" width="3" height="4" />
+        <cmp x="310" y="1800" width="94" height="137" />
+      </word>
+      <word id="b04-147-06-01" tag="ATI" text="the">
+        <cmp x="473" y="1799" width="125" height="71" />
+      </word>
+      <word id="b04-147-06-02" tag="NNS" text="people">
+        <cmp x="668" y="1800" width="197" height="124" />
+      </word>
+      <word id="b04-147-06-03" tag="ATI" text="the">
+        <cmp x="924" y="1800" width="138" height="83" />
+      </word>
+      <word id="b04-147-06-04" tag="NN" text="board">
+        <cmp x="1134" y="1815" width="134" height="70" />
+        <cmp x="1275" y="1814" width="39" height="70" />
+      </word>
+      <word id="b04-147-06-05" tag="MD" text="will">
+        <cmp x="1385" y="1808" width="152" height="88" />
+        <cmp x="1451" y="1819" width="6" height="10" />
+      </word>
+      <word id="b04-147-06-06" tag="VB" text="earn">
+        <cmp x="1574" y="1844" width="116" height="37" />
+        <cmp x="1697" y="1856" width="40" height="24" />
+      </word>
+      <word id="b04-147-06-07" tag="PP$" text="their">
+        <cmp x="1766" y="1809" width="130" height="86" />
+        <cmp x="1879" y="1837" width="11" height="14" />
+        <cmp x="1904" y="1850" width="14" height="35" />
+      </word>
+      <word id="b04-147-06-08" tag="JJ" text="good">
+        <cmp x="1974" y="1830" width="144" height="113" />
+      </word>
+      <word id="b04-147-06-09" tag="NN" text="will">
+        <cmp x="2175" y="1871" width="74" height="41" />
+        <cmp x="2243" y="1849" width="10" height="15" />
+        <cmp x="2258" y="1833" width="40" height="85" />
+        <cmp x="2267" y="1829" width="4" height="3" />
+      </word>
+      <word id="b04-147-06-10" tag="." text=".">
+        <cmp x="2323" y="1905" width="6" height="11" />
+      </word>
+      <upper-contour>
+        <point x="312" y="1770" />
+        <point x="2250" y="1770" />
+      </upper-contour>
+      <lower-contour>
+        <point x="328" y="1933" />
+        <point x="1568" y="1933" />
+      </lower-contour>
+    </line>
+    <line ass="1504" asx="0" asy="1989" character-width="999" dss="1504" dsx="0" dsy="2167" fd0="12356" fd1="2318" fd2="-682" filter-width="3" id="b04-147-07" lbs="1936" lbx="0" lby="2104" segmentation="ok" slant="90000" stroke-width="5092" threshold="182" text="Happy patrolling, Mr. Finlay!" ubs="641" ubx="0" uby="2055">
+      <word id="b04-147-07-00" sentence-start="yes" tag="JJ" text="Happy">
+        <cmp x="330" y="1978" width="240" height="146" />
+      </word>
+      <word id="b04-147-07-01" tag="NN" text="patrolling">
+        <cmp x="648" y="1988" width="267" height="120" />
+        <cmp x="904" y="2018" width="17" height="22" />
+        <cmp x="929" y="2046" width="64" height="97" />
+      </word>
+      <word id="b04-147-07-02" tag="," text=",">
+        <cmp x="1008" y="2086" width="20" height="35" />
+      </word>
+      <word id="b04-147-07-03" tag="NPT" text="Mr.">
+        <cmp x="1071" y="1996" width="79" height="88" />
+        <cmp x="1173" y="2059" width="5" height="6" />
+      </word>
+      <word id="b04-147-07-04" tag="NP" text="Finlay">
+        <cmp x="1250" y="1978" width="61" height="92" />
+        <cmp x="1310" y="2041" width="14" height="30" />
+        <cmp x="1312" y="2004" width="17" height="33" />
+        <cmp x="1336" y="1984" width="170" height="129" />
+      </word>
+      <word id="b04-147-07-05" tag="!" text="!">
+        <cmp x="1548" y="1978" width="8" height="48" />
+        <cmp x="1548" y="2073" width="19" height="13" />
+      </word>
+      <upper-contour>
+        <point x="328" y="1933" />
+        <point x="1568" y="1933" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

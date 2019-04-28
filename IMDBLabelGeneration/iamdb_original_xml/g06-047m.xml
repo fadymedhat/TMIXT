@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-18" height="3542" id="g06-047m" last-modified="2002-07-17" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="344">
+  <machine-printed-part>
+    <machine-print-line text="This remarkable man of medicine, whom Sir Francis Burdett described to Anglesey" />
+    <machine-print-line text="a year or two later as &apos;more like a God upon earth than a human being&apos;, had an" />
+    <machine-print-line text="increasing number of disciples among unorthodox medical men in the cities of Europe." />
+    <machine-print-line text="One of these was the Neapolitan, Dr Giuseppe Mauro, whom Anglesey consulted in" />
+    <machine-print-line text="May 1834." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="55" asx="0" asy="653" character-width="999" dss="55" dsx="0" dsy="755" fd0="13237" fd1="3184" fd2="313" filter-width="4" id="g06-047m-00" lbs="52" lbx="0" lby="726" segmentation="ok" slant="66000" stroke-width="6405" threshold="182" text="This remarkable man of medicine, whom Sir" ubs="61" ubx="0" uby="703">
+      <word id="g06-047m-00-00" sentence-start="yes" tag="DT" text="This">
+        <cmp x="341" y="657" width="45" height="11" />
+        <cmp x="351" y="669" width="19" height="68" />
+        <cmp x="392" y="653" width="106" height="76" />
+        <cmp x="461" y="666" width="6" height="7" />
+      </word>
+      <word id="g06-047m-00-01" tag="JJ" text="remarkable">
+        <cmp x="557" y="654" width="388" height="76" />
+      </word>
+      <word id="g06-047m-00-02" tag="NN" text="man">
+        <cmp x="988" y="697" width="162" height="29" />
+      </word>
+      <word id="g06-047m-00-03" tag="INO" text="of">
+        <cmp x="1197" y="665" width="82" height="76" />
+      </word>
+      <word id="g06-047m-00-04" tag="NN" text="medicine">
+        <cmp x="1307" y="664" width="314" height="64" />
+        <cmp x="1482" y="671" width="8" height="6" />
+        <cmp x="1534" y="668" width="6" height="8" />
+      </word>
+      <word id="g06-047m-00-05" tag="," text=",">
+        <cmp x="1622" y="726" width="25" height="28" />
+      </word>
+      <word id="g06-047m-00-06" tag="WPO" text="whom">
+        <cmp x="1692" y="658" width="208" height="71" />
+      </word>
+      <word id="g06-047m-00-07" tag="NPT" text="Sir">
+        <cmp x="1972" y="661" width="49" height="57" />
+        <cmp x="2019" y="696" width="75" height="25" />
+        <cmp x="2043" y="655" width="10" height="9" />
+      </word>
+      <lower-contour>
+        <point x="360" y="755" />
+        <point x="2051" y="755" />
+      </lower-contour>
+    </line>
+    <line ass="-566" asx="0" asy="815" character-width="999" dss="-566" dsx="0" dsy="926" fd0="13427" fd1="2307" fd2="-394" filter-width="4" id="g06-047m-01" lbs="-622" lbx="0" lby="890" segmentation="ok" slant="64000" stroke-width="6563" threshold="182" text="Francis Burdett described to Anglesey a" ubs="-456" ubx="0" uby="867">
+      <word id="g06-047m-01-00" tag="NP" text="Francis">
+        <cmp x="362" y="837" width="59" height="64" />
+        <cmp x="426" y="872" width="240" height="34" />
+        <cmp x="631" y="844" width="7" height="8" />
+      </word>
+      <word id="g06-047m-01-01" tag="NP" text="Burdett">
+        <cmp x="764" y="847" width="40" height="62" />
+        <cmp x="832" y="826" width="220" height="77" />
+      </word>
+      <word id="g06-047m-01-02" tag="VBD" text="described">
+        <cmp x="1090" y="834" width="347" height="77" />
+        <cmp x="1299" y="845" width="8" height="7" />
+      </word>
+      <word id="g06-047m-01-03" tag="IN" text="to">
+        <cmp x="1481" y="853" width="64" height="57" />
+      </word>
+      <word id="g06-047m-01-04" tag="NP" text="Anglesey">
+        <cmp x="1618" y="847" width="308" height="97" />
+      </word>
+      <word id="g06-047m-01-05" tag="AT" text="a">
+        <cmp x="1988" y="877" width="62" height="34" />
+      </word>
+      <upper-contour>
+        <point x="360" y="755" />
+        <point x="2051" y="755" />
+      </upper-contour>
+      <lower-contour>
+        <point x="360" y="944" />
+        <point x="2017" y="944" />
+      </lower-contour>
+    </line>
+    <line ass="642" asx="0" asy="1021" character-width="999" dss="642" dsx="0" dsy="1142" fd0="13996" fd1="2995" fd2="152" filter-width="4" id="g06-047m-02" lbs="641" lbx="0" lby="1096" segmentation="ok" slant="61000" stroke-width="6552" threshold="182" text="year or two later as &apos;more like a God" ubs="644" ubx="0" uby="1069">
+      <word id="g06-047m-02-00" tag="NN" text="year">
+        <cmp x="356" y="1047" width="170" height="75" />
+      </word>
+      <word id="g06-047m-02-01" tag="CC" text="or">
+        <cmp x="607" y="1054" width="73" height="35" />
+      </word>
+      <word id="g06-047m-02-02" tag="CD" text="two">
+        <cmp x="734" y="1018" width="146" height="69" />
+      </word>
+      <word id="g06-047m-02-03" tag="RBR" text="later">
+        <cmp x="927" y="1010" width="194" height="76" />
+      </word>
+      <word id="g06-047m-02-04" tag="CS" text="as">
+        <cmp x="1185" y="1061" width="70" height="28" />
+      </word>
+      <word id="g06-047m-02-05" tag="*&apos;" text="&apos;">
+        <cmp x="1305" y="1012" width="11" height="24" />
+      </word>
+      <word id="g06-047m-02-06" tag="RBR" text="more">
+        <cmp x="1324" y="1054" width="170" height="35" />
+      </word>
+      <word id="g06-047m-02-07" tag="IN" text="like">
+        <cmp x="1554" y="1010" width="142" height="74" />
+        <cmp x="1624" y="1018" width="6" height="6" />
+      </word>
+      <word id="g06-047m-02-08" tag="AT" text="a">
+        <cmp x="1759" y="1058" width="30" height="25" />
+      </word>
+      <word id="g06-047m-02-09" tag="NP" text="God">
+        <cmp x="1825" y="1010" width="191" height="113" />
+      </word>
+      <upper-contour>
+        <point x="360" y="944" />
+        <point x="2017" y="944" />
+      </upper-contour>
+      <lower-contour>
+        <point x="354" y="1123" />
+        <point x="1993" y="1123" />
+      </lower-contour>
+    </line>
+    <line ass="57" asx="0" asy="1178" character-width="999" dss="57" dsx="0" dsy="1308" fd0="13451" fd1="2947" fd2="70" filter-width="4" id="g06-047m-03" lbs="1" lbx="0" lby="1262" segmentation="ok" slant="63000" stroke-width="6624" threshold="182" text="upon earth than a human being&apos;, had an" ubs="168" ubx="0" uby="1235">
+      <word id="g06-047m-03-00" tag="IN" text="upon">
+        <cmp x="335" y="1230" width="192" height="79" />
+      </word>
+      <word id="g06-047m-03-01" tag="NN" text="earth">
+        <cmp x="607" y="1188" width="150" height="77" />
+      </word>
+      <word id="g06-047m-03-02" tag="IN" text="than">
+        <cmp x="800" y="1196" width="164" height="70" />
+      </word>
+      <word id="g06-047m-03-03" tag="AT" text="a">
+        <cmp x="1027" y="1235" width="27" height="29" />
+      </word>
+      <word id="g06-047m-03-04" tag="JJ" text="human">
+        <cmp x="1113" y="1198" width="267" height="67" />
+      </word>
+      <word id="g06-047m-03-05" tag="NN" text="being">
+        <cmp x="1431" y="1197" width="224" height="101" />
+        <cmp x="1565" y="1208" width="6" height="5" />
+      </word>
+      <word id="g06-047m-03-06" tag="**&apos;" text="&apos;">
+        <cmp x="1664" y="1178" width="17" height="33" />
+      </word>
+      <word id="g06-047m-03-07" tag="," text=",">
+        <cmp x="1677" y="1262" width="19" height="35" />
+      </word>
+      <word id="g06-047m-03-08" tag="HVD" text="had">
+        <cmp x="1729" y="1188" width="142" height="75" />
+      </word>
+      <word id="g06-047m-03-09" tag="AT" text="an">
+        <cmp x="1900" y="1232" width="92" height="34" />
+      </word>
+      <upper-contour>
+        <point x="354" y="1123" />
+        <point x="1993" y="1123" />
+      </upper-contour>
+      <lower-contour>
+        <point x="336" y="1309" />
+        <point x="1840" y="1309" />
+      </lower-contour>
+    </line>
+    <line ass="-822" asx="0" asy="1363" character-width="999" dss="-822" dsx="0" dsy="1479" fd0="13664" fd1="3020" fd2="-166" filter-width="4" id="g06-047m-04" lbs="-849" lbx="0" lby="1425" segmentation="ok" slant="66999" stroke-width="6512" threshold="182" text="increasing number of disciples among" ubs="-768" ubx="0" uby="1400">
+      <word id="g06-047m-04-00" tag="JJ" text="increasing">
+        <cmp x="338" y="1402" width="381" height="88" />
+        <cmp x="382" y="1385" width="4" height="6" />
+        <cmp x="638" y="1376" width="5" height="7" />
+      </word>
+      <word id="g06-047m-04-01" tag="NN" text="number">
+        <cmp x="800" y="1389" width="259" height="54" />
+      </word>
+      <word id="g06-047m-04-02" tag="INO" text="of">
+        <cmp x="1123" y="1380" width="74" height="75" />
+      </word>
+      <word id="g06-047m-04-03" tag="NNS" text="disciples">
+        <cmp x="1231" y="1382" width="330" height="90" />
+        <cmp x="1334" y="1387" width="6" height="5" />
+        <cmp x="1423" y="1391" width="9" height="8" />
+      </word>
+      <word id="g06-047m-04-04" tag="IN" text="among">
+        <cmp x="1620" y="1413" width="219" height="67" />
+      </word>
+      <upper-contour>
+        <point x="336" y="1309" />
+        <point x="1840" y="1309" />
+      </upper-contour>
+      <lower-contour>
+        <point x="336" y="1490" />
+        <point x="1840" y="1490" />
+      </lower-contour>
+    </line>
+    <line ass="-497" asx="0" asy="1540" character-width="999" dss="-497" dsx="0" dsy="1618" fd0="13677" fd1="3133" fd2="-39" filter-width="4" id="g06-047m-05" lbs="-477" lbx="0" lby="1611" segmentation="ok" slant="59999" stroke-width="6607" threshold="182" text="unorthodox medical men in the cities of" ubs="-535" ubx="0" uby="1580">
+      <word id="g06-047m-05-00" tag="JJ" text="unorthodox">
+        <cmp x="330" y="1547" width="418" height="72" />
+      </word>
+      <word id="g06-047m-05-01" tag="JJ" text="medical">
+        <cmp x="803" y="1550" width="304" height="75" />
+        <cmp x="980" y="1569" width="7" height="5" />
+      </word>
+      <word id="g06-047m-05-02" tag="NNS" text="men">
+        <cmp x="1154" y="1593" width="182" height="30" />
+      </word>
+      <word id="g06-047m-05-03" tag="IN" text="in">
+        <cmp x="1398" y="1597" width="80" height="28" />
+        <cmp x="1431" y="1567" width="9" height="7" />
+      </word>
+      <word id="g06-047m-05-04" tag="ATI" text="the">
+        <cmp x="1547" y="1559" width="85" height="68" />
+      </word>
+      <word id="g06-047m-05-05" tag="NNS" text="cities">
+        <cmp x="1700" y="1559" width="198" height="71" />
+        <cmp x="1775" y="1556" width="4" height="5" />
+        <cmp x="1852" y="1563" width="6" height="8" />
+      </word>
+      <word id="g06-047m-05-06" tag="INO" text="of">
+        <cmp x="1949" y="1561" width="97" height="76" />
+      </word>
+      <upper-contour>
+        <point x="336" y="1490" />
+        <point x="1840" y="1490" />
+      </upper-contour>
+      <lower-contour>
+        <point x="362" y="1637" />
+        <point x="1996" y="1637" />
+      </lower-contour>
+    </line>
+    <line ass="-278" asx="0" asy="1722" character-width="999" dss="-278" dsx="0" dsy="1824" fd0="13690" fd1="2239" fd2="-683" filter-width="4" id="g06-047m-06" lbs="-290" lbx="0" lby="1793" segmentation="err" slant="63000" stroke-width="6503" threshold="182" text="Europe. One of these was the Neapolitan," ubs="-255" ubx="0" uby="1763">
+      <word id="g06-047m-06-00" tag="NP" text="Europe">
+        <cmp x="364" y="1734" width="265" height="85" />
+      </word>
+      <word id="g06-047m-06-01" tag="." text=".">
+        <cmp x="715" y="1731" width="43" height="59" />
+      </word>
+      <word id="g06-047m-06-02" sentence-start="yes" tag="CD1" text="One">
+        <cmp x="758" y="1762" width="67" height="31" />
+      </word>
+      <word id="g06-047m-06-03" tag="INO" text="of">
+        <cmp x="884" y="1734" width="71" height="75" />
+      </word>
+      <word id="g06-047m-06-04" tag="DTS" text="these">
+        <cmp x="983" y="1727" width="173" height="71" />
+      </word>
+      <word id="g06-047m-06-05" tag="BEDZ" text="was">
+        <cmp x="1224" y="1769" width="148" height="33" />
+      </word>
+      <word id="g06-047m-06-06" tag="ATI" text="the">
+        <cmp x="1426" y="1732" width="103" height="72" />
+      </word>
+      <word id="g06-047m-06-07" tag="NNP" text="Neapolitan">
+        <cmp x="1603" y="1736" width="370" height="98" />
+        <cmp x="1863" y="1751" width="12" height="7" />
+      </word>
+      <word id="g06-047m-06-08" tag="," text=",">
+        <cmp x="1976" y="1794" width="19" height="27" />
+      </word>
+      <upper-contour>
+        <point x="362" y="1637" />
+        <point x="1996" y="1637" />
+      </upper-contour>
+      <lower-contour>
+        <point x="362" y="1834" />
+        <point x="1828" y="1834" />
+      </lower-contour>
+    </line>
+    <line ass="947" asx="0" asy="1923" character-width="999" dss="947" dsx="0" dsy="2042" fd0="13595" fd1="2928" fd2="-805" filter-width="4" id="g06-047m-07" lbs="846" lbx="0" lby="1997" segmentation="ok" slant="63000" stroke-width="6670" threshold="182" text="Dr Giuseppe Mauro, whom Anglesey" ubs="1150" ubx="0" uby="1976">
+      <word id="g06-047m-07-00" tag="NPT" text="Dr">
+        <cmp x="360" y="1918" width="32" height="68" />
+        <cmp x="410" y="1947" width="36" height="28" />
+      </word>
+      <word id="g06-047m-07-01" tag="NP" text="Giuseppe">
+        <cmp x="529" y="1921" width="303" height="96" />
+        <cmp x="606" y="1919" width="7" height="7" />
+      </word>
+      <word id="g06-047m-07-02" tag="NP" text="Mauro">
+        <cmp x="903" y="1924" width="241" height="57" />
+      </word>
+      <word id="g06-047m-07-03" tag="," text=",">
+        <cmp x="1145" y="1976" width="22" height="27" />
+        <cmp x="1164" y="1972" width="5" height="4" />
+      </word>
+      <word id="g06-047m-07-04" tag="WPO" text="whom">
+        <cmp x="1198" y="1910" width="234" height="71" />
+      </word>
+      <word id="g06-047m-07-05" tag="NP" text="Anglesey">
+        <cmp x="1507" y="1908" width="320" height="106" />
+      </word>
+      <upper-contour>
+        <point x="362" y="1834" />
+        <point x="1828" y="1834" />
+      </upper-contour>
+      <lower-contour>
+        <point x="358" y="2017" />
+        <point x="1360" y="2017" />
+      </lower-contour>
+    </line>
+    <line ass="196" asx="0" asy="2084" character-width="999" dss="196" dsx="0" dsy="2188" fd0="14037" fd1="2575" fd2="-445" filter-width="4" id="g06-047m-08" lbs="61" lbx="0" lby="2157" segmentation="ok" slant="63000" stroke-width="6531" threshold="182" text="consulted in May 1834." ubs="466" ubx="0" uby="2127">
+      <word id="g06-047m-08-00" tag="VBD" text="consulted">
+        <cmp x="344" y="2085" width="359" height="75" />
+      </word>
+      <word id="g06-047m-08-01" tag="IN" text="in">
+        <cmp x="741" y="2132" width="84" height="29" />
+        <cmp x="771" y="2083" width="7" height="5" />
+      </word>
+      <word id="g06-047m-08-02" tag="NR" text="May">
+        <cmp x="897" y="2085" width="185" height="101" />
+      </word>
+      <word id="g06-047m-08-03" tag="CD" text="1834">
+        <cmp x="1158" y="2096" width="39" height="61" />
+        <cmp x="1202" y="2102" width="38" height="54" />
+        <cmp x="1255" y="2106" width="28" height="50" />
+        <cmp x="1300" y="2107" width="47" height="53" />
+      </word>
+      <word id="g06-047m-08-04" tag="." text=".">
+        <cmp x="1353" y="2152" width="7" height="7" />
+      </word>
+      <upper-contour>
+        <point x="358" y="2017" />
+        <point x="1360" y="2017" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

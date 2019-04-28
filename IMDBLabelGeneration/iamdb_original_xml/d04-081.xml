@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-16" height="3542" id="d04-081" last-modified="2002-07-24" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="193">
+  <machine-printed-part>
+    <machine-print-line text="Ben Zoma said: &quot;The days of 1thy life means in the day-time; all the days of 1thy" />
+    <machine-print-line text="life means even at night-time.&quot; (Berochoth.) And the Rabbis thought it important" />
+    <machine-print-line text="that when we read the Shmah &quot;to be willing to hear,&quot; we should remember the Great" />
+    <machine-print-line text="Deliverance: Passover and its connection with the fringes (the tsitsits)." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-203" asx="0" asy="732" character-width="999" dss="-203" dsx="0" dsy="859" fd0="13280" fd1="2611" fd2="-452" filter-width="4" id="d04-081-00" lbs="-209" lbx="0" lby="816" segmentation="ok" slant="90000" stroke-width="5752" threshold="172" text="Ben Zoma said: &quot;The days of 1thy life" ubs="-190" ubx="0" uby="785">
+      <word id="d04-081-00-00" sentence-start="yes" tag="NP" text="Ben">
+        <cmp x="375" y="747" width="152" height="80" />
+      </word>
+      <word id="d04-081-00-01" tag="NP" text="Zoma">
+        <cmp x="579" y="744" width="216" height="119" />
+      </word>
+      <word id="d04-081-00-02" tag="VBD" text="said">
+        <cmp x="868" y="743" width="180" height="87" />
+      </word>
+      <word id="d04-081-00-03" tag=":" text=":">
+        <cmp x="1070" y="763" width="11" height="8" />
+        <cmp x="1070" y="784" width="15" height="9" />
+      </word>
+      <word id="d04-081-00-04" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="1112" y="740" width="9" height="27" />
+        <cmp x="1129" y="741" width="8" height="28" />
+      </word>
+      <word id="d04-081-00-05" tag="ATI" text="The">
+        <cmp x="1160" y="750" width="54" height="77" />
+        <cmp x="1192" y="749" width="104" height="71" />
+      </word>
+      <word id="d04-081-00-06" tag="NNS" text="days">
+        <cmp x="1306" y="774" width="155" height="85" />
+      </word>
+      <word id="d04-081-00-07" tag="INO" text="of">
+        <cmp x="1498" y="756" width="73" height="70" />
+      </word>
+      <word id="d04-081-00-08" tag="PP$" text="1thy">
+        <cmp x="1623" y="751" width="36" height="70" />
+        <cmp x="1688" y="754" width="95" height="96" />
+      </word>
+      <word id="d04-081-00-09" tag="NN" text="life">
+        <cmp x="1888" y="760" width="158" height="86" />
+        <cmp x="1937" y="739" width="4" height="7" />
+      </word>
+      <lower-contour>
+        <point x="392" y="863" />
+        <point x="1970" y="863" />
+      </lower-contour>
+    </line>
+    <line ass="-24" asx="0" asy="928" character-width="999" dss="-24" dsx="0" dsy="1048" fd0="13201" fd1="3349" fd2="-48" filter-width="4" id="d04-081-01" lbs="-26" lbx="0" lby="999" segmentation="ok" slant="90000" stroke-width="6333" threshold="168" text="means in the day-time; all the days of" ubs="-22" ubx="0" uby="968">
+      <word id="d04-081-01-00" tag="VBZ" text="means">
+        <cmp x="394" y="972" width="44" height="37" />
+        <cmp x="438" y="967" width="139" height="41" />
+        <cmp x="578" y="964" width="28" height="45" />
+      </word>
+      <word id="d04-081-01-01" tag="IN" text="in">
+        <cmp x="671" y="970" width="98" height="36" />
+        <cmp x="725" y="939" width="9" height="7" />
+      </word>
+      <word id="d04-081-01-02" tag="ATI" text="the">
+        <cmp x="814" y="929" width="95" height="73" />
+      </word>
+      <word id="d04-081-01-03" tag="NN" text="day-time">
+        <cmp x="959" y="945" width="123" height="101" />
+        <cmp x="1089" y="975" width="27" height="7" />
+        <cmp x="1121" y="929" width="184" height="70" />
+        <cmp x="1198" y="931" width="7" height="13" />
+      </word>
+      <word id="d04-081-01-04" tag=";" text=";">
+        <cmp x="1318" y="990" width="24" height="46" />
+        <cmp x="1335" y="955" width="6" height="12" />
+      </word>
+      <word id="d04-081-01-05" tag="ABN" text="all">
+        <cmp x="1385" y="944" width="120" height="68" />
+      </word>
+      <word id="d04-081-01-06" tag="ATI" text="the">
+        <cmp x="1541" y="943" width="98" height="58" />
+      </word>
+      <word id="d04-081-01-07" tag="NNS" text="days">
+        <cmp x="1681" y="942" width="154" height="108" />
+      </word>
+      <word id="d04-081-01-08" tag="INO" text="of">
+        <cmp x="1882" y="945" width="87" height="87" />
+      </word>
+      <upper-contour>
+        <point x="392" y="863" />
+        <point x="1970" y="863" />
+      </upper-contour>
+      <lower-contour>
+        <point x="392" y="1050" />
+        <point x="1970" y="1050" />
+      </lower-contour>
+    </line>
+    <line ass="470" asx="0" asy="1098" character-width="999" dss="470" dsx="0" dsy="1231" fd0="12890" fd1="2442" fd2="-496" filter-width="4" id="d04-081-02" lbs="670" lbx="0" lby="1193" segmentation="ok" slant="90000" stroke-width="6764" threshold="176" text="1thy life means even at night-time.&quot;" ubs="70" ubx="0" uby="1149">
+      <word id="d04-081-02-00" tag="PP$" text="1thy">
+        <cmp x="386" y="1116" width="34" height="78" />
+        <cmp x="433" y="1111" width="117" height="108" />
+      </word>
+      <word id="d04-081-02-01" tag="NN" text="life">
+        <cmp x="613" y="1093" width="177" height="90" />
+        <cmp x="696" y="1104" width="7" height="6" />
+      </word>
+      <word id="d04-081-02-02" tag="VBZ" text="means">
+        <cmp x="844" y="1129" width="181" height="45" />
+        <cmp x="1030" y="1139" width="29" height="42" />
+      </word>
+      <word id="d04-081-02-03" tag="RB" text="even">
+        <cmp x="1134" y="1140" width="184" height="47" />
+      </word>
+      <word id="d04-081-02-04" tag="IN" text="at">
+        <cmp x="1354" y="1114" width="109" height="77" />
+      </word>
+      <word id="d04-081-02-05" tag="NN" text="night-time">
+        <cmp x="1505" y="1110" width="179" height="110" />
+        <cmp x="1550" y="1134" width="7" height="15" />
+        <cmp x="1697" y="1158" width="31" height="8" />
+        <cmp x="1748" y="1115" width="187" height="69" />
+        <cmp x="1841" y="1117" width="7" height="8" />
+      </word>
+      <word id="d04-081-02-06" tag="." text=".">
+        <cmp x="1953" y="1173" width="11" height="8" />
+      </word>
+      <word id="d04-081-02-07" tag="**&apos;" text="&quot;">
+        <cmp x="1988" y="1106" width="13" height="21" />
+        <cmp x="2009" y="1095" width="11" height="22" />
+      </word>
+      <upper-contour>
+        <point x="392" y="1050" />
+        <point x="1970" y="1050" />
+      </upper-contour>
+      <lower-contour>
+        <point x="411" y="1221" />
+        <point x="1976" y="1221" />
+      </lower-contour>
+    </line>
+    <line ass="-116" asx="0" asy="1272" character-width="999" dss="-116" dsx="0" dsy="1401" fd0="12637" fd1="3014" fd2="-559" filter-width="4" id="d04-081-03" lbs="-136" lbx="0" lby="1352" segmentation="ok" slant="83000" stroke-width="6248" threshold="173" text="(Berochoth.) And the Rabbis thought" ubs="-75" ubx="0" uby="1318">
+      <word id="d04-081-03-00" sentence-start="yes" tag="(" text="(">
+        <cmp x="413" y="1287" width="30" height="97" />
+      </word>
+      <word id="d04-081-03-01" tag="NP" text="Berochoth">
+        <cmp x="462" y="1274" width="371" height="95" />
+      </word>
+      <word id="d04-081-03-02" tag="." text="." />
+      <word id="d04-081-03-03" tag=")" text=")">
+        <cmp x="848" y="1274" width="22" height="95" />
+      </word>
+      <word id="d04-081-03-04" sentence-start="yes" tag="CC" text="And">
+        <cmp x="936" y="1283" width="160" height="77" />
+      </word>
+      <word id="d04-081-03-05" tag="ATI" text="the">
+        <cmp x="1167" y="1291" width="126" height="62" />
+      </word>
+      <word id="d04-081-03-06" tag="NPTS" text="Rabbis">
+        <cmp x="1353" y="1285" width="263" height="86" />
+        <cmp x="1584" y="1310" width="6" height="7" />
+      </word>
+      <word id="d04-081-03-07" tag="VBD" text="thought">
+        <cmp x="1675" y="1292" width="300" height="114" />
+      </word>
+      <upper-contour>
+        <point x="411" y="1221" />
+        <point x="1976" y="1221" />
+      </upper-contour>
+      <lower-contour>
+        <point x="425" y="1406" />
+        <point x="1976" y="1406" />
+      </lower-contour>
+    </line>
+    <line ass="-50" asx="0" asy="1461" character-width="999" dss="-50" dsx="0" dsy="1572" fd0="12706" fd1="2338" fd2="-616" filter-width="4" id="d04-081-04" lbs="-114" lbx="0" lby="1534" segmentation="err" slant="86000" stroke-width="6234" threshold="171" text="it important that when we read the" ubs="76" ubx="0" uby="1506">
+      <word id="d04-081-04-00" tag="PP3" text="it">
+        <cmp x="428" y="1462" width="60" height="79" />
+        <cmp x="543" y="1474" width="7" height="10" />
+      </word>
+      <word id="d04-081-04-01" tag="JJ" text="important">
+        <cmp x="543" y="1474" width="394" height="100" />
+        <cmp x="545" y="1496" width="6" height="34" />
+      </word>
+      <word id="d04-081-04-02" tag="CS" text="that">
+        <cmp x="1015" y="1470" width="164" height="67" />
+      </word>
+      <word id="d04-081-04-03" tag="WRB" text="when">
+        <cmp x="1226" y="1467" width="208" height="71" />
+      </word>
+      <word id="d04-081-04-04" tag="PP1AS" text="we">
+        <cmp x="1466" y="1502" width="116" height="44" />
+      </word>
+      <word id="d04-081-04-05" tag="VB" text="read">
+        <cmp x="1638" y="1477" width="187" height="65" />
+      </word>
+      <word id="d04-081-04-06" tag="ATI" text="the">
+        <cmp x="1892" y="1478" width="113" height="63" />
+      </word>
+      <upper-contour>
+        <point x="425" y="1406" />
+        <point x="1976" y="1406" />
+      </upper-contour>
+      <lower-contour>
+        <point x="425" y="1574" />
+        <point x="1892" y="1574" />
+      </lower-contour>
+    </line>
+    <line ass="-372" asx="0" asy="1628" character-width="999" dss="-372" dsx="0" dsy="1753" fd0="12510" fd1="2889" fd2="-338" filter-width="4" id="d04-081-05" lbs="-408" lbx="0" lby="1704" segmentation="ok" slant="82000" stroke-width="6758" threshold="174" text="Shmah &quot;to be willing to hear,&quot; we" ubs="-301" ubx="0" uby="1676">
+      <word id="d04-081-05-00" tag="NP" text="Shmah">
+        <cmp x="408" y="1652" width="282" height="77" />
+      </word>
+      <word id="d04-081-05-01" tag="*&apos;" text="&quot;">
+        <cmp x="747" y="1653" width="10" height="28" />
+        <cmp x="759" y="1652" width="10" height="33" />
+      </word>
+      <word id="d04-081-05-02" tag="TO" text="to">
+        <cmp x="794" y="1645" width="61" height="64" />
+      </word>
+      <word id="d04-081-05-03" tag="BE" text="be">
+        <cmp x="882" y="1648" width="99" height="65" />
+      </word>
+      <word id="d04-081-05-04" tag="JJ" text="willing">
+        <cmp x="1006" y="1642" width="313" height="121" />
+        <cmp x="1076" y="1659" width="8" height="15" />
+        <cmp x="1219" y="1652" width="6" height="5" />
+      </word>
+      <word id="d04-081-05-05" tag="TO" text="to">
+        <cmp x="1355" y="1646" width="87" height="72" />
+      </word>
+      <word id="d04-081-05-06" tag="VB" text="hear">
+        <cmp x="1458" y="1662" width="186" height="57" />
+      </word>
+      <word id="d04-081-05-07" tag="," text=",">
+        <cmp x="1647" y="1710" width="22" height="33" />
+      </word>
+      <word id="d04-081-05-08" tag="**&apos;" text="&quot;">
+        <cmp x="1690" y="1644" width="13" height="27" />
+        <cmp x="1703" y="1640" width="8" height="28" />
+      </word>
+      <word id="d04-081-05-09" tag="PP1AS" text="we">
+        <cmp x="1763" y="1682" width="128" height="38" />
+      </word>
+      <upper-contour>
+        <point x="425" y="1574" />
+        <point x="1892" y="1574" />
+      </upper-contour>
+      <lower-contour>
+        <point x="436" y="1763" />
+        <point x="1660" y="1763" />
+      </lower-contour>
+    </line>
+    <line ass="435" asx="0" asy="1828" character-width="999" dss="435" dsx="0" dsy="1946" fd0="13369" fd1="2099" fd2="-1296" filter-width="4" id="d04-081-06" lbs="495" lbx="0" lby="1901" segmentation="ok" slant="79000" stroke-width="6380" threshold="170" text="should remember the Great" ubs="314" ubx="0" uby="1866">
+      <word id="d04-081-06-00" tag="MD" text="should">
+        <cmp x="438" y="1828" width="280" height="74" />
+      </word>
+      <word id="d04-081-06-01" tag="VB" text="remember">
+        <cmp x="803" y="1821" width="384" height="78" />
+      </word>
+      <word id="d04-081-06-02" tag="ATI" text="the">
+        <cmp x="1241" y="1825" width="118" height="70" />
+      </word>
+      <word id="d04-081-06-03" tag="JJ" text="Great">
+        <cmp x="1423" y="1825" width="236" height="112" />
+      </word>
+      <upper-contour>
+        <point x="436" y="1763" />
+        <point x="1660" y="1763" />
+      </upper-contour>
+      <lower-contour>
+        <point x="436" y="1937" />
+        <point x="1660" y="1937" />
+      </lower-contour>
+    </line>
+    <line ass="123" asx="0" asy="2008" character-width="999" dss="123" dsx="0" dsy="2093" fd0="13462" fd1="2719" fd2="-472" filter-width="4" id="d04-081-07" lbs="154" lbx="0" lby="2081" segmentation="ok" slant="86000" stroke-width="6288" threshold="170" text="Deliverance: Passover and its connection" ubs="62" ubx="0" uby="2050">
+      <word id="d04-081-07-00" tag="NN" text="Deliverance">
+        <cmp x="415" y="2007" width="492" height="87" />
+        <cmp x="607" y="2010" width="8" height="15" />
+      </word>
+      <word id="d04-081-07-01" tag=":" text=":">
+        <cmp x="936" y="2019" width="8" height="11" />
+        <cmp x="942" y="2049" width="4" height="6" />
+      </word>
+      <word id="d04-081-07-02" tag="NP" text="Passover">
+        <cmp x="1006" y="2007" width="34" height="57" />
+        <cmp x="1013" y="2042" width="304" height="41" />
+      </word>
+      <word id="d04-081-07-03" tag="CC" text="and">
+        <cmp x="1358" y="2024" width="148" height="57" />
+      </word>
+      <word id="d04-081-07-04" tag="PP$" text="its">
+        <cmp x="1555" y="2015" width="98" height="67" />
+        <cmp x="1565" y="2016" width="9" height="10" />
+      </word>
+      <word id="d04-081-07-05" tag="NN" text="connection">
+        <cmp x="1712" y="2015" width="289" height="71" />
+        <cmp x="2000" y="2021" width="9" height="10" />
+        <cmp x="2011" y="2046" width="77" height="30" />
+      </word>
+      <upper-contour>
+        <point x="436" y="1937" />
+        <point x="1660" y="1937" />
+      </upper-contour>
+      <lower-contour>
+        <point x="413" y="2094" />
+        <point x="1792" y="2094" />
+      </lower-contour>
+    </line>
+    <line ass="-12" asx="0" asy="2171" character-width="999" dss="-12" dsx="0" dsy="2303" fd0="13245" fd1="2855" fd2="-259" filter-width="4" id="d04-081-08" lbs="70" lbx="0" lby="2259" segmentation="ok" slant="90000" stroke-width="6581" threshold="170" text="with the fringes (the tsitsits)." ubs="-177" ubx="0" uby="2221">
+      <word id="d04-081-08-00" tag="IN" text="with">
+        <cmp x="412" y="2205" width="184" height="71" />
+        <cmp x="521" y="2206" width="9" height="8" />
+      </word>
+      <word id="d04-081-08-01" tag="ATI" text="the">
+        <cmp x="660" y="2194" width="137" height="67" />
+      </word>
+      <word id="d04-081-08-02" tag="NNS" text="fringes">
+        <cmp x="861" y="2188" width="295" height="117" />
+        <cmp x="985" y="2183" width="8" height="6" />
+      </word>
+      <word id="d04-081-08-03" tag="(" text="(">
+        <cmp x="1207" y="2185" width="37" height="79" />
+      </word>
+      <word id="d04-081-08-04" tag="ATI" text="the">
+        <cmp x="1257" y="2190" width="127" height="76" />
+      </word>
+      <word id="d04-081-08-05" tag="&amp;FW" text="tsitsits">
+        <cmp x="1434" y="2184" width="257" height="76" />
+        <cmp x="1528" y="2184" width="9" height="12" />
+        <cmp x="1630" y="2181" width="7" height="9" />
+      </word>
+      <word id="d04-081-08-06" tag=")" text=")">
+        <cmp x="1733" y="2173" width="34" height="104" />
+      </word>
+      <word id="d04-081-08-07" tag="." text=".">
+        <cmp x="1781" y="2253" width="10" height="9" />
+      </word>
+      <upper-contour>
+        <point x="413" y="2094" />
+        <point x="1792" y="2094" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-14" height="3542" id="b04-020" last-modified="2002-07-24" skew="-30" status="final" version="3.0_beta" width="2479" writer-id="107">
+  <machine-printed-part>
+    <machine-print-line text="Supplies of meat and dairy produce were substantially higher last year than in 1959." />
+    <machine-print-line text="Lucky, lucky housewives! To have such a splendid variety of goods to choose from." />
+    <machine-print-line text="Not so long ago older folk were reminding young wives, harassed by shortages, of" />
+    <machine-print-line text="the good old days of abundance. Now it is mother who picks up recipes from her" />
+    <machine-print-line text="daughter." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-260" asx="0" asy="735" character-width="999" dss="-260" dsx="0" dsy="842" fd0="13038" fd1="2806" fd2="234" filter-width="4" id="b04-020-00" lbs="-379" lbx="0" lby="794" segmentation="ok" slant="108999" stroke-width="6058" threshold="182" text="Supplies of meat and dairy produce were" ubs="-21" ubx="0" uby="790">
+      <word id="b04-020-00-00" sentence-start="yes" tag="NNS" text="Supplies">
+        <cmp x="342" y="748" width="96" height="53" />
+        <cmp x="380" y="742" width="42" height="22" />
+        <cmp x="445" y="781" width="35" height="19" />
+        <cmp x="496" y="788" width="29" height="57" />
+        <cmp x="522" y="783" width="31" height="54" />
+        <cmp x="558" y="777" width="17" height="26" />
+        <cmp x="579" y="796" width="11" height="8" />
+        <cmp x="583" y="771" width="15" height="15" />
+        <cmp x="602" y="787" width="62" height="16" />
+        <cmp x="661" y="787" width="36" height="17" />
+      </word>
+      <word id="b04-020-00-01" tag="INO" text="of">
+        <cmp x="754" y="766" width="48" height="57" />
+      </word>
+      <word id="b04-020-00-02" tag="NN" text="meat">
+        <cmp x="854" y="768" width="196" height="41" />
+      </word>
+      <word id="b04-020-00-03" tag="CC" text="and">
+        <cmp x="1090" y="762" width="185" height="48" />
+      </word>
+      <word id="b04-020-00-04" tag="NN" text="dairy">
+        <cmp x="1333" y="742" width="48" height="64" />
+        <cmp x="1387" y="788" width="69" height="19" />
+        <cmp x="1465" y="783" width="28" height="21" />
+        <cmp x="1477" y="760" width="17" height="22" />
+        <cmp x="1510" y="786" width="55" height="59" />
+      </word>
+      <word id="b04-020-00-05" tag="NN" text="produce">
+        <cmp x="1628" y="789" width="80" height="60" />
+        <cmp x="1711" y="797" width="38" height="18" />
+        <cmp x="1756" y="768" width="59" height="41" />
+        <cmp x="1825" y="790" width="27" height="16" />
+        <cmp x="1866" y="786" width="99" height="22" />
+        <cmp x="1937" y="790" width="13" height="6" />
+      </word>
+      <word id="b04-020-00-06" tag="BED" text="were">
+        <cmp x="2018" y="798" width="7" height="7" />
+        <cmp x="2021" y="787" width="179" height="31" />
+      </word>
+      <lower-contour>
+        <point x="340" y="849" />
+        <point x="2164" y="849" />
+      </lower-contour>
+    </line>
+    <line ass="-310" asx="0" asy="922" character-width="999" dss="-310" dsx="0" dsy="1024" fd0="13616" fd1="3400" fd2="329" filter-width="4" id="b04-020-01" lbs="-312" lbx="0" lby="978" segmentation="ok" slant="106000" stroke-width="6092" threshold="172" text="substantially higher last year than in 1959." ubs="-306" ubx="0" uby="960">
+      <word id="b04-020-01-00" tag="RB" text="substantially">
+        <cmp x="329" y="950" width="56" height="38" />
+        <cmp x="354" y="944" width="12" height="8" />
+        <cmp x="394" y="969" width="40" height="15" />
+        <cmp x="450" y="937" width="47" height="52" />
+        <cmp x="506" y="962" width="30" height="21" />
+        <cmp x="542" y="949" width="32" height="38" />
+        <cmp x="575" y="965" width="119" height="19" />
+        <cmp x="685" y="946" width="48" height="39" />
+        <cmp x="723" y="950" width="11" height="20" />
+        <cmp x="748" y="969" width="48" height="22" />
+        <cmp x="795" y="957" width="18" height="33" />
+        <cmp x="821" y="950" width="76" height="70" />
+      </word>
+      <word id="b04-020-01-01" tag="JJR" text="higher">
+        <cmp x="940" y="943" width="5" height="5" />
+        <cmp x="943" y="949" width="53" height="49" />
+        <cmp x="1007" y="977" width="9" height="8" />
+        <cmp x="1008" y="958" width="18" height="18" />
+        <cmp x="1016" y="971" width="49" height="58" />
+        <cmp x="1052" y="949" width="129" height="34" />
+      </word>
+      <word id="b04-020-01-02" tag="AP" text="last">
+        <cmp x="1239" y="934" width="15" height="48" />
+        <cmp x="1267" y="964" width="39" height="16" />
+        <cmp x="1317" y="964" width="24" height="20" />
+        <cmp x="1348" y="943" width="30" height="38" />
+      </word>
+      <word id="b04-020-01-03" tag="NN" text="year">
+        <cmp x="1443" y="965" width="97" height="68" />
+        <cmp x="1544" y="975" width="91" height="20" />
+      </word>
+      <word id="b04-020-01-04" tag="CS" text="than">
+        <cmp x="1669" y="932" width="121" height="56" />
+        <cmp x="1789" y="970" width="47" height="16" />
+      </word>
+      <word id="b04-020-01-05" tag="IN" text="in">
+        <cmp x="1880" y="969" width="17" height="15" />
+        <cmp x="1896" y="970" width="35" height="17" />
+        <cmp x="1907" y="943" width="5" height="7" />
+      </word>
+      <word id="b04-020-01-06" tag="CD" text="1959">
+        <cmp x="1978" y="949" width="15" height="37" />
+        <cmp x="1990" y="946" width="32" height="43" />
+        <cmp x="2027" y="947" width="46" height="49" />
+        <cmp x="2084" y="944" width="35" height="46" />
+      </word>
+      <word id="b04-020-01-07" tag="." text=".">
+        <cmp x="2156" y="990" width="8" height="8" />
+      </word>
+      <upper-contour>
+        <point x="340" y="849" />
+        <point x="2164" y="849" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1033" />
+        <point x="2129" y="1033" />
+      </lower-contour>
+    </line>
+    <line ass="36" asx="0" asy="1079" character-width="999" dss="36" dsx="0" dsy="1193" fd0="12714" fd1="3345" fd2="1152" filter-width="4" id="b04-020-02" lbs="38" lbx="0" lby="1166" segmentation="ok" slant="99000" stroke-width="6136" threshold="172" text="Lucky, lucky housewives! To have such a" ubs="31" ubx="0" uby="1146">
+      <word id="b04-020-02-00" sentence-start="yes" tag="JJ" text="Lucky">
+        <cmp x="278" y="1112" width="163" height="61" />
+        <cmp x="451" y="1133" width="125" height="61" />
+      </word>
+      <word id="b04-020-02-01" tag="," text=",">
+        <cmp x="602" y="1163" width="8" height="13" />
+      </word>
+      <word id="b04-020-02-02" tag="JJ" text="lucky">
+        <cmp x="643" y="1120" width="21" height="46" />
+        <cmp x="685" y="1146" width="34" height="20" />
+        <cmp x="738" y="1126" width="120" height="60" />
+        <cmp x="803" y="1140" width="5" height="5" />
+      </word>
+      <word id="b04-020-02-03" tag="NNS" text="housewives">
+        <cmp x="877" y="1108" width="118" height="59" />
+        <cmp x="1014" y="1148" width="30" height="15" />
+        <cmp x="1052" y="1140" width="161" height="25" />
+        <cmp x="1233" y="1119" width="46" height="43" />
+        <cmp x="1289" y="1140" width="59" height="24" />
+      </word>
+      <word id="b04-020-02-04" tag="!" text="!">
+        <cmp x="1392" y="1080" width="16" height="48" />
+        <cmp x="1393" y="1151" width="8" height="7" />
+      </word>
+      <word id="b04-020-02-05" sentence-start="yes" tag="TO" text="To">
+        <cmp x="1459" y="1102" width="97" height="64" />
+        <cmp x="1547" y="1147" width="32" height="22" />
+      </word>
+      <word id="b04-020-02-06" tag="HV" text="have">
+        <cmp x="1627" y="1108" width="52" height="53" />
+        <cmp x="1686" y="1143" width="144" height="21" />
+      </word>
+      <word id="b04-020-02-07" tag="ABL" text="such">
+        <cmp x="1862" y="1139" width="29" height="26" />
+        <cmp x="1909" y="1149" width="31" height="20" />
+        <cmp x="1952" y="1123" width="87" height="47" />
+      </word>
+      <word id="b04-020-02-08" tag="AT" text="a">
+        <cmp x="2084" y="1151" width="43" height="27" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1033" />
+        <point x="2129" y="1033" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1194" />
+        <point x="2026" y="1194" />
+      </lower-contour>
+    </line>
+    <line ass="-280" asx="0" asy="1280" character-width="999" dss="-280" dsx="0" dsy="1387" fd0="13112" fd1="3541" fd2="218" filter-width="4" id="b04-020-03" lbs="-269" lbx="0" lby="1337" segmentation="ok" slant="101000" stroke-width="6098" threshold="172" text="splendid variety of goods to choose from." ubs="-302" ubx="0" uby="1317">
+      <word id="b04-020-03-00" tag="JJ" text="splendid">
+        <cmp x="329" y="1305" width="46" height="45" />
+        <cmp x="369" y="1312" width="33" height="77" />
+        <cmp x="398" y="1302" width="17" height="43" />
+        <cmp x="426" y="1302" width="138" height="37" />
+        <cmp x="581" y="1325" width="11" height="12" />
+        <cmp x="591" y="1306" width="18" height="21" />
+        <cmp x="611" y="1287" width="37" height="53" />
+      </word>
+      <word id="b04-020-03-01" tag="NN" text="variety">
+        <cmp x="719" y="1306" width="38" height="35" />
+        <cmp x="764" y="1320" width="51" height="23" />
+        <cmp x="822" y="1319" width="26" height="20" />
+        <cmp x="854" y="1312" width="18" height="14" />
+        <cmp x="859" y="1325" width="10" height="16" />
+        <cmp x="883" y="1304" width="104" height="72" />
+      </word>
+      <word id="b04-020-03-02" tag="INO" text="of">
+        <cmp x="1031" y="1298" width="66" height="73" />
+      </word>
+      <word id="b04-020-03-03" tag="NNS" text="goods">
+        <cmp x="1157" y="1311" width="27" height="78" />
+        <cmp x="1189" y="1327" width="28" height="24" />
+        <cmp x="1220" y="1326" width="37" height="24" />
+        <cmp x="1260" y="1290" width="75" height="60" />
+      </word>
+      <word id="b04-020-03-04" tag="TO" text="to">
+        <cmp x="1401" y="1294" width="56" height="51" />
+      </word>
+      <word id="b04-020-03-05" tag="VB" text="choose">
+        <cmp x="1513" y="1318" width="38" height="21" />
+        <cmp x="1536" y="1332" width="16" height="5" />
+        <cmp x="1552" y="1304" width="58" height="34" />
+        <cmp x="1611" y="1322" width="31" height="20" />
+        <cmp x="1652" y="1323" width="31" height="22" />
+        <cmp x="1690" y="1318" width="70" height="26" />
+        <cmp x="1703" y="1319" width="9" height="7" />
+        <cmp x="1761" y="1335" width="13" height="6" />
+      </word>
+      <word id="b04-020-03-06" tag="IN" text="from">
+        <cmp x="1805" y="1288" width="104" height="94" />
+        <cmp x="1918" y="1332" width="70" height="20" />
+      </word>
+      <word id="b04-020-03-07" tag="." text=".">
+        <cmp x="2018" y="1340" width="8" height="6" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1194" />
+        <point x="2026" y="1194" />
+      </upper-contour>
+      <lower-contour>
+        <point x="334" y="1389" />
+        <point x="2026" y="1389" />
+      </lower-contour>
+    </line>
+    <line ass="-322" asx="0" asy="1463" character-width="999" dss="-322" dsx="0" dsy="1564" fd0="12949" fd1="2919" fd2="236" filter-width="4" id="b04-020-04" lbs="-343" lbx="0" lby="1519" segmentation="ok" slant="99000" stroke-width="6095" threshold="172" text="Not so long ago older folk were reminding" ubs="-279" ubx="0" uby="1501">
+      <word id="b04-020-04-00" sentence-start="yes" tag="XNOT" text="Not">
+        <cmp x="336" y="1468" width="68" height="54" />
+        <cmp x="423" y="1500" width="26" height="16" />
+        <cmp x="456" y="1475" width="22" height="46" />
+      </word>
+      <word id="b04-020-04-01" tag="QL" text="so">
+        <cmp x="530" y="1501" width="39" height="25" />
+        <cmp x="587" y="1506" width="26" height="15" />
+      </word>
+      <word id="b04-020-04-02" tag="RB" text="long">
+        <cmp x="679" y="1479" width="13" height="45" />
+        <cmp x="713" y="1504" width="42" height="21" />
+        <cmp x="771" y="1510" width="89" height="60" />
+      </word>
+      <word id="b04-020-04-03" tag="RB" text="ago">
+        <cmp x="914" y="1506" width="100" height="61" />
+        <cmp x="1018" y="1509" width="16" height="22" />
+      </word>
+      <word id="b04-020-04-04" tag="JJR" text="older">
+        <cmp x="1085" y="1504" width="46" height="27" />
+        <cmp x="1136" y="1490" width="11" height="38" />
+        <cmp x="1164" y="1471" width="39" height="56" />
+        <cmp x="1206" y="1502" width="85" height="28" />
+      </word>
+      <word id="b04-020-04-05" tag="NNS" text="folk">
+        <cmp x="1342" y="1474" width="75" height="88" />
+        <cmp x="1422" y="1487" width="12" height="41" />
+        <cmp x="1438" y="1486" width="42" height="43" />
+      </word>
+      <word id="b04-020-04-06" tag="BED" text="were">
+        <cmp x="1527" y="1505" width="59" height="22" />
+        <cmp x="1592" y="1499" width="122" height="31" />
+      </word>
+      <word id="b04-020-04-07" tag="VBG" text="reminding">
+        <cmp x="1760" y="1494" width="40" height="35" />
+        <cmp x="1787" y="1506" width="37" height="22" />
+        <cmp x="1825" y="1511" width="89" height="21" />
+        <cmp x="1918" y="1516" width="25" height="17" />
+        <cmp x="1942" y="1518" width="46" height="15" />
+        <cmp x="1958" y="1488" width="21" height="18" />
+        <cmp x="1999" y="1480" width="48" height="57" />
+        <cmp x="2052" y="1510" width="109" height="60" />
+        <cmp x="2070" y="1476" width="14" height="15" />
+      </word>
+      <upper-contour>
+        <point x="334" y="1389" />
+        <point x="2026" y="1389" />
+      </upper-contour>
+      <lower-contour>
+        <point x="356" y="1571" />
+        <point x="1859" y="1571" />
+      </lower-contour>
+    </line>
+    <line ass="65" asx="0" asy="1647" character-width="999" dss="65" dsx="0" dsy="1746" fd0="12597" fd1="2645" fd2="389" filter-width="4" id="b04-020-05" lbs="96" lbx="0" lby="1704" segmentation="ok" slant="107000" stroke-width="6319" threshold="172" text="young wives, # harassed by" ubs="4" ubx="0" uby="1684">
+      <word id="b04-020-05-00" tag="JJ" text="young">
+        <cmp x="358" y="1675" width="6" height="8" />
+        <cmp x="358" y="1674" width="57" height="61" />
+        <cmp x="413" y="1680" width="39" height="20" />
+        <cmp x="462" y="1683" width="41" height="16" />
+        <cmp x="516" y="1681" width="96" height="63" />
+      </word>
+      <word id="b04-020-05-01" tag="NNS" text="wives">
+        <cmp x="662" y="1677" width="71" height="27" />
+        <cmp x="746" y="1678" width="17" height="24" />
+        <cmp x="770" y="1677" width="28" height="23" />
+        <cmp x="780" y="1648" width="13" height="16" />
+        <cmp x="810" y="1678" width="52" height="23" />
+        <cmp x="855" y="1678" width="26" height="24" />
+      </word>
+      <word id="b04-020-05-02" tag="," text=",">
+        <cmp x="904" y="1690" width="11" height="21" />
+      </word>
+      <word id="b04-020-05-03" tag="&amp;GA" text="#">
+        <cmp x="956" y="1649" width="326" height="52" />
+      </word>
+      <word id="b04-020-05-04" tag="VBN" text="harassed">
+        <cmp x="1322" y="1656" width="69" height="56" />
+        <cmp x="1393" y="1684" width="45" height="24" />
+        <cmp x="1447" y="1681" width="25" height="20" />
+        <cmp x="1480" y="1684" width="55" height="23" />
+        <cmp x="1536" y="1683" width="33" height="22" />
+        <cmp x="1577" y="1651" width="107" height="53" />
+      </word>
+      <word id="b04-020-05-05" tag="IN" text="by">
+        <cmp x="1751" y="1657" width="107" height="88" />
+        <cmp x="1777" y="1652" width="6" height="5" />
+      </word>
+      <upper-contour>
+        <point x="356" y="1571" />
+        <point x="1859" y="1571" />
+      </upper-contour>
+      <lower-contour>
+        <point x="356" y="1744" />
+        <point x="1824" y="1744" />
+      </lower-contour>
+    </line>
+    <line ass="-154" asx="0" asy="1817" character-width="999" dss="-154" dsx="0" dsy="1922" fd0="12799" fd1="3301" fd2="258" filter-width="4" id="b04-020-06" lbs="-132" lbx="0" lby="1880" segmentation="ok" slant="104000" stroke-width="6195" threshold="172" text="shortages, of the good old days of" ubs="-199" ubx="0" uby="1856">
+      <word id="b04-020-06-00" tag="NNS" text="shortages">
+        <cmp x="350" y="1847" width="44" height="35" />
+        <cmp x="401" y="1835" width="4" height="6" />
+        <cmp x="402" y="1843" width="51" height="34" />
+        <cmp x="465" y="1862" width="92" height="18" />
+        <cmp x="566" y="1843" width="216" height="81" />
+        <cmp x="777" y="1856" width="26" height="29" />
+      </word>
+      <word id="b04-020-06-01" tag="," text=",">
+        <cmp x="819" y="1868" width="9" height="16" />
+      </word>
+      <word id="b04-020-06-02" tag="INO" text="of">
+        <cmp x="873" y="1857" width="45" height="24" />
+        <cmp x="924" y="1840" width="33" height="56" />
+      </word>
+      <word id="b04-020-06-03" tag="ATI" text="the">
+        <cmp x="1002" y="1823" width="107" height="58" />
+      </word>
+      <word id="b04-020-06-04" tag="JJ" text="good">
+        <cmp x="1151" y="1847" width="51" height="73" />
+        <cmp x="1214" y="1858" width="26" height="21" />
+        <cmp x="1251" y="1860" width="29" height="23" />
+        <cmp x="1292" y="1830" width="32" height="50" />
+      </word>
+      <word id="b04-020-06-05" tag="JJ" text="old">
+        <cmp x="1375" y="1859" width="34" height="20" />
+        <cmp x="1419" y="1846" width="14" height="32" />
+        <cmp x="1444" y="1826" width="35" height="57" />
+      </word>
+      <word id="b04-020-06-06" tag="NNS" text="days">
+        <cmp x="1526" y="1823" width="41" height="58" />
+        <cmp x="1570" y="1854" width="116" height="55" />
+        <cmp x="1682" y="1847" width="32" height="30" />
+      </word>
+      <word id="b04-020-06-07" tag="INO" text="of">
+        <cmp x="1752" y="1840" width="71" height="80" />
+      </word>
+      <upper-contour>
+        <point x="356" y="1744" />
+        <point x="1824" y="1744" />
+      </upper-contour>
+      <lower-contour>
+        <point x="348" y="1925" />
+        <point x="1824" y="1925" />
+      </lower-contour>
+    </line>
+    <line ass="-461" asx="0" asy="1999" character-width="999" dss="-461" dsx="0" dsy="2059" fd0="13862" fd1="2999" fd2="594" filter-width="4" id="b04-020-07" lbs="-482" lbx="0" lby="2050" segmentation="ok" slant="104000" stroke-width="6213" threshold="172" text="abundance. Now it is mother who" ubs="-420" ubx="0" uby="2034">
+      <word id="b04-020-07-00" tag="NN" text="abundance">
+        <cmp x="347" y="2038" width="49" height="14" />
+        <cmp x="407" y="2003" width="57" height="49" />
+        <cmp x="484" y="2037" width="31" height="18" />
+        <cmp x="532" y="2013" width="99" height="45" />
+        <cmp x="642" y="2039" width="128" height="20" />
+        <cmp x="771" y="2038" width="73" height="21" />
+      </word>
+      <word id="b04-020-07-01" tag="." text=".">
+        <cmp x="877" y="2054" width="7" height="6" />
+      </word>
+      <word id="b04-020-07-02" sentence-start="yes" tag="RN" text="Now">
+        <cmp x="997" y="2009" width="69" height="60" />
+        <cmp x="1080" y="2039" width="30" height="21" />
+        <cmp x="1117" y="2037" width="64" height="22" />
+      </word>
+      <word id="b04-020-07-03" tag="PP3" text="it">
+        <cmp x="1248" y="2024" width="9" height="8" />
+        <cmp x="1253" y="2050" width="7" height="9" />
+        <cmp x="1273" y="2019" width="26" height="44" />
+      </word>
+      <word id="b04-020-07-04" tag="BEZ" text="is">
+        <cmp x="1385" y="2042" width="14" height="23" />
+        <cmp x="1394" y="2017" width="7" height="9" />
+        <cmp x="1416" y="2039" width="15" height="23" />
+      </word>
+      <word id="b04-020-07-05" tag="NN" text="mother">
+        <cmp x="1480" y="2044" width="91" height="18" />
+        <cmp x="1589" y="2042" width="41" height="20" />
+        <cmp x="1637" y="2012" width="147" height="52" />
+      </word>
+      <word id="b04-020-07-06" tag="WP" text="who">
+        <cmp x="1840" y="2042" width="85" height="29" />
+        <cmp x="1915" y="2023" width="5" height="5" />
+        <cmp x="1919" y="2028" width="46" height="39" />
+        <cmp x="1983" y="2053" width="34" height="19" />
+      </word>
+      <upper-contour>
+        <point x="348" y="1925" />
+        <point x="1824" y="1925" />
+      </upper-contour>
+      <lower-contour>
+        <point x="345" y="2072" />
+        <point x="2018" y="2072" />
+      </lower-contour>
+    </line>
+    <line ass="-206" asx="0" asy="2175" character-width="999" dss="-206" dsx="0" dsy="2291" fd0="12464" fd1="3259" fd2="357" filter-width="4" id="b04-020-08" lbs="-265" lbx="0" lby="2232" segmentation="ok" slant="108999" stroke-width="6345" threshold="172" text="picks up recipes from # her daughter." ubs="-88" ubx="0" uby="2219">
+      <word id="b04-020-08-00" tag="VBZ" text="picks">
+        <cmp x="339" y="2211" width="55" height="83" />
+        <cmp x="428" y="2224" width="8" height="10" />
+        <cmp x="430" y="2201" width="12" height="17" />
+        <cmp x="468" y="2219" width="40" height="16" />
+        <cmp x="517" y="2198" width="53" height="39" />
+        <cmp x="566" y="2209" width="39" height="29" />
+      </word>
+      <word id="b04-020-08-01" tag="RP" text="up">
+        <cmp x="661" y="2221" width="31" height="21" />
+        <cmp x="709" y="2218" width="27" height="57" />
+      </word>
+      <word id="b04-020-08-02" tag="NNS" text="recipes">
+        <cmp x="806" y="2216" width="144" height="24" />
+        <cmp x="939" y="2200" width="12" height="8" />
+        <cmp x="967" y="2211" width="30" height="54" />
+        <cmp x="998" y="2213" width="40" height="25" />
+        <cmp x="1038" y="2213" width="26" height="28" />
+      </word>
+      <word id="b04-020-08-03" tag="IN" text="from">
+        <cmp x="1123" y="2190" width="57" height="95" />
+        <cmp x="1192" y="2220" width="32" height="16" />
+        <cmp x="1239" y="2222" width="82" height="18" />
+      </word>
+      <word id="b04-020-08-04" tag="&amp;GA" text="#">
+        <cmp x="1367" y="2185" width="175" height="57" />
+      </word>
+      <word id="b04-020-08-05" tag="PP$" text="her">
+        <cmp x="1587" y="2183" width="137" height="61" />
+      </word>
+      <word id="b04-020-08-06" tag="NN" text="daughter">
+        <cmp x="1763" y="2183" width="39" height="55" />
+        <cmp x="1809" y="2225" width="49" height="18" />
+        <cmp x="1867" y="2223" width="87" height="73" />
+        <cmp x="1933" y="2200" width="60" height="43" />
+        <cmp x="1998" y="2194" width="99" height="48" />
+      </word>
+      <word id="b04-020-08-07" tag="." text=".">
+        <cmp x="2133" y="2239" width="9" height="8" />
+      </word>
+      <upper-contour>
+        <point x="345" y="2072" />
+        <point x="2018" y="2072" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

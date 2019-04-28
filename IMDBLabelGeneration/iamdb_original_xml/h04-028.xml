@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-24" height="3542" id="h04-028" last-modified="2002-07-24" skew="30" status="final" version="3.0_beta" width="2479" writer-id="376">
+  <machine-printed-part>
+    <machine-print-line text="The price ranges for milk, cheese, sugar, bread and flour were very narrow. For most" />
+    <machine-print-line text="other foods younger childless couples paid the highest average prices and large families" />
+    <machine-print-line text="the lowest, the price gradients being steepest for carcase meat (+7 to -7 per cent)," />
+    <machine-print-line text="&quot;other&quot; fish (+8 to -11), &quot;other&quot; vegetables (+9 to -9) and beverages other than tea" />
+    <machine-print-line text="(+12 to -16)." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-891" asx="0" asy="839" character-width="999" dss="-891" dsx="0" dsy="975" fd0="13086" fd1="3024" fd2="405" filter-width="4" id="h04-028-00" lbs="-1150" lbx="0" lby="909" segmentation="ok" slant="90000" stroke-width="6366" threshold="148" text="The price ranges for milk," ubs="-372" ubx="0" uby="896">
+      <word id="h04-028-00-00" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="463" y="848" width="176" height="85" />
+      </word>
+      <word id="h04-028-00-01" tag="NN" text="price">
+        <cmp x="766" y="892" width="28" height="87" />
+        <cmp x="802" y="895" width="59" height="37" />
+        <cmp x="854" y="882" width="11" height="6" />
+        <cmp x="881" y="898" width="74" height="46" />
+      </word>
+      <word id="h04-028-00-02" tag="NNS" text="ranges">
+        <cmp x="1066" y="907" width="213" height="88" />
+      </word>
+      <word id="h04-028-00-03" tag="IN" text="for">
+        <cmp x="1464" y="861" width="44" height="124" />
+        <cmp x="1509" y="886" width="65" height="43" />
+      </word>
+      <word id="h04-028-00-04" tag="NN" text="milk">
+        <cmp x="1682" y="903" width="62" height="31" />
+        <cmp x="1737" y="888" width="7" height="11" />
+        <cmp x="1768" y="870" width="74" height="79" />
+      </word>
+      <word id="h04-028-00-05" tag="," text=",">
+        <cmp x="1894" y="927" width="9" height="55" />
+      </word>
+      <lower-contour>
+        <point x="461" y="995" />
+        <point x="1904" y="995" />
+      </lower-contour>
+    </line>
+    <line ass="539" asx="0" asy="1041" character-width="999" dss="539" dsx="0" dsy="1182" fd0="13525" fd1="2527" fd2="-22" filter-width="4" id="h04-028-01" lbs="549" lbx="0" lby="1131" segmentation="ok" slant="90000" stroke-width="6251" threshold="148" text="cheese, sugar, bread and flour" ubs="518" ubx="0" uby="1093">
+      <word id="h04-028-01-00" tag="NN" text="cheese">
+        <cmp x="408" y="1037" width="210" height="101" />
+        <cmp x="636" y="1090" width="41" height="45" />
+      </word>
+      <word id="h04-028-01-01" tag="," text=",">
+        <cmp x="801" y="1114" width="18" height="55" />
+      </word>
+      <word id="h04-028-01-02" tag="NN" text="sugar">
+        <cmp x="853" y="1075" width="33" height="49" />
+        <cmp x="891" y="1077" width="182" height="98" />
+      </word>
+      <word id="h04-028-01-03" tag="," text=",">
+        <cmp x="1166" y="1108" width="12" height="63" />
+      </word>
+      <word id="h04-028-01-04" tag="NN" text="bread">
+        <cmp x="1237" y="1054" width="229" height="71" />
+      </word>
+      <word id="h04-028-01-05" tag="CC" text="and">
+        <cmp x="1595" y="1083" width="85" height="39" />
+        <cmp x="1692" y="1063" width="63" height="57" />
+      </word>
+      <word id="h04-028-01-06" tag="NN" text="flour">
+        <cmp x="1860" y="1035" width="111" height="128" />
+        <cmp x="1979" y="1072" width="97" height="43" />
+      </word>
+      <upper-contour>
+        <point x="461" y="995" />
+        <point x="1904" y="995" />
+      </upper-contour>
+      <lower-contour>
+        <point x="406" y="1175" />
+        <point x="2077" y="1175" />
+      </lower-contour>
+    </line>
+    <line ass="-184" asx="0" asy="1214" character-width="999" dss="-184" dsx="0" dsy="1339" fd0="13439" fd1="2799" fd2="-277" filter-width="4" id="h04-028-02" lbs="-146" lbx="0" lby="1286" segmentation="ok" slant="95000" stroke-width="6204" threshold="148" text="were very narrow. For most other" ubs="-259" ubx="0" uby="1248">
+      <word id="h04-028-02-00" tag="BED" text="were">
+        <cmp x="408" y="1245" width="175" height="55" />
+      </word>
+      <word id="h04-028-02-01" tag="QL" text="very">
+        <cmp x="714" y="1247" width="180" height="96" />
+      </word>
+      <word id="h04-028-02-02" tag="JJ" text="narrow">
+        <cmp x="1035" y="1243" width="174" height="44" />
+        <cmp x="1215" y="1248" width="48" height="47" />
+      </word>
+      <word id="h04-028-02-03" tag="." text=".">
+        <cmp x="1298" y="1291" width="6" height="6" />
+      </word>
+      <word id="h04-028-02-04" sentence-start="yes" tag="IN" text="For">
+        <cmp x="1362" y="1219" width="65" height="12" />
+        <cmp x="1362" y="1229" width="67" height="61" />
+        <cmp x="1450" y="1242" width="88" height="41" />
+      </word>
+      <word id="h04-028-02-05" tag="AP" text="most">
+        <cmp x="1655" y="1256" width="111" height="46" />
+        <cmp x="1767" y="1257" width="27" height="47" />
+        <cmp x="1796" y="1222" width="55" height="82" />
+      </word>
+      <word id="h04-028-02-06" tag="AP" text="other">
+        <cmp x="1933" y="1264" width="27" height="32" />
+        <cmp x="1970" y="1221" width="139" height="66" />
+      </word>
+      <upper-contour>
+        <point x="406" y="1175" />
+        <point x="2077" y="1175" />
+      </upper-contour>
+      <lower-contour>
+        <point x="410" y="1344" />
+        <point x="2110" y="1344" />
+      </lower-contour>
+    </line>
+    <line ass="-360" asx="0" asy="1374" character-width="999" dss="-360" dsx="0" dsy="1534" fd0="13272" fd1="2419" fd2="-948" filter-width="4" id="h04-028-03" lbs="-327" lbx="0" lby="1454" segmentation="ok" slant="90000" stroke-width="6249" threshold="147" text="foods younger childless couples paid" ubs="-425" ubx="0" uby="1420">
+      <word id="h04-028-03-00" tag="NNS" text="foods">
+        <cmp x="412" y="1377" width="65" height="160" />
+        <cmp x="478" y="1429" width="25" height="24" />
+        <cmp x="519" y="1383" width="84" height="77" />
+      </word>
+      <word id="h04-028-03-01" tag="JJR" text="younger">
+        <cmp x="724" y="1424" width="282" height="100" />
+      </word>
+      <word id="h04-028-03-02" tag="JJ" text="childless">
+        <cmp x="1143" y="1384" width="132" height="82" />
+        <cmp x="1262" y="1422" width="14" height="7" />
+        <cmp x="1287" y="1390" width="39" height="71" />
+        <cmp x="1330" y="1387" width="126" height="71" />
+        <cmp x="1457" y="1426" width="19" height="35" />
+      </word>
+      <word id="h04-028-03-03" tag="NNS" text="couples">
+        <cmp x="1598" y="1417" width="151" height="101" />
+        <cmp x="1749" y="1402" width="84" height="68" />
+      </word>
+      <word id="h04-028-03-04" tag="VBD" text="paid">
+        <cmp x="1933" y="1441" width="34" height="84" />
+        <cmp x="1971" y="1439" width="71" height="35" />
+        <cmp x="2043" y="1422" width="9" height="12" />
+        <cmp x="2062" y="1417" width="58" height="68" />
+      </word>
+      <upper-contour>
+        <point x="410" y="1344" />
+        <point x="2110" y="1344" />
+      </upper-contour>
+      <lower-contour>
+        <point x="435" y="1525" />
+        <point x="2121" y="1525" />
+      </lower-contour>
+    </line>
+    <line ass="-988" asx="0" asy="1546" character-width="999" dss="-988" dsx="0" dsy="1697" fd0="13596" fd1="2844" fd2="-85" filter-width="4" id="h04-028-04" lbs="-946" lbx="0" lby="1626" segmentation="ok" slant="90000" stroke-width="6311" threshold="145" text="the highest average prices and" ubs="-1072" ubx="0" uby="1595">
+      <word id="h04-028-04-00" tag="ATI" text="the">
+        <cmp x="437" y="1564" width="134" height="80" />
+      </word>
+      <word id="h04-028-04-01" tag="JJT" text="highest">
+        <cmp x="727" y="1567" width="99" height="77" />
+        <cmp x="816" y="1594" width="8" height="8" />
+        <cmp x="842" y="1562" width="150" height="151" />
+        <cmp x="1004" y="1581" width="46" height="60" />
+      </word>
+      <word id="h04-028-04-02" tag="JJ" text="average">
+        <cmp x="1208" y="1609" width="299" height="92" />
+      </word>
+      <word id="h04-028-04-03" tag="NNS" text="prices">
+        <cmp x="1631" y="1618" width="108" height="93" />
+        <cmp x="1730" y="1599" width="10" height="11" />
+        <cmp x="1760" y="1623" width="95" height="37" />
+      </word>
+      <word id="h04-028-04-04" tag="CC" text="and">
+        <cmp x="1940" y="1602" width="181" height="59" />
+      </word>
+      <upper-contour>
+        <point x="435" y="1525" />
+        <point x="2121" y="1525" />
+      </upper-contour>
+      <lower-contour>
+        <point x="435" y="1713" />
+        <point x="2122" y="1713" />
+      </lower-contour>
+    </line>
+    <line ass="102" asx="0" asy="1726" character-width="999" dss="102" dsx="0" dsy="1889" fd0="13390" fd1="3247" fd2="680" filter-width="4" id="h04-028-05" lbs="67" lbx="0" lby="1821" segmentation="err" slant="89000" stroke-width="6286" threshold="146" text="large families the lowest, the price" ubs="173" ubx="0" uby="1795">
+      <word id="h04-028-05-00" tag="JJ" text="large">
+        <cmp x="382" y="1753" width="7" height="11" />
+        <cmp x="442" y="1726" width="131" height="103" />
+        <cmp x="577" y="1793" width="71" height="81" />
+      </word>
+      <word id="h04-028-05-01" tag="NNS" text="families">
+        <cmp x="786" y="1767" width="29" height="107" />
+        <cmp x="814" y="1799" width="146" height="31" />
+        <cmp x="955" y="1786" width="6" height="10" />
+        <cmp x="1006" y="1762" width="57" height="66" />
+        <cmp x="1063" y="1783" width="5" height="8" />
+        <cmp x="1093" y="1796" width="55" height="38" />
+      </word>
+      <word id="h04-028-05-02" tag="ATI" text="the">
+        <cmp x="1324" y="1752" width="99" height="74" />
+      </word>
+      <word id="h04-028-05-03" tag="JJT" text="lowest">
+        <cmp x="1524" y="1753" width="68" height="64" />
+        <cmp x="1599" y="1783" width="87" height="40" />
+        <cmp x="1702" y="1763" width="30" height="52" />
+      </word>
+      <word id="h04-028-05-04" tag="," text=",">
+        <cmp x="1786" y="1821" width="19" height="65" />
+      </word>
+      <word id="h04-028-05-05" tag="ATI" text="the">
+        <cmp x="1823" y="1745" width="120" height="84" />
+      </word>
+      <word id="h04-028-05-06" tag="NN" text="price">
+        <cmp x="1994" y="1796" width="92" height="74" />
+        <cmp x="2084" y="1778" width="5" height="8" />
+        <cmp x="2099" y="1797" width="54" height="40" />
+      </word>
+      <upper-contour>
+        <point x="435" y="1713" />
+        <point x="2122" y="1713" />
+      </upper-contour>
+      <lower-contour>
+        <point x="434" y="1886" />
+        <point x="1962" y="1886" />
+      </lower-contour>
+    </line>
+    <line ass="-505" asx="0" asy="1910" character-width="999" dss="-505" dsx="0" dsy="2061" fd0="13359" fd1="2966" fd2="-252" filter-width="4" id="h04-028-06" lbs="-436" lbx="0" lby="1990" segmentation="ok" slant="90000" stroke-width="6388" threshold="147" text="gradients being steepest for" ubs="-642" ubx="0" uby="1955">
+      <word id="h04-028-06-00" tag="NNS" text="gradients">
+        <cmp x="436" y="1968" width="72" height="98" />
+        <cmp x="516" y="1922" width="101" height="82" />
+        <cmp x="614" y="1948" width="7" height="11" />
+        <cmp x="632" y="1931" width="100" height="72" />
+        <cmp x="744" y="1955" width="20" height="40" />
+      </word>
+      <word id="h04-028-06-01" tag="BEG" text="being">
+        <cmp x="909" y="1930" width="123" height="83" />
+        <cmp x="1027" y="1952" width="9" height="11" />
+        <cmp x="1051" y="1972" width="102" height="92" />
+      </word>
+      <word id="h04-028-06-02" tag="JJT" text="steepest">
+        <cmp x="1326" y="1961" width="26" height="47" />
+        <cmp x="1357" y="1922" width="153" height="123" />
+        <cmp x="1526" y="1977" width="58" height="31" />
+        <cmp x="1591" y="1941" width="66" height="64" />
+      </word>
+      <word id="h04-028-06-03" tag="IN" text="for">
+        <cmp x="1810" y="1945" width="151" height="109" />
+      </word>
+      <upper-contour>
+        <point x="434" y="1886" />
+        <point x="1962" y="1886" />
+      </upper-contour>
+      <lower-contour>
+        <point x="434" y="2066" />
+        <point x="1962" y="2066" />
+      </lower-contour>
+    </line>
+    <line ass="467" asx="0" asy="2101" character-width="999" dss="467" dsx="0" dsy="2277" fd0="12898" fd1="3352" fd2="1127" filter-width="4" id="h04-028-07" lbs="512" lbx="0" lby="2195" segmentation="err" slant="80000" stroke-width="6244" threshold="146" text="carcase meat (+7 to -7 per cent)," ubs="376" ubx="0" uby="2169">
+      <word id="h04-028-07-00" tag="NN" text="carcase">
+        <cmp x="434" y="2148" width="127" height="45" />
+        <cmp x="568" y="2152" width="141" height="47" />
+      </word>
+      <word id="h04-028-07-01" tag="NN" text="meat">
+        <cmp x="872" y="2137" width="214" height="58" />
+      </word>
+      <word id="h04-028-07-02" tag="(" text="(">
+        <cmp x="1198" y="2091" width="63" height="126" />
+        <cmp x="1246" y="2134" width="43" height="52" />
+      </word>
+      <word id="h04-028-07-03" tag="CD" text="+7">
+        <cmp x="1305" y="2113" width="68" height="76" />
+        <cmp x="1403" y="2130" width="76" height="65" />
+      </word>
+      <word id="h04-028-07-04" tag="IN" text="to">
+        <cmp x="1490" y="2155" width="23" height="27" />
+      </word>
+      <word id="h04-028-07-05" tag="CD" text="-7">
+        <cmp x="1593" y="2139" width="65" height="14" />
+        <cmp x="1661" y="2117" width="66" height="71" />
+      </word>
+      <word id="h04-028-07-06" tag="NNU21" text="per">
+        <cmp x="1794" y="2167" width="33" height="73" />
+      </word>
+      <word id="h04-028-07-07" tag="NNU22" text="cent">
+        <cmp x="1833" y="2161" width="73" height="32" />
+      </word>
+      <word id="h04-028-07-08" tag=")" text=")">
+        <cmp x="1972" y="2139" width="145" height="56" />
+      </word>
+      <word id="h04-028-07-09" tag="," text=",">
+        <cmp x="2111" y="2102" width="35" height="158" />
+      </word>
+      <upper-contour>
+        <point x="434" y="2066" />
+        <point x="1962" y="2066" />
+      </upper-contour>
+      <lower-contour>
+        <point x="432" y="2240" />
+        <point x="2110" y="2260" />
+        <point x="2147" y="2260" />
+      </lower-contour>
+    </line>
+    <line ass="-1218" asx="0" asy="2158" character-width="999" dss="-1218" dsx="0" dsy="2394" fd0="12688" fd1="3114" fd2="746" filter-width="4" id="h04-028-08" lbs="-1231" lbx="0" lby="2335" segmentation="err" slant="90000" stroke-width="6164" threshold="145" text="&quot;other&quot; fish (+8 to -11), &quot;other&quot; vegetables" ubs="-1190" ubx="0" uby="2294">
+      <word id="h04-028-08-00" tag="*&apos;" text="&quot;">
+        <cmp x="398" y="2247" width="24" height="42" />
+      </word>
+      <word id="h04-028-08-01" tag="AP" text="other">
+        <cmp x="471" y="2317" width="27" height="31" />
+        <cmp x="509" y="2277" width="137" height="72" />
+      </word>
+      <word id="h04-028-08-02" tag="**&apos;" text="&quot;">
+        <cmp x="709" y="2255" width="27" height="30" />
+      </word>
+      <word id="h04-028-08-03" tag="NN" text="fish">
+        <cmp x="866" y="2289" width="53" height="97" />
+        <cmp x="919" y="2312" width="7" height="6" />
+        <cmp x="942" y="2320" width="22" height="42" />
+      </word>
+      <word id="h04-028-08-04" tag="(" text="(">
+        <cmp x="980" y="2287" width="34" height="56" />
+      </word>
+      <word id="h04-028-08-05" tag="CD" text="+8">
+        <cmp x="1060" y="2244" width="57" height="156" />
+        <cmp x="1096" y="2304" width="43" height="50" />
+        <cmp x="1143" y="2285" width="35" height="86" />
+      </word>
+      <word id="h04-028-08-06" tag="IN" text="to">
+        <cmp x="1210" y="2299" width="44" height="61" />
+      </word>
+      <word id="h04-028-08-07" tag="CD" text="-11">
+        <cmp x="1276" y="2327" width="53" height="9" />
+        <cmp x="1347" y="2305" width="29" height="62" />
+        <cmp x="1383" y="2314" width="24" height="53" />
+        <cmp x="1404" y="2266" width="33" height="141" />
+      </word>
+      <word id="h04-028-08-08" tag=")" text=")">
+        <cmp x="1484" y="2388" width="10" height="37" />
+      </word>
+      <word id="h04-028-08-09" tag="," text="," />
+      <word id="h04-028-08-10" tag="*&apos;" text="&quot;">
+        <cmp x="1541" y="2269" width="19" height="33" />
+      </word>
+      <word id="h04-028-08-11" tag="AP" text="other">
+        <cmp x="1568" y="2331" width="25" height="37" />
+        <cmp x="1587" y="2296" width="104" height="67" />
+      </word>
+      <word id="h04-028-08-12" tag="**&apos;" text="&quot;">
+        <cmp x="1709" y="2270" width="21" height="26" />
+      </word>
+      <word id="h04-028-08-13" tag="NNS" text="vegetables">
+        <cmp x="1807" y="2301" width="221" height="116" />
+        <cmp x="2042" y="2296" width="27" height="69" />
+        <cmp x="2078" y="2298" width="81" height="61" />
+        <cmp x="2171" y="2206" width="7" height="36" />
+      </word>
+      <upper-contour>
+        <point x="432" y="2240" />
+        <point x="2110" y="2260" />
+        <point x="2147" y="2260" />
+      </upper-contour>
+      <lower-contour>
+        <point x="396" y="2426" />
+        <point x="2145" y="2426" />
+      </lower-contour>
+    </line>
+    <line ass="209" asx="0" asy="2447" character-width="999" dss="209" dsx="0" dsy="2598" fd0="12784" fd1="2887" fd2="113" filter-width="4" id="h04-028-09" lbs="96" lbx="0" lby="2546" segmentation="err" slant="90000" stroke-width="6278" threshold="145" text="(+9 to -9) and beverages other than" ubs="434" ubx="0" uby="2523">
+      <word id="h04-028-09-00" tag="(" text="(">
+        <cmp x="360" y="2446" width="62" height="151" />
+        <cmp x="382" y="2504" width="51" height="56" />
+      </word>
+      <word id="h04-028-09-01" tag="CD" text="+9">
+        <cmp x="441" y="2481" width="47" height="74" />
+      </word>
+      <word id="h04-028-09-02" tag="IN" text="to">
+        <cmp x="525" y="2485" width="49" height="78" />
+      </word>
+      <word id="h04-028-09-03" tag="CD" text="-9">
+        <cmp x="605" y="2516" width="54" height="13" />
+      </word>
+      <word id="h04-028-09-04" tag=")" text=")">
+        <cmp x="683" y="2492" width="39" height="58" />
+        <cmp x="720" y="2448" width="38" height="142" />
+      </word>
+      <word id="h04-028-09-05" tag="CC" text="and">
+        <cmp x="893" y="2493" width="148" height="59" />
+      </word>
+      <word id="h04-028-09-06" tag="NNS" text="beverages">
+        <cmp x="1218" y="2480" width="195" height="74" />
+        <cmp x="1416" y="2518" width="40" height="30" />
+        <cmp x="1464" y="2520" width="93" height="74" />
+      </word>
+      <word id="h04-028-09-07" tag="AP" text="other">
+        <cmp x="1739" y="2508" width="24" height="37" />
+        <cmp x="1756" y="2475" width="134" height="70" />
+      </word>
+      <word id="h04-028-09-08" tag="IN" text="than">
+        <cmp x="2024" y="2473" width="120" height="74" />
+      </word>
+      <upper-contour>
+        <point x="396" y="2426" />
+        <point x="2145" y="2426" />
+      </upper-contour>
+      <lower-contour>
+        <point x="398" y="2596" />
+        <point x="1238" y="2596" />
+      </lower-contour>
+    </line>
+    <line ass="2755" asx="0" asy="2690" character-width="999" dss="2755" dsx="0" dsy="2853" fd0="12254" fd1="3213" fd2="1120" filter-width="3" id="h04-028-10" lbs="2598" lbx="0" lby="2775" segmentation="err" slant="95000" stroke-width="5376" threshold="150" text="tea (+12 to -16)." ubs="3070" ubx="0" uby="2737">
+      <word id="h04-028-10-00" tag="NN" text="tea">
+        <cmp x="400" y="2687" width="131" height="75" />
+      </word>
+      <word id="h04-028-10-01" tag="(" text="(" />
+      <word id="h04-028-10-02" tag="CD" text="+12">
+        <cmp x="637" y="2658" width="58" height="110" />
+        <cmp x="692" y="2689" width="48" height="53" />
+        <cmp x="765" y="2679" width="13" height="61" />
+      </word>
+      <word id="h04-028-10-03" tag="IN" text="to">
+        <cmp x="789" y="2680" width="48" height="59" />
+      </word>
+      <word id="h04-028-10-04" tag="CD" text="-16">
+        <cmp x="911" y="2680" width="53" height="55" />
+        <cmp x="1019" y="2706" width="49" height="10" />
+        <cmp x="1084" y="2635" width="154" height="162" />
+        <cmp x="1086" y="2676" width="38" height="58" />
+      </word>
+      <word id="h04-028-10-05" tag=")" text=")">
+        <cmp x="1142" y="2674" width="31" height="61" />
+      </word>
+      <word id="h04-028-10-06" tag="." text="." />
+      <upper-contour>
+        <point x="398" y="2596" />
+        <point x="1238" y="2596" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

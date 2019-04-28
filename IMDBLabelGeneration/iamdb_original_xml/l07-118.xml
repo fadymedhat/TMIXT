@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-04-11" height="3542" id="l07-118" last-modified="2002-07-17" skew="0" status="final" version="3.0_beta" width="2479" writer-id="497">
+  <machine-printed-part>
+    <machine-print-line text="Ten minutes later he stopped in a lane and helped me out with the same careful" />
+    <machine-print-line text="courtesy. &amp;quot;What sort of boat is it?&amp;quot; I asked. &amp;quot;She,&amp;quot; he corrected. &amp;quot;She&apos;s a converted" />
+    <machine-print-line text="life-boat. Not a very good one, but she&apos;s sound enough and the engine&apos;s fine.&amp;quot;" />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-155" asx="0" asy="730" character-width="999" dss="-155" dsx="0" dsy="833" fd0="11829" fd1="2680" fd2="-1190" filter-width="4" id="l07-118-00" lbs="2" lbx="0" lby="812" segmentation="ok" slant="95000" stroke-width="7117" threshold="142" text="Ten minutes later he stopped in a lane" ubs="-471" ubx="0" uby="750">
+      <word id="l07-118-00-00" sentence-start="yes" tag="CD" text="Ten">
+        <cmp x="339" y="732" width="96" height="9" />
+        <cmp x="371" y="741" width="63" height="72" />
+        <cmp x="435" y="748" width="55" height="69" />
+      </word>
+      <word id="l07-118-00-01" tag="NNS" text="minutes">
+        <cmp x="543" y="758" width="82" height="57" />
+        <cmp x="627" y="742" width="8" height="9" />
+        <cmp x="627" y="769" width="12" height="47" />
+        <cmp x="641" y="759" width="54" height="55" />
+        <cmp x="701" y="758" width="54" height="60" />
+        <cmp x="755" y="749" width="80" height="70" />
+        <cmp x="832" y="757" width="59" height="57" />
+      </word>
+      <word id="l07-118-00-02" tag="RBR" text="later">
+        <cmp x="944" y="751" width="23" height="71" />
+        <cmp x="968" y="749" width="162" height="68" />
+      </word>
+      <word id="l07-118-00-03" tag="PP3A" text="he">
+        <cmp x="1163" y="745" width="107" height="68" />
+      </word>
+      <word id="l07-118-00-04" tag="VBD" text="stopped">
+        <cmp x="1313" y="753" width="360" height="85" />
+      </word>
+      <word id="l07-118-00-05" tag="IN" text="in">
+        <cmp x="1721" y="764" width="9" height="54" />
+        <cmp x="1725" y="741" width="8" height="8" />
+        <cmp x="1733" y="757" width="55" height="59" />
+      </word>
+      <word id="l07-118-00-06" tag="AT" text="a">
+        <cmp x="1819" y="752" width="50" height="65" />
+      </word>
+      <word id="l07-118-00-07" tag="NN" text="lane">
+        <cmp x="1911" y="747" width="79" height="72" />
+        <cmp x="1990" y="753" width="53" height="58" />
+        <cmp x="2043" y="752" width="60" height="61" />
+      </word>
+      <lower-contour>
+        <point x="352" y="838" />
+        <point x="1947" y="838" />
+      </lower-contour>
+    </line>
+    <line ass="159" asx="0" asy="926" character-width="999" dss="159" dsx="0" dsy="1014" fd0="12192" fd1="2293" fd2="-1212" filter-width="5" id="l07-118-01" lbs="238" lbx="0" lby="998" segmentation="ok" slant="92999" stroke-width="7375" threshold="152" text="and helped me out with the same" ubs="1" ubx="0" uby="940">
+      <word id="l07-118-01-00" tag="CC" text="and">
+        <cmp x="354" y="925" width="163" height="69" />
+      </word>
+      <word id="l07-118-01-01" tag="VBD" text="helped">
+        <cmp x="577" y="927" width="95" height="71" />
+        <cmp x="679" y="932" width="21" height="61" />
+        <cmp x="700" y="928" width="177" height="85" />
+      </word>
+      <word id="l07-118-01-02" tag="PP1O" text="me">
+        <cmp x="923" y="946" width="90" height="50" />
+        <cmp x="1013" y="935" width="63" height="59" />
+      </word>
+      <word id="l07-118-01-03" tag="RP" text="out">
+        <cmp x="1125" y="930" width="138" height="61" />
+      </word>
+      <word id="l07-118-01-04" tag="IN" text="with">
+        <cmp x="1312" y="934" width="59" height="61" />
+        <cmp x="1374" y="950" width="10" height="45" />
+        <cmp x="1379" y="930" width="8" height="9" />
+        <cmp x="1386" y="933" width="82" height="66" />
+      </word>
+      <word id="l07-118-01-05" tag="ATI" text="the">
+        <cmp x="1505" y="930" width="37" height="65" />
+        <cmp x="1542" y="928" width="104" height="67" />
+      </word>
+      <word id="l07-118-01-06" tag="AP" text="same">
+        <cmp x="1693" y="934" width="252" height="66" />
+      </word>
+      <upper-contour>
+        <point x="352" y="838" />
+        <point x="1947" y="838" />
+      </upper-contour>
+      <lower-contour>
+        <point x="352" y="1014" />
+        <point x="1947" y="1014" />
+      </lower-contour>
+    </line>
+    <line ass="50" asx="0" asy="1077" character-width="999" dss="50" dsx="0" dsy="1206" fd0="12426" fd1="3063" fd2="-1052" filter-width="4" id="l07-118-02" lbs="-175" lbx="0" lby="1165" segmentation="err" slant="94000" stroke-width="7109" threshold="162" text="careful courtesy. &amp;quot;What sort of boat is it?&amp;quot;" ubs="501" ubx="0" uby="1128">
+      <word id="l07-118-02-00" tag="JJ" text="careful">
+        <cmp x="342" y="1110" width="108" height="64" />
+        <cmp x="450" y="1101" width="120" height="103" />
+        <cmp x="575" y="1113" width="56" height="56" />
+        <cmp x="637" y="1108" width="18" height="63" />
+      </word>
+      <word id="l07-118-02-01" tag="NN" text="courtesy">
+        <cmp x="703" y="1114" width="155" height="60" />
+        <cmp x="860" y="1114" width="29" height="54" />
+        <cmp x="884" y="1110" width="81" height="60" />
+        <cmp x="965" y="1112" width="59" height="60" />
+        <cmp x="1023" y="1115" width="61" height="78" />
+        <cmp x="1086" y="1162" width="8" height="8" />
+      </word>
+      <word id="l07-118-02-02" tag="." text=".">
+        <cmp x="1130" y="1090" width="8" height="35" />
+      </word>
+      <word id="l07-118-02-03" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="1142" y="1092" width="8" height="29" />
+      </word>
+      <word id="l07-118-02-04" tag="WDT" text="What">
+        <cmp x="1186" y="1089" width="63" height="84" />
+        <cmp x="1248" y="1102" width="52" height="72" />
+        <cmp x="1301" y="1108" width="59" height="64" />
+        <cmp x="1356" y="1104" width="36" height="70" />
+      </word>
+      <word id="l07-118-02-05" tag="NN" text="sort">
+        <cmp x="1430" y="1118" width="111" height="59" />
+        <cmp x="1543" y="1122" width="31" height="50" />
+        <cmp x="1565" y="1109" width="33" height="63" />
+      </word>
+      <word id="l07-118-02-06" tag="INO" text="of">
+        <cmp x="1639" y="1114" width="92" height="92" />
+      </word>
+      <word id="l07-118-02-07" tag="NN" text="boat">
+        <cmp x="1785" y="1109" width="200" height="73" />
+      </word>
+      <word id="l07-118-02-08" tag="BEZ" text="is">
+        <cmp x="2025" y="1121" width="11" height="49" />
+        <cmp x="2028" y="1102" width="7" height="9" />
+        <cmp x="2041" y="1112" width="51" height="59" />
+      </word>
+      <word id="l07-118-02-09" tag="PP3" text="it">
+        <cmp x="2134" y="1093" width="8" height="8" />
+        <cmp x="2134" y="1118" width="9" height="51" />
+        <cmp x="2149" y="1101" width="31" height="69" />
+      </word>
+      <word id="l07-118-02-10" tag="?" text="?">
+        <cmp x="2195" y="1090" width="41" height="59" />
+        <cmp x="2214" y="1167" width="7" height="8" />
+      </word>
+      <word id="l07-118-02-11" tag="**&apos;" text="&quot;">
+        <cmp x="2259" y="1077" width="9" height="27" />
+        <cmp x="2271" y="1077" width="6" height="31" />
+      </word>
+      <upper-contour>
+        <point x="352" y="1014" />
+        <point x="1947" y="1014" />
+      </upper-contour>
+      <lower-contour>
+        <point x="340" y="1206" />
+        <point x="2125" y="1206" />
+      </lower-contour>
+    </line>
+    <line ass="398" asx="0" asy="1268" character-width="999" dss="398" dsx="0" dsy="1373" fd0="12467" fd1="3045" fd2="-741" filter-width="4" id="l07-118-03" lbs="348" lbx="0" lby="1346" segmentation="ok" slant="94000" stroke-width="6816" threshold="172" text="I asked. &amp;quot;She,&amp;quot; he corrected. &amp;quot;She&apos;s a" ubs="496" ubx="0" uby="1323">
+      <word id="l07-118-03-00" tag="PP1A" text="I">
+        <cmp x="342" y="1280" width="7" height="72" />
+      </word>
+      <word id="l07-118-03-01" tag="VBD" text="asked">
+        <cmp x="393" y="1292" width="115" height="62" />
+        <cmp x="503" y="1288" width="163" height="70" />
+      </word>
+      <word id="l07-118-03-02" tag="." text=".">
+        <cmp x="696" y="1343" width="6" height="7" />
+      </word>
+      <word id="l07-118-03-03" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="748" y="1267" width="6" height="27" />
+        <cmp x="758" y="1263" width="7" height="34" />
+      </word>
+      <word id="l07-118-03-04" tag="PP3A" text="She">
+        <cmp x="780" y="1272" width="178" height="80" />
+      </word>
+      <word id="l07-118-03-05" tag="," text=",">
+        <cmp x="967" y="1337" width="13" height="30" />
+      </word>
+      <word id="l07-118-03-06" tag="**&apos;" text="&quot;">
+        <cmp x="993" y="1263" width="7" height="25" />
+        <cmp x="1007" y="1263" width="6" height="26" />
+      </word>
+      <word id="l07-118-03-07" tag="PP3A" text="he">
+        <cmp x="1059" y="1277" width="103" height="77" />
+      </word>
+      <word id="l07-118-03-08" tag="VBD" text="corrected">
+        <cmp x="1200" y="1288" width="56" height="62" />
+        <cmp x="1255" y="1289" width="59" height="59" />
+        <cmp x="1319" y="1289" width="120" height="61" />
+        <cmp x="1443" y="1290" width="51" height="59" />
+        <cmp x="1498" y="1284" width="31" height="71" />
+        <cmp x="1528" y="1285" width="126" height="68" />
+      </word>
+      <word id="l07-118-03-09" tag="." text=".">
+        <cmp x="1680" y="1335" width="7" height="9" />
+      </word>
+      <word id="l07-118-03-10" sentence-start="yes" tag="*&apos;" text="&quot;">
+        <cmp x="1723" y="1270" width="8" height="31" />
+        <cmp x="1734" y="1267" width="7" height="34" />
+      </word>
+      <word id="l07-118-03-11" tag="PP3A" text="She">
+        <cmp x="1757" y="1280" width="176" height="72" />
+      </word>
+      <word id="l07-118-03-12" tag="BEZ" text="&apos;s">
+        <cmp x="1949" y="1265" width="6" height="21" />
+        <cmp x="1980" y="1295" width="56" height="55" />
+      </word>
+      <word id="l07-118-03-13" tag="AT" text="a">
+        <cmp x="2065" y="1291" width="59" height="61" />
+      </word>
+      <upper-contour>
+        <point x="340" y="1206" />
+        <point x="2125" y="1206" />
+      </upper-contour>
+      <lower-contour>
+        <point x="340" y="1367" />
+        <point x="2125" y="1367" />
+      </lower-contour>
+    </line>
+    <line ass="-92" asx="0" asy="1450" character-width="999" dss="-92" dsx="0" dsy="1572" fd0="12484" fd1="2325" fd2="-1266" filter-width="4" id="l07-118-04" lbs="61" lbx="0" lby="1533" segmentation="ok" slant="92999" stroke-width="7135" threshold="169" text="converted life-boat. Not a very good one," ubs="-399" ubx="0" uby="1469">
+      <word id="l07-118-04-00" tag="JJ" text="converted">
+        <cmp x="325" y="1470" width="153" height="64" />
+        <cmp x="477" y="1473" width="43" height="63" />
+        <cmp x="519" y="1460" width="213" height="73" />
+      </word>
+      <word id="l07-118-04-01" tag="NN" text="life-boat">
+        <cmp x="792" y="1465" width="26" height="66" />
+        <cmp x="819" y="1479" width="10" height="52" />
+        <cmp x="821" y="1455" width="8" height="9" />
+        <cmp x="830" y="1457" width="98" height="95" />
+        <cmp x="953" y="1486" width="32" height="10" />
+        <cmp x="1015" y="1458" width="197" height="77" />
+      </word>
+      <word id="l07-118-04-02" tag="." text=".">
+        <cmp x="1225" y="1520" width="7" height="9" />
+      </word>
+      <word id="l07-118-04-03" sentence-start="yes" tag="XNOT" text="Not">
+        <cmp x="1279" y="1453" width="124" height="80" />
+      </word>
+      <word id="l07-118-04-04" tag="AT" text="a">
+        <cmp x="1437" y="1470" width="58" height="64" />
+      </word>
+      <word id="l07-118-04-05" tag="QL" text="very">
+        <cmp x="1541" y="1465" width="102" height="73" />
+        <cmp x="1642" y="1485" width="61" height="72" />
+      </word>
+      <word id="l07-118-04-06" tag="JJ" text="good">
+        <cmp x="1754" y="1464" width="214" height="112" />
+      </word>
+      <word id="l07-118-04-07" tag="CD1" text="one">
+        <cmp x="2011" y="1476" width="54" height="61" />
+        <cmp x="2065" y="1466" width="104" height="65" />
+      </word>
+      <word id="l07-118-04-08" tag="," text=",">
+        <cmp x="2190" y="1523" width="21" height="35" />
+      </word>
+      <upper-contour>
+        <point x="340" y="1367" />
+        <point x="2125" y="1367" />
+      </upper-contour>
+      <lower-contour>
+        <point x="323" y="1576" />
+        <point x="1867" y="1576" />
+      </lower-contour>
+    </line>
+    <line ass="-154" asx="0" asy="1628" character-width="999" dss="-154" dsx="0" dsy="1742" fd0="12329" fd1="2674" fd2="-919" filter-width="4" id="l07-118-05" lbs="-227" lbx="0" lby="1703" segmentation="ok" slant="90000" stroke-width="7127" threshold="167" text="but she&apos;s sound enough and the" ubs="-7" ubx="0" uby="1656">
+      <word id="l07-118-05-00" tag="CC" text="but">
+        <cmp x="314" y="1643" width="138" height="75" />
+      </word>
+      <word id="l07-118-05-01" tag="PP3A" text="she">
+        <cmp x="505" y="1646" width="152" height="71" />
+      </word>
+      <word id="l07-118-05-02" tag="BEZ" text="&apos;s">
+        <cmp x="671" y="1631" width="8" height="25" />
+        <cmp x="690" y="1652" width="56" height="62" />
+      </word>
+      <word id="l07-118-05-03" tag="JJ" text="sound">
+        <cmp x="819" y="1641" width="258" height="76" />
+      </word>
+      <word id="l07-118-05-04" tag="QLP" text="enough">
+        <cmp x="1124" y="1649" width="214" height="66" />
+        <cmp x="1338" y="1657" width="54" height="90" />
+        <cmp x="1393" y="1643" width="56" height="67" />
+      </word>
+      <word id="l07-118-05-05" tag="CC" text="and">
+        <cmp x="1498" y="1644" width="157" height="70" />
+      </word>
+      <word id="l07-118-05-06" tag="ATI" text="the">
+        <cmp x="1711" y="1646" width="155" height="74" />
+      </word>
+      <upper-contour>
+        <point x="323" y="1576" />
+        <point x="1867" y="1576" />
+      </upper-contour>
+      <lower-contour>
+        <point x="313" y="1719" />
+        <point x="941" y="1719" />
+      </lower-contour>
+    </line>
+    <line ass="2078" asx="0" asy="1829" character-width="999" dss="2078" dsx="0" dsy="1947" fd0="12869" fd1="3108" fd2="-970" filter-width="4" id="l07-118-06" lbs="1690" lbx="0" lby="1889" segmentation="ok" slant="95000" stroke-width="6910" threshold="173" text="engine&apos;s fine.&amp;quot;" ubs="2853" ubx="0" uby="1881">
+      <word id="l07-118-06-00" tag="NN" text="engine">
+        <cmp x="315" y="1835" width="155" height="93" />
+        <cmp x="471" y="1839" width="10" height="48" />
+        <cmp x="472" y="1812" width="9" height="11" />
+        <cmp x="490" y="1825" width="104" height="66" />
+      </word>
+      <word id="l07-118-06-01" tag="BEZ" text="&apos;s">
+        <cmp x="615" y="1810" width="6" height="17" />
+        <cmp x="628" y="1828" width="57" height="59" />
+      </word>
+      <word id="l07-118-06-02" tag="JJ" text="fine">
+        <cmp x="743" y="1821" width="39" height="100" />
+        <cmp x="789" y="1837" width="11" height="50" />
+        <cmp x="791" y="1820" width="8" height="9" />
+        <cmp x="805" y="1827" width="100" height="66" />
+      </word>
+      <word id="l07-118-06-03" tag="." text=".">
+        <cmp x="921" y="1877" width="7" height="9" />
+      </word>
+      <word id="l07-118-06-04" tag="**&apos;" text="&quot;">
+        <cmp x="923" y="1810" width="6" height="24" />
+        <cmp x="934" y="1810" width="6" height="23" />
+      </word>
+      <upper-contour>
+        <point x="313" y="1719" />
+        <point x="941" y="1719" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

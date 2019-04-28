@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-18" height="3542" id="e06-003" last-modified="2002-07-24" skew="159" status="final" version="3.0_beta" width="2479" writer-id="204">
+  <machine-printed-part>
+    <machine-print-line text="Thus we can see that herring movements, although primarily instinctive perhaps, and" />
+    <machine-print-line text="certainly helped and hindered by water flow, are also closely related to the sea-bed" />
+    <machine-print-line text="geography. Geography, too, names the great fisheries that depend on them: the" />
+    <machine-print-line text="Fladen Ground (where again most big shots are taken on the edges), the Gut, a deep-" />
+    <machine-print-line text="water channel to the Dogger where the herring spawn along the northern edge; a" />
+    <machine-print-line text="good contour map will almost define the migrations of these summer herring." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="37" asx="0" asy="704" character-width="999" dss="37" dsx="0" dsy="885" fd0="14833" fd1="2078" fd2="-1635" filter-width="4" id="e06-003-00" lbs="95" lbx="0" lby="806" segmentation="ok" slant="46000" stroke-width="6403" threshold="180" text="Thus we can see that herring" ubs="-78" ubx="0" uby="760">
+      <word id="e06-003-00-00" sentence-start="yes" tag="RB" text="Thus">
+        <cmp x="378" y="708" width="199" height="106" />
+      </word>
+      <word id="e06-003-00-01" tag="PP1AS" text="we">
+        <cmp x="627" y="743" width="171" height="71" />
+      </word>
+      <word id="e06-003-00-02" tag="MD" text="can">
+        <cmp x="816" y="757" width="50" height="50" />
+        <cmp x="862" y="759" width="141" height="49" />
+      </word>
+      <word id="e06-003-00-03" tag="VB" text="see">
+        <cmp x="1071" y="741" width="137" height="65" />
+      </word>
+      <word id="e06-003-00-04" tag="DT" text="that">
+        <cmp x="1263" y="718" width="154" height="95" />
+        <cmp x="1379" y="710" width="152" height="98" />
+      </word>
+      <word id="e06-003-00-05" tag="NN" text="herring">
+        <cmp x="1544" y="703" width="301" height="109" />
+        <cmp x="1814" y="725" width="12" height="10" />
+        <cmp x="1818" y="765" width="74" height="121" />
+      </word>
+      <lower-contour>
+        <point x="376" y="814" />
+        <point x="1818" y="887" />
+        <point x="1864" y="887" />
+      </lower-contour>
+    </line>
+    <line ass="-265" asx="0" asy="870" character-width="999" dss="-265" dsx="0" dsy="1041" fd0="14623" fd1="1836" fd2="-2649" filter-width="4" id="e06-003-01" lbs="-251" lbx="0" lby="973" segmentation="ok" slant="45000" stroke-width="6692" threshold="179" text="movements, although primarily" ubs="-294" ubx="0" uby="933">
+      <word id="e06-003-01-00" tag="NNS" text="movements">
+        <cmp x="364" y="894" width="139" height="93" />
+        <cmp x="460" y="879" width="391" height="110" />
+        <cmp x="500" y="920" width="18" height="27" />
+      </word>
+      <word id="e06-003-01-01" tag="," text=",">
+        <cmp x="855" y="961" width="29" height="49" />
+      </word>
+      <word id="e06-003-01-02" tag="CS" text="although">
+        <cmp x="939" y="875" width="252" height="111" />
+        <cmp x="1155" y="888" width="140" height="160" />
+        <cmp x="1202" y="922" width="19" height="31" />
+      </word>
+      <word id="e06-003-01-03" tag="RB" text="primarily">
+        <cmp x="1347" y="916" width="257" height="101" />
+        <cmp x="1532" y="882" width="19" height="13" />
+        <cmp x="1610" y="887" width="253" height="143" />
+        <cmp x="1774" y="888" width="9" height="11" />
+      </word>
+      <upper-contour>
+        <point x="376" y="814" />
+        <point x="1818" y="887" />
+        <point x="1864" y="887" />
+      </upper-contour>
+      <lower-contour>
+        <point x="362" y="1048" />
+        <point x="1864" y="1048" />
+      </lower-contour>
+    </line>
+    <line ass="619" asx="0" asy="1062" character-width="999" dss="619" dsx="0" dsy="1253" fd0="14840" fd1="2156" fd2="-1979" filter-width="4" id="e06-003-02" lbs="1227" lbx="0" lby="1190" segmentation="err" slant="38000" stroke-width="6648" threshold="177" text="instinctive perhaps, and certainly" ubs="-595" ubx="0" uby="1112">
+      <word id="e06-003-02-00" tag="JJ" text="instinctive">
+        <cmp x="335" y="1068" width="276" height="114" />
+        <cmp x="451" y="1225" width="11" height="11" />
+        <cmp x="458" y="1059" width="10" height="11" />
+        <cmp x="580" y="1076" width="12" height="8" />
+        <cmp x="595" y="1059" width="206" height="106" />
+        <cmp x="747" y="1074" width="11" height="10" />
+      </word>
+      <word id="e06-003-02-01" tag="RB" text="perhaps">
+        <cmp x="843" y="1066" width="243" height="149" />
+        <cmp x="1052" y="1115" width="153" height="107" />
+      </word>
+      <word id="e06-003-02-02" tag="," text=",">
+        <cmp x="1196" y="1134" width="40" height="56" />
+      </word>
+      <word id="e06-003-02-03" tag="CC" text="and">
+        <cmp x="1253" y="1114" width="126" height="50" />
+        <cmp x="1373" y="1076" width="105" height="89" />
+      </word>
+      <word id="e06-003-02-04" tag="RB" text="certainly">
+        <cmp x="1528" y="1082" width="329" height="91" />
+        <cmp x="1810" y="1072" width="19" height="13" />
+        <cmp x="1835" y="1083" width="182" height="151" />
+      </word>
+      <upper-contour>
+        <point x="362" y="1048" />
+        <point x="1864" y="1048" />
+      </upper-contour>
+      <lower-contour>
+        <point x="339" y="1235" />
+        <point x="2018" y="1235" />
+      </lower-contour>
+    </line>
+    <line ass="274" asx="0" asy="1241" character-width="999" dss="274" dsx="0" dsy="1431" fd0="14602" fd1="2031" fd2="-1794" filter-width="4" id="e06-003-03" lbs="367" lbx="0" lby="1342" segmentation="err" slant="39000" stroke-width="6582" threshold="178" text="helped and hindered by water flow," ubs="89" ubx="0" uby="1297">
+      <word id="e06-003-03-00" tag="VBN" text="helped">
+        <cmp x="341" y="1240" width="337" height="161" />
+      </word>
+      <word id="e06-003-03-01" tag="CC" text="and">
+        <cmp x="704" y="1270" width="185" height="85" />
+      </word>
+      <word id="e06-003-03-02" tag="VBN" text="hindered">
+        <cmp x="939" y="1255" width="165" height="91" />
+        <cmp x="1065" y="1252" width="15" height="11" />
+        <cmp x="1089" y="1247" width="272" height="100" />
+      </word>
+      <word id="e06-003-03-03" tag="IN" text="by">
+        <cmp x="1400" y="1256" width="177" height="170" />
+      </word>
+      <word id="e06-003-03-04" tag="NN" text="water">
+        <cmp x="1609" y="1277" width="122" height="60" />
+        <cmp x="1712" y="1245" width="236" height="96" />
+      </word>
+      <word id="e06-003-03-05" tag="NN" text="flow">
+        <cmp x="1987" y="1247" width="211" height="127" />
+      </word>
+      <word id="e06-003-03-06" tag="," text=",">
+        <cmp x="2175" y="1332" width="34" height="38" />
+      </word>
+      <upper-contour>
+        <point x="339" y="1235" />
+        <point x="2018" y="1235" />
+      </upper-contour>
+      <lower-contour>
+        <point x="353" y="1400" />
+        <point x="1469" y="1426" />
+        <point x="1589" y="1376" />
+        <point x="2210" y="1376" />
+      </lower-contour>
+    </line>
+    <line ass="249" asx="0" asy="1417" character-width="999" dss="249" dsx="0" dsy="1598" fd0="14502" fd1="2154" fd2="-1940" filter-width="4" id="e06-003-04" lbs="401" lbx="0" lby="1526" segmentation="ok" slant="56000" stroke-width="6407" threshold="178" text="are also closely related to the sea-bed" ubs="-54" ubx="0" uby="1469">
+      <word id="e06-003-04-00" tag="BER" text="are">
+        <cmp x="355" y="1446" width="142" height="68" />
+      </word>
+      <word id="e06-003-04-01" tag="RB" text="also">
+        <cmp x="556" y="1414" width="156" height="111" />
+        <cmp x="696" y="1467" width="51" height="64" />
+      </word>
+      <word id="e06-003-04-02" tag="RB" text="closely">
+        <cmp x="798" y="1414" width="148" height="113" />
+        <cmp x="893" y="1443" width="238" height="151" />
+        <cmp x="924" y="1423" width="4" height="5" />
+      </word>
+      <word id="e06-003-04-03" tag="VBN" text="related">
+        <cmp x="1204" y="1414" width="182" height="117" />
+        <cmp x="1341" y="1430" width="153" height="96" />
+        <cmp x="1493" y="1422" width="105" height="88" />
+      </word>
+      <word id="e06-003-04-04" tag="IN" text="to">
+        <cmp x="1594" y="1419" width="127" height="100" />
+      </word>
+      <word id="e06-003-04-05" tag="ATI" text="the">
+        <cmp x="1729" y="1428" width="143" height="89" />
+      </word>
+      <word id="e06-003-04-06" tag="NN" text="sea-bed">
+        <cmp x="1930" y="1458" width="128" height="67" />
+        <cmp x="2070" y="1496" width="38" height="15" />
+        <cmp x="2104" y="1443" width="168" height="84" />
+      </word>
+      <upper-contour>
+        <point x="353" y="1400" />
+        <point x="1469" y="1426" />
+        <point x="1589" y="1376" />
+        <point x="2210" y="1376" />
+      </upper-contour>
+      <lower-contour>
+        <point x="366" y="1594" />
+        <point x="2143" y="1594" />
+      </lower-contour>
+    </line>
+    <line ass="1197" asx="0" asy="1633" character-width="999" dss="1197" dsx="0" dsy="1806" fd0="13695" fd1="2114" fd2="-1553" filter-width="4" id="e06-003-05" lbs="1380" lbx="0" lby="1738" segmentation="ok" slant="68000" stroke-width="6519" threshold="177" text="geography. Geography, too, names the" ubs="831" ubx="0" uby="1685">
+      <word id="e06-003-05-00" tag="NN" text="geography">
+        <cmp x="368" y="1625" width="454" height="164" />
+      </word>
+      <word id="e06-003-05-01" tag="." text=".">
+        <cmp x="832" y="1685" width="7" height="8" />
+      </word>
+      <word id="e06-003-05-02" sentence-start="yes" tag="NN" text="Geography">
+        <cmp x="906" y="1614" width="338" height="171" />
+        <cmp x="1250" y="1610" width="116" height="149" />
+      </word>
+      <word id="e06-003-05-03" tag="," text=",">
+        <cmp x="1370" y="1678" width="32" height="54" />
+      </word>
+      <word id="e06-003-05-04" tag="RB" text="too">
+        <cmp x="1410" y="1624" width="144" height="89" />
+      </word>
+      <word id="e06-003-05-05" tag="," text=",">
+        <cmp x="1544" y="1679" width="27" height="45" />
+      </word>
+      <word id="e06-003-05-06" tag="VBZ" text="names">
+        <cmp x="1604" y="1637" width="100" height="64" />
+        <cmp x="1709" y="1648" width="190" height="57" />
+      </word>
+      <word id="e06-003-05-07" tag="ATI" text="the">
+        <cmp x="1951" y="1597" width="191" height="108" />
+      </word>
+      <upper-contour>
+        <point x="366" y="1594" />
+        <point x="2143" y="1594" />
+      </upper-contour>
+      <lower-contour>
+        <point x="370" y="1788" />
+        <point x="882" y="1786" />
+        <point x="1520" y="1724" />
+        <point x="2143" y="1724" />
+      </lower-contour>
+    </line>
+    <line ass="905" asx="0" asy="1801" character-width="999" dss="905" dsx="0" dsy="1983" fd0="14454" fd1="2242" fd2="-1232" filter-width="4" id="e06-003-06" lbs="969" lbx="0" lby="1901" segmentation="ok" slant="49000" stroke-width="6696" threshold="176" text="great fisheries that depend on them:" ubs="777" ubx="0" uby="1860">
+      <word id="e06-003-06-00" tag="JJ" text="great">
+        <cmp x="372" y="1824" width="127" height="154" />
+        <cmp x="502" y="1802" width="106" height="91" />
+      </word>
+      <word id="e06-003-06-01" tag="NNS" text="fisheries">
+        <cmp x="649" y="1794" width="149" height="141" />
+        <cmp x="765" y="1802" width="10" height="10" />
+        <cmp x="789" y="1787" width="269" height="98" />
+        <cmp x="999" y="1800" width="14" height="11" />
+      </word>
+      <word id="e06-003-06-02" tag="WP" text="that">
+        <cmp x="1122" y="1788" width="278" height="102" />
+      </word>
+      <word id="e06-003-06-03" tag="VB" text="depend">
+        <cmp x="1424" y="1786" width="159" height="141" />
+        <cmp x="1548" y="1822" width="123" height="54" />
+        <cmp x="1652" y="1781" width="112" height="93" />
+      </word>
+      <word id="e06-003-06-04" tag="IN" text="on">
+        <cmp x="1757" y="1815" width="125" height="61" />
+      </word>
+      <word id="e06-003-06-05" tag="PP3OS" text="them">
+        <cmp x="1899" y="1784" width="237" height="99" />
+      </word>
+      <word id="e06-003-06-06" tag=":" text=":">
+        <cmp x="2159" y="1871" width="7" height="8" />
+        <cmp x="2166" y="1842" width="12" height="13" />
+      </word>
+      <upper-contour>
+        <point x="370" y="1788" />
+        <point x="882" y="1786" />
+        <point x="1520" y="1724" />
+        <point x="2143" y="1724" />
+      </upper-contour>
+      <lower-contour>
+        <point x="370" y="1977" />
+        <point x="442" y="1934" />
+        <point x="2173" y="1934" />
+      </lower-contour>
+    </line>
+    <line ass="431" asx="0" asy="1951" character-width="999" dss="431" dsx="0" dsy="2150" fd0="14195" fd1="1978" fd2="-1621" filter-width="4" id="e06-003-07" lbs="532" lbx="0" lby="2065" segmentation="err" slant="54000" stroke-width="6655" threshold="177" text="the Fladen Ground (where again most big" ubs="228" ubx="0" uby="2016">
+      <word id="e06-003-07-00" tag="ATI" text="the">
+        <cmp x="372" y="1949" width="106" height="111" />
+      </word>
+      <word id="e06-003-07-01" tag="NP" text="Fladen">
+        <cmp x="560" y="1960" width="101" height="104" />
+        <cmp x="619" y="2002" width="52" height="59" />
+        <cmp x="661" y="1970" width="162" height="93" />
+        <cmp x="864" y="1969" width="86" height="139" />
+      </word>
+      <word id="e06-003-07-02" tag="NP" text="Ground">
+        <cmp x="939" y="1973" width="232" height="89" />
+      </word>
+      <word id="e06-003-07-03" tag="(" text="(">
+        <cmp x="1216" y="1978" width="34" height="84" />
+      </word>
+      <word id="e06-003-07-04" tag="WRB" text="where">
+        <cmp x="1245" y="1981" width="235" height="81" />
+      </word>
+      <word id="e06-003-07-05" tag="RB" text="again">
+        <cmp x="1511" y="2005" width="243" height="135" />
+        <cmp x="1717" y="1972" width="10" height="9" />
+        <cmp x="1808" y="2008" width="111" height="54" />
+      </word>
+      <word id="e06-003-07-06" tag="AP" text="most">
+        <cmp x="1899" y="1980" width="143" height="87" />
+        <cmp x="2048" y="1990" width="83" height="68" />
+      </word>
+      <word id="e06-003-07-07" tag="JJ" text="big">
+        <cmp x="2122" y="2008" width="50" height="97" />
+        <cmp x="2130" y="1992" width="10" height="13" />
+      </word>
+      <upper-contour>
+        <point x="370" y="1977" />
+        <point x="442" y="1934" />
+        <point x="2173" y="1934" />
+      </upper-contour>
+      <lower-contour>
+        <point x="370" y="2107" />
+        <point x="1557" y="2140" />
+        <point x="1953" y="2107" />
+        <point x="2173" y="2107" />
+      </lower-contour>
+    </line>
+    <line ass="22" asx="0" asy="2110" character-width="999" dss="22" dsx="0" dsy="2299" fd0="14483" fd1="2018" fd2="-1642" filter-width="4" id="e06-003-08" lbs="118" lbx="0" lby="2229" segmentation="err" slant="54000" stroke-width="6604" threshold="178" text="shots are taken on the edges), the Gut," ubs="-167" ubx="0" uby="2189">
+      <word id="e06-003-08-00" tag="NNS" text="shots">
+        <cmp x="355" y="2128" width="139" height="103" />
+        <cmp x="456" y="2127" width="137" height="107" />
+      </word>
+      <word id="e06-003-08-01" tag="BER" text="are">
+        <cmp x="615" y="2181" width="137" height="52" />
+      </word>
+      <word id="e06-003-08-02" tag="VBN" text="taken">
+        <cmp x="774" y="2142" width="256" height="94" />
+        <cmp x="852" y="2111" width="17" height="36" />
+      </word>
+      <word id="e06-003-08-03" tag="IN" text="on">
+        <cmp x="1100" y="2185" width="112" height="49" />
+      </word>
+      <word id="e06-003-08-04" tag="ATI" text="the">
+        <cmp x="1259" y="2130" width="143" height="103" />
+      </word>
+      <word id="e06-003-08-05" tag="NNS" text="edges">
+        <cmp x="1478" y="2155" width="174" height="86" />
+        <cmp x="1596" y="2190" width="142" height="110" />
+        <cmp x="1725" y="2164" width="42" height="84" />
+      </word>
+      <word id="e06-003-08-06" tag=")" text=")">
+        <cmp x="1766" y="2219" width="33" height="53" />
+      </word>
+      <word id="e06-003-08-07" tag="," text="," />
+      <word id="e06-003-08-08" tag="ATI" text="the">
+        <cmp x="1850" y="2137" width="173" height="100" />
+      </word>
+      <word id="e06-003-08-09" tag="NP" text="Gut">
+        <cmp x="2025" y="2146" width="185" height="145" />
+      </word>
+      <word id="e06-003-08-10" tag="," text=",">
+        <cmp x="2158" y="2217" width="37" height="50" />
+      </word>
+      <upper-contour>
+        <point x="370" y="2107" />
+        <point x="1557" y="2140" />
+        <point x="1953" y="2107" />
+        <point x="2173" y="2107" />
+      </upper-contour>
+      <lower-contour>
+        <point x="381" y="2301" />
+        <point x="2211" y="2301" />
+      </lower-contour>
+    </line>
+    <line ass="159" asx="0" asy="2316" character-width="999" dss="159" dsx="0" dsy="2482" fd0="14222" fd1="1872" fd2="-2322" filter-width="4" id="e06-003-09" lbs="214" lbx="0" lby="2418" segmentation="err" slant="56000" stroke-width="6524" threshold="179" text="a deep-water channel to the Dogger where" ubs="50" ubx="0" uby="2376">
+      <word id="e06-003-09-00" tag="AT" text="a">
+        <cmp x="383" y="2357" width="42" height="61" />
+      </word>
+      <word id="e06-003-09-01" tag="JJB" text="deep-water">
+        <cmp x="476" y="2315" width="231" height="134" />
+        <cmp x="700" y="2332" width="164" height="90" />
+        <cmp x="934" y="2328" width="111" height="101" />
+      </word>
+      <word id="e06-003-09-02" tag="NN" text="channel">
+        <cmp x="1030" y="2334" width="241" height="93" />
+      </word>
+      <word id="e06-003-09-03" tag="IN" text="to">
+        <cmp x="1287" y="2327" width="118" height="91" />
+      </word>
+      <word id="e06-003-09-04" tag="ATI" text="the">
+        <cmp x="1433" y="2333" width="147" height="81" />
+      </word>
+      <word id="e06-003-09-05" tag="NP" text="Dogger">
+        <cmp x="1652" y="2332" width="82" height="94" />
+        <cmp x="1706" y="2376" width="50" height="49" />
+        <cmp x="1749" y="2369" width="205" height="110" />
+        <cmp x="1775" y="2382" width="19" height="18" />
+      </word>
+      <word id="e06-003-09-06" tag="WRB" text="where">
+        <cmp x="1990" y="2340" width="225" height="82" />
+      </word>
+      <upper-contour>
+        <point x="381" y="2301" />
+        <point x="2211" y="2301" />
+      </upper-contour>
+      <lower-contour>
+        <point x="381" y="2480" />
+        <point x="2082" y="2480" />
+      </lower-contour>
+    </line>
+    <line ass="0" asx="0" asy="2486" character-width="999" dss="0" dsx="0" dsy="2665" fd0="14821" fd1="1701" fd2="-2123" filter-width="4" id="e06-003-10" lbs="78" lbx="0" lby="2587" segmentation="ok" slant="50000" stroke-width="6553" threshold="179" text="the herring spawn along the northern" ubs="-155" ubx="0" uby="2541">
+      <word id="e06-003-10-00" tag="ATI" text="the">
+        <cmp x="379" y="2488" width="135" height="103" />
+      </word>
+      <word id="e06-003-10-01" tag="NNS" text="herring">
+        <cmp x="603" y="2486" width="247" height="109" />
+        <cmp x="797" y="2487" width="19" height="10" />
+        <cmp x="828" y="2543" width="63" height="112" />
+      </word>
+      <word id="e06-003-10-02" tag="VB" text="spawn">
+        <cmp x="942" y="2535" width="111" height="107" />
+        <cmp x="1027" y="2541" width="156" height="53" />
+      </word>
+      <word id="e06-003-10-03" tag="IN" text="along">
+        <cmp x="1220" y="2504" width="131" height="89" />
+        <cmp x="1303" y="2541" width="165" height="125" />
+      </word>
+      <word id="e06-003-10-04" tag="ATI" text="the">
+        <cmp x="1503" y="2492" width="147" height="93" />
+      </word>
+      <word id="e06-003-10-05" tag="JJ" text="northern">
+        <cmp x="1683" y="2530" width="83" height="62" />
+        <cmp x="1748" y="2501" width="333" height="93" />
+      </word>
+      <upper-contour>
+        <point x="381" y="2480" />
+        <point x="2082" y="2480" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

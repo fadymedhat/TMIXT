@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-25" height="3542" id="l03-008" last-modified="2002-07-17" skew="0" status="final" version="3.0_beta" width="2479" writer-id="478">
+  <machine-printed-part>
+    <machine-print-line text="Shouts, and the clatter of feet meant Goldie and Leo Grundy were on their way." />
+    <machine-print-line text="Kennan pulled the manacle chain taut, and blasted two shots at the link which tied" />
+    <machine-print-line text="him to the ring-bolt in the rock. The nine-millimetre bullets smashed the chain as if" />
+    <machine-print-line text="it had been plastic, and, free, though the chain still dangled, he threw himself across" />
+    <machine-print-line text="the floor towards the entrance." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="2" asx="0" asy="703" character-width="999" dss="2" dsx="0" dsy="824" fd0="12863" fd1="2417" fd2="-1531" filter-width="3" id="l03-008-00" lbs="119" lbx="0" lby="789" segmentation="ok" slant="89000" stroke-width="5381" threshold="186" text="Shouts, and the clatter of feet meant" ubs="-233" ubx="0" uby="743">
+      <word id="l03-008-00-00" sentence-start="yes" tag="NNS" text="Shouts">
+        <cmp x="350" y="714" width="101" height="76" />
+        <cmp x="373" y="730" width="3" height="3" />
+        <cmp x="379" y="723" width="25" height="7" />
+        <cmp x="460" y="748" width="51" height="43" />
+        <cmp x="520" y="749" width="55" height="41" />
+        <cmp x="580" y="718" width="37" height="72" />
+        <cmp x="615" y="740" width="39" height="45" />
+      </word>
+      <word id="l03-008-00-01" tag="," text=",">
+        <cmp x="676" y="782" width="11" height="24" />
+      </word>
+      <word id="l03-008-00-02" tag="CC" text="and">
+        <cmp x="744" y="736" width="68" height="56" />
+        <cmp x="820" y="752" width="39" height="41" />
+        <cmp x="875" y="751" width="43" height="40" />
+        <cmp x="919" y="725" width="8" height="71" />
+      </word>
+      <word id="l03-008-00-03" tag="ATI" text="the">
+        <cmp x="990" y="722" width="40" height="68" />
+        <cmp x="1040" y="704" width="40" height="83" />
+        <cmp x="1084" y="736" width="35" height="52" />
+        <cmp x="1096" y="735" width="41" height="31" />
+      </word>
+      <word id="l03-008-00-04" tag="NN" text="clatter">
+        <cmp x="1191" y="712" width="62" height="76" />
+        <cmp x="1252" y="731" width="65" height="60" />
+        <cmp x="1333" y="728" width="13" height="65" />
+        <cmp x="1352" y="732" width="72" height="72" />
+        <cmp x="1436" y="755" width="27" height="33" />
+      </word>
+      <word id="l03-008-00-05" tag="INO" text="of">
+        <cmp x="1532" y="710" width="88" height="115" />
+      </word>
+      <word id="l03-008-00-06" tag="NNS" text="feet">
+        <cmp x="1682" y="709" width="133" height="105" />
+        <cmp x="1822" y="718" width="22" height="65" />
+        <cmp x="1830" y="712" width="8" height="4" />
+      </word>
+      <word id="l03-008-00-07" tag="VBD" text="meant">
+        <cmp x="1918" y="739" width="157" height="54" />
+        <cmp x="2078" y="752" width="43" height="40" />
+        <cmp x="2135" y="718" width="48" height="81" />
+      </word>
+      <lower-contour>
+        <point x="348" y="825" />
+        <point x="2184" y="825" />
+      </lower-contour>
+    </line>
+    <line ass="-189" asx="0" asy="875" character-width="999" dss="-189" dsx="0" dsy="1026" fd0="12991" fd1="2334" fd2="-1847" filter-width="3" id="l03-008-01" lbs="-186" lbx="0" lby="959" segmentation="ok" slant="90000" stroke-width="5320" threshold="187" text="Goldie and Leo Grundy were on their" ubs="-194" ubx="0" uby="931">
+      <word id="l03-008-01-00" tag="NP" text="Goldie">
+        <cmp x="349" y="887" width="67" height="85" />
+        <cmp x="406" y="923" width="48" height="48" />
+        <cmp x="463" y="884" width="12" height="88" />
+        <cmp x="476" y="877" width="63" height="95" />
+        <cmp x="547" y="910" width="13" height="12" />
+        <cmp x="550" y="924" width="6" height="40" />
+        <cmp x="558" y="916" width="69" height="60" />
+      </word>
+      <word id="l03-008-01-01" tag="CC" text="and">
+        <cmp x="724" y="920" width="65" height="48" />
+        <cmp x="795" y="922" width="38" height="50" />
+        <cmp x="835" y="905" width="60" height="71" />
+      </word>
+      <word id="l03-008-01-02" tag="NP" text="Leo">
+        <cmp x="938" y="900" width="60" height="75" />
+        <cmp x="999" y="923" width="66" height="45" />
+        <cmp x="1068" y="921" width="69" height="47" />
+      </word>
+      <word id="l03-008-01-03" tag="NP" text="Grundy">
+        <cmp x="1176" y="900" width="71" height="73" />
+        <cmp x="1215" y="936" width="47" height="27" />
+        <cmp x="1266" y="918" width="31" height="49" />
+        <cmp x="1306" y="933" width="55" height="40" />
+        <cmp x="1332" y="931" width="16" height="9" />
+        <cmp x="1365" y="929" width="31" height="44" />
+        <cmp x="1406" y="905" width="67" height="72" />
+        <cmp x="1455" y="937" width="67" height="95" />
+      </word>
+      <word id="l03-008-01-04" tag="BED" text="were">
+        <cmp x="1584" y="927" width="84" height="50" />
+        <cmp x="1678" y="919" width="58" height="56" />
+        <cmp x="1699" y="924" width="45" height="30" />
+        <cmp x="1754" y="924" width="76" height="51" />
+      </word>
+      <word id="l03-008-01-05" tag="IN" text="on">
+        <cmp x="1876" y="931" width="62" height="46" />
+        <cmp x="1936" y="933" width="38" height="45" />
+      </word>
+      <word id="l03-008-01-06" tag="PP$" text="their">
+        <cmp x="2035" y="934" width="3" height="7" />
+        <cmp x="2040" y="911" width="42" height="60" />
+        <cmp x="2082" y="894" width="117" height="94" />
+        <cmp x="2096" y="889" width="4" height="3" />
+        <cmp x="2185" y="924" width="22" height="23" />
+        <cmp x="2207" y="941" width="50" height="41" />
+      </word>
+      <upper-contour>
+        <point x="348" y="825" />
+        <point x="2184" y="825" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="1032" />
+        <point x="2257" y="1032" />
+      </lower-contour>
+    </line>
+    <line ass="-121" asx="0" asy="1073" character-width="999" dss="-121" dsx="0" dsy="1191" fd0="12955" fd1="2488" fd2="-1425" filter-width="3" id="l03-008-02" lbs="-52" lbx="0" lby="1140" segmentation="ok" slant="90000" stroke-width="5348" threshold="186" text="way. Kennan pulled the manacle chain" ubs="-258" ubx="0" uby="1100">
+      <word id="l03-008-02-00" tag="NN" text="way">
+        <cmp x="329" y="1101" width="77" height="47" />
+        <cmp x="407" y="1096" width="68" height="56" />
+        <cmp x="483" y="1098" width="54" height="96" />
+      </word>
+      <word id="l03-008-02-01" tag="." text=".">
+        <cmp x="568" y="1117" width="13" height="6" />
+      </word>
+      <word id="l03-008-02-02" sentence-start="yes" tag="NP" text="Kennan">
+        <cmp x="646" y="1080" width="107" height="63" />
+        <cmp x="715" y="1095" width="53" height="31" />
+        <cmp x="772" y="1093" width="43" height="52" />
+        <cmp x="822" y="1090" width="113" height="53" />
+        <cmp x="937" y="1097" width="46" height="39" />
+      </word>
+      <word id="l03-008-02-03" tag="VBD" text="pulled">
+        <cmp x="1052" y="1095" width="54" height="78" />
+        <cmp x="1106" y="1094" width="51" height="47" />
+        <cmp x="1164" y="1080" width="12" height="71" />
+        <cmp x="1188" y="1077" width="8" height="64" />
+        <cmp x="1204" y="1100" width="61" height="42" />
+        <cmp x="1265" y="1078" width="62" height="73" />
+      </word>
+      <word id="l03-008-02-04" tag="ATI" text="the">
+        <cmp x="1387" y="1077" width="96" height="83" />
+        <cmp x="1498" y="1104" width="59" height="44" />
+        <cmp x="1542" y="1106" width="11" height="8" />
+      </word>
+      <word id="l03-008-02-05" tag="NN" text="manacle">
+        <cmp x="1620" y="1101" width="135" height="45" />
+        <cmp x="1760" y="1102" width="108" height="48" />
+        <cmp x="1870" y="1112" width="49" height="44" />
+        <cmp x="1929" y="1093" width="62" height="62" />
+      </word>
+      <word id="l03-008-02-06" tag="NN" text="chain">
+        <cmp x="2058" y="1098" width="40" height="49" />
+        <cmp x="2101" y="1099" width="13" height="16" />
+        <cmp x="2114" y="1078" width="130" height="73" />
+        <cmp x="2187" y="1124" width="3" height="3" />
+        <cmp x="2239" y="1097" width="9" height="11" />
+        <cmp x="2245" y="1102" width="50" height="43" />
+      </word>
+      <upper-contour>
+        <point x="347" y="1032" />
+        <point x="2257" y="1032" />
+      </upper-contour>
+      <lower-contour>
+        <point x="330" y="1194" />
+        <point x="2199" y="1194" />
+      </lower-contour>
+    </line>
+    <line ass="-215" asx="0" asy="1245" character-width="999" dss="-215" dsx="0" dsy="1356" fd0="12854" fd1="2501" fd2="-1374" filter-width="3" id="l03-008-03" lbs="-239" lbx="0" lby="1319" segmentation="ok" slant="90000" stroke-width="5153" threshold="188" text="taut, and blasted two shots at the" ubs="-169" ubx="0" uby="1279">
+      <word id="l03-008-03-00" tag="JJ" text="taut">
+        <cmp x="332" y="1250" width="31" height="75" />
+        <cmp x="364" y="1275" width="68" height="51" />
+        <cmp x="448" y="1281" width="52" height="42" />
+        <cmp x="509" y="1261" width="29" height="75" />
+      </word>
+      <word id="l03-008-03-01" tag="," text=",">
+        <cmp x="546" y="1321" width="9" height="38" />
+      </word>
+      <word id="l03-008-03-02" tag="CC" text="and">
+        <cmp x="634" y="1269" width="71" height="51" />
+        <cmp x="712" y="1274" width="42" height="47" />
+        <cmp x="755" y="1249" width="68" height="75" />
+      </word>
+      <word id="l03-008-03-03" tag="VBD" text="blasted">
+        <cmp x="925" y="1249" width="74" height="77" />
+        <cmp x="1005" y="1249" width="67" height="78" />
+        <cmp x="1074" y="1279" width="39" height="44" />
+        <cmp x="1129" y="1255" width="7" height="80" />
+        <cmp x="1136" y="1300" width="34" height="9" />
+        <cmp x="1181" y="1290" width="51" height="40" />
+        <cmp x="1233" y="1258" width="56" height="74" />
+      </word>
+      <word id="l03-008-03-04" tag="CD" text="two">
+        <cmp x="1363" y="1295" width="5" height="9" />
+        <cmp x="1370" y="1257" width="34" height="63" />
+        <cmp x="1404" y="1282" width="133" height="46" />
+      </word>
+      <word id="l03-008-03-05" tag="NNS" text="shots">
+        <cmp x="1574" y="1273" width="50" height="50" />
+        <cmp x="1633" y="1258" width="145" height="72" />
+        <cmp x="1779" y="1279" width="46" height="45" />
+      </word>
+      <word id="l03-008-03-06" tag="IN" text="at">
+        <cmp x="1882" y="1288" width="62" height="46" />
+        <cmp x="1948" y="1304" width="3" height="6" />
+        <cmp x="1954" y="1260" width="25" height="64" />
+      </word>
+      <word id="l03-008-03-07" tag="ATI" text="the">
+        <cmp x="2034" y="1287" width="4" height="10" />
+        <cmp x="2039" y="1255" width="30" height="76" />
+        <cmp x="2088" y="1254" width="32" height="76" />
+        <cmp x="2126" y="1284" width="73" height="54" />
+      </word>
+      <upper-contour>
+        <point x="330" y="1194" />
+        <point x="2199" y="1194" />
+      </upper-contour>
+      <lower-contour>
+        <point x="340" y="1359" />
+        <point x="2199" y="1359" />
+      </lower-contour>
+    </line>
+    <line ass="69" asx="0" asy="1433" character-width="999" dss="69" dsx="0" dsy="1554" fd0="13095" fd1="3140" fd2="-483" filter-width="3" id="l03-008-04" lbs="53" lbx="0" lby="1497" segmentation="err" slant="87999" stroke-width="5140" threshold="185" text="link which tied him to the ring-bolt in" ubs="101" ubx="0" uby="1470">
+      <word id="l03-008-04-00" tag="NN" text="link">
+        <cmp x="342" y="1434" width="10" height="76" />
+        <cmp x="369" y="1455" width="13" height="10" />
+        <cmp x="374" y="1470" width="8" height="33" />
+        <cmp x="392" y="1490" width="6" height="9" />
+        <cmp x="395" y="1456" width="49" height="54" />
+        <cmp x="454" y="1440" width="49" height="66" />
+      </word>
+      <word id="l03-008-04-01" tag="WDT" text="which">
+        <cmp x="564" y="1459" width="80" height="49" />
+        <cmp x="579" y="1454" width="4" height="6" />
+        <cmp x="650" y="1434" width="56" height="72" />
+        <cmp x="714" y="1469" width="11" height="32" />
+        <cmp x="730" y="1463" width="52" height="47" />
+        <cmp x="791" y="1442" width="44" height="55" />
+      </word>
+      <word id="l03-008-04-02" tag="VBD" text="tied">
+        <cmp x="886" y="1439" width="49" height="63" />
+        <cmp x="929" y="1458" width="18" height="11" />
+        <cmp x="964" y="1464" width="61" height="42" />
+        <cmp x="1033" y="1466" width="46" height="43" />
+        <cmp x="1040" y="1443" width="52" height="65" />
+      </word>
+      <word id="l03-008-04-03" tag="PP3O" text="him">
+        <cmp x="1181" y="1436" width="39" height="70" />
+        <cmp x="1229" y="1469" width="6" height="28" />
+        <cmp x="1232" y="1463" width="8" height="5" />
+        <cmp x="1246" y="1463" width="96" height="41" />
+      </word>
+      <word id="l03-008-04-04" tag="IN" text="to">
+        <cmp x="1399" y="1483" width="5" height="10" />
+        <cmp x="1403" y="1451" width="86" height="66" />
+      </word>
+      <word id="l03-008-04-05" tag="ATI" text="the">
+        <cmp x="1518" y="1449" width="41" height="49" />
+        <cmp x="1551" y="1444" width="4" height="4" />
+        <cmp x="1561" y="1438" width="101" height="67" />
+        <cmp x="1567" y="1434" width="4" height="3" />
+      </word>
+      <word id="l03-008-04-06" tag="NN" text="ring-bolt">
+        <cmp x="1719" y="1464" width="34" height="42" />
+        <cmp x="1757" y="1481" width="7" height="25" />
+        <cmp x="1765" y="1459" width="9" height="14" />
+        <cmp x="1772" y="1491" width="4" height="7" />
+        <cmp x="1774" y="1470" width="46" height="38" />
+        <cmp x="1803" y="1465" width="80" height="88" />
+        <cmp x="1886" y="1489" width="40" height="5" />
+        <cmp x="1949" y="1443" width="58" height="62" />
+        <cmp x="2008" y="1457" width="58" height="44" />
+        <cmp x="2078" y="1444" width="13" height="60" />
+        <cmp x="2100" y="1481" width="4" height="6" />
+        <cmp x="2105" y="1444" width="26" height="55" />
+      </word>
+      <word id="l03-008-04-07" tag="IN" text="in">
+        <cmp x="2199" y="1441" width="16" height="13" />
+        <cmp x="2206" y="1463" width="6" height="24" />
+        <cmp x="2223" y="1455" width="48" height="40" />
+      </word>
+      <upper-contour>
+        <point x="340" y="1359" />
+        <point x="2199" y="1359" />
+      </upper-contour>
+      <lower-contour>
+        <point x="340" y="1553" />
+        <point x="2272" y="1553" />
+      </lower-contour>
+    </line>
+    <line ass="-90" asx="0" asy="1602" character-width="999" dss="-90" dsx="0" dsy="1692" fd0="12837" fd1="2721" fd2="-1604" filter-width="3" id="l03-008-05" lbs="-75" lbx="0" lby="1676" segmentation="ok" slant="87999" stroke-width="5111" threshold="183" text="the rock. The nine-millimetre bullets sma-" ubs="-121" ubx="0" uby="1646">
+      <word id="l03-008-05-00" tag="ATI" text="the">
+        <cmp x="323" y="1646" width="3" height="4" />
+        <cmp x="328" y="1607" width="66" height="70" />
+        <cmp x="397" y="1632" width="65" height="51" />
+      </word>
+      <word id="l03-008-05-01" tag="NN" text="rock">
+        <cmp x="508" y="1646" width="27" height="42" />
+        <cmp x="542" y="1650" width="87" height="40" />
+        <cmp x="641" y="1627" width="40" height="67" />
+      </word>
+      <word id="l03-008-05-02" tag="." text=".">
+        <cmp x="712" y="1669" width="14" height="5" />
+      </word>
+      <word id="l03-008-05-03" sentence-start="yes" tag="ATI" text="The">
+        <cmp x="763" y="1636" width="3" height="5" />
+        <cmp x="766" y="1629" width="51" height="9" />
+        <cmp x="798" y="1636" width="11" height="43" />
+        <cmp x="818" y="1608" width="43" height="75" />
+        <cmp x="863" y="1640" width="61" height="44" />
+      </word>
+      <word id="l03-008-05-04" tag="JJB" text="nine-millimetre">
+        <cmp x="983" y="1642" width="39" height="41" />
+        <cmp x="1034" y="1643" width="13" height="37" />
+        <cmp x="1053" y="1641" width="42" height="40" />
+        <cmp x="1108" y="1639" width="58" height="48" />
+        <cmp x="1199" y="1662" width="38" height="6" />
+        <cmp x="1263" y="1647" width="71" height="43" />
+        <cmp x="1350" y="1636" width="7" height="12" />
+        <cmp x="1354" y="1653" width="7" height="28" />
+        <cmp x="1356" y="1638" width="8" height="8" />
+        <cmp x="1383" y="1625" width="11" height="60" />
+        <cmp x="1401" y="1629" width="11" height="55" />
+        <cmp x="1425" y="1661" width="7" height="20" />
+        <cmp x="1431" y="1648" width="10" height="8" />
+        <cmp x="1450" y="1647" width="72" height="41" />
+        <cmp x="1536" y="1629" width="81" height="58" />
+        <cmp x="1628" y="1634" width="60" height="58" />
+      </word>
+      <word id="l03-008-05-05" tag="NNS" text="bullets">
+        <cmp x="1745" y="1622" width="72" height="67" />
+        <cmp x="1821" y="1640" width="41" height="43" />
+        <cmp x="1876" y="1623" width="16" height="61" />
+        <cmp x="1895" y="1619" width="17" height="67" />
+        <cmp x="1922" y="1645" width="55" height="48" />
+        <cmp x="1954" y="1688" width="3" height="3" />
+        <cmp x="1980" y="1629" width="24" height="54" />
+        <cmp x="2022" y="1641" width="40" height="45" />
+      </word>
+      <word id="l03-008-05-06" tag="VBD-" text="sma-">
+        <cmp x="2103" y="1639" width="58" height="42" />
+        <cmp x="2168" y="1638" width="130" height="46" />
+        <cmp x="2310" y="1645" width="50" height="12" />
+      </word>
+      <upper-contour>
+        <point x="340" y="1553" />
+        <point x="2272" y="1553" />
+      </upper-contour>
+      <lower-contour>
+        <point x="325" y="1694" />
+        <point x="2361" y="1694" />
+      </lower-contour>
+    </line>
+    <line ass="-195" asx="0" asy="1776" character-width="999" dss="-195" dsx="0" dsy="1896" fd0="13083" fd1="3136" fd2="-827" filter-width="3" id="l03-008-06" lbs="-232" lbx="0" lby="1852" segmentation="ok" slant="90000" stroke-width="5246" threshold="185" text="shed the chain as if it had been plastic," ubs="-121" ubx="0" uby="1819">
+      <word id="l03-008-06-00" tag="-VBD" text="shed">
+        <cmp x="327" y="1806" width="54" height="64" />
+        <cmp x="387" y="1795" width="48" height="59" />
+        <cmp x="438" y="1791" width="95" height="68" />
+      </word>
+      <word id="l03-008-06-01" tag="ATI" text="the">
+        <cmp x="583" y="1825" width="6" height="8" />
+        <cmp x="589" y="1786" width="77" height="74" />
+        <cmp x="680" y="1821" width="62" height="43" />
+      </word>
+      <word id="l03-008-06-02" tag="NN" text="chain">
+        <cmp x="792" y="1822" width="47" height="40" />
+        <cmp x="841" y="1799" width="132" height="71" />
+        <cmp x="976" y="1803" width="72" height="56" />
+        <cmp x="983" y="1830" width="7" height="18" />
+        <cmp x="984" y="1826" width="4" height="3" />
+      </word>
+      <word id="l03-008-06-03" tag="CS21" text="as">
+        <cmp x="1101" y="1812" width="66" height="49" />
+        <cmp x="1173" y="1818" width="41" height="46" />
+        <cmp x="1209" y="1821" width="5" height="8" />
+      </word>
+      <word id="l03-008-06-04" tag="CS22" text="if">
+        <cmp x="1280" y="1821" width="10" height="37" />
+        <cmp x="1297" y="1796" width="63" height="86" />
+      </word>
+      <word id="l03-008-06-05" tag="PP3" text="it">
+        <cmp x="1413" y="1831" width="7" height="21" />
+        <cmp x="1420" y="1801" width="14" height="8" />
+        <cmp x="1434" y="1793" width="32" height="66" />
+      </word>
+      <word id="l03-008-06-06" tag="HVD" text="had">
+        <cmp x="1536" y="1799" width="116" height="63" />
+        <cmp x="1651" y="1788" width="73" height="76" />
+        <cmp x="1723" y="1783" width="12" height="7" />
+      </word>
+      <word id="l03-008-06-07" tag="BEN" text="been">
+        <cmp x="1806" y="1783" width="51" height="86" />
+        <cmp x="1859" y="1822" width="113" height="45" />
+        <cmp x="1965" y="1822" width="51" height="37" />
+      </word>
+      <word id="l03-008-06-08" tag="NN" text="plastic">
+        <cmp x="2068" y="1819" width="67" height="87" />
+        <cmp x="2136" y="1785" width="13" height="84" />
+        <cmp x="2147" y="1787" width="142" height="83" />
+        <cmp x="2290" y="1816" width="10" height="9" />
+        <cmp x="2291" y="1818" width="56" height="46" />
+        <cmp x="2322" y="1861" width="9" height="3" />
+      </word>
+      <word id="l03-008-06-09" tag="," text=",">
+        <cmp x="2352" y="1861" width="27" height="23" />
+      </word>
+      <upper-contour>
+        <point x="325" y="1694" />
+        <point x="2361" y="1694" />
+      </upper-contour>
+      <lower-contour>
+        <point x="325" y="1906" />
+        <point x="2377" y="1906" />
+      </lower-contour>
+    </line>
+    <line ass="-558" asx="0" asy="1947" character-width="999" dss="-558" dsx="0" dsy="2088" fd0="12902" fd1="2567" fd2="-1562" filter-width="3" id="l03-008-07" lbs="-773" lbx="0" lby="2028" segmentation="ok" slant="89000" stroke-width="5315" threshold="185" text="and, free, though the chain still dangled," ubs="-128" ubx="0" uby="2008">
+      <word id="l03-008-07-00" tag="CC" text="and">
+        <cmp x="323" y="1996" width="80" height="45" />
+        <cmp x="405" y="1994" width="37" height="42" />
+        <cmp x="443" y="1969" width="61" height="75" />
+      </word>
+      <word id="l03-008-07-01" tag="," text=",">
+        <cmp x="529" y="2029" width="15" height="65" />
+      </word>
+      <word id="l03-008-07-02" tag="JJ" text="free">
+        <cmp x="561" y="2016" width="3" height="8" />
+        <cmp x="563" y="1953" width="106" height="110" />
+        <cmp x="673" y="2000" width="57" height="46" />
+      </word>
+      <word id="l03-008-07-03" tag="," text=",">
+        <cmp x="765" y="2040" width="6" height="22" />
+      </word>
+      <word id="l03-008-07-04" tag="CS" text="though">
+        <cmp x="830" y="1969" width="34" height="73" />
+        <cmp x="871" y="1965" width="46" height="78" />
+        <cmp x="937" y="2002" width="57" height="50" />
+        <cmp x="1006" y="2016" width="47" height="36" />
+        <cmp x="1046" y="2005" width="64" height="90" />
+        <cmp x="1119" y="1971" width="32" height="75" />
+      </word>
+      <word id="l03-008-07-05" tag="ATI" text="the">
+        <cmp x="1185" y="2005" width="4" height="5" />
+        <cmp x="1190" y="1960" width="92" height="90" />
+        <cmp x="1298" y="2000" width="59" height="46" />
+      </word>
+      <word id="l03-008-07-06" tag="NN" text="chain">
+        <cmp x="1413" y="2003" width="54" height="46" />
+        <cmp x="1469" y="1979" width="32" height="62" />
+        <cmp x="1474" y="1975" width="5" height="3" />
+        <cmp x="1510" y="2004" width="74" height="43" />
+        <cmp x="1585" y="2018" width="7" height="25" />
+        <cmp x="1592" y="1995" width="15" height="15" />
+        <cmp x="1605" y="2017" width="36" height="25" />
+      </word>
+      <word id="l03-008-07-07" tag="RB" text="still">
+        <cmp x="1709" y="1990" width="43" height="52" />
+        <cmp x="1760" y="2015" width="3" height="9" />
+        <cmp x="1764" y="1979" width="50" height="73" />
+        <cmp x="1815" y="2003" width="12" height="13" />
+        <cmp x="1842" y="1976" width="16" height="73" />
+        <cmp x="1865" y="1985" width="10" height="67" />
+      </word>
+      <word id="l03-008-07-08" tag="VBD" text="dangled">
+        <cmp x="1932" y="1972" width="66" height="82" />
+        <cmp x="1998" y="1994" width="74" height="61" />
+        <cmp x="2084" y="2007" width="49" height="41" />
+        <cmp x="2135" y="2014" width="77" height="93" />
+        <cmp x="2215" y="1989" width="73" height="74" />
+        <cmp x="2233" y="1983" width="3" height="3" />
+        <cmp x="2279" y="1992" width="77" height="87" />
+      </word>
+      <word id="l03-008-07-09" tag="," text=",">
+        <cmp x="2365" y="2067" width="11" height="33" />
+      </word>
+      <upper-contour>
+        <point x="325" y="1906" />
+        <point x="2377" y="1906" />
+      </upper-contour>
+      <lower-contour>
+        <point x="337" y="2095" />
+        <point x="2138" y="2095" />
+      </lower-contour>
+    </line>
+    <line ass="-488" asx="0" asy="2137" character-width="999" dss="-488" dsx="0" dsy="2248" fd0="12934" fd1="2591" fd2="-1360" filter-width="3" id="l03-008-08" lbs="-548" lbx="0" lby="2211" segmentation="ok" slant="86000" stroke-width="5184" threshold="185" text="he threw himself across the floor" ubs="-366" ubx="0" uby="2179">
+      <word id="l03-008-08-00" tag="PP3A" text="he">
+        <cmp x="339" y="2150" width="43" height="75" />
+        <cmp x="385" y="2173" width="62" height="50" />
+        <cmp x="443" y="2220" width="4" height="3" />
+      </word>
+      <word id="l03-008-08-01" tag="VBD" text="threw">
+        <cmp x="516" y="2150" width="84" height="74" />
+        <cmp x="612" y="2172" width="68" height="46" />
+        <cmp x="700" y="2177" width="77" height="48" />
+      </word>
+      <word id="l03-008-08-02" tag="PPL" text="himself">
+        <cmp x="846" y="2153" width="54" height="65" />
+        <cmp x="910" y="2161" width="9" height="16" />
+        <cmp x="918" y="2186" width="7" height="29" />
+        <cmp x="934" y="2176" width="136" height="55" />
+        <cmp x="1076" y="2179" width="51" height="45" />
+        <cmp x="1142" y="2173" width="12" height="56" />
+        <cmp x="1181" y="2163" width="43" height="96" />
+        <cmp x="1221" y="2176" width="4" height="12" />
+      </word>
+      <word id="l03-008-08-03" tag="IN" text="across">
+        <cmp x="1286" y="2176" width="71" height="47" />
+        <cmp x="1370" y="2184" width="48" height="41" />
+        <cmp x="1436" y="2185" width="38" height="41" />
+        <cmp x="1469" y="2188" width="60" height="35" />
+        <cmp x="1537" y="2190" width="44" height="37" />
+        <cmp x="1586" y="2188" width="41" height="35" />
+      </word>
+      <word id="l03-008-08-04" tag="ATI" text="the">
+        <cmp x="1687" y="2159" width="40" height="70" />
+        <cmp x="1726" y="2152" width="39" height="72" />
+        <cmp x="1783" y="2177" width="62" height="48" />
+      </word>
+      <word id="l03-008-08-05" tag="NN" text="floor">
+        <cmp x="1881" y="2159" width="55" height="87" />
+        <cmp x="1946" y="2154" width="21" height="82" />
+        <cmp x="1969" y="2196" width="115" height="43" />
+        <cmp x="2045" y="2237" width="5" height="3" />
+        <cmp x="2096" y="2190" width="41" height="49" />
+      </word>
+      <upper-contour>
+        <point x="337" y="2095" />
+        <point x="2138" y="2095" />
+      </upper-contour>
+      <lower-contour>
+        <point x="337" y="2259" />
+        <point x="1454" y="2259" />
+      </lower-contour>
+    </line>
+    <line ass="-433" asx="0" asy="2312" character-width="999" dss="-433" dsx="0" dsy="2396" fd0="12824" fd1="2367" fd2="-1597" filter-width="3" id="l03-008-09" lbs="-354" lbx="0" lby="2389" segmentation="err" slant="90000" stroke-width="5377" threshold="183" text="towards the entrance." ubs="-591" ubx="0" uby="2348">
+      <word id="l03-008-09-00" tag="IN" text="towards">
+        <cmp x="326" y="2316" width="101" height="81" />
+        <cmp x="434" y="2351" width="80" height="50" />
+        <cmp x="515" y="2353" width="71" height="43" />
+        <cmp x="597" y="2350" width="21" height="40" />
+        <cmp x="628" y="2339" width="60" height="54" />
+        <cmp x="699" y="2359" width="40" height="34" />
+      </word>
+      <word id="l03-008-09-01" tag="ATI" text="the">
+        <cmp x="802" y="2354" width="5" height="10" />
+        <cmp x="806" y="2324" width="39" height="62" />
+        <cmp x="848" y="2319" width="41" height="76" />
+        <cmp x="897" y="2356" width="66" height="40" />
+      </word>
+      <word id="l03-008-09-02" tag="NN" text="entrance">
+        <cmp x="1037" y="2354" width="63" height="46" />
+        <cmp x="1106" y="2359" width="43" height="40" />
+        <cmp x="1148" y="2327" width="211" height="73" />
+      </word>
+      <word id="l03-008-09-03" tag="." text=".">
+        <cmp x="1371" y="2355" width="82" height="49" />
+      </word>
+      <upper-contour>
+        <point x="337" y="2259" />
+        <point x="1454" y="2259" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+

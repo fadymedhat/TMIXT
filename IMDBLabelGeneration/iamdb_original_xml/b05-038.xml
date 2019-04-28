@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE form SYSTEM 'http://www.iam.unibe.ch/~fki/iamdb/form-metadata.dtd'>
+
+<form created="2002-01-15" height="3542" id="b05-038" last-modified="2002-07-17" skew="-191" status="final" version="3.0_beta" width="2479" writer-id="117">
+  <machine-printed-part>
+    <machine-print-line text="Hence the hostility to automation and the stop-watch manufacturing methods that" />
+    <machine-print-line text="have led to restrictive practices. Now a new threat to those who toil and spin has been" />
+    <machine-print-line text="developed by a firm specialising in electronics in Los Angeles. They have developed" />
+    <machine-print-line text="a new system whereby completely untrained workers can be taught their trade by" />
+    <machine-print-line text="means of tape recordings and television." />
+  </machine-printed-part>
+  <handwritten-part>
+    <line ass="-229" asx="0" asy="699" character-width="999" dss="-229" dsx="0" dsy="816" fd0="12494" fd1="2803" fd2="-259" filter-width="4" id="b05-038-00" lbs="-185" lbx="0" lby="773" segmentation="ok" slant="90000" stroke-width="6635" threshold="151" text="Hence the hostility to automation and" ubs="-316" ubx="0" uby="740">
+      <word id="b05-038-00-00" sentence-start="yes" tag="RB" text="Hence">
+        <cmp x="358" y="701" width="49" height="68" />
+        <cmp x="416" y="741" width="77" height="34" />
+        <cmp x="503" y="745" width="86" height="35" />
+      </word>
+      <word id="b05-038-00-01" tag="ATI" text="the">
+        <cmp x="642" y="714" width="161" height="64" />
+      </word>
+      <word id="b05-038-00-02" tag="NN" text="hostility">
+        <cmp x="851" y="705" width="123" height="75" />
+        <cmp x="978" y="715" width="53" height="64" />
+        <cmp x="1026" y="738" width="7" height="11" />
+        <cmp x="1046" y="723" width="40" height="58" />
+        <cmp x="1081" y="735" width="8" height="8" />
+        <cmp x="1105" y="722" width="77" height="103" />
+      </word>
+      <word id="b05-038-00-03" tag="IN" text="to">
+        <cmp x="1244" y="720" width="93" height="65" />
+      </word>
+      <word id="b05-038-00-04" tag="NN" text="automation">
+        <cmp x="1388" y="717" width="336" height="66" />
+        <cmp x="1716" y="738" width="8" height="9" />
+        <cmp x="1735" y="747" width="57" height="32" />
+      </word>
+      <word id="b05-038-00-05" tag="CC" text="and">
+        <cmp x="1868" y="720" width="132" height="60" />
+      </word>
+      <lower-contour>
+        <point x="356" y="825" />
+        <point x="2001" y="825" />
+      </lower-contour>
+    </line>
+    <line ass="-300" asx="0" asy="876" character-width="999" dss="-300" dsx="0" dsy="1004" fd0="12356" fd1="2567" fd2="-621" filter-width="4" id="b05-038-01" lbs="-283" lbx="0" lby="948" segmentation="ok" slant="90000" stroke-width="6712" threshold="151" text="the stop-watch manufacturing methods that" ubs="-334" ubx="0" uby="916">
+      <word id="b05-038-01-00" tag="ATI" text="the">
+        <cmp x="329" y="879" width="64" height="69" />
+        <cmp x="395" y="879" width="81" height="68" />
+      </word>
+      <word id="b05-038-01-01" tag="NN" text="stop-watch">
+        <cmp x="534" y="913" width="32" height="37" />
+        <cmp x="565" y="886" width="110" height="82" />
+        <cmp x="691" y="936" width="27" height="8" />
+        <cmp x="727" y="919" width="65" height="30" />
+        <cmp x="795" y="886" width="142" height="69" />
+      </word>
+      <word id="b05-038-01-02" tag="NN" text="manufacturing">
+        <cmp x="984" y="891" width="258" height="88" />
+        <cmp x="1245" y="892" width="152" height="67" />
+        <cmp x="1384" y="904" width="11" height="12" />
+        <cmp x="1406" y="925" width="74" height="88" />
+      </word>
+      <word id="b05-038-01-03" tag="NNS" text="methods">
+        <cmp x="1520" y="925" width="60" height="31" />
+        <cmp x="1585" y="893" width="176" height="70" />
+        <cmp x="1771" y="918" width="28" height="37" />
+      </word>
+      <word id="b05-038-01-04" tag="WP" text="that">
+        <cmp x="1842" y="899" width="168" height="59" />
+      </word>
+      <upper-contour>
+        <point x="356" y="825" />
+        <point x="2001" y="825" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1013" />
+        <point x="2011" y="1013" />
+      </lower-contour>
+    </line>
+    <line ass="-512" asx="0" asy="1047" character-width="999" dss="-512" dsx="0" dsy="1157" fd0="12598" fd1="2536" fd2="-499" filter-width="4" id="b05-038-02" lbs="-477" lbx="0" lby="1126" segmentation="err" slant="90000" stroke-width="6701" threshold="151" text="have # led to restrictive practices. Now a new" ubs="-582" ubx="0" uby="1094">
+      <word id="b05-038-02-00" tag="HV" text="have">
+        <cmp x="323" y="1050" width="115" height="82" />
+        <cmp x="446" y="1098" width="46" height="31" />
+      </word>
+      <word id="b05-038-02-01" tag="&amp;GA" text="#">
+        <cmp x="538" y="1057" width="121" height="76" />
+      </word>
+      <word id="b05-038-02-02" tag="VBN" text="led">
+        <cmp x="698" y="1061" width="102" height="75" />
+      </word>
+      <word id="b05-038-02-03" tag="IN" text="to">
+        <cmp x="846" y="1066" width="76" height="69" />
+      </word>
+      <word id="b05-038-02-04" tag="JJ" text="restrictive">
+        <cmp x="961" y="1096" width="96" height="38" />
+        <cmp x="1049" y="1071" width="86" height="66" />
+        <cmp x="1127" y="1085" width="9" height="10" />
+        <cmp x="1151" y="1079" width="76" height="59" />
+        <cmp x="1219" y="1090" width="8" height="12" />
+        <cmp x="1237" y="1102" width="28" height="30" />
+        <cmp x="1272" y="1101" width="54" height="35" />
+      </word>
+      <word id="b05-038-02-05" tag="NNS" text="practices">
+        <cmp x="1366" y="1111" width="35" height="59" />
+        <cmp x="1411" y="1113" width="69" height="35" />
+        <cmp x="1484" y="1092" width="65" height="59" />
+        <cmp x="1536" y="1108" width="10" height="12" />
+        <cmp x="1560" y="1114" width="84" height="30" />
+        <cmp x="1632" y="1108" width="34" height="41" />
+        <cmp x="1669" y="1139" width="7" height="12" />
+      </word>
+      <word id="b05-038-02-06" tag="." text=".">
+        <cmp x="1711" y="1074" width="65" height="61" />
+      </word>
+      <word id="b05-038-02-07" sentence-start="yes" tag="RN" text="Now">
+        <cmp x="1775" y="1103" width="97" height="33" />
+      </word>
+      <word id="b05-038-02-08" tag="AT" text="a">
+        <cmp x="1903" y="1108" width="42" height="34" />
+      </word>
+      <word id="b05-038-02-09" tag="JJ" text="new">
+        <cmp x="1974" y="1112" width="37" height="29" />
+        <cmp x="2014" y="1116" width="100" height="30" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1013" />
+        <point x="2011" y="1013" />
+      </upper-contour>
+      <lower-contour>
+        <point x="321" y="1170" />
+        <point x="1968" y="1170" />
+      </lower-contour>
+    </line>
+    <line ass="-263" asx="0" asy="1228" character-width="999" dss="-263" dsx="0" dsy="1323" fd0="12451" fd1="2782" fd2="-47" filter-width="4" id="b05-038-03" lbs="-276" lbx="0" lby="1312" segmentation="ok" slant="90000" stroke-width="6859" threshold="150" text="threat to those who toil and spin has been" ubs="-236" ubx="0" uby="1282">
+      <word id="b05-038-03-00" tag="NN" text="threat">
+        <cmp x="312" y="1230" width="227" height="85" />
+      </word>
+      <word id="b05-038-03-01" tag="IN" text="to">
+        <cmp x="585" y="1253" width="82" height="68" />
+      </word>
+      <word id="b05-038-03-02" tag="DTS" text="those">
+        <cmp x="685" y="1260" width="126" height="62" />
+        <cmp x="816" y="1283" width="59" height="38" />
+      </word>
+      <word id="b05-038-03-03" tag="WP" text="who">
+        <cmp x="933" y="1284" width="66" height="41" />
+        <cmp x="1015" y="1261" width="90" height="66" />
+      </word>
+      <word id="b05-038-03-04" tag="VB" text="toil">
+        <cmp x="1144" y="1254" width="100" height="70" />
+        <cmp x="1232" y="1277" width="10" height="12" />
+        <cmp x="1255" y="1263" width="39" height="56" />
+      </word>
+      <word id="b05-038-03-05" tag="CC" text="and">
+        <cmp x="1349" y="1256" width="103" height="58" />
+      </word>
+      <word id="b05-038-03-06" tag="VB" text="spin">
+        <cmp x="1495" y="1274" width="30" height="42" />
+        <cmp x="1535" y="1290" width="52" height="41" />
+        <cmp x="1577" y="1272" width="7" height="15" />
+        <cmp x="1594" y="1286" width="28" height="41" />
+      </word>
+      <word id="b05-038-03-07" tag="HVZ" text="has">
+        <cmp x="1667" y="1249" width="84" height="69" />
+        <cmp x="1755" y="1283" width="23" height="33" />
+      </word>
+      <word id="b05-038-03-08" tag="BEN" text="been">
+        <cmp x="1825" y="1246" width="142" height="81" />
+      </word>
+      <upper-contour>
+        <point x="321" y="1170" />
+        <point x="1968" y="1170" />
+      </upper-contour>
+      <lower-contour>
+        <point x="323" y="1331" />
+        <point x="1968" y="1331" />
+      </lower-contour>
+    </line>
+    <line ass="-172" asx="0" asy="1407" character-width="999" dss="-172" dsx="0" dsy="1538" fd0="13101" fd1="2634" fd2="-882" filter-width="4" id="b05-038-04" lbs="-66" lbx="0" lby="1493" segmentation="ok" slant="86000" stroke-width="6482" threshold="150" text="developed by a firm specialising in electronics" ubs="-385" ubx="0" uby="1454">
+      <word id="b05-038-04-00" tag="VBN" text="developed">
+        <cmp x="325" y="1408" width="109" height="73" />
+        <cmp x="447" y="1416" width="99" height="67" />
+        <cmp x="550" y="1433" width="100" height="73" />
+      </word>
+      <word id="b05-038-04-01" tag="IN" text="by">
+        <cmp x="703" y="1423" width="87" height="99" />
+      </word>
+      <word id="b05-038-04-02" tag="AT" text="a">
+        <cmp x="840" y="1469" width="37" height="37" />
+      </word>
+      <word id="b05-038-04-03" tag="NN" text="firm">
+        <cmp x="928" y="1430" width="65" height="93" />
+        <cmp x="982" y="1464" width="10" height="13" />
+        <cmp x="992" y="1467" width="89" height="40" />
+      </word>
+      <word id="b05-038-04-04" tag="VBG" text="specialising">
+        <cmp x="1143" y="1457" width="38" height="41" />
+        <cmp x="1186" y="1466" width="32" height="59" />
+        <cmp x="1223" y="1469" width="43" height="29" />
+        <cmp x="1269" y="1467" width="46" height="34" />
+        <cmp x="1306" y="1448" width="8" height="13" />
+        <cmp x="1319" y="1432" width="92" height="60" />
+        <cmp x="1406" y="1447" width="6" height="10" />
+        <cmp x="1418" y="1457" width="27" height="32" />
+        <cmp x="1453" y="1448" width="11" height="17" />
+        <cmp x="1453" y="1467" width="7" height="28" />
+        <cmp x="1473" y="1461" width="67" height="82" />
+      </word>
+      <word id="b05-038-04-05" tag="IN" text="in">
+        <cmp x="1581" y="1469" width="13" height="32" />
+        <cmp x="1592" y="1449" width="9" height="12" />
+        <cmp x="1612" y="1461" width="24" height="44" />
+      </word>
+      <word id="b05-038-04-06" tag="NN" text="electronics">
+        <cmp x="1678" y="1437" width="109" height="67" />
+        <cmp x="1792" y="1438" width="63" height="60" />
+        <cmp x="1853" y="1461" width="124" height="42" />
+        <cmp x="1976" y="1458" width="8" height="12" />
+        <cmp x="1991" y="1464" width="69" height="39" />
+      </word>
+      <upper-contour>
+        <point x="323" y="1331" />
+        <point x="1968" y="1331" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1543" />
+        <point x="2062" y="1543" />
+      </lower-contour>
+    </line>
+    <line ass="-167" asx="0" asy="1591" character-width="999" dss="-167" dsx="0" dsy="1692" fd0="12475" fd1="2482" fd2="-15" filter-width="4" id="b05-038-05" lbs="-143" lbx="0" lby="1675" segmentation="ok" slant="84000" stroke-width="6627" threshold="148" text="in Los Angeles. They have developed a new" ubs="-215" ubx="0" uby="1641">
+      <word id="b05-038-05-00" tag="IN" text="in">
+        <cmp x="329" y="1608" width="5" height="12" />
+        <cmp x="329" y="1634" width="8" height="38" />
+        <cmp x="353" y="1633" width="27" height="42" />
+      </word>
+      <word id="b05-038-05-01" tag="NP" text="Los">
+        <cmp x="462" y="1593" width="119" height="91" />
+        <cmp x="582" y="1649" width="30" height="31" />
+      </word>
+      <word id="b05-038-05-02" tag="NP" text="Angeles">
+        <cmp x="666" y="1599" width="286" height="90" />
+      </word>
+      <word id="b05-038-05-03" tag="." text=".">
+        <cmp x="965" y="1676" width="8" height="12" />
+      </word>
+      <word id="b05-038-05-04" sentence-start="yes" tag="PP3AS" text="They">
+        <cmp x="1026" y="1598" width="100" height="78" />
+        <cmp x="1098" y="1607" width="135" height="90" />
+      </word>
+      <word id="b05-038-05-05" tag="HV" text="have">
+        <cmp x="1300" y="1596" width="112" height="82" />
+        <cmp x="1419" y="1649" width="40" height="34" />
+      </word>
+      <word id="b05-038-05-06" tag="VBN" text="developed">
+        <cmp x="1506" y="1653" width="22" height="21" />
+        <cmp x="1524" y="1609" width="78" height="72" />
+        <cmp x="1614" y="1619" width="143" height="70" />
+        <cmp x="1766" y="1625" width="73" height="53" />
+      </word>
+      <word id="b05-038-05-07" tag="AT" text="a">
+        <cmp x="1904" y="1649" width="46" height="35" />
+      </word>
+      <word id="b05-038-05-08" tag="JJ" text="new">
+        <cmp x="1980" y="1646" width="145" height="41" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1543" />
+        <point x="2062" y="1543" />
+      </upper-contour>
+      <lower-contour>
+        <point x="327" y="1697" />
+        <point x="2126" y="1697" />
+      </lower-contour>
+    </line>
+    <line ass="-866" asx="0" asy="1769" character-width="999" dss="-866" dsx="0" dsy="1880" fd0="13163" fd1="2634" fd2="-536" filter-width="4" id="b05-038-06" lbs="-885" lbx="0" lby="1838" segmentation="ok" slant="85000" stroke-width="6683" threshold="150" text="system whereby completely untrained workers" ubs="-828" ubx="0" uby="1810">
+      <word id="b05-038-06-00" tag="NN" text="system">
+        <cmp x="314" y="1798" width="29" height="40" />
+        <cmp x="343" y="1812" width="63" height="74" />
+        <cmp x="414" y="1817" width="34" height="32" />
+        <cmp x="450" y="1777" width="116" height="78" />
+      </word>
+      <word id="b05-038-06-01" tag="WRB" text="whereby">
+        <cmp x="627" y="1813" width="62" height="38" />
+        <cmp x="700" y="1779" width="229" height="111" />
+      </word>
+      <word id="b05-038-06-02" tag="RB" text="completely">
+        <cmp x="996" y="1823" width="172" height="60" />
+        <cmp x="1172" y="1852" width="5" height="4" />
+        <cmp x="1183" y="1805" width="115" height="54" />
+        <cmp x="1299" y="1798" width="112" height="81" />
+      </word>
+      <word id="b05-038-06-03" tag="JJ" text="untrained">
+        <cmp x="1483" y="1799" width="204" height="73" />
+        <cmp x="1679" y="1824" width="7" height="11" />
+        <cmp x="1700" y="1812" width="111" height="60" />
+      </word>
+      <word id="b05-038-06-04" tag="NNS" text="workers">
+        <cmp x="1852" y="1827" width="58" height="35" />
+        <cmp x="1914" y="1833" width="77" height="32" />
+        <cmp x="1991" y="1835" width="136" height="41" />
+      </word>
+      <upper-contour>
+        <point x="327" y="1697" />
+        <point x="2126" y="1697" />
+      </upper-contour>
+      <lower-contour>
+        <point x="317" y="1891" />
+        <point x="2128" y="1891" />
+      </lower-contour>
+    </line>
+    <line ass="-703" asx="0" asy="1933" character-width="999" dss="-703" dsx="0" dsy="2050" fd0="12460" fd1="2992" fd2="-21" filter-width="4" id="b05-038-07" lbs="-699" lbx="0" lby="2018" segmentation="ok" slant="87000" stroke-width="6763" threshold="150" text="can be taught their trade by means of tape" ubs="-711" ubx="0" uby="1982">
+      <word id="b05-038-07-00" tag="MD" text="can">
+        <cmp x="319" y="1983" width="111" height="41" />
+      </word>
+      <word id="b05-038-07-01" tag="BE" text="be">
+        <cmp x="504" y="1954" width="71" height="74" />
+      </word>
+      <word id="b05-038-07-02" tag="VBN" text="taught">
+        <cmp x="650" y="1966" width="238" height="95" />
+      </word>
+      <word id="b05-038-07-03" tag="PP$" text="their">
+        <cmp x="948" y="1977" width="149" height="65" />
+        <cmp x="1091" y="1987" width="8" height="11" />
+        <cmp x="1115" y="2001" width="39" height="32" />
+      </word>
+      <word id="b05-038-07-04" tag="NN" text="trade">
+        <cmp x="1211" y="1972" width="179" height="64" />
+      </word>
+      <word id="b05-038-07-05" tag="IN31" text="by">
+        <cmp x="1457" y="1961" width="86" height="102" />
+      </word>
+      <word id="b05-038-07-06" tag="IN32" text="means">
+        <cmp x="1615" y="1996" width="184" height="42" />
+        <cmp x="1801" y="1996" width="32" height="43" />
+      </word>
+      <word id="b05-038-07-07" tag="IN33" text="of">
+        <cmp x="1902" y="1957" width="101" height="112" />
+      </word>
+      <word id="b05-038-07-08" tag="NN" text="tape">
+        <cmp x="2044" y="1978" width="186" height="85" />
+      </word>
+      <upper-contour>
+        <point x="317" y="1891" />
+        <point x="2128" y="1891" />
+      </upper-contour>
+      <lower-contour>
+        <point x="347" y="2062" />
+        <point x="1431" y="2062" />
+      </lower-contour>
+    </line>
+    <line ass="-648" asx="0" asy="2133" character-width="999" dss="-648" dsx="0" dsy="2249" fd0="12858" fd1="2889" fd2="-302" filter-width="4" id="b05-038-08" lbs="-649" lbx="0" lby="2202" segmentation="ok" slant="91000" stroke-width="6396" threshold="148" text="recordings and television." ubs="-645" ubx="0" uby="2171">
+      <word id="b05-038-08-00" tag="NNS" text="recordings">
+        <cmp x="349" y="2165" width="154" height="42" />
+        <cmp x="506" y="2145" width="112" height="69" />
+        <cmp x="602" y="2160" width="8" height="13" />
+        <cmp x="626" y="2167" width="115" height="90" />
+      </word>
+      <word id="b05-038-08-01" tag="CC" text="and">
+        <cmp x="824" y="2150" width="119" height="59" />
+      </word>
+      <word id="b05-038-08-02" tag="NN" text="television">
+        <cmp x="1046" y="2145" width="188" height="71" />
+        <cmp x="1243" y="2170" width="20" height="9" />
+        <cmp x="1246" y="2194" width="11" height="25" />
+        <cmp x="1265" y="2175" width="54" height="42" />
+        <cmp x="1306" y="2165" width="8" height="9" />
+        <cmp x="1336" y="2184" width="59" height="34" />
+      </word>
+      <word id="b05-038-08-03" tag="." text=".">
+        <cmp x="1420" y="2226" width="10" height="9" />
+      </word>
+      <upper-contour>
+        <point x="347" y="2062" />
+        <point x="1431" y="2062" />
+      </upper-contour>
+    </line>
+  </handwritten-part>
+</form>
+
