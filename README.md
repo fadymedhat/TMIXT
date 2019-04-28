@@ -187,6 +187,7 @@ The results achieved with the system using the two nomination methods implemeted
 #### Rule based Nomination 
 
 | Metric | Value % |
+|:---|:---:|
 | Levenshtein | 79.4 % |
 | Precision | 70.2 % |
 | Recall | 68.1 % |
