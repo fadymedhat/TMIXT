@@ -196,6 +196,8 @@ The results achieved with the system using the two nomination methods implemeted
 
 #### Sent2vec based Nomination 
 
+| Dataset | MCLNN accuracy % |
+|:---|:---:|
 | levenshtein | 77.2 % |
 | precision | 66.0 % |
 | recall | 67.3 % |
