@@ -23,12 +23,12 @@ we only want to remove any tilt in the page
 8. for each word in the hOCR file, create a list of possible options to be filled following the below conditions:
 
       a. apply a spellchecking aganist a dictionary
-	  
+	
 		* [Option 1] if the word exists the use this word as it is in the output. 
 		* [Option 2] if it doesn't exist then crop the unrecognized word from the page and call the Handwritten Transcriber [Laia] for it. 
        
       b. apply spellchecking again on the output of the Handwritting Transcriber
-	  
+	
 		* [Option 3] if it exists in the dictionary, add it to the list 
 		* [Option 4] if it doesn't exist add the dictionary's correction to the list. 
      
