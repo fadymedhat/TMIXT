@@ -195,13 +195,17 @@ The results achieved with the system using the two nomination methods implemeted
 
 
 #### Sent2vec based Nomination 
+   |:---|:---:|
+   | levenshtein | 77.2 % |
+   | precision | 66.0 % |
+   | recall | 67.3 % |
+   | F1Score | 66.5 % |
+   | fuzzy | 83.0 % |
+   | fuzzy token sort | 80.7 % | 
+   
+   
+   
 
-   * levenshtein = 77.2 %
-   * precision = 66.0 %
-   * recall = 67.3 %
-   * F1Score = 66.5 %
-   * fuzzy = 83.0 %
-   * fuzzy token sort = 80.7 %
 
  
  # Citing TMIXT
