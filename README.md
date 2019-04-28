@@ -186,21 +186,31 @@ The results achieved with the system using the two nomination methods implemeted
 
 #### Rule based Nomination 
 
-   * levenshtein = 79.38063082382833 %
-   * precision = 70.16776431192554 %
-   * recall = 68.1430240744208 %
-   * F1Score = 68.718379911986 %
-   * fuzzy = 85.00584795321637 %
-   * fuzzy token sort = 81.38141650422352 %
+   * levenshtein = 79.4 %
+   * precision = 70.2 %
+   * recall = 68.1 %
+   * F1Score = 68.7 %
+   * fuzzy = 85.0 %
+   * fuzzy token sort = 81.4 %
 
 
 #### Sent2vec based Nomination 
 
-   * levenshtein = 77.17010563377337 %
-   * precision = 65.97442169742953 %
-   * recall = 67.30799964626077 %
-   * F1Score = 66.45721315282213 %
-   * fuzzy = 82.94022092267706 %
-   * fuzzy token sort = 80.65172189733593 
+   * levenshtein = 77.2 %
+   * precision = 66.0 %
+   * recall = 67.3 %
+   * F1Score = 66.5 %
+   * fuzzy = 83.0 %
+   * fuzzy token sort = 80.7 %
+
+ 
+ # Citing TMIXT
+ if you are using TMIXT or the MIXed-IAMDB labels please cite the following work:
+ 
+	> Fady Medhat, Mahnaz Mohammadi, Sardar Jaf, Chris G. Willcocks, Toby P. Breckon, Peter Matthews, Andrew Stephen McGough, Georgios Theodoropoulos and Boguslaw Obara, **TMIXT: A process flow for Transcribing MIXed handwritten and machine-printed Text**, *IEEE International Conference on Big Data*, Big Data, 2018.
+	>
+	> <a href="https://arxiv.org/ftp/arxiv/papers/.pdf"><img src="https://img.shields.io/badge/download-.pdf-blue.svg" alt="download paper" title="download paper" align="right" /></a>
+	> [DOI: https://ieeexplore.ieee.org/document/8622136]
+   
 
 
