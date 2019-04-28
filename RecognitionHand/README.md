@@ -58,8 +58,6 @@ To start the whole process:
 ### Expected Output
  * A text file in the __"Output data folder"__ containing the file name as a line label and the text transcription for that line .
 
-## Authors
- * **Fady Medhat**
  
  
 ## Acknowlegdements
