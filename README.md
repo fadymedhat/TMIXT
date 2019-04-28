@@ -186,24 +186,25 @@ The results achieved with the system using the two nomination methods implemeted
 
 #### Rule based Nomination 
 
-   * levenshtein = 79.4 %
-   * precision = 70.2 %
-   * recall = 68.1 %
-   * F1Score = 68.7 %
-   * fuzzy = 85.0 %
-   * fuzzy token sort = 81.4 %
+| Metric | Value % |
+| Levenshtein | 79.4 % |
+| Precision | 70.2 % |
+| Recall | 68.1 % |
+| F1Score | 68.7 % |
+| Fuzzy | 85.0 % |
+| Fuzzy Token Sort | 81.4 % |
 
 
 #### Sent2vec based Nomination 
 
-| Dataset | MCLNN accuracy % |
+| Metric | Value % |
 |:---|:---:|
-| levenshtein | 77.2 % |
-| precision | 66.0 % |
-| recall | 67.3 % |
+| Levenshtein | 77.2 % |
+| Precision | 66.0 % |
+| Recall | 67.3 % |
 | F1Score | 66.5 % |
-| fuzzy | 83.0 % |
-| fuzzy token sort | 80.7 % | 
+| Fuzzy | 83.0 % |
+| Fuzzy Token Sort | 80.7 % | 
    
    
    
