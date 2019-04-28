@@ -208,6 +208,7 @@ The results achieved with the system using the two nomination methods implemeted
  if you are using TMIXT or the MIXed-IAMDB labels please cite the following work:
  
 > Fady Medhat, Mahnaz Mohammadi, Sardar Jaf, Chris G. Willcocks, Toby P. Breckon, Peter Matthews, Andrew Stephen McGough, Georgios Theodoropoulos and Boguslaw Obara
+>
 > **TMIXT: A process flow for Transcribing MIXed handwritten and machine-printed Text**, *IEEE International Conference on Big Data*, Big Data, 2018.
 >
 > <a href="https://arxiv.org/ftp/arxiv/papers/.pdf"><img src="https://img.shields.io/badge/download-.pdf-blue.svg" alt="download paper" title="download paper" align="right" /></a>
