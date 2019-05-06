@@ -220,7 +220,7 @@ The results achieved with the system using the two nomination methods implemeted
 >
 > **TMIXT: A process flow for Transcribing MIXed handwritten and machine-printed Text**, *IEEE International Conference on Big Data*, Big Data, 2018.
 >
-> <a href="https://arxiv.org/ftp/arxiv/papers/.pdf"><img src="https://img.shields.io/badge/download-.pdf-blue.svg" alt="download paper" title="download paper" align="right" /></a>
+> <a href="https://arxiv.org/abs/1904.12387"><img src="https://img.shields.io/badge/download-.pdf-blue.svg" alt="download paper" title="download paper" align="right" /></a>
 > [DOI: https://doi.org/10.1109/BigData.2018.8622136]
    
 
