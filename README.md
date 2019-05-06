@@ -1,3 +1,5 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/fadymedhat/TMIXT/blob/master/LICENSE)
+
 # TMIXT: An architecture for Transcribing MIXed handwritten and machine-printed Text #
 
 Machine printed or handwritten text transcription is challenging each on its own and it becomes even more challenging when
